@@ -1,4 +1,4 @@
-# Think Python
+# Think Python 20180315
 
 # Table of Contents
 
@@ -201,7 +201,30 @@ brief_detials = {
                     (7, 'Debugging'),
                     (8, 'Glossary')
                     (9, 'Exercises')
-                   ]
+'16.Classes and Functions':
+                   [(1, 'Time'),
+                    (2, 'Pure Functions'),
+                    (3, 'Modifiers'),
+                    (4, 'Prototyping versus Planning'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Debugging'),
+                    (7, 'Glossary')
+                    (8, 'Exercises')
+'17.Classes and Methods':
+                   [(1, 'Object-Oriented Features'),
+                    (2, 'Printing Objects'),
+                    (3, 'Another Example'),
+                    (4, 'A More Complicated Example'),
+                    (5, 'The init Method'),
+                    (6, 'The_str_Method'), 
+                    (7, 'Operator Overloading'),
+                    (8, 'Type-Based Dispatch'),
+                    (9, 'Polymorphism'),
+                    (10, 'Interface and Implementation'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')]
+                    }
 
 
        
@@ -1089,56 +1112,123 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    persistence : 来自persist,坚持。
 
 
-
-## 15.Classes and Objects
+## 16.Classes and Functions
 
 ```python
-'15.Classes and Objects'= ['Attribute','Instance']
+'16.Classes and Functions'= ['Prototype','Versus']
 ```
 
- **Attribute** /ˈæt.rɪ.bjuːt/ 属性
+ **Prototype**/ˈproʊ.t̬ə.taɪp/ 原型
 
 1. 助记,
 
-   At+tribute
+   Proto+type
 
 2. 词源,
    **OED Origin**
 
-   Late 15th century: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, **from ad- ‘to’ + tribuere ‘assign’.**
+   Late 16th century (denoting the original of which something else is a copy or derivative): via French or late Latin **from Greek prōtotupos (see proto-, type).**
 
    **Etymology**
 
-   "quality ascribed to someone, distinguishing mark (especially an excellent or lofty one)," late 14c., from Latin attributum "anything attributed," in grammar, "predicate," noun use of neuter of attributus, past participle of attribuere "assign, allot; ascribe, impute" (see [attribute](https://www.etymonline.com/word/attribute?ref=etymonline_crossreference) (v.)). Distinguished from the verb by having stress on the first syllable.
+   c. 1600, from French prototype (16c.) and directly from Medieval Latin prototypus "original, primitive," from Greek prototypon "a first or primitive form," noun use of neuter singular ofprototypos "original, primitive," **from protos "first" (see [proto-](https://www.etymonline.com/word/proto-?ref=etymonline_crossreference)) + typos "impression, mold, pattern" (see [type](https://www.etymonline.com/word/type?ref=etymonline_crossreference) (n.)). In English from 1590s as prototypon.**
 
 3. 释义,
-   属性 a quality or characteristic that someone or something has
+   原型 the first example of something, such as a machine or other industrial product, from which all later forms are developed.
 
 4. 拓展
 
-   attribute : at-,向，往，tribute,给予，词源同tribe,contribute.
+   prototype:(proto原始,第一+type→原始模式→原型)
+
+   proto-（第一）：变化多端的海中老人普罗透斯
+   普罗透斯（Proteus）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+   根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+   普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
 
 
 
-  **Instance**/ˈɪn.stəns/ 实例
+
+**Versus** /ˈvɝː.səs/ 对阵
 
 1. 助记,
 
-   In+stance
+   Versus=turn,bend
 
 2. 词源,
    **OED Origin**
 
-   Middle English: via Old French from Latin instantia ‘presence, urgency’, from instare ‘be present, press upon’, **from in- ‘upon’ + stare ‘to stand’.** The original sense was ‘urgency, urgent entreaty’, surviving in at the instance of. In the late 16th century the word denoted a particular case cited to disprove a general assertion, derived from medieval Latin instantia ‘example to the contrary’ (translating Greek enstasis ‘objection’); hence the meaning ‘single occurrence’.
+   Late Middle English: from a medieval Latin use of Latin **versus ‘towards’.**
 
    **Etymology**
 
-   late 14c., "urgency, insistence" (a sense now archaic), from Old French instance "effort, application; urgency, eagerness, anxiety" (13c.), from Latin instantia "presence, effort, intention; earnestness, urgency," literally "a standing near," from instans (see [instant](https://www.etymonline.com/word/instant?ref=etymonline_crossreference)).
+   mid-15c., in legal case names, denoting action of one party against another, **from Latin versus "turned toward or against,"** past participle of vertere "to turn," from PIE *wert- "to turn, wind," from root[*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (2) "to turn, bend."
 
 3. 释义,
-   实例 a particular situation, event, or fact, especially an example of something thathappens generally
+   对阵  written abbreviation vs, vs., uk also v  used to say that one team or person iscompeting against another
 
 4. 拓展
 
-    instance : in-,进入，使，靠近，-st,站立，词源同stand,state.其原义为站在附近，紧急待命，后来用于指例子，实例。
+    versus : 来自拉丁语versus,转，来自PIE*wer,转，弯，词源converse,toward.引申词义转向对方的，相对，相比。
+
+
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   Object-Oriented Features 定位目标的特性？
+
+
 
