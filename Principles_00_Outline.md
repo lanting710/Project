@@ -71,6 +71,10 @@
 
 ## Vocabulary
 
+
+
+### PART I, WHERE I’M COMING FROM
+
 ```python
 {('PART I, WHERE I’M COMING FROM'):
         [(1, 'My Call to Adventure'),
@@ -83,15 +87,69 @@
          (8, 'Looking Back from a Higher Level')]},
 ```
 
+@Grace 2018-03-15
+
+#### **Abyss** UK /əˈbɪs/ US /əˈbɪs/
+
+1. 助记,
+
+   “a-”+“byss”  byss是base是元音通转
+
+   **a-**：前缀，表示“没有”，同‘not,without’。
+
+   **byss**： 来源于拉丁语byssus，表示“底，底下”，同'base,bottom,depth’。
+
+   **abyss**：关押反叛天使的无底地狱
+   英语单词abyss源自希腊语abyssos，由否定前缀a-和byssos（底，bottom）组成，意为“无底洞”。
+   根据基督教的教义，上帝带圣子基督巡游天界，让众天使向圣子下跪参拜。天界中地位最高的天使长路西法Lucifer拒绝向人类出身的圣子基督臣服，率领三分之一的天使造反。经过三天的激战，圣子基督战胜反叛天使，将其打入永劫的无底洞abyss。除路西法外，所有反叛天使都被除名，蜕变为丑恶形象，只有路西法依然保持六翼天使的光辉形象。被打入无底洞的路西法就是后来的撒旦。
+   按照但丁在《神曲》中的描写，abyss位于地狱（inferno）的最底层，是关押恶魔和反叛天使的地方。在佛教中，八大地狱中的第八个地狱叫做“阿鼻地狱”，“阿鼻”的意思是“无间”，表示在该地狱中要承受永恒的痛苦，从不间断。abyss的发音与“阿鼻”很接近，一个表示基督教中的“无底地狱”，一个表示佛教中的“无间地狱”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘infernal pit’): via late Latin from Greek abussos ‘bottomless’, from a- ‘without’ + bussos ‘depth’.
+
+   **Etymology**
+
+   late 14c. in Latin form abyssus, "depths of the earth or sea; primordial chaos;" early 14c. as abime "depths of the earth or sea; bottomless pit, Hell" (from Old French; see [abysm](https://www.etymonline.com/word/abysm?ref=etymonline_crossreference)). Both are from Late Latin abyssus "bottomless pit," from Greek abyssos (limne) "bottomless (pool)," from abyssos "bottomless, unfathomed," hence, generally, "enormous, unfathomable," also as a noun, he abyssos "the great depth, the underworld, the bottomless pit." This is a compound of a- "without" (see [a-](https://www.etymonline.com/word/a-?ref=etymonline_crossreference) (3)) + byssos "bottom," a word of uncertain origin possibly related to bathos "depth" [Liddell & Scott]. Watkins suggests a connection with the root of bottom (n.); Beekes suggests it is pre-Greek.
+
+3. 释义,
+
+   n. 1)深渊，无底洞，与‘sbysm’同义(hole)**a very deep hole that seems to have no bottom**
+
+   ​    2)坏情况，险恶的境地(bad situation)**a difficult situation that brings trouble or destruction**
+
+   ​    3)<古>地狱，阴间；混沌(hell)**infernal pit,original chaos**
+
+4. 相关词语和词组
+
+   **abysmal** adj. 深不可测的；极坏的；糟透的
+
+   ​                 adv.极糟地；可怕地；极端地
+
+   **abyssal** adj. 深渊的，深海的；深不可测的
+
+   **an abyss of ignorance/despair/loneliness** 无知到极点；彻底绝望；无尽的孤寂
+
+
+
 @豆腐块 2018-03-14
 
-**Principle**
+#### **Principle**
 
 1. 助记,
 
    principle = prin(prime) + cip(capture)  首要需抓住的是原则
 
    from primus "first" (see [prime](https://www.etymonline.com/word/prime?ref=etymonline_crossreference) (adj.)) + root of capere "to take," from PIE root [*kap-](https://www.etymonline.com/word/*kap-?ref=etymonline_crossreference) "to grasp."
+
+   英语单词prince来自拉丁语princeps，principle由prince/primus（first，与prime同源）+ capere（to take，拿）构成，字面意思就是“the one who takes the first (place/position)”（首席，排在第一位的人）。
+   在古罗马共和国时期，罗马元老院中的威望和权力最大的议员就被称为princeps senatus（首席议员）。
+
+   罗马帝国的第一个皇帝、凯撒大帝的继承人屋大维上台后，从凯撒遇刺事件中看到了罗马贵族对独裁统治的普遍反感，没有采用dictator（独裁官）或rex（king，国王）的头衔，而是借鉴“首席议员”（princeps senatus）这个称谓，选用了一个比较谦逊的头衔Princeps，通常译为“第一公民”或“元首”。从此以后，罗马帝国的最高首脑除了emperor（皇帝）头衔外，还都担任Princeps职务，
+
+   英语单词prince（国君、王子）就来自Princeps。由此可见，在西方人的传统观念中，一国之君不过是“首席”、“第一公民”而已，绝不像咱中国一样被看成是“天子”。
 
 
 2. 词源,
@@ -117,7 +175,7 @@
 
 
 
-**Trial**  / traɪəl/ 考验
+#### **Trial**  / traɪəl/ 考验
 
 1. 助记,
 
@@ -147,7 +205,7 @@
 
    A person, experience, or situation that tests a person's endurance or forbearance.
 
-**Ultimate** /ˈʌl.tə.mət/ 最终的
+#### **Ultimate** /ˈʌl.tə.mət/ 最终的
 
 1. 助记,
 
@@ -170,8 +228,7 @@
    2) 极端的, Being the best or most extreme example of its kind.
 
 
-
-**Boon** /buːn/ 恩惠, 福音 区别
+#### **Boon** /buːn/ 恩惠, 福音 区别
 
 1. 助记,
 
@@ -202,12 +259,11 @@
 4. 拓展, 区别 boom繁荣, doom 厄运.
 
 
-
-**Challenge** /ˈtʃæl.ɪndʒ/ 
+#### **Challenge** /ˈtʃæl.ɪndʒ/ 
 
 1. 助记,  
-  Challenge, Chall(call) + enge
-  Challenge oneself.
+   Challenge, Chall(call) + enge
+   Challenge oneself.
 
   词源很复杂也没有意思, 
 
@@ -231,11 +287,13 @@
    From late 13c. as "to object to, take exception to;" c. 1300 as "to accuse," especially "to accuse falsely," also "to call to account;" late 14c. as "to call to fight." Also used in Middle English with sense "claim, take to oneself." Related: Challenged; challenging.
 
 3. 释义, 
-  1) 挑战, A call to someone to participate in a competitive situation or fight to decide who is superior in terms of ability or strength.
+   1) 挑战, A call to someone to participate in a competitive situation or fight to decide who is superior in terms of ability or strength.
 
 @Grace  2018.03.14
 
-**Adventure** UK /ədˈventʃə(r)/ US /ædˈvɛntʃɚ/  `my call to adventure`
+#### **Adventure** US /ædˈvɛntʃɚ/
+
+ `my call to adventure`
 
 1. 助记,
 
@@ -255,7 +313,7 @@
 
    >  @豆腐块 ,adventure,冒险,是往外出发, 我觉得选择 'vent' 的含义为 go比较好. vent 可以理解为go的过去式 went. from a suffixed form of PIE root [*gwa-](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) "to go, come."
    >
-   > adventure = ad(to) + vent(went) + ure, 出发去冒险.
+   >  adventure = ad(to) + vent(went) + ure, 出发去冒险.
 
 2. 词源,
 
@@ -308,7 +366,7 @@
 
 @穆紫 2018-03-14
 
-**Threshold** UK   /ˈθreʃ.həʊld/ US   /ˈθreʃ.hoʊld/
+#### **Threshold** /ˈθreʃ.hoʊld/
 
 1. 助记,
 
@@ -358,6 +416,12 @@
 
 
 
+
+### PART II, LIFE PRINCIPLES
+
+
+
+
 ```python
 {('PART II, LIFE PRINCIPLES'):
         [(1, 'Embrace Reality and Deal with It'),
@@ -371,10 +435,9 @@
 ```
 
 
-
 @穆紫 2018-03-14
 
-**Embrace**  verb UK   /ɪmˈbreɪs/ US   /ɪmˈbreɪs/
+#### **Embrace**    /ɪmˈbreɪs/
 
 1. 助记.em（in）+brace（arms）在胳膊里，就是拥抱了
 
@@ -403,7 +466,7 @@
 
 
 
-**Real** /ˈriː.əl/ 真实
+#### **Real** /ˈriː.əl/ 真实
 
 1. 助记,
 
@@ -426,8 +489,7 @@
    1) 真实的,(NOT IMAGINARY) existing in fact and not imaginary, Actually existing as a thing or occurring in fact; not imagined or supposed.
 
 
-
-**Reality** /riˈæl.ə.t̬i/ 现实
+#### **Reality** /riˈæl.ə.t̬i/ 现实
 
 1. 助记,
 
@@ -451,7 +513,7 @@
 
    ​
 
-**Deal** with , handle with
+#### **Deal** with , handle with
 
 1. 助记, 略
 
@@ -465,7 +527,7 @@
 
    ​
 
-**Radical** /ˈræd.ɪ.kəl/根本的,彻底的
+#### **Radical** /ˈræd.ɪ.kəl/根本的,彻底的
 
 1. 助记
 
@@ -481,7 +543,9 @@
 
    1)根本的,  (especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough.
 
-**Understand**
+   ​
+
+#### **Understand**
 
 1. 助记,(略)
 
@@ -497,7 +561,7 @@
 
 3. 释义, (略)
 
-**Wire** 接线
+#### **Wire** 接线
 
 1. 助记,
 
@@ -513,9 +577,29 @@
 
 
 
+### PART III, WORK PRINCIPLES
+
+TO GET THE CULTURE RIGHT
+
+```python
+['PART III, WORK PRINCIPLES',
+ 
+     {'TO GET THE CULTURE RIGHT . . .':
+        [(1, 'Trust in Radical Truth and Radical Transparency'),
+         (2, 'Cultivate Meaningful Work and Meaningful Relationships'),
+         (3, 'Create a Culture in Which It Is Okay to Make Mistakes' 
+                'and Unacceptable Not to Learn from Them'),
+         (4, 'Get and Stay in Sync'),
+         (5, 'Believability Weight Your Decision Making'),
+         (6, 'Recognize How to Get Beyond Disagreements')]},
+
+```
+
+
+
 @Alina 2018-03-14
 
-**Diagnose**  [ˈdaɪəgnəʊz] 诊断
+#### **Diagnose**  [ˈdaɪəgnəʊz] 诊断
 
 1. 词源： 
 
@@ -543,6 +627,53 @@ prenatal diagnosis产前诊断
 
 
 
+#### Cultivate  [ˈkʌltɪveɪt]
+
+1. 助记：cul=till "耕种,培养" + -ate“表动词”
+
+   cultivate 与 culture 同源。在英语中，Culture是“文化”，civilization，是“文明”。
+   有时候它们可以混用，人们往往分不清它们之间的差异其实很简单，在考古学上，出现了城市的就是civilization，没有出现城市的就是culture。表示文明的civilization的词根是civil（市民的、城市的）。历史学家认为，人类修建城市，开始城市生活后才是人类文明的开始。在这之前，人们还属于农业社会，所进行的活动就是culture，字面意思就是耕种、培育，也就是农业活动。
+
+2. 词源
+
+   OED Origin
+   Mid 17th century: from medieval Latin cultivat- ‘prepared for crops’, from the verb cultivare, from cultiva (terra) ‘arable (land)’, from colere ‘cultivate, inhabit’.
+   Etymology
+   early 17c., from Medieval Latin cultivatus, past participle of cultivare "to cultivate," from Late Latincultivus "tilled," from Latin cultus "care, labor; cultivation," from past participle of colere "to till" (seecolony). Figurative sense of "improve by training or education" is from 1680s. Related: Cultivable;cultivated; cultivating.
+   期初为耕作栽培农作物，后形象地引申为通过培养(某种态度、形象或技能)以及结交(朋友);建立(友谊)
+
+3. 含义：
+
+   1 Prepare and use (land) for crops or gardening.
+   2 Try to acquire or develop (a quality or skill)
+
+4. 拓展：
+
+   incult没有开垦的, 没有耕种的, 没有教养的
+   in无+cult耕种→无耕种的
+   floriculture花艺, 栽培花卉
+   flori=flor花+culture[n.文化,文明;修养;耕种;栽培,培育]→n.花艺, 栽培花卉
+
+   ​
+
+#### Meritocracy[ˌmerɪˈtɒkrəsi]
+
+1. 助记 meritocracy : merit,才能，-cracy,管理，引申词义精英领导体制，贤能社会 
+
+2. 词源
+
+   Etymology
+   merit, c. 1200, "spiritual credit" (for good works, etc.); c. 1300, "spiritual reward," from Old French merite"wages, pay, reward; thanks; merit, moral worth, that which assures divine pity," and directly from Latin meritum "a merit, service, kindness, benefit, favor; worth, value, importance," neuter of meritus, past participle of merere, meriri "to earn, deserve, acquire, gain," from PIE root *(s)mer- (2) "to get a share of something."
+   来自于法语 merite和拉丁语 meriri 意为 ：“赢取,赚取,得到东西” 及 通过“才能”赢取 赚取 得到东西。
+
+3. 含义
+
+   A meritocracy is a society or social system in which people get status or rewards because of what they achieve, rather than because of their wealth or social status.
+
+   ​
+
+
+
 
 
 ## Contents
@@ -565,13 +696,14 @@ prenatal diagnosis产前诊断
 3. Be Radically Open-Minded
 4. Understand That People Are Wired Very Differently
 5. Learn How to Make Decisions Effectively
-  Life Principles: Putting It All Together
-  Summary and Table of Life Principles
+   Life Principles: Putting It All Together
+   Summary and Table of Life Principles
 
 **PART III, WORK PRINCIPLES**
 
 Summary and Table of Work Principles
 TO GET THE CULTURE RIGHT. .. .. .
+
 1. Trust in Radical Truth and Radical Transparency
 2. Cultivate Meaningful Work and Meaningful Relationships
 3. Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them
@@ -580,17 +712,20 @@ TO GET THE CULTURE RIGHT. .. .. .
 6. Recognize How to Get Beyond Disagreements
 
 TO GET THE PEOPLE RIGHT. .. .. .
-7. Remember That the WHO Is More Important than the WHAT
-8. Hire Right, Because the Penalties for Hiring Wrong Are Huge
-9. Constantly Train, Test, Evaluate, and Sort People
+
+1. Remember That the WHO Is More Important than the WHAT
+2. Hire Right, Because the Penalties for Hiring Wrong Are Huge
+3. Constantly Train, Test, Evaluate, and Sort People
 
 TO BUILD AND EVOLVE YOUR MACHINE. .. .. .
-10. Manage as Someone Operating a Machine to Achieve a Goal
-11. Perceive and Don’t Tolerate Problems
-12. Diagnose Problems to Get at Their Root Causes
-13. Design Improvements to Your Machine to Get Around Your Problems
-14. Do What You Set Out to Do
-15. Use Tools and Protocols to Shape How Work Is Done
-16. And for Heaven’s Sake, Don’t Overlook Governance!
+
+1. Manage as Someone Operating a Machine to Achieve a Goal
+2. Perceive and Don’t Tolerate Problems
+3. Diagnose Problems to Get at Their Root Causes
+4. Design Improvements to Your Machine to Get Around Your Problems
+5. Do What You Set Out to Do
+6. Use Tools and Protocols to Shape How Work Is Done
+7. And for Heaven’s Sake, Don’t Overlook Governance!
    Work Principles: Putting It All Together
 
+#### 
