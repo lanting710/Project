@@ -1,8 +1,220 @@
 @Grace
 
+2018.03.14
+
+**Adventure** UK /ədˈventʃə(r)/ US /ædˈvɛntʃɚ/
+
+1. 助记,
+
+   “ad-”+“ven”+“-ture”
+
+   **ad-**：前缀，表示“朝，向，去”，。
+
+   **ven/vent**： 来源于拉丁语venire，表示“来”，‘come’。字面义“来临”，冒险途中会有很多意想不到的事件来临，引申为“冒险”。
+
+   **-ture**： 表名词，通常在单词或词根以t结尾时使用，表示“一般状态，行为，结果”，‘the result’。
+
+   adventure → “the result of a coming to somebody来到某人身上的事情”
+
+   advent(到来)：基督的两次降临
+
+   根据基督教的教义，耶稣基督一共两次降临世界：第一次是诞生之时，以自己的生命为人类赎罪；第二次是在世界末日来临之前，他将再度降临世界。为了纪念耶稣基督的降临，在圣诞节前四个星期，从第一个周日到圣诞夜，基督教徒将这段时间称为“耶稣降临节”（Advent），用于筹备庆祝耶稣的降临。英语单词advent在基督教中有特殊含义，表示“耶稣的降临”。它来自拉丁语adventus，由ad（to）+venire（come）组合演变而成。后来，该词逐渐应用与其他领域，用来表示不同寻常的人或事物的来临或发生。英语单词adventure（冒险）与此同源，来自拉丁语adventurus，是adventus的未来式，本意是“即将发生的事情，运气”，现在一般表示“冒险、投机”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French aventure (noun), aventurer (verb), based on Latin adventurus ‘about to happen’, from advenire ‘arrive’.
+
+   **Etymology**
+
+   c. 1200, aventure, auenture "that which happens by chance, fortune, luck," from Old French aventure (11c.) "chance, accident, occurrence, event, happening," from Latin adventura (res) "(a thing) about to happen," from fem. of adventurus, future participle of advenire "to come to, reach, arrive at," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + venire "to come," from a suffixed form of PIE root [*gwa-](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) "to go, come."
+
+3. 释义,
+
+   n. 1)[C]冒险；冒险经历；奇遇**an unusual, exciting or dangerous experience, journey or series of events**
+
+   ​    2)[U]冒险的刺激；大胆开拓**excitement and the willingness to take risks, try new ideas, etc.**
+
+   v. 去(某地)探险**Engage in daring or risky activity**
+
+4. 相关词语和词组
+
+   **aventure** n. 死亡事故
+
+   **advent** n. 到来，降临，基督降临，基督降临节
+
+   **adventurer** n. 探险家，冒险家；投机商人
+
+   **adventuresome** adj. 冒险性的
+
+   **adventuress** n. 女冒险家, 女投机家
+
+   **adventurism** n. 冒险主义
+
+   **adventurist** n. 冒险主义者
+
+   **adventurous** adj. 爱冒险的；大胆的；危险的
+
+   **put in adventure** 使遭受危险，使冒风险
+
+5. 同义词辨析
+
+   **adventure** n. 冒险(经历)，奇遇。指激动人心的、奇怪的、危险的经历。
+
+   **venture** n. 冒险事业。指有风险的投资或活动。
+
+   **enterprise** n.  [褒]冒险精神，开拓精神。指思考新活动、新想法等并使之可行的探索能力。
+
+
+
+2018.03.13
+
+**Escape** UK /ɪˈskeɪp/ US /ɪˈskep/
+
+1. 助记,
+
+   es--+cap-(脱掉身上的斗篷得以逃脱)
+
+   **es-**：前缀，表示“从，从...离开，从...向外，向外，向上”，来自PIE*eghs,向外，‘out’。
+
+   **cape**： = head, 表示“头”，来源于拉丁语cappa ‘cloak,mantle,cloak with a hood’
+
+   escape来自拉丁语excappare，由ex（out of）和cappa（cape，斗篷）构成，字面意思就是“脱掉斗篷”。在古代欧洲的战场上，被击败的战士为了保命，往往会使出“金蝉脱壳”的招数，在被敌人抓住斗篷时脱掉斗篷而摆脱敌人，或在被敌人追赶时主动脱掉斗篷，趁敌人去捡斗篷时赶紧逃掉。因为在古代，一件斗篷算是不菲的财产，有钱人才穿得起。英语单词escape（逃脱）就跟古人脱掉斗篷保命的做法有关。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French eschaper, based on medieval Latin ex- ‘out’ + cappa ‘cloak’. Compare with escapade.
+
+   **Etymology**
+
+   c. 1300, transitive and intransitive, "free oneself from confinement; extricate oneself from trouble; get away safely by flight (from battle, an enemy, etc.)," from Old North French escaper, Old French eschaper (12c., Modern French échapper), from Vulgar Latin *excappare, literally "get out of one's cape, leave a pursuer with just one's cape," from Latin ex- "out of" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + Late Latin cappa "mantle" (see [cap](https://www.etymonline.com/word/cap?ref=etymonline_crossreference) (n.)). Mid-14c., of things, "get or keep out of a person's grasp, elude (notice, perception, attention, etc.);" late 14c. as "avoid experiencing or suffering (something), avoid physical contact with; avoid (a consequence)." Related: Escaped; escaping.
+
+3. 释义,
+
+   v. 1)(从监禁或管制中)逃跑，逃走，逃出(from sb/sth)**to get away from a place where you have been kept as a prisoner or not allowed to leave**
+
+   ​    2)(从不愉快或危险处境中)逃脱，摆脱，逃避**to get away from an unpleasant or dangerous situation**
+
+   ​    3)避开，避免(不愉快或危险的事物)**to avoid sth unpleasant or dangerous**  
+
+   ​    4)(未受伤或只受了一点伤害而)逃脱，幸免于难**to suffer no harm or less harm than you would expect**
+
+   ​    5)被忘掉；被忽视；未被注意**to be forgotten or not noticed**
+
+   ​    6) (气体、液体等)漏出；泄漏；渗出**to get out of a container, especially through a hole or crack**
+
+   ​    7)(不自觉地)由…发出**to come out from your mouth without you intending it to**
+
+   n. 1)逃跑；逃脱；逃避**the act or a method of escaping from a place or an unpleasant or dangerous situation**
+
+   ​    2) 逃避现实；解脱；消遣**a way of forgetting sth unpleasant or difficult for a short time**
+
+   ​    3)漏出，逸出，渗出(量)**the fact of a liquid, gas, etc. coming out of a pipe or container by accident; the amount that comes out**
+
+   ​    4)[计]Esc键；退出键**a button on a computer keyboard that you press to stop a particular operation or leave a program**
+
+4. 相关词语和词组
+
+   **escape clause** n. (合约的)免责条款，例外条约
+
+   **escaped** adj. 逃跑了的
+
+   **escapee** n. 逃亡者；脱逃的动物；(尤指)逃犯
+
+   **escapism** n. 逃避现实；解脱方法
+
+   **escapologist** n. 脱逃术表演者(擅长表演从捆扎的绳索或箱子等中脱身的魔术演员)
+
+   **make good one's escape** 成功地逃脱
+
+   **escape death by a hairbreadth** 死里逃生，九死一生
+
+   **escape with life and limb** 未受严重伤害而逃脱，无大损伤而逃脱
+
+
+
+2018-03-12
+
+**Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
+
+1. 助记,
+
+   1) dis-+tribute
+
+   **dis-**：前缀，来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”，‘apart’
+
+   **tribute**：贡物，字面意思就是“纳贡的”。来自拉丁词根tribuere，表示部落间的财富分配或其他，“支付、给予、分配”， ‘assign‘。最早的tribute表示部落里族长主持分战利品，或者进贡给某个部落的贡品，从而作词根时有了“给予”的含义，如contribute(贡献)、distribute(分配)、retribution(报答，报偿)等词。其中trib-表示“部落”，原指古罗马最初的三个部落，引申词义为“贡品、贡金等”，来自tri-’三‘ + be-’存在‘。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin distribut- ‘divided up’, from the verb distribuere, from dis- ‘apart’ + tribuere ‘assign’.
+
+   **Etymology**
+
+   early 15c., "to deal out or apportion," from Latin distributus, past participle of distribuere "to divide, distribute" (see [distribution](https://www.etymonline.com/word/distribution?ref=etymonline_crossreference)). Related: Distributable; distributed; distributing.
+
+   **distribution** (n.)
+
+   mid-14c., from Old French distribution (13c.) and directly from Latin distributionem (nominative distributio) "a division, distribution," noun of action from past participle stem of distribuere "deal out in portions," from dis- "individually" + tribuere "assign, allot" (see [tribute](https://www.etymonline.com/word/tribute?ref=etymonline_crossreference)).
+
+   **tribute** (n.)
+
+   mid-14c., "stated sum of money or other valuable consideration paid by one ruler or country to another in acknowledgment of submission or as the price of peace or protection," from Anglo-French tribute, Old French tribut and directly from Latin tributum "tribute, a stated payment, a thing contributed or paid," noun use of neuter of tributus, past participle of tribuere "to pay, assign, grant," also "allot among the tribes or to a tribe," from tribus (see [tribe](https://www.etymonline.com/word/tribe?ref=etymonline_crossreference)). Sense of "offering, gift, token" is first recorded 1580s.
+
+   **tribe** (n.)
+
+   mid-13c., "one of the twelve divisions of the ancient Hebrews," from Old French tribu or directly from Latin tribus "one of the three political/ethnic divisions of the original Roman state" (Tites, Ramnes, and Luceres, corresponding, perhaps, to the Latins, Sabines, and Etruscans), later, one of the 30 political divisions instituted by Servius Tullius (increased to 35 in 241 B.C.E.), of unknown origin. Perhaps from tri- "three" + *bheue-, root of the verb [be](https://www.etymonline.com/word/be?ref=etymonline_crossreference). Others connect the word with the PIE root *treb- "a dwelling" (see [tavern](https://www.etymonline.com/word/tavern?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   v. 1)分发；分配**to give things to a large number of people; to share sth between a number of people**
+
+   ​    2)分销 **to send goods to shops/stores and businesses so that they can be sold**
+
+   ​    3)使散开；使分布；分散**to spread sth, or different parts of sth, over an area**  ​
+
+4. 相关词语和词组
+
+   **tribute** n. 贡物，礼物，颂词，致敬
+
+   **tributary** adj. 纳贡的，附属的，辅助的n.进贡国，附属国，支流
+
+   **contribute** v. 贡献，捐献，出力，投稿
+
+   **contribution** n. 贡献；捐献；投稿
+
+   **attribute** vt. 归属，把……归于
+
+   ​                   n.属性，特质
+
+   **attribution** n. 归因；属性；归属
+
+   **distributable** adj. 可分配的，可分成类的
+
+   **distributary** n. 分流，支流; 支渠; 叉流; 分流式
+
+   **distributed** adj. 分布式的
+
+   ​                       v. 散发; 分配( distribute的过去式和过去分词); 分销; [常用被动语态]将…分类(into)
+
+   **distributing** v.散发; 分销; 分配( distribute的现在分词 ); [常用被动语态]将…分类(into)
+
+   **distribution** n. 1)分布，分配；2)分发，分送；3)(商品)经销，分销
+
+   **distributive** adj. 经销的，分销的
+
+   **distributor** n. 1)经销商，分销商；2)(发动机的)分电器
+
+
+
 2018-03-09
 
-Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
+**Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 1. 助记,
 
@@ -317,8 +529,6 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 
 
-
-=======
 @Grace
 
 2018-03-08

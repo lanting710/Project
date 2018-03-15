@@ -1,92 +1,239 @@
-# **Think Python*
+# Think Python 20180315
+
+# Table of Contents
 
 ```python
-      brief =['Preface',
-               '1:The Way of the Program',
-               '2:Variables,Expressions and Statements',
-               '3:Functions',
-               '4:Case Study:Interface Design',
-               '5:Conditionals and Recursion',
-               '6:Fruitful Functions',
-               '7:Iteration',
-               '8:String',
-               '9:Case Study:Word Play',
-               '10:Lists',
-               '11:Dictionaries'
-               '12.Tuples',
-               '13:Case Study:Data Structure Selection',
-               '14:Files'
-               '15.Classes and Objects',
-               '16:Classes and Functions',
-               '17:Classes and Methods'
-               '18:Inheritance',
-               '19:The Goodies'
-               '20.Debugging',
-               '21:Analysis of Algorithms',
-               'Index']
+brief = [(0, 'Preface'),
+         (1, 'The Way of the Program'),
+         (2, 'Variables,Expressions and Statements'),
+         (3, 'Functions'),
+         (4, 'Case Study'),
+         (5, 'Conditionals and Recursion'),
+         (6, 'Fruitful Functions'),
+         (7, 'Iteration'),
+         (8, 'String'),
+         (9, 'Case Study'),
+         (10, 'Lists'),
+         (11, 'Dictionaries
+         (12, 'Tuples'),
+         (13, 'Case Study'),
+         (14, 'Files'),
+         (15, 'Classes and Objects'),
+         (16, 'Classes and Functions'),
+         (17, 'Classes and Methods'),
+         (18, 'Inheritance'),
+         (19, 'The Goodies'),
+         (20, 'Debugging'), 
+         (21, 'Analysis of Algorithms'),
+         (22, 'Index'),]
 
-          1:The Way of the Program=
-              ['What Is a Program',
-               'Running Python',
-               'The First Program',
-               'Arithmetic Operators',
-               'Values and Types',
-               'Formal and Natural Languages',
-               'Debugging',
-               'Glossary',
-               'Exercises']
-                
-          2:Variable,Expressions and Statements=
-              ['Assignment Statements',
-               'Variable Names',
-               'Expressions and Statements',
-               'Script Mode',
-               'Order of Operations',
-               'String Operations',
-               'Comments',
-               'Debugging',
-               'Glossary'
-               'Exercises']
-                
-          3:Functions=
-              ['Function Calls',
-               'Math Functions',
-               'Composition',
-               'Adding New Functions',
-               'Definitions and Uses',
-               'Flow of Execution',
-               'Parameters and Arguments',
-               'Variables and Parameters Are Local',
-               'Stack Diagrams',
-               'Fruitful Functions and Void Functions'
-               'Why functions?'
-               'Debugging'
-               'Glossary'
-               'Exercises']
-                
-           4:Case Study:Interface Design=
-              ['The turtle Module',
-               'Simple Repetition',
-               'Exercises',
-               'Encapsulation',
-               'Generalization',
-               'Interface Design',
-               'Refactoring',
-               'A Development Plan',
-               'docstring',
-               'Debugging'
-               'Glossary'
-               'Exercises']
-                
+#排版用的python代码[ i.split(':')[1] for i in brief]
+
+brief_detials = {
+'1.The Way of the Program':
+                    [(1, 'What Is a Program'),
+                     (2, 'Running Python'),
+                     (3, 'The First Program'),
+                     (4, 'Arithmetic Operators'),
+                     (5, 'Values and Types'),
+                     (6, 'Formal and Natural Languages'),
+                     (7, 'Debugging'),
+                     (8, 'Glossary'),
+                     (9, 'Exercises')],
+'2.Variable,Expressions and Statements':
+                    [(1, 'Assignment Statements'),
+                     (2, 'Variable Names'),
+                     (3, 'Expressions and Statements'),
+                     (4, 'Script Mode'),
+                     (5, 'Order of Operations'),
+                     (6, 'String Operations'),
+                     (7, 'Comments'),
+                     (8, 'Debugging'),
+                     (9, 'GlossaryExercises')],
+'3.Functions':
+                    [(1, 'Function Calls'),
+                     (2, 'Math Functions'),
+                     (3, 'Composition'),
+                     (4, 'Adding New Functions'),
+                     (5, 'Definitions and Uses'),
+                     (6, 'Flow of Execution'),
+                     (7, 'Parameters and Arguments'),
+                     (8, 'Variables and Parameters Are Local'),
+                     (9, 'Stack Diagrams'),
+                     (10, 'Fruitful Functions and Void Functions'),
+                     (11, 'Why functions?'),
+                     (12, 'Debugging'),
+                     (13, 'Glossary'),
+                     (14, 'Exercises')],
+'4.Case Study:Interface Design':
+                    [(1, 'The turtle Module'),
+                     (2, 'Simple Repetition'),
+                     (3, 'Exercises'),
+                     (4, 'Encapsulation'),
+                     (5, 'Generalization'),
+                     (6, 'Interface Design'),
+                     (7, 'Refactoring'),
+                     (8, 'A Development Plan'),
+                     (9, 'docstring'),
+                     (10, 'DebuggingGlossaryExercises')],
+'5.Conditionals and Recursion':
+                    [(1, 'Floor Division and Modulus'),
+                     (2, 'Boolean Expressions'),
+                     (3, 'Logical Operators'),
+                     (4, 'Conditional Execution'),
+                     (5, 'Chained Conditionals'),
+                     (6, 'Nested Conditionals'),
+                     (7, 'Recursion'),
+                     (8, 'Stack Diagrams for Recursive Functions'),
+                     (9, 'Infinite Recursion'),
+                     (10, 'Keyboard InputDebuggingGlossaryExercises')],
+'6.Fruitful Functions':
+                    [(1, 'Return Values'),
+                     (2, 'Composition'),
+                     (3, 'Boolean Functions'),
+                     (4, 'More Recursion'),
+                     (5, 'Leap of Faith'),
+                     (6, 'One More Example'),
+                     (7, 'Checking Type'),
+                     (8, 'DebuggingGlossaryExercises')],
+'7.Iteration':
+                    [(1, 'Reassignment'),
+                     (2, 'Updating Variables'),
+                     (3, 'The while Statement'),
+                     (4, 'break'),
+                     (5, 'Square Roots'),
+                     (6, 'Algorithms'),
+                     (7, 'Debugging'),
+                     (8, 'Glossary'),
+                     (9, 'Exercises')],
+'8.Strings':
+                    [(1, 'A string is Sequence'),
+                     (2, 'len'),
+                     (3, 'Traversal with a for Loop'),
+                     (4, 'Strings Are Immutable'),
+                     (5, 'Searching'),
+                     (6, 'Looping and CountingString Methods'),
+                     (7, 'The in Operator'),
+                     (8, 'String Comparison'),
+                     (9, 'Debugging'),
+                     (10, 'Glossary'),
+                     (11, 'Exercises')]
+'9.Case Study:Word Play':
+                   [(1, 'Reading Word Lists'),
+                    (2, 'Exercises'),
+                    (3, 'Search'),
+                    (4, 'Looping with Indices'),
+                    (5, 'Debugging'),
+                    (6, 'Glossary'),
+                    (7, 'Exercises')], 
+    
+'10.Lists':
+                   [(1, 'A List iS A Sequence'),
+                    (2, 'Lists Are Mutable'),
+                    (3, 'Traversing a List'),
+                    (4, 'List Operations'),
+                    (5, 'List Slices'),
+                    (6, 'List Methods'),
+                    (7, 'Map.Filter and Reduce')
+                    (8, 'Deleting Elements'),
+                    (9, 'Lists and Strings'),
+                    (10, 'Objects and Values'),
+                    (11, 'Aliasing'),
+                    (12, 'List Arguments'),
+                    (13, 'Debugging'),
+                    (14, 'Glossary')
+                    (15, 'Exercises')], 
+'11.Dictionaries':
+                   [(1, 'A Dictionary Is a Mapping'),
+                    (2, 'Dictionary as a Collection of Counters'),
+                    (3, 'Looping and Dictionaries of Counters'),
+                    (4, 'Looping and Dictionaries'),
+                    (5, 'Reverse Lookup'),
+                    (6, 'Dictionaries and Lists'),
+                    (7, 'Memos')
+                    (8, 'Global Variables'),
+                    (9, 'Debugging'),
+                    (10, 'Glossary')
+                    (11, 'Exercises')], 
+'12.Tuples':
+                   [(1, 'Tuples Are Immutable'),
+                    (2, 'Tuple Assignment'),
+                    (3, 'Tuples as Return Values'),
+                    (4, 'Variable-Length Argument Tuple'),
+                    (5, 'Lists and Tuples'),
+                    (6, 'Sequences of Sequences'),], 
+    
+'13.Case Study:Data Structure Selection':
+                   [(1, 'Word Frequency Analysis'),
+                    (2, 'Random Numbers'),
+                    (3, 'Word Histogram'),
+                    (4, 'Most Common Words'),
+                    (5, 'Optional Parameters'),
+                    (6, 'Dictionary Subtraction'), 
+                    (7, 'Ramdom Words'),
+                    (8, 'Markov Analysis'),
+                    (9, 'Data Structures'),
+                    (10, 'Dictionary Subtraction'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')
+'14.Files':
+                   [(1, 'Persistence'),
+                    (2, 'Reading and Writing'),
+                    (3, 'Format Operation'),
+                    (4, 'Filenames and Paths'),
+                    (5, 'Catching Exceptions'),
+                    (6, 'Databases'), 
+                    (7, 'Pickling'),
+                    (8, 'Pickling'),
+                    (9, 'Pipes'),
+                    (10, 'Writing Modules'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')
+'15.Classs and Objects':
+                   [(1, 'Programmer-Defined Types'),
+                    (2, 'Attributes'),
+                    (3, 'Rectangles'),
+                    (4, 'Instances as Return Values'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Copying'), 
+                    (7, 'Debugging'),
+                    (8, 'Glossary')
+                    (9, 'Exercises')
+'16.Classes and Functions':
+                   [(1, 'Time'),
+                    (2, 'Pure Functions'),
+                    (3, 'Modifiers'),
+                    (4, 'Prototyping versus Planning'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Debugging'),
+                    (7, 'Glossary')
+                    (8, 'Exercises')
+'17.Classes and Methods':
+                   [(1, 'Object-Oriented Features'),
+                    (2, 'Printing Objects'),
+                    (3, 'Another Example'),
+                    (4, 'A More Complicated Example'),
+                    (5, 'The init Method'),
+                    (6, 'The_str_Method'), 
+                    (7, 'Operator Overloading'),
+                    (8, 'Type-Based Dispatch'),
+                    (9, 'Polymorphism'),
+                    (10, 'Interface and Implementation'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')]
+                    }
+
+
        
 ```
 
-###  
-
-**1:The Way of the Program**
+## 1.The Way of the Program
 
 ```python
-1:The Way of the Program = ['Program','Python','Arithmetic','Debug','Glossary']
+'1.The Way of the Program' = ['Program','Python','Arithmetic','Debug','Glossary']
 ```
 
 **Program** /ˈproʊ.ɡræm/ 程序
@@ -156,7 +303,9 @@
 
    arithmetic : arith-,计算，词源同read,reason-m,插入鼻音字母。希腊语里arithmos表示数字、总数，-etic后缀表pertaining to，arithmetic的字面意思是“(the) counting (art)”。这个单词与read、riddle谜语、rate比率；认为、ration配给；口粮和reason理由；推论等同源，但希腊人不习惯用字母r开头，所以......前边多了个a-。
 
-**Debug** /ˌdiːˈbʌɡ/  排除错误
+
+
+Debug** /ˌdiːˈbʌɡ/  排除错误
 
 1. 助记,
    De+bug
@@ -175,7 +324,9 @@
 
    debug : de-,不，非，使相反，bug,故障。(尤指计算机程序的)排错器，消除误差。
 
-**Glossary** /ˈɡlɑː.sɚ.i/ 术语表
+
+
+Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
    Glossa+ary
@@ -198,10 +349,10 @@
 
    ​
 
-**2:Variables,Expressions and Statements**
+## 2.Variables,Expressions and Statements
 
-```
-2:Variables,Expressions and Statements = ['Variable','Assignment','Script']
+```python
+'2. Variables,Expressions and Statements' = ['Variable','Assignment','Script']
 ```
 
 **Variable** /ˈver.i.ə.bəl/ 多变的
@@ -225,6 +376,8 @@
 
    variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
 
+
+
 **Assignment** /əˈsaɪn.mənt/ 任务
 
 1. 助记,
@@ -245,6 +398,8 @@
 4. 拓展
 
    略
+
+
 
 **Script** /skrɪpt/ 手稿
 
@@ -269,10 +424,10 @@
 
    ​
 
-**3:Functions**
+## 3.Functions
 
-```
-3:Functions = ['Function','Composition','Execution','Parameter','Argument','Diagram','Fruitful']
+```python
+'3.Functions' =['Function','Composition','Execution','Parameter','Argument','Diagram','Fruitful']
 ```
 
 **Function** /ˈfʌŋk.ʃən/ 功能
@@ -321,7 +476,9 @@
 
    composition:com一起+posit+ion→放到一起→组合→构成，文章等。
 
- **Execution** /ˌek.səˈkjuː.ʃən/ 执行
+
+
+**Execution** /ˌek.səˈkjuː.ʃən/ 执行
 
 1. 助记,
    Ex+(s)ec+ution
@@ -341,6 +498,8 @@
 4. 拓展
 
    execution : [ex-=out出；(s)ecut=to follow跟随；-e→“to follow out of the procedure跟着程序出来”→].词根sec-指“跟随”，字母s缺失，因为它和ex-读音融合了.
+
+
 
 **Parameter** /pəˈræm.ə.t̬ɚ/ 参数
 
@@ -362,6 +521,8 @@
 4. 拓展
 
    parameter : para-,在旁，在周围，-meter,测量，规定，词源同meter,measure.引申词义参数，规范.【数学】参(变)数；参(变)量.
+
+
 
 **Argument** /ˈɑːrɡ.jə.mənt/ 论证
 
@@ -386,6 +547,8 @@
 
    引申：真理越辨越明。
 
+5. 争论、论证的词源是ARG(明亮)。正如我们学习讨论的过程，每个人搜索论据来证明自己的观点，由于每个人有不同的出发点、立场、考虑问题的角度，最后不一定会得出一个所谓“正确”的结论，但是论证的过程，却可以让每个人思路更清晰、明亮，从中各取所需，这就是交流和讨论的乐趣吧。
+
    ​
 
 **Diagram**/ˈdaɪ.ə.ɡræm/ 图解
@@ -409,7 +572,9 @@
 
    diagram : [dia-=through, across穿过；gram=thing written, or figure书写的东西,图形→“figure made of lines going across it由穿行其间的线条构成的图形”→].词源同telegram.用来指图表，后引申为图解。
 
- **Fruitful** /ˈfruːt.fəl/ 有成果的
+
+
+**Fruitful** /ˈfruːt.fəl/ 有成果的
 
 1. 助记,
    Fruit+ful
@@ -428,10 +593,12 @@
 
    fruitful : 来自fruit, 硕果累累，有成效的。
 
-**4:Case Study:Interface Design**
+   ​
 
-```
-4:Case Study:Interface Design= ['Interface','Encapsulate','Generalize']
+## 4.Case Study:Interface Design
+
+```python
+'4.Case Study:Interface Design' = ['Interface','Encapsulate','Generalize']
 ```
 
 **Interface** /ˈɪn.t̬ɚ.feɪs/ 界面
@@ -452,6 +619,8 @@
 4. 拓展
 
    interface : inter-,在内，在中间，相互，face,脸。比喻用法【计算机】联系；接合。
+
+
 
 **Encapsulate** /ɪnˈkæp.sjə.leɪt/ 装入胶囊（套入）
 
@@ -474,7 +643,9 @@
 
    encapsulate : en-,进入，使，capsule,胶囊。 
 
- **Generalize** /ˈdʒen.ər.əl.aɪz/ 通用化
+
+
+**Generalize** /ˈdʒen.ər.əl.aɪz/ 通用化
 
 1. 助记,
    General+ize
@@ -494,3 +665,570 @@
 4. 拓展
 
    generalize : 来自general,通用的，概括的。从…概括出一般规律，从…引出一般性结论，归纳出，概括出，推断出。
+
+
+
+**20180309**
+
+## 5.Conditionals and Recursion
+
+```python
+'5.Conditionals and Recursion' = ['Recursion','Alternative']
+```
+
+**Recursion** /rɪˈkɝː.ʒən/ 循环
+
+1. 助记,
+   Re+cur+sion
+
+2. 词源,
+   **OED Origin**
+
+   1930s: from late Latin recursio(n-), **from recurrere ‘run back’ (see recur).**
+
+   **Etymology**
+
+   1610s, from Latin recursionem (nominative recursio) "a running backward, return," noun of action from past participle stem of recurrere "**run back" (see [recur](https://www.etymonline.com/word/recur?ref=etymonline_crossreference)).**
+
+3. 释义,
+   循环 the practice of putting a structure such as a phrase inside a structure of the same kind
+
+4. 拓展
+
+   recursion : re-,再，重新，-cur,跑，词源同course,current.引申诸相关词义。
+
+**Alternative**  /ɑːlˈtɝː.nə.t̬ɪv/ 二择其一的
+
+1. 助记,
+   Alter+native
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘alternating, alternate’): from French alternatif, -ive or medieval Latin alternativus, **from Latin alternare ‘interchange’ (see alternate).**
+
+   **Etymology**
+
+   1580s, "offering one or the other of two," from Medieval Latin alternativus, from Latin alternatus, past participle of alternare "do one thing and then another, do by turns," from alternus "one after the other, alternate, in turns, reciprocal," **from alter "the other" (see [alter](https://www.etymonline.com/word/alter?ref=etymonline_crossreference))**. Meaning "purporting to be a superior choice to what is in general use" was current by 1970 (earliest reference is to the media); in popular music, by 1984 in reference to pirate radio. Alternative energy is from 1975. Related:Alternatively.
+
+3. 释义,
+   二择其一的 An alternative plan or method is one that you can use if you do not want to use another one.
+
+4. 拓展
+
+   alternative.Alter,改变的.两者(或两者以上)择一的，二择其一的，可从数个中任择其一的；(两种选择中)非此即彼的.
+
+
+## 6.Conditionals and Recursion
+
+```python
+'6.Conditionals and Recursion'= ['Incremental','Example']
+```
+
+**Incremental** /ˌɪŋ.krəˈmen.t̬əl/ 增长的
+
+1. 助记,
+   In+cre+ment+al
+
+2. 词源,
+   **OED Origin**
+
+   Early 18th century: **from increment + -al.**
+
+   **Etymology**
+
+   mid-15c., "act or process of increasing," from Latin incrementum "growth, increase; an addition," **from stem of increscere "to grow in or upon" (see [increase](https://www.etymonline.com/word/increase?ref=etymonline_crossreference) (v.)).** Meaning "amount of increase" first attested 1630s.
+
+3. 释义,
+   增长的  Changes at the [newspaper](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/newspaper) are more incremental than [radical](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/radical)
+
+4. 拓展
+
+   incremental ,in-=向内，或者等同于on，向上；cre-=增长，产生，如create；+al.increment可以表示“增长”。 
+
+**Example** /ɪɡˈzæm.pəl/ 例子
+
+1. 助记,
+   In+cre+ment+al
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from Old French, from Latin exemplum, **from eximere ‘take out’,** from ex- ‘out’ + emere ‘take’. **Compare with sample**.
+
+   **Etymology**
+
+   late 14c., "an instance typical of a class; a model, either good or bad, action or conduct as an object of imitation; an example to be avoided; punishment as a warning," partial re-Latinization of earlieressample, asaumple (mid-13c.), from Old French essemple "sample, model, example, precedent, cautionary tale," from Latin exemplum "a sample, specimen; image, portrait; pattern, model, precedent; a warning example, one that serves as a warning," literally "that which is taken out," fromeximere "remove, take out, take away; free, release, deliver, make an exception of," **from ex- "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + emere "buy," originally "take,"** from PIE root [*em-](https://www.etymonline.com/word/*em-?ref=etymonline_crossreference) "to take, distribute." 
+
+3. 释义,
+   例子 a way of helping someone to understand something by showing them how it is used
+
+4. 拓展
+
+   example : ex-,向外，-em,拿出，带出，词源sample,exempt.
+
+   【辨析】such as 和for example 这两个短语都可以作“例如”解。for example用来举例说明某一论点或情况，一般只举同类人或物中的“一个”为例，作插入语，可位于句首，句中或句末。 例如： Ball games, for example, have spread around the world. 球类运动就已经在世界各地传播开了。 What would you do if you met a wild animal？a lion, for example? 如果遇上野兽，例如狮子，你该怎么办？ such as用来列举事物时，一般列举同类人或事物中的几个例子。插在被列举的事物与前面的名词之间，as后面不可有逗号。 例如： Some of the rubbish, such as food, paper and iron, rots away over a long period of time. 有些废物，如剩饭、废纸和废铁，时间一久就烂掉了。 
+
+
+## 7.Iteration
+
+```python
+'7.Conditionals and Recursion'= ['Iteration','Algorithm']
+```
+
+**Iteration**/ˌɪt̬.əˈreɪ.ʃən/ 迭代
+
+1. 助记,
+   Iter+ation
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from Latin iteratio(n-), from the verb iterare (see iterate).
+
+   **Etymology**
+
+   late 15c., from Latin iterationem (nominative iteratio) "a repetition," noun of action **from past participle stem of iterare "do again, repeat**," from iterum "again," from PIE *i-tero-, from pronominal root *i- (see [yon](https://www.etymonline.com/word/yon?ref=etymonline_crossreference)). 
+
+3. 释义,
+   迭代   specialized mathematics, computing an amount that you get when you use a mathematical rule several times
+
+4. 拓展
+
+   iteration : 来自拉丁语iterare,重复，再次，词源同idem,item,-ter,比较级后缀。引申词义反复，反复声明。
+
+
+
+ **Algorithm** /ˈæl.ɡə.rɪ.ðəm/ 算法
+
+1. 助记,
+   Algori+thm
+
+2. 词源,
+   **OED Origin**
+
+   Late 17th century (denoting the Arabic or decimal notation of numbers): variant (influenced by Greek arithmos ‘number’) of Middle English algorism, via Old French from medieval Latin algorismus. The Arabic source, al-Ḵwārizmī ‘the man of Ḵwārizm’ (now Khiva), was a name given to the 9th-century mathematician Abū Ja‘far Muhammad ibn Mūsa, author of widely translated works on algebra and arithmetic.
+
+   **Etymology**
+
+   1690s, "Arabic system of computation," from French algorithme, refashioned (under mistaken connection with Greek arithmos "number") from Old French algorisme "the Arabic numeral system" (13c.), from Medieval Latin algorismus, a mangled transliteration of Arabic al-Khwarizmi "native of Khwarazm" (modern Khiva in Uzbekistan), surname of the mathematician whose works introduced sophisticated mathematics to the West (see [algebra](https://www.etymonline.com/word/algebra?ref=etymonline_crossreference)). The earlier form in Middle English was algorism (early 13c.), from Old French. Meaning broadened to any method of computation; from mid-20c. especially with reference to computing.
+
+3. 释义,
+   算法 a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem
+
+4. 拓展
+
+   algorithm : 来自阿拉伯数学家Khwarizmi的名字。algorithm是当时拉丁学者对该数学家名字的拙劣的翻译，或部分受arithmetic的影响.
+
+   阿尔•花刺子模全名为穆罕默德•本•穆萨•阿尔•花剌子模（Muhammad ibn Msa al Khwarizmi），出生于波斯北部城市花剌子模，是阿拉伯阿拔斯王朝著名数学家、天文学家、地理学家，代数与算术的整理者，被誉为“代数之父”。公元830年，阿尔•花剌子模写了一本有关代数的书，英语单词Algebra（代数）就来源于这本书的书名中一个单词。
+   阿尔•花剌子模还出版了一本数学著作，介绍了印度的十进制记数法和以此为基础的算术知识。13世纪，意大利数学家斐波那契（ Fibonacci）将这套十进制计数法和算术方法引介到欧洲，逐渐代替了欧洲原有的算板计算及罗马的记数系统。0~9等十个印度数字也因此被欧洲人误称为阿拉伯数字。意大利人将他的名字翻译成拉丁语Algorismus，并将他在这本著作中讲解的基于十进制计数法的算术方法也称为Algorismus。英语单词algorism（算术）一次就来自拉丁语Algorismus，后来被单词arithmetic（算术）逐渐替代，很少使用。而algorism的异体，英语单词algorithm却随着计算机科学技术的发展得以发扬光大，表示计算机领域的专业术语“算法”.
+
+
+## 8.Strings
+
+```python
+'8.Strings'= ['Sequence','Immutable']
+```
+
+**Sequence**/ˈsiː.kwəns/ 序列
+
+1. 助记,
+   Sequ+ence
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (in sequence (sense 4 of the noun)): from late Latin sequentia, **from Latin sequent- ‘following’, from the verb sequi ‘follow’.**
+
+   **Etymology**
+
+   late 14c., "hymn sung after the Hallelujah and before the Gospel," from Old French sequence "answering verses" (13c.), from Medieval Latin sequentia "a following, a succession," **from Latin sequentem (nominative sequens), present participle of sequi "to follow" (from PIE root [*sekw-](https://www.etymonline.com/word/*sekw-?ref=etymonline_crossreference) (1) "to follow").** In Church use, a partial loan-translation of Greek akolouthia, from akolouthos "following." General sense of "succession," also "a sequence at cards," appeared 1570s.
+
+3. 释义,
+   序列 a series of related things or events, or the order in which they follow each other
+
+4. 拓展
+
+    sequence : 来自拉丁语sequi,追随，按顺序，词源同second,pursue.-ence,名词后缀。引申诸相关词义。
+
+
+
+ **Immutable** /ɪˈmjuː.t̬ə.bəl/ 永恒的
+
+1. 助记,
+   Im+mutable
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from Latin immutabilis, **from in- ‘not’ + mutabilis (see mutable).**
+
+   **Etymology**
+
+   early 15c., "unchanging, unalterable," from Old French immutable (Modern French immuable), and directly from Latin immutabilis "unchangeable, unalterable," from assimilated **form of in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + mutabilis "changeable," from mutare "to change" (from PIE root [*mei-](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference) (1) "to change, go, move"). Related: Immutably.**
+
+3. 释义,
+   永恒的  not changing, or unable to be changed
+
+4. 拓展
+
+     immutable : im-,不，非，mutable,可改变的。
+
+
+
+
+## 11.Dictionaries
+
+```python
+'11.Dictionaries'= ['Dictionary','Collection','Reverse']
+```
+
+**Dictionary** /ˈdɪk.ʃən.er.i/ 字典
+
+1. 助记,
+   Diction+ary
+
+2. 词源,
+   **OED Origin**
+
+   Early 16th century: from medieval Latin dictionarium (manuale) or dictionarius (liber) ‘manual or book of words’, from Latin dictio (see diction).
+
+   **Etymology**
+
+   1520s, from Medieval Latin dictionarium "collection of words and phrases," from Latin dictionarius "of words," **from dictio "word," noun of action from past participle stem of dicere "speak, tell, say,"** from PIE root [*deik-](https://www.etymonline.com/word/*deik-?ref=etymonline_crossreference) "to show," also "pronounce solemnly." Probably first English use in title of a book was in Sir Thomas Elyot's "Latin Dictionary" (1538) though Latin Dictionarius was so used from early 13c. Grose's 1788 "Dictionary of the Vulgar Tongue" has "RICHARD SNARY. A dictionary."
+
+3. 释义,
+   字典 a book that contains a list of words in alphabetical order and that explainstheir meanings, or gives a word for them in another language; a similar productfor use on a computer
+
+4. 拓展
+
+   dictionary : [diction n. 措词；-ary n.=thing物→“book for diction措词用书”→。一本字典，就是人们对词汇的发音、拼法、含义等所作的解释的记载，即人们是怎么“说”的。它来自拉丁语动语dico，意思是“说”、“讲”。同出于dico之源的还有不少英语词，如，ditto，意思“同上”、“同前”，即和上面所“说”的一样；contradiction（矛盾），contra是“相反”、“反对”的意思，全词的意思是“说话自相矛盾”；verdict（陪审团的裁决），vere是“真实地”，全词即“正确地评说”，dictator（独裁者），意即“我一个人说了算”。都和“说”有关。
+
+
+
+**Collection**/kəˈlek.ʃən/ 收藏
+
+1. 助记,
+
+   Collect+ion
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin collectio(n-), **from colligere ‘gather together’ (see collect).**
+
+   **Etymology**
+
+   late 14c., "action of collecting, practice of gathering together," from Old French collection (14c.), **from Latin collectionem (nominative collectio) "a gathering together**," noun of action from past-participle stem of colligere "gather together" (see [collect](https://www.etymonline.com/word/collect?ref=etymonline_crossreference)).
+
+3. 释义,
+   收藏 a group of objects of one type that have been collected by one person or in one place
+
+4. 拓展
+
+   collection : [collect v. 收集；-ion →“the result of collecting收集的结果”→]
+
+
+
+**Reverse**/rɪˈvɝːs/ 反转
+
+1. 助记,
+
+   Re+verse
+
+2. 词源,
+   **OED Origin**
+
+   Middle English: from Old French revers, reverse (nouns), reverser (verb), from Latin reversus ‘turned back’, past participle of revertere, **from re- ‘back’ + vertere ‘to turn’.**
+
+   **Etymology**
+
+   c. 1300, from Old French revers "reverse, cross, opposite" (13c.), **from Latin reversus, past participle of revertere "turn back, turn about, come back, return" (see [revert](https://www.etymonline.com/word/revert?ref=etymonline_crossreference))**. Reverse angle in film-making is from 1934. Reverse discrimination is attested from 1962, American English.
+
+3. 释义,
+   反转 to change the direction, order, position, result, etc. of something to itsopposite
+
+4. 拓展
+
+   reverse : 来自revert,回转，-s,过去分词格。引申诸相关词义，词性也由形容词兼做名词和动词使用。
+
+
+
+
+## 13.Case Study:Data Structure Selection
+
+```python
+'13.Case Study:Data Structure Selection'= ['Structure','Frequency','Analysis','Random','Histogram']
+```
+
+**Structure** /ˈstrʌk.tʃɚ/ 结构
+
+1. 助记,
+
+   Struct+ure
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (denoting the process of building): from Old French, or from Latin structura, **from struere ‘to build’.** The verb is rarely found before the 20th century.
+
+   **Etymology**
+
+   mid-15c., "action or process of building or construction;" 1610s, "that which is constructed, a building or edifice;" from Latin structura "a fitting together, adjustment; a building, mode of building;" figuratively, "arrangement, order," **from structus, past participle of struere "to pile, place together, heap up; build, assemble, arrange, make by joining together,"** related to strues "heap," from PIE*streu-, extended form of root [*stere-](https://www.etymonline.com/word/*stere-?ref=etymonline_crossreference) "to spread."
+
+3. 释义,
+   结构 the way in which the parts of a system or object are arranged ororganized, or a system arranged in this way
+
+4. 拓展
+
+   structure : 来自拉丁语structura,装配，建造，布置，来自struere,连接，组装，建造，堆放，来自PIE*ster,展开，延展，词源同stratum,strew,construct.引申词义结构，构造，体系等。
+
+   ​
+
+
+
+**Frequency** /ˈfriː.kwən.si/ 频度
+
+1. 助记,
+
+   Frequen+cy
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century (gradually superseding late Middle English frequence; originally denoting a gathering of people): from Latin frequentia, **from frequens, frequent- ‘crowded, frequent’.**
+
+   **Etymology**
+
+   1550s, "state of being crowded" (now obsolete); 1640s, "fact of occurring often;" from Latin frequentia"an assembling in great numbers, a crowding; crowd, multitude, throng," **from frequentem (see[frequent](https://www.etymonline.com/word/frequent?ref=etymonline_crossreference)).** Sense in physics, "rate of recurrence," especially of a vibration, is from 1831. In radio electronics, frequency modulation (1922, abbreviated F.M.) as a system of broadcasting is distinguished from amplitude modulation (or [A.M.](https://www.etymonline.com/word/A.M.?ref=etymonline_crossreference)).
+
+3. 释义,
+   频度 the number of times something happens within a particular period, or thefact of something happening often or a large number or times
+
+4. 拓展
+
+   frequency : 来自拉丁语frequens,反复的，拥挤的，硬塞的。可能来自PIE*ger,围，转，包围，词源同cram,crowd,group.
+
+
+
+**Analysis**/əˈnæl.ə.sɪs/ 分析
+
+1. 助记,
+
+   Ana+lysis
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: via medieval Latin **from Greek analusis**, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), **from Greek analysis "solution of a problem by analysis**," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+   分析  the act of analysing something
+
+​    4.拓展
+
+​       analysis:(ana+lysis分开→分开来→分析)
+
+
+
+**Random** /ˈræn.dəm/ 随机的
+
+1. 助记,
+
+   Ran+dom
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘impetuous headlong rush’): **from Old French randon ‘great speed’**, from randir ‘gallop’, from a Germanic root shared by rand.
+
+   **Etymology**
+
+   "having no definite aim or purpose," 1650s, from at random (1560s), "at great speed" (thus, "carelessly, haphazardly"), alteration of Middle English noun randon "impetuosity, speed" (c. 1300), from Old French randon "rush, disorder, force, impetuosity," **from randir "to run fast," from Frankish*rant "a running"** or some other Germanic source, from Proto-Germanic *randa (source also of Old High German rennen "to run," **Old English rinnan "to flow, to run;" see [run](https://www.etymonline.com/word/run?ref=etymonline_crossreference) (v.)).**
+
+3. 释义,
+   随机的 happening, done, or chosen by chance rather than according to a plan
+
+4. 拓展
+
+    random : 缩写自短语at random,高速的，引申词义横冲直撞的，莽撞的，后用于指随机的。来自古法语randon,冲，冲力，速度，来自randir,快跑，词源同run.
+
+
+
+ **Histogram** /ˈhɪs.tə.ɡræm/ 条形图
+
+1. 助记,
+
+   Histo+gram
+
+2. 词源,
+   **OED Origin**
+
+   Late 19th century: from Greek histos ‘mast, web’ + -gram.
+
+   **Etymology**
+
+   1891, from [histo-](https://www.etymonline.com/word/histo-?ref=etymonline_crossreference) "tissue" + [-gram](https://www.etymonline.com/word/-gram?ref=etymonline_crossreference).
+
+3. 释义,
+   条形图
+
+4. 拓展
+
+   histogram : histo,竖，直立，-gram,写，记录。引申词义条形图，柱形图。
+
+
+
+## 14.File
+
+```python
+'14.File'= ['Persistence']
+```
+
+ **Persistence**/pɚˈsɪs.təns/持续性
+
+1. 助记,
+
+   Persist+ence
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century: from French persistance, from the verb persister; influenced in spelling by Latin **persistent- ‘continuing steadfastly’.**
+
+   **Etymology**
+
+   1540s, from Middle French persistance, from persistant "lasting, enduring, permanent," from Latinpersistentem (nominative persistens), **present participle of persistere (see [persist](https://www.etymonline.com/word/persist?ref=etymonline_crossreference))**. Often spelledpersistance 16c. Related: Persistency.
+
+3. 释义,
+   坚持、持续 the fact that someone or something persists
+
+4. 拓展
+
+   persistence : 来自persist,坚持。
+
+
+## 16.Classes and Functions
+
+```python
+'16.Classes and Functions'= ['Prototype','Versus']
+```
+
+ **Prototype**/ˈproʊ.t̬ə.taɪp/ 原型
+
+1. 助记,
+
+   Proto+type
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century (denoting the original of which something else is a copy or derivative): via French or late Latin **from Greek prōtotupos (see proto-, type).**
+
+   **Etymology**
+
+   c. 1600, from French prototype (16c.) and directly from Medieval Latin prototypus "original, primitive," from Greek prototypon "a first or primitive form," noun use of neuter singular ofprototypos "original, primitive," **from protos "first" (see [proto-](https://www.etymonline.com/word/proto-?ref=etymonline_crossreference)) + typos "impression, mold, pattern" (see [type](https://www.etymonline.com/word/type?ref=etymonline_crossreference) (n.)). In English from 1590s as prototypon.**
+
+3. 释义,
+   原型 the first example of something, such as a machine or other industrial product, from which all later forms are developed.
+
+4. 拓展
+
+   prototype:(proto原始,第一+type→原始模式→原型)
+
+   proto-（第一）：变化多端的海中老人普罗透斯
+   普罗透斯（Proteus）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+   根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+   普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
+
+
+
+
+**Versus** /ˈvɝː.səs/ 对阵
+
+1. 助记,
+
+   Versus=turn,bend
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from a medieval Latin use of Latin **versus ‘towards’.**
+
+   **Etymology**
+
+   mid-15c., in legal case names, denoting action of one party against another, **from Latin versus "turned toward or against,"** past participle of vertere "to turn," from PIE *wert- "to turn, wind," from root[*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (2) "to turn, bend."
+
+3. 释义,
+   对阵  written abbreviation vs, vs., uk also v  used to say that one team or person iscompeting against another
+
+4. 拓展
+
+    versus : 来自拉丁语versus,转，来自PIE*wer,转，弯，词源converse,toward.引申词义转向对方的，相对，相比。
+
+
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   Object-Oriented Features 定位目标的特性？
+
+
+
