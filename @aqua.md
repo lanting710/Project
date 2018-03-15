@@ -175,8 +175,8 @@ brief_detials = {
                     (9, 'Data Structures'),
                     (10, 'Dictionary Subtraction'),
                     (11, 'Debugging'),
-                    (12, 'Glossary')
-                    (13, 'Exercises')
+                    (12, 'Glossary'),
+                    (13, 'Exercises')],
 '14.Files':
                    [(1, 'Persistence'),
                     (2, 'Reading and Writing'),
@@ -189,8 +189,8 @@ brief_detials = {
                     (9, 'Pipes'),
                     (10, 'Writing Modules'),
                     (11, 'Debugging'),
-                    (12, 'Glossary')
-                    (13, 'Exercises')
+                    (12, 'Glossary'),
+                    (13, 'Exercises')]
 '15.Classs and Objects':
                    [(1, 'Programmer-Defined Types'),
                     (2, 'Attributes'),
@@ -199,8 +199,8 @@ brief_detials = {
                     (5, 'Objects Are Mutable'),
                     (6, 'Copying'), 
                     (7, 'Debugging'),
-                    (8, 'Glossary')
-                    (9, 'Exercises')
+                    (8, 'Glossary'),
+                    (9, 'Exercises')],
 '16.Classes and Functions':
                    [(1, 'Time'),
                     (2, 'Pure Functions'),
@@ -208,8 +208,8 @@ brief_detials = {
                     (4, 'Prototyping versus Planning'),
                     (5, 'Objects Are Mutable'),
                     (6, 'Debugging'),
-                    (7, 'Glossary')
-                    (8, 'Exercises')
+                    (7, 'Glossary'),
+                    (8, 'Exercises')],
 '17.Classes and Methods':
                    [(1, 'Object-Oriented Features'),
                     (2, 'Printing Objects'),
@@ -222,12 +222,51 @@ brief_detials = {
                     (9, 'Polymorphism'),
                     (10, 'Interface and Implementation'),
                     (11, 'Debugging'),
-                    (12, 'Glossary')
+                    (12, 'Glossary'),
                     (13, 'Exercises')]
-                    }
-
-
-       
+'18.Inheritance': [ (1, 'Card Objects'),
+                     (2, 'Class Attribute'),
+                     (3, 'Comparing Cards'),
+                     (4, 'Decks'),
+                     (5, 'Printing the Deck'),
+                     (6, 'Add, Remove, Shuffle, and Sort'),
+                     (7, 'Inheritance'),
+                     (8, 'Class Diagram'),
+                     (9, 'Data Encapsulation'),
+                     (10, 'Debugging'),
+                     (11, 'Glossary'),
+                     (12, 'Exerciese')],
+'19.The Goodies':[
+                     (1, 'Conditional Expressions'),
+                     (2, 'List Comprehensions'),
+                     (3, 'Generator Expressions'),
+                     (4, 'any and all'),
+                     (5, 'Sets'),
+                     (6, 'Counter'),
+                     (7, 'defaultdict'),
+                     (8, 'Named Tuples'),
+                     (9, 'Gathering Keyword Args'),
+                     (10, 'Glossary'),
+                     (11, 'Exercises')],
+'20.Debugging':{
+        (1, 'Syntax Errors'):
+                    ['I keep making changes and it makes no differece'],
+        (2, 'Runtime Errors'):[
+                    '1.My Program does absolutely nothing',
+                    '2.My program hangs',
+                    '3.When I run the program I get an exception',
+                    '4.I added so many print statements I get inundated with output'],
+        (3,'Semantic Errors'):[
+                    "1.My program doesn't work",
+                    "2.I've got a big hairy expression and it doesn't do what I expect.",
+                    "3.I'm really ,really stuck an I need help",
+                    "4.No, I really need help",]},
+'21.Analysis of Algorithms':[
+                     (1, 'Order of Growth'),
+                     (2, 'Analysis of Basic Python Operations'),
+                     (3, 'Analysis of Search Algorithms'),
+                     (4, 'Hashtables'),
+                     (5, 'Glossary')]}    
 ```
 
 ## 1.The Way of the Program
@@ -286,6 +325,7 @@ brief_detials = {
 
 1. 助记,
    Arith+m+etic
+   art of computation
 
 2. 词源,
    **OED Origin**
@@ -305,7 +345,7 @@ brief_detials = {
 
 
 
-Debug** /ˌdiːˈbʌɡ/  排除错误
+**Debug** /ˌdiːˈbʌɡ/  排除错误, 调试
 
 1. 助记,
    De+bug
@@ -374,7 +414,9 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 4. 拓展
 
-   variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
+   1) 形容词, variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
+
+   2) 名词, 变量, a number, amount, or situation that can change
 
 
 
@@ -1033,13 +1075,13 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 ​       analysis:(ana+lysis分开→分开来→分析)
 
-
-
 **Random** /ˈræn.dəm/ 随机的
 
 1. 助记,
 
    Ran+dom
+
+   from randir "to run fast," 跑得太快,就成随机了.
 
 2. 词源,
    **OED Origin**
@@ -1056,6 +1098,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
     random : 缩写自短语at random,高速的，引申词义横冲直撞的，莽撞的，后用于指随机的。来自古法语randon,冲，冲力，速度，来自randir,快跑，词源同run.
+
+    ​
 
 
 
@@ -1171,7 +1215,6 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
     versus : 来自拉丁语versus,转，来自PIE*wer,转，弯，词源converse,toward.引申词义转向对方的，相对，相比。
 
 
-
 ## 17.Classes and Methods
 
 ```python
@@ -1183,6 +1226,10 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 1. 助记,
 
    Ob+ject
+
+   ob(towards , in front of ) + ject (throw)
+
+   object 是扔到你面前东西.
 
 2. 词源,
    **OED Origin**
@@ -1231,4 +1278,39 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    Object-Oriented Features 定位目标的特性？
 
 
+
+
+## 18.Inheritance
+
+```python
+#这一章举例扑克牌card,来说明inheritance, deck是一副牌
+```
+
+
+
+
+
+## 19.Goodies
+
+````python
+# goody,  这一章介绍了python有哪些好用好玩的东西.
+````
+
+
+
+
+
+## 20.Debugging
+
+```python
+#介绍编程中的代码调试, 有三种常见报错 1) syntax error, 2) runtime error, 3) semantic error
+```
+
+
+
+## 21.Analysis of Algorithms
+
+```python
+#简要介绍了算法
+```
 

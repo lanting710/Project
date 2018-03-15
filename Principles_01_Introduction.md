@@ -93,3 +93,12 @@ This book and the app will be followed by another volume containing two other pa
 After that, there will be no advice I can give that will not be available in these two books, and I will be done with this phase of my life.
 
 
+
+
+
+# Vocabulary
+
+
+
+
+
