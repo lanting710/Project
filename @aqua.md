@@ -177,6 +177,30 @@ brief_detials = {
                     (11, 'Debugging'),
                     (12, 'Glossary')
                     (13, 'Exercises')
+'14.Files':
+                   [(1, 'Persistence'),
+                    (2, 'Reading and Writing'),
+                    (3, 'Format Operation'),
+                    (4, 'Filenames and Paths'),
+                    (5, 'Catching Exceptions'),
+                    (6, 'Databases'), 
+                    (7, 'Pickling'),
+                    (8, 'Pickling'),
+                    (9, 'Pipes'),
+                    (10, 'Writing Modules'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')
+'15.Classs and Objects':
+                   [(1, 'Programmer-Defined Types'),
+                    (2, 'Attributes'),
+                    (3, 'Rectangles'),
+                    (4, 'Instances as Return Values'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Copying'), 
+                    (7, 'Debugging'),
+                    (8, 'Glossary')
+                    (9, 'Exercises')
                    ]
 
 
@@ -908,6 +932,12 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 
 
+## 13.Case Study:Data Structure Selection
+
+```python
+'13.Case Study:Data Structure Selection'= ['Structure','Frequency','Analysis','Random','Histogram']
+```
+
 **Structure** /ˈstrʌk.tʃɚ/ 结构
 
 1. 助记,
@@ -929,6 +959,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
    structure : 来自拉丁语structura,装配，建造，布置，来自struere,连接，组装，建造，堆放，来自PIE*ster,展开，延展，词源同stratum,strew,construct.引申词义结构，构造，体系等。
+
+   ​
 
 
 
@@ -953,3 +985,160 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
    frequency : 来自拉丁语frequens,反复的，拥挤的，硬塞的。可能来自PIE*ger,围，转，包围，词源同cram,crowd,group.
+
+
+
+**Analysis**/əˈnæl.ə.sɪs/ 分析
+
+1. 助记,
+
+   Ana+lysis
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: via medieval Latin **from Greek analusis**, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), **from Greek analysis "solution of a problem by analysis**," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+   分析  the act of analysing something
+
+​    4.拓展
+
+​       analysis:(ana+lysis分开→分开来→分析)
+
+
+
+**Random** /ˈræn.dəm/ 随机的
+
+1. 助记,
+
+   Ran+dom
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘impetuous headlong rush’): **from Old French randon ‘great speed’**, from randir ‘gallop’, from a Germanic root shared by rand.
+
+   **Etymology**
+
+   "having no definite aim or purpose," 1650s, from at random (1560s), "at great speed" (thus, "carelessly, haphazardly"), alteration of Middle English noun randon "impetuosity, speed" (c. 1300), from Old French randon "rush, disorder, force, impetuosity," **from randir "to run fast," from Frankish*rant "a running"** or some other Germanic source, from Proto-Germanic *randa (source also of Old High German rennen "to run," **Old English rinnan "to flow, to run;" see [run](https://www.etymonline.com/word/run?ref=etymonline_crossreference) (v.)).**
+
+3. 释义,
+   随机的 happening, done, or chosen by chance rather than according to a plan
+
+4. 拓展
+
+    random : 缩写自短语at random,高速的，引申词义横冲直撞的，莽撞的，后用于指随机的。来自古法语randon,冲，冲力，速度，来自randir,快跑，词源同run.
+
+
+
+ **Histogram** /ˈhɪs.tə.ɡræm/ 条形图
+
+1. 助记,
+
+   Histo+gram
+
+2. 词源,
+   **OED Origin**
+
+   Late 19th century: from Greek histos ‘mast, web’ + -gram.
+
+   **Etymology**
+
+   1891, from [histo-](https://www.etymonline.com/word/histo-?ref=etymonline_crossreference) "tissue" + [-gram](https://www.etymonline.com/word/-gram?ref=etymonline_crossreference).
+
+3. 释义,
+   条形图
+
+4. 拓展
+
+   histogram : histo,竖，直立，-gram,写，记录。引申词义条形图，柱形图。
+
+
+
+## 14.File
+
+```python
+'14.File'= ['Persistence']
+```
+
+ **Persistence**/pɚˈsɪs.təns/持续性
+
+1. 助记,
+
+   Persist+ence
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century: from French persistance, from the verb persister; influenced in spelling by Latin **persistent- ‘continuing steadfastly’.**
+
+   **Etymology**
+
+   1540s, from Middle French persistance, from persistant "lasting, enduring, permanent," from Latinpersistentem (nominative persistens), **present participle of persistere (see [persist](https://www.etymonline.com/word/persist?ref=etymonline_crossreference))**. Often spelledpersistance 16c. Related: Persistency.
+
+3. 释义,
+   坚持、持续 the fact that someone or something persists
+
+4. 拓展
+
+   persistence : 来自persist,坚持。
+
+
+
+## 15.Classes and Objects
+
+```python
+'15.Classes and Objects'= ['Attribute','Instance']
+```
+
+ **Attribute** /ˈæt.rɪ.bjuːt/ 属性
+
+1. 助记,
+
+   At+tribute
+
+2. 词源,
+   **OED Origin**
+
+   Late 15th century: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, **from ad- ‘to’ + tribuere ‘assign’.**
+
+   **Etymology**
+
+   "quality ascribed to someone, distinguishing mark (especially an excellent or lofty one)," late 14c., from Latin attributum "anything attributed," in grammar, "predicate," noun use of neuter of attributus, past participle of attribuere "assign, allot; ascribe, impute" (see [attribute](https://www.etymonline.com/word/attribute?ref=etymonline_crossreference) (v.)). Distinguished from the verb by having stress on the first syllable.
+
+3. 释义,
+   属性 a quality or characteristic that someone or something has
+
+4. 拓展
+
+   attribute : at-,向，往，tribute,给予，词源同tribe,contribute.
+
+
+
+  **Instance**/ˈɪn.stəns/ 实例
+
+1. 助记,
+
+   In+stance
+
+2. 词源,
+   **OED Origin**
+
+   Middle English: via Old French from Latin instantia ‘presence, urgency’, from instare ‘be present, press upon’, **from in- ‘upon’ + stare ‘to stand’.** The original sense was ‘urgency, urgent entreaty’, surviving in at the instance of. In the late 16th century the word denoted a particular case cited to disprove a general assertion, derived from medieval Latin instantia ‘example to the contrary’ (translating Greek enstasis ‘objection’); hence the meaning ‘single occurrence’.
+
+   **Etymology**
+
+   late 14c., "urgency, insistence" (a sense now archaic), from Old French instance "effort, application; urgency, eagerness, anxiety" (13c.), from Latin instantia "presence, effort, intention; earnestness, urgency," literally "a standing near," from instans (see [instant](https://www.etymonline.com/word/instant?ref=etymonline_crossreference)).
+
+3. 释义,
+   实例 a particular situation, event, or fact, especially an example of something thathappens generally
+
+4. 拓展
+
+    instance : in-,进入，使，靠近，-st,站立，词源同stand,state.其原义为站在附近，紧急待命，后来用于指例子，实例。
+
