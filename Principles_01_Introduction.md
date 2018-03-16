@@ -14,7 +14,7 @@ Every day, each of us is faced with a **blizzard** of situations we must respond
 
 To be principled means to consistently operate with principles that can be clearly explained. Unfortunately, most people can’t do that. And it’s very rare for people to write their principles down and share them. That is a shame. I would love to know what principles guided Albert Einstein, Steve Jobs, Winston Churchill, Leonardo da Vinci, and others so I could clearly understand what they were going after and how they achieved it and could compare their different approaches. I’d like to know which principles are most important to the politicians who want me to vote for them and to all the other people whose decisions affect me. Do we have common principles that bind us together—as a family, as a community, as a nation, as friends across nations? Or do we have opposing principles that divide us? What are they? Let’s be specific. This is a time when it is especially important for us to be clear about our principles.
 
-My hope is that reading this book will prompt you and others to discover your own principles from wherever you think is best and ideally write them down. Doing that will allow you and others to be clear about what your principles are and understand each other better. It will allow you to refine them as you encounter more experiences and to reflect on them, which will help you make better decisions and be better understood.
+My hope is that reading this book will prompt you and others to discover your own principles from wherever you think is best and ideally write them down. Doing that will allow you and others to be clear about what your principles are and understand each other better. It will allow you to refine them as you **encounter** more experiences and to reflect on them, which will help you make better decisions and be better understood.
 
 
 ## Have Your Own Principles
@@ -99,10 +99,6 @@ After that, there will be no advice I can give that will not be available in the
 # Vocabulary
 
 
-#### blizzard /ˈblɪz.əd/
-
-1. 助记：blizzard : 来自PIE*bhel,照耀，闪光，词源同blaze.形容大雪之凶猛。
-=======
 @Grace 2018-03-16
 
 #### **Fundamental**
@@ -156,8 +152,7 @@ UK /[ˌfʌndəˈmentl/ US /[ˌfʌndəˈmɛntl/
    **fundamental unit** [机] 基本单位
 
 
-
-#### Establish**
+#### Establish
 
 UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
 
@@ -167,7 +162,7 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
 
    **e-**：缓音字母。拉丁语后期，在sc-, sp-, st-开头的单词前面加上e-，只是为了更方便发音，单词含义不变。
 
-   **stab**：词源同stand,stabilize, 表示“站、立”。
+   **stab**：词源同stand,stabilize, 表示“站、立”。 建立就是立起来.
 
    **-ish**： 表动词，“造成…”。
 
@@ -216,7 +211,36 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
    **set up**        v.  建立，创立。侧重指开始着手创建公司、机构、委员会等。
 
 
+> “Before I begin telling you what I think, I want to establish that I’m a “dumb shit” who doesn’t know much relative to what I need to know" 这里的establish是释义中第三个意思：证实（澄清）是从建议的含义引申出来的，建立一个结论=证实 @穆紫 
 
+@穆紫
+
+#### Stable ​ /ˈsteɪ.bəl/​
+
+1. 助记.词根stedhli-，sta-（建立，成立）+ble
+
+   *stā-, Proto-Indo-European root meaning "to stand, set down, make or be firm," with derivatives meaning "place or thing that is standing."
+
+2. 词源.
+
+   OED.**
+
+   Middle English: from Anglo-Norman French, from Latin stabilis, from the base of stare ‘to stand’
+   **ETYMON.**
+   mid-12c., "trustworthy, reliable;" mid-13c., "constant, steadfast; virtuous;" from Old French stable, estable "constant, steadfast, unchanging," from Latin stabilis "firm, steadfast, stable, fixed," figuratively "durable, unwavering," literally "able to stand," from PIE *stedhli-, suffixed form of root *sta- "to stand, make or be firm." From c. 1300 as "well-founded, well-established, secure" (of governments, etc.). Physical sense of "secure against falling" is recorded from late 14c.; also "of even temperament." Of nuclear isotopes, from 1904.
+
+3. 释义.
+
+   1. 稳定的；稳固的；牢固的C1 firmly fixed or not likely to move or change
+   2. 精神健全的，精神状态稳定的C1 A stable person is mentally 
+   3. n马厩 C2 a building in which horses are kept
+   4. v把（马）拴在马厩里 to keep a horse in a stable
+
+@Alina 2018-03-16
+
+#### Blizzard /ˈblɪz.əd/
+
+1. 助记：blizzard : 来自PIE*bhel,照耀，闪光，词源同blaze.形容大雪之凶猛。
 
    blizzard（暴风雪）：猛烈的拳击或炮火轰击blizzard是一个相当新的单词。据考证，它最早出现于1829年，表示拳击中的“猛击”或战争中的“一阵炮火”，词源可能来自blaze（闪耀、火焰）。1870年美国爱荷华州和明尼苏达州暴风雪期间，该词第一次用于形容“暴风雪”。1880-81年冬天，美国多次出现暴风雪天气，blizzard一词开始大规模出现在美国新闻中，从此词义固化为“暴风雪”之意。Blizzard Entertainment（暴雪娱乐）是一家全球著名的视频游戏制作和发行公司，作品有魔兽争霸、星际争霸、暗黑破坏神系列、魔兽世界等，在电脑游戏界享有极高的评价。该公司的名称Blizzard被中国玩家谐音为“玻璃渣”。
 
@@ -230,7 +254,7 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
    1.a severe snow storm with strong winds暴风雪；雪暴
    2.a large amount of something that arrives or is produced together in a confusing or badly organized way大量繁乱的事（物）
 
-#### encounter /ɪnˈkaʊn.tər/
+#### Encounter /ɪnˈkaʊn.tər/
 
 1. 助记：encounter : en-,进入，使，-counter,相对。即进入相对状态，面对面遭遇。
 

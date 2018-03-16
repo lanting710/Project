@@ -1423,11 +1423,47 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 
 
+
+**Inherit** /ɪnˈher.ɪt/
+
+1. 助记
+
+   In  + heir(继承人)
+
+   Latin in- ‘in’ + heres, hered- ‘heir’.
+
+   进入继承人的序列,
+
+2. 词源,
+
+   **Origin**
+
+   Middle English enherite ‘receive as a right’, from Old French enheriter, from late Latin inhereditare ‘appoint as heir’, from Latin in- ‘in’ + heres, hered- ‘heir’.
+
+   **Etymology**
+
+   c. 1300, "to make (someone) an heir" (a sense now obsolete), from Old French enheriter "make heir, attribute the right of inheretance to, appoint as heir," from Late Latin inhereditare **s,"** from in- "in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + Latin hereditare "to inherit," from heres (genitive heredis) "heir" (see [heredity](https://www.etymonline.com/word/heredity?ref=etymonline_crossreference)).Sense of "receive inheritance, get by succession as representative of the former possessor" is attested from mid-14c.; in Medieval Latin inhereditare also had taken on a sense "put in possession." Original sense is retained in [disinherit](https://www.etymonline.com/word/disinherit?ref=etymonline_crossreference). Related: Inherited; inheriting; inheritable.
+
+3. 释义,
+
+   继承 to receive money, a house, etc. from someone after they have died**
+
+
+
+
+
+
 **Attribute**/ˈæt.rɪ.bjuːt/ 属性
 
 1. 助记,
 
    At+tribute
+
+   at(ad to ) +tribute (礼物)
+
+   归属,把..归于 就是去送礼
+
+   属性,就是送的礼物是什么,怎么样.
 
 2. 词源,
    **OED Origin**
@@ -1445,6 +1481,12 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
    attribute : at-,向，往，tribute,给予，归属，把……归于n.属性.词源同tribe,contribute.
 
+   tribute(礼物,贡品)
+
+   contribute = com(with) + tribute 带着礼物来,就是做贡献
+
+   distribute = dis(apart) + atribute 分礼物,就是分配
+
    ​
 
 ## 19.The Goodies
@@ -1458,6 +1500,10 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 1. 助记,
 
    Com+pre+hen+sion
+
+   here probably "completely" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + prehendere "to catch hold of, seize,"
+
+   理解就是彻底的抓住.
 
 2. 词源,
    **OED Origin**
@@ -1477,34 +1523,6 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 
 
-## 20.Debugging
-
-```python
-'20.Debugging'= ['Syntax']
-```
-
- **Syntax**/ˈsɪn.tæks/ 句法
-
-1. 助记,
-
-   Syn+tax
-
-2. 词源,
-   **OED Origin**
-
-   Late 16th century: from French syntaxe, or via late Latin from Greek suntaxis, **from sun- ‘together’ + tassein ‘arrange’.**
-
-   **Etymology**
-
-   c. 1600, from French syntaxe (16c.) and directly from Late Latin syntaxis, from Greek syntaxis "a putting together or in order, arrangement, a grammatical construction," **from stem of syntassein "put in order," from syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + tassein "arrange" (see [tactics](https://www.etymonline.com/word/tactics?ref=etymonline_crossreference)).**
-
-3. 释义,
-   句法 the grammatical arrangement of words in a sentence
-
-4. 拓展
-
-   syntax : syn-,一起，-tax,接触，安排，词源同tactics,tax,taxidermy.用于语法格指句法，句法规则。(事物的)联系体系(或次序)；(组成部分的)系统(或有条理)的排列；【计算机】语法.
-
 
 
 ## 20.Debugging
@@ -1517,7 +1535,11 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
 
-   Syn+tax
+   Syn+tax(tactic)
+
+   from sun- ‘together’ + tassein ‘arrange’.
+
+   排列到一起的方法.
 
 2. 词源,
    **OED Origin**
