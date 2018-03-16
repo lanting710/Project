@@ -98,9 +98,125 @@ After that, there will be no advice I can give that will not be available in the
 
 # Vocabulary
 
+
 #### blizzard /ˈblɪz.əd/
 
 1. 助记：blizzard : 来自PIE*bhel,照耀，闪光，词源同blaze.形容大雪之凶猛。
+=======
+@Grace 2018-03-16
+
+#### **Fundamental**
+
+UK /[ˌfʌndəˈmentl/ US /[ˌfʌndəˈmɛntl/
+
+1. 助记,
+
+   “fund-”+“-ment”+"-al"=to found
+
+   **fund-**：表示“底部，基础”，来源于拉丁语，词源同bottom,founder，用做经济学名词资金，PIE root *bhudh-，'base，bottom'。
+
+   **-ment**： 后缀，表示具体行为、结果、物。
+
+   **-al**： 形容词后缀，表示“…的”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from French fondamental, or late Latin fundamentalis, from Latin fundamentum, from fundare ‘to found’.
+
+   **Etymology**
+
+   mid-15c., "primary, original, pertaining to a foundation," modeled on Late Latin fundamentalis "of the foundation," from Latin fundamentum "foundation" (see [fundament](https://www.etymonline.com/word/fundament?ref=etymonline_crossreference)). In music (1732) it refers to the lowest note of a chord. Fundamentals (n.) "primary principles or rules" of anything is from 1630s.
+
+   fundament (n.)
+
+   late 13c., "foundation, base; buttocks, anus," from Old French fondement "foundation, bottom; land, estate; anus" (12c.), from Latin fundamentum "a foundation, ground-work; support; beginning," from fundare "to found" (see [bottom](https://www.etymonline.com/word/bottom?ref=etymonline_crossreference) (n.)). So called because it is where one sits.
+
+3. 释义,
+
+   adj. 1)十分重大的；根本的(basic)**serious and very important; affecting the most central and important parts of sth**
+
+   ​        2)基础的；基本的(essential)**forming the necessary basis of sth**
+
+   ​        3)基本的；不能再分的[物]基频的，基谐波的；[乐]基音的**forming the source or base from which everything else is made; not able to be divided any further**
+
+   n. 基本规律；根本法则；基本原理；基础；[物]基频，基谐波；[乐]基音**a basic rule or principle; an essential part**
+
+4. 相关词语和词组
+
+   **fundament** n. 基础，基本原理，臀部
+
+   **Fundamental Counting Principle** 基本计数原理
+
+   **fundamental force** (术语)基本力(宇宙万物所具有的特征，包括引力和电磁力等四种)
+
+   **fundamental frequency** 基频，基音频率
+
+   **fundamental unit** [机] 基本单位
+
+
+
+#### Establish**
+
+UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
+
+1. 助记,
+
+   “e-”+“sta-”+“-ish”=make firm
+
+   **e-**：缓音字母。拉丁语后期，在sc-, sp-, st-开头的单词前面加上e-，只是为了更方便发音，单词含义不变。
+
+   **stab**：词源同stand,stabilize, 表示“站、立”。
+
+   **-ish**： 表动词，“造成…”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (recorded earlier as stablish): from Old French establiss-, lengthened stem of establir, from Latin stabilire ‘make firm’, from stabilis (adjective) ‘stable’.
+
+   **Etymology**
+
+   late 14c., from Old French establiss-, present participle stem of establir "cause to stand still, establish, stipulate, set up, erect, build" (12c., Modern French établir), from Latin stabilire "make stable," from stabilis "stable" (see [stable](https://www.etymonline.com/word/stable?ref=etymonline_crossreference) (adj.)). For the unetymological e-, see [e-](https://www.etymonline.com/word/e-?ref=etymonline_crossreference). Related: Established; establishing. An established church or religion is one sanctioned by the state.
+
+3. 释义,
+
+   n. 1)建立；创立；设立(start)**to start a company or organization that will continue for a longtime;to start having a relationship with, or communicating with another person, company, country, or organization**
+
+   ​    2)确立(尤指正式关系)(accept)**to cause something or someone to be accepted in or familiar with a place,position, etc.**
+
+   ​    3)获得接受；得到认可；证实(discover)**to discover or get proof of something**
+
+4. 相关词语和词组
+
+   **established** adj. 已确立的，已获确认的；成名的，公认的；成为国教的
+
+   **establishment** n. 机构，大型机关，企业；(通常反对编个的)当权派，权势集团，(统称)权威人士；确立, 创立，建立
+
+   **establishmentarian** n. 国教教徒，拥护国教者
+
+   ​                                       adj. 国教的
+
+   **establish oneself in** 在…落户，定居在
+
+5. 同义词辨析
+
+   **establish**  v. 建立，设立。强调稳固地建成，可指建立国家、政府、学校或商店等，也可指建立信仰、名誉、法律、制度、关系等。
+
+   **build**         v. 建造，建设。普通用词，应用范围最广，既可用于表示建造具体有形的建筑，又可用于表示抽象意义上如制度、国家等的建立、构建。
+
+   **construct** v. 建造，建立。强调按照一定设计建造规模较大、结构较复杂的物体，特别指按照图纸构筑某种建筑物，如铁路、桥梁、道路等巨大的工程。多用于书面语。
+
+   **erect**         v. 建立，竖立。指建造高而垂直的建筑物，强调有一定高度。
+
+   **found**        v.  建造，创立。常指通过提供必要的资金创建城市、公司、学校、教堂、寺院、医院等，含打下基础之意。
+
+   **set up**        v.  建立，创立。侧重指开始着手创建公司、机构、委员会等。
+
+
+
 
    blizzard（暴风雪）：猛烈的拳击或炮火轰击blizzard是一个相当新的单词。据考证，它最早出现于1829年，表示拳击中的“猛击”或战争中的“一阵炮火”，词源可能来自blaze（闪耀、火焰）。1870年美国爱荷华州和明尼苏达州暴风雪期间，该词第一次用于形容“暴风雪”。1880-81年冬天，美国多次出现暴风雪天气，blizzard一词开始大规模出现在美国新闻中，从此词义固化为“暴风雪”之意。Blizzard Entertainment（暴雪娱乐）是一家全球著名的视频游戏制作和发行公司，作品有魔兽争霸、星际争霸、暗黑破坏神系列、魔兽世界等，在电脑游戏界享有极高的评价。该公司的名称Blizzard被中国玩家谐音为“玻璃渣”。
 
