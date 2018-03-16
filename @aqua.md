@@ -222,7 +222,6 @@ brief_detials = {
                     (9, 'Polymorphism'),
                     (10, 'Interface and Implementation'),
                     (11, 'Debugging'),
-<<<<<<< HEAD
                     (12, 'Glossary'),
                     (13, 'Exercises')]
 '18.Inheritance': [ (1, 'Card Objects'),
@@ -268,45 +267,7 @@ brief_detials = {
                      (3, 'Analysis of Search Algorithms'),
                      (4, 'Hashtables'),
                      (5, 'Glossary')]}    
-=======
-                    (12, 'Glossary')
-                    (13, 'Exercises')
-'18.Inheritance':
-                   [(1, 'Card Objects'),
-                    (2, 'Class Attributes'),
-                    (3, 'Comparing Cards'),
-                    (4, 'Decks'),
-                    (5, 'Printing the Deck'),
-                    (6, 'Add,Remove,Shuffle and Sort'), 
-                    (7, 'Inheritance'),
-                    (8, 'Class Diagrams'),
-                    (9, 'Data Encapsulation'),
-                    (10, 'Debugging'),
-                    (11, 'Glossary')
-                    (12, 'Exercises')
-'19.The Goodies':
-                   [(1, 'Conditional Expressions'),
-                    (2, 'List Comprehensions'),
-                    (3, 'Generator Expressions'),
-                    (4, 'any and all'),
-                    (5, 'Sets'),
-                    (6, 'Counters'), 
-                    (7, 'defaultdict'),
-                    (8, 'Named Tuples'),
-                    (9, 'Gathering Keyword Args'),
-                    (10, 'Exercises')
-'20.Debugging':
-                   [(1, 'Syntax Errors'),
-                    (2, 'Runtime Errors'),
-                    (3, 'Semantic Errors'),
-'21.Analysis of Algorithms':
-                   [(1, 'Order of Growth'),
-                    (2, 'Analysis of Basic Python Operations'),
-                    (3, 'Analysis of Search Algorithms'),
-                    (4, 'Hashtable'),
-                    (5, 'Glossary'),]
-                    }     
->>>>>>> 879774b22095e13044c2729d2a83430a92201a01
+
 ```
 
 ## 1.The Way of the Program
@@ -1575,37 +1536,5 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    syntax : syn-,一起，-tax,接触，安排，词源同tactics,tax,taxidermy.用于语法格指句法，句法规则。(事物的)联系体系(或次序)；(组成部分的)系统(或有条理)的排列；【计算机】语法.
 
 
-## 18.Inheritance
 
-```python
-#这一章举例扑克牌card,来说明inheritance, deck是一副牌
-```
-
-
-
-
-
-## 19.Goodies
-
-````python
-# goody,  这一章介绍了python有哪些好用好玩的东西.
-````
-
-
-
-
-
-## 20.Debugging
-
-```python
-#介绍编程中的代码调试, 有三种常见报错 1) syntax error, 2) runtime error, 3) semantic error
-```
-
-
-
-## 21.Analysis of Algorithms
-
-```python
-#简要介绍了算法
-```
 
