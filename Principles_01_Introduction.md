@@ -98,6 +98,11 @@ After that, there will be no advice I can give that will not be available in the
 
 # Vocabulary
 
+
+#### blizzard /ˈblɪz.əd/
+
+1. 助记：blizzard : 来自PIE*bhel,照耀，闪光，词源同blaze.形容大雪之凶猛。
+=======
 @Grace 2018-03-16
 
 #### **Fundamental**
@@ -212,3 +217,34 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
 
 
 
+
+   blizzard（暴风雪）：猛烈的拳击或炮火轰击blizzard是一个相当新的单词。据考证，它最早出现于1829年，表示拳击中的“猛击”或战争中的“一阵炮火”，词源可能来自blaze（闪耀、火焰）。1870年美国爱荷华州和明尼苏达州暴风雪期间，该词第一次用于形容“暴风雪”。1880-81年冬天，美国多次出现暴风雪天气，blizzard一词开始大规模出现在美国新闻中，从此词义固化为“暴风雪”之意。Blizzard Entertainment（暴雪娱乐）是一家全球著名的视频游戏制作和发行公司，作品有魔兽争霸、星际争霸、暗黑破坏神系列、魔兽世界等，在电脑游戏界享有极高的评价。该公司的名称Blizzard被中国玩家谐音为“玻璃渣”。
+
+2. 词源：
+
+   **etymology**
+
+   "strong, sustained storm of wind and cold, and dry, driving snow," 1859, origin obscure (perhaps somehow connected with blaze (n.1), and compare blazer); it came into general use in the U.S. in this sense in the hard winter of 1880-81. OED says it probably is "more or less onomatopœic," and adds "there is nothing to indicate a French origin." Before that it typically meant "a violent blow," also "hail of gunfire" in American English from 1829, and blizz "violent rainstorm" is attested from 1770. The winter storm sense perhaps is originally a colloquial figurative use in the Upper Midwest of the U.S.
+
+3. 定义：
+   1.a severe snow storm with strong winds暴风雪；雪暴
+   2.a large amount of something that arrives or is produced together in a confusing or badly organized way大量繁乱的事（物）
+
+#### encounter /ɪnˈkaʊn.tər/
+
+1. 助记：encounter : en-,进入，使，-counter,相对。即进入相对状态，面对面遭遇。
+
+2. 词源：
+
+   **etymology**
+
+   c. 1300, "meeting of adversaries, confrontation," from Old French encontre "meeting; fight; opportunity" (12c.), noun use of preposition/adverb encontre "against, counter to" from Late Latin incontra "in front of," from Latin in- "in" (from PIE root *en "in") + contra "against" (see contra). Modern use of the word in psychology is from 1967, from the work of U.S. psychologist Carl Rogers. Encounter group attested from 1967.
+
+   contra
+
+   mid-14c., from Latin contra (prep. and adv.) "against," originally "in comparison with," ablative singular feminine of *com-teros, from Old Latin com "with, together" (see com-) + -tr, zero degree of the comparative suffix -ter-.
+
+3. 定义：
+
+   1. an occasion when two teams play against each other（体育）比赛，交锋
+   2. a meeting, especially one that happens by chance偶然相遇，邂逅，不期而遇
