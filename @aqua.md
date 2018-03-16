@@ -1,4 +1,4 @@
-# Think Python 20180315
+# Think Python
 
 # Table of Contents
 
@@ -223,11 +223,42 @@ brief_detials = {
                     (10, 'Interface and Implementation'),
                     (11, 'Debugging'),
                     (12, 'Glossary')
-                    (13, 'Exercises')]
-                    }
-
-
-       
+                    (13, 'Exercises')
+'18.Inheritance':
+                   [(1, 'Card Objects'),
+                    (2, 'Class Attributes'),
+                    (3, 'Comparing Cards'),
+                    (4, 'Decks'),
+                    (5, 'Printing the Deck'),
+                    (6, 'Add,Remove,Shuffle and Sort'), 
+                    (7, 'Inheritance'),
+                    (8, 'Class Diagrams'),
+                    (9, 'Data Encapsulation'),
+                    (10, 'Debugging'),
+                    (11, 'Glossary')
+                    (12, 'Exercises')
+'19.The Goodies':
+                   [(1, 'Conditional Expressions'),
+                    (2, 'List Comprehensions'),
+                    (3, 'Generator Expressions'),
+                    (4, 'any and all'),
+                    (5, 'Sets'),
+                    (6, 'Counters'), 
+                    (7, 'defaultdict'),
+                    (8, 'Named Tuples'),
+                    (9, 'Gathering Keyword Args'),
+                    (10, 'Exercises')
+'20.Debugging':
+                   [(1, 'Syntax Errors'),
+                    (2, 'Runtime Errors'),
+                    (3, 'Semantic Errors'),
+'21.Analysis of Algorithms':
+                   [(1, 'Order of Growth'),
+                    (2, 'Analysis of Basic Python Operations'),
+                    (3, 'Analysis of Search Algorithms'),
+                    (4, 'Hashtable'),
+                    (5, 'Glossary'),]
+                    }     
 ```
 
 ## 1.The Way of the Program
@@ -414,6 +445,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    **Etymology**
 
    late 14c., "something written," earlier scrite (c. 1300), **from Old French escrit "piece of writing, written paper;** credit note, IOU; deed, bond" (Modern French écrit) from Latin scriptum "a writing, book; law; line, mark," noun use of neuter past participle of scribere "to write," from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut, separate, sift." The original notion is of carving marks in stone, wood, etc.
+
+   ​
 
 3. 释义,
    手稿 the words of a film, play, broadcast, or speech:
@@ -1228,7 +1261,260 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
    3)使……朝东→确定方向→定位
 
-   Object-Oriented Features 定位目标的特性？
+   ​
 
 
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   ​
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   ​
+
+## 18.Inheritance
+
+```python
+'18.Inheritance'= ['Inheritance','Attribute']
+```
+
+ **Inheritance** /ɪnˈher.ɪ.təns/ 遗产
+
+1. 助记,
+
+   In+her+itance
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (formerly also as enheritance): from Anglo-Norman French enheritaunce ‘being admitted as heir’, **from Old French enheriter (see inherit).**
+
+   **Etymology**
+
+   late 14c., enheritaunce "fact of receiving by hereditary succession;" early 15c. as "that which is or may be inherited," from Anglo-French and Old French enheritaunce, **from Old French enheriter "make heir, appoint as heir" (see [inherit](https://www.etymonline.com/word/inherit?ref=etymonline_crossreference)). Heritance "act of inheriting" is from mid-15c.**
+
+3. 释义,
+   遗产 money or objects that someone gives you when they die
+
+4. 拓展
+
+   inheritance : in-,进入，使，-her,继承，词源同heir,heredity.即使继承，引申词义遗传。
+
+
+
+**Attribute**/ˈæt.rɪ.bjuːt/ 属性
+
+1. 助记,
+
+   At+tribute
+
+2. 词源,
+   **OED Origin**
+
+   Late 15th century: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, **from ad- ‘to’ + tribuere ‘assign’.**
+
+   **Etymology**
+
+   "quality ascribed to someone, distinguishing mark (especially an excellent or lofty one)," late 14c., **from Latin attributum "anything attributed," in grammar,** "predicate," noun use of neuter of attributus, past participle of attribuere "assign, allot; ascribe, impute" (see [attribute](https://www.etymonline.com/word/attribute?ref=etymonline_crossreference) (v.)). Distinguished from the verb by having stress on the first syllable.
+
+3. 释义,
+   属性 a quality or characteristic that someone or something has
+
+4. 拓展
+
+   attribute : at-,向，往，tribute,给予，归属，把……归于n.属性.词源同tribe,contribute.
+
+   ​
+
+## 19.The Goodies
+
+```python
+'19.The Goodies'= ['Comprehension']
+```
+
+**Comprehension**/ˌkɑːm.prəˈhen.ʃən/ 理解
+
+1. 助记,
+
+   Com+pre+hen+sion
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from French compréhension or Latin comprehensio(n-), **from the verb comprehendere ‘seize, comprise’ (see comprehend).**
+
+   **Etymology**
+
+   mid-15c., "act or fact of understanding," from Old French comprehénsion (15c.), and directly from Latin comprehensionem (nominative comprehensio) "a seizing, laying hold of, arrest," figuratively "perception, comprehension," noun of action from past participle stem of comprehendere "to take together, to unite; include; to comprehend, perceive" (to seize or take in the mind), **from com "with, together," here probably "completely" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + prehendere "to catch hold of, seize," from prae-"before" (see [pre-](https://www.etymonline.com/word/pre-?ref=etymonline_crossreference)) + -hendere, from PIE root [*ghend-](https://www.etymonline.com/word/*ghend-?ref=etymonline_crossreference) "to seize, take."** From 1540s as "the act of including;" from 1590s as "capacity of the mind to understand." In reading education, from 1921.
+
+3. 释义,
+   理解 the ability to understand completely and be familiar with a situation, facts, etc.
+
+4. 拓展
+
+   略
+
+
+
+## 20.Debugging
+
+```python
+'20.Debugging'= ['Syntax']
+```
+
+ **Syntax**/ˈsɪn.tæks/ 句法
+
+1. 助记,
+
+   Syn+tax
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: from French syntaxe, or via late Latin from Greek suntaxis, **from sun- ‘together’ + tassein ‘arrange’.**
+
+   **Etymology**
+
+   c. 1600, from French syntaxe (16c.) and directly from Late Latin syntaxis, from Greek syntaxis "a putting together or in order, arrangement, a grammatical construction," **from stem of syntassein "put in order," from syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + tassein "arrange" (see [tactics](https://www.etymonline.com/word/tactics?ref=etymonline_crossreference)).**
+
+3. 释义,
+   句法 the grammatical arrangement of words in a sentence
+
+4. 拓展
+
+   syntax : syn-,一起，-tax,接触，安排，词源同tactics,tax,taxidermy.用于语法格指句法，句法规则。(事物的)联系体系(或次序)；(组成部分的)系统(或有条理)的排列；【计算机】语法.
+
+
+
+## 20.Debugging
+
+```python
+'20.Debugging'= ['Syntax']
+```
+
+ **Syntax**/ˈsɪn.tæks/ 句法
+
+1. 助记,
+
+   Syn+tax
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: from French syntaxe, or via late Latin from Greek suntaxis, **from sun- ‘together’ + tassein ‘arrange’.**
+
+   **Etymology**
+
+   c. 1600, from French syntaxe (16c.) and directly from Late Latin syntaxis, from Greek syntaxis "a putting together or in order, arrangement, a grammatical construction," **from stem of syntassein "put in order," from syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + tassein "arrange" (see [tactics](https://www.etymonline.com/word/tactics?ref=etymonline_crossreference)).**
+
+3. 释义,
+   句法 the grammatical arrangement of words in a sentence
+
+4. 拓展
+
+   syntax : syn-,一起，-tax,接触，安排，词源同tactics,tax,taxidermy.用于语法格指句法，句法规则。(事物的)联系体系(或次序)；(组成部分的)系统(或有条理)的排列；【计算机】语法.
 
