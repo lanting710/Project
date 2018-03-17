@@ -272,3 +272,56 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
 
    1. an occasion when two teams play against each other（体育）比赛，交锋
    2. a meeting, especially one that happens by chance偶然相遇，邂逅，不期而遇
+
+
+
+@aqua 2018-03-17
+
+**Psychology** /saɪˈkɑː.lə.dʒi/ 心理学
+
+1. 助记,
+
+   Psycho+logy
+
+2. 词源,
+   **OED Origin**
+
+   Late 17th century: **from modern Latin psychologia (see psycho-, -logy).**
+
+   **Etymology**
+
+   1650s, "study of the soul," from Modern Latin psychologia, probably coined mid-16c. in Germany by Melanchthon from Latinized **form of Greek psykhe- "breath, spirit, soul" (see [psyche](https://www.etymonline.com/word/psyche?ref=etymonline_crossreference)) + logia "study of" (see [-logy](https://www.etymonline.com/word/-logy?ref=etymonline_crossreference))**. Meaning "study of the mind" first recorded 1748, from Christian Wolff's "Psychologia empirica" (1732); main modern behavioral sense is from early 1890s.
+
+3. 释义,
+   心理学 the scientific study of the way the human mind works and how it influences behaviour, or the influence of a particular person's character on their behaviour
+
+4. 拓展
+
+   psychology : psycho-,精神，心理，-logy,学科。 
+
+   psych-（心理）：爱上丘比特的少女普绪克.
+   希腊神话中，普绪克（Psyche）是一名美貌的凡人少女。她长得如此美丽，以至于人们都认为她是爱神阿芙洛狄忒下凡，不再去供奉真正的阿芙洛狄忒了。阿芙洛狄忒十分气愤，就命令儿子厄洛斯下凡，用爱情之箭让普绪克爱上一名丑陋的怪兽。没想到厄洛斯一看到普绪克，惊为天人，竟然爱上了普绪克。厄洛斯杀死了怪兽，并让普绪克住在自己的神殿里，每天夜里与她幽会，但不许她点灯看见自己的脸。
+   普绪克的名字Psyche在希腊语中就是“灵魂”的意思。从她的名字中产生了表示“灵魂、精神、心理”的英语单词
+
+**Coalesce**/koʊ.əˈles/  联合
+
+1. 助记,
+
+   Co+al+esce
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century: from Latin coalescere ‘grow together’, **from co- (from cum ‘with’) + alescere ‘grow up’ (from alere ‘nourish’).**
+
+   **Etymology**
+
+   1540s, "grow together, unite by growing into one body," from Latin coalescere "unite, grow together, become one in growth," **from assimilated form of com- "together" (see [co-](https://www.etymonline.com/word/co-?ref=etymonline_crossreference)) + alescere "be nourished,"** hence, "increase, grow up," inchoative of alere "to suckle, nourish," from PIE root [*al-](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference) (2) "to grow, nourish." Related: Coalesced; coalescing; coalescence; coalescent.
+
+3. 释义,
+   联合 If two or more things coalesce, they come or grow together to form one thing or system.
+
+4. 拓展
+
+   coalesce : co-,表共同，-al,生长，词源同adult,adolescence.即共同成长,联合.
+
