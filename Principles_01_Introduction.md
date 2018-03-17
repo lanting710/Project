@@ -274,6 +274,38 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
    2. a meeting, especially one that happens by chance偶然相遇，邂逅，不期而遇
 
 
+#### presumptuous /prɪ’zʌmptʃuəs/
+
+1. 助记：presumptuous /prɪ’zʌmptʃuəs/ adj. 自以为是的,专横的;冒失的 pre=在……之前，sump=take（如 assume 承担，假设，就职），-ous为形容词后缀，表示数量很多的。因此这个词的根本含义是：在（别人同意）之前就肆意拿走的，引申为“自以为是的，专横的”。
+
+2. 词源：
+
+   **etymology**
+
+   mid-14c., from Old French presumtuex (12c.; Modern French présomptueux) and directly from Late Latin praesumptuosus, variant of praesumptiosus, from past participle stem of Latin praesumere "anticipate," in Late Latin, "assume" (see presumption). Related: Presumptuously; presumptuousness.
+
+3. 定义：
+
+   A person who is presumptuous shows little respect for others by doing things they have no right to do.
+
+   肆意妄为的 专横的
+
+#### crystal /ˈkrɪs.təl/
+
+1. 助记：来自cryo-,冷，冷冻 kryeros来自 *kreus- "to begin to freeze, form a crust.
+   crystal（水晶）：石化的冰古代希腊人最初见到水晶这种矿物质时，不知为何物。他们看到这种物质和石头一样硬，却又像冰一样晶莹剔透，因此认为是石化的冰，所以在希腊语中称之为krystallos，来自kryos（frost，冰冻）。该词进入拉丁语后变成crystallus，经由法语进入英语后变成了crystal。crystal不仅可以表示水晶，还可以表示其他各种结晶体。后引申为透明的 清澈的
+2. 词源
+   etymology
+   Old English cristal "clear ice, clear mineral," from Old French cristal (12c., Modern French crystal), from Latin crystallus "crystal, ice," from Greek krystallos, from kryos "frost," from PIE root *kreus- "to begin to freeze, form a crust." Spelling adopted the Latin form 15c.-17c. The mineral has been so-called since Old English; it was regarded by the ancients as a sort of fossilized ice. As a shortened form of crystal-glass it dates from 1590s. As an adjective, from late 14c.
+3. 定义：
+   1. transparent glass of very high quality, usually with its surface cut into delicate patterns 水晶玻璃
+   2. a piece of a substance that has become solid, with a regular shape 结晶体 
+   3. clear transparent rock that is used in jewellery, or a piece of this 水晶；水晶饰品
+   4. crystal clear 
+      very easy to understand
+      清楚明了的；明白无误的；显而易见的/清澈透明 
+=======
+
 
 @aqua 2018-03-17
 
