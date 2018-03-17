@@ -299,17 +299,23 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
    Old English cristal "clear ice, clear mineral," from Old French cristal (12c., Modern French crystal), from Latin crystallus "crystal, ice," from Greek krystallos, from kryos "frost," from PIE root *kreus- "to begin to freeze, form a crust." Spelling adopted the Latin form 15c.-17c. The mineral has been so-called since Old English; it was regarded by the ancients as a sort of fossilized ice. As a shortened form of crystal-glass it dates from 1590s. As an adjective, from late 14c.
 3. 定义：
    1. transparent glass of very high quality, usually with its surface cut into delicate patterns 水晶玻璃
+
    2. a piece of a substance that has become solid, with a regular shape 结晶体 
+
    3. clear transparent rock that is used in jewellery, or a piece of this 水晶；水晶饰品
-   4. crystal clear 
+
+   4. 清楚明了的；明白无误的；显而易见的/清澈透明
+
+      crystal clear 
       very easy to understand
-      清楚明了的；明白无误的；显而易见的/清澈透明 
-=======
+
+      ​
+
 
 
 @aqua 2018-03-17
 
-**Psychology** /saɪˈkɑː.lə.dʒi/ 心理学
+#### **Psychology** /saɪˈkɑː.lə.dʒi/ 心理学
 
 1. 助记,
 
@@ -335,7 +341,7 @@ UK /[ɪˈstæblɪʃ/ US /[ɪˈstæblɪʃ/
    希腊神话中，普绪克（Psyche）是一名美貌的凡人少女。她长得如此美丽，以至于人们都认为她是爱神阿芙洛狄忒下凡，不再去供奉真正的阿芙洛狄忒了。阿芙洛狄忒十分气愤，就命令儿子厄洛斯下凡，用爱情之箭让普绪克爱上一名丑陋的怪兽。没想到厄洛斯一看到普绪克，惊为天人，竟然爱上了普绪克。厄洛斯杀死了怪兽，并让普绪克住在自己的神殿里，每天夜里与她幽会，但不许她点灯看见自己的脸。
    普绪克的名字Psyche在希腊语中就是“灵魂”的意思。从她的名字中产生了表示“灵魂、精神、心理”的英语单词
 
-**Coalesce**/koʊ.əˈles/  联合
+#### **Coalesce**/koʊ.əˈles/  联合
 
 1. 助记,
 
