@@ -4,6 +4,116 @@
 
 **Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can’t stop our movement down this river and we can’t avoid those encounters. We can only approach them in the best possible way.**
 
+@Grace 
+
+2018-03-18
+
+#### **Encounter**
+
+UK /ɪnˈkaʊn.tər/ US /ɪnˈkaʊn.t̬ɚ/
+
+1. 助记,
+
+   “en-”+“counter” = 进入相对状态，即面对面遭遇。
+
+   **en-**：进入，使，'in'。
+
+   **counter**： 相对， 'contra,against’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the senses ‘meet as an adversary’ and ‘a meeting of adversaries’; formerly also as incounter): from Old French encontrer (verb), encontre (noun), based on Latin in- ‘in’ + contra ‘against’.
+
+   **Etymology**
+
+   c. 1300, "meeting of adversaries, confrontation," from Old French encontre"meeting; fight; opportunity" (12c.), noun use of preposition/adverb encontre"against, counter to" from Late Latin incontra "in front of," from Latin in- "in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + contra "against" (see [contra](https://www.etymonline.com/word/contra?ref=etymonline_crossreference)). Modern use of the word in psychology is from 1967, from the work of U.S. psychologist Carl Rogers.Encounter group attested from 1967.
+
+3. 释义,
+
+   n. 1)相遇，邂逅**a meeting, especially one that happens by chance;**
+
+   ​     2)（意外、突然或暴力的）遭遇，冲突**an occasion when people have sex, usually with someone they have not met before;**
+
+   ​     3)（体育）比赛，交锋**an occasion when two teams play against each other**
+
+   v. 1)偶然碰到；意外地遇见；与…邂逅(meet)**to meet someone unexpectedly**
+
+   ​    2)遭遇，遇到（尤指令人不快或困难的事）(experience)**to experience something, especially something unpleasant**
+
+4. 同义词辨析
+
+   **encounter**                          v.  遭遇； [正式]偶然碰到。尤指遇到困难、问题或他人的反对，也指偶遇某人。
+
+   **meet**                                    v. 遇见，会面。普通用词，指偶然相遇或在事先约好的地方与某人见面，不用被动语态。
+
+   **bump into**                          v. 巧遇，碰到。指意外地遇见相识的人。
+
+   **come across/run across** v. 偶然遇见，偶然发现。指偶然遇见或发现某人或某物。
+
+   **comfront**                            v. 使遇到，使面对。通常指遇到问题、困境等。
+
+   **face**                                      v. 面临，面对。指面临必须处理的困难局面，或指与某人交往，而这种交往通常令人不快或难以应对。
+
+   **run into**                               v. 遇到； [非正式]偶然遇见。指遇到困难或不利局势，也可指偶然碰见某人。
+
+   ​
+
+#### Influence**
+
+UK /ˈɪnfluəns/ US /ˈɪnfluəns/
+
+1. 助记,
+
+   “in-”+“flu-”+"-ence" = flow into，流进，引申词义影响。
+
+   **in-**：表示“在内，进入，使...”，‘into’。
+
+   **flue**：表示“流动”，来自拉丁语，'flow'。
+
+   **-ence**：表名词，“性质，状态”。
+
+   另一说法：a planet's flowing into some area, which was supposed to work on other planets某行星流入某方位，古时候认为这对其他行星有所影响
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French, or from medieval Latin influentia ‘inflow’, from Latin influere, from in- ‘into’ + fluere ‘to flow’. The word originally had the general sense ‘an influx, flowing matter’, also specifically (in astrology) ‘the flowing in of ethereal fluid (affecting human destiny)’. The sense ‘imperceptible or indirect action exerted to cause changes’ was established in Scholastic Latin by the 13th century, but not recorded in English until the late 16th century.
+
+   **Etymology**
+
+   late 14c., an astrological term, "streaming ethereal power from the stars when in certain positions, acting upon character or destiny of men," from Old Frenchinfluence "emanation from the stars that acts upon one's character and destiny" (13c.), also "a flow of water, a flowing in," from Medieval Latin influentia "a flowing in" (also used in the astrological sense), from Latin influentem(nominative influens), present participle of influere "to flow into, stream in, pour in," from in- "into, in, on, upon" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + fluere "to flow" (see [fluent](https://www.etymonline.com/word/fluent?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1) 影响；作用**the effect that sb/sth has on the way a person thinks or behaves or on the way that sth works or develops**
+
+   ​     2)支配力；控制力；影响力**the power that sb/sth has to make sb/sth behave in a particular way**
+
+   ​     3)有影响的人（或事物）**a person or thing that affects the way a person behaves and thinks**
+
+   v. 1)影响；对…起作用**to have an effect on the way that sb behaves or thinks, especially by giving them an example to follow**
+
+   ​    2)支配；左右**to have an effect on a particular situation and the way that it develops**
+
+4. 相关词语和词组
+
+   **influential** adj. 有很大影响的,有支配力的
+
+   **under the influence** [口语]喝醉酒
+
+   **influence pedding** (从政者的)以权谋利,索贿
+
+5. 同义词辨析
+
+   **influence** v. 影响。通常指潜移默化地起作用。
+
+   **affect**        v. 影响。通常由物作主语，多产生消极作用。
+
+   **impress**    v. 给…留下深刻印象。指给人留下很深的印象，从而受到影响和感动，比 affect 影响更深，时间更长。
+
 
 
 ## 1. My Call To Adventure:**1949–1967**
