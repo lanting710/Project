@@ -18,7 +18,12 @@
 
 #### meditation /ˌmed.ɪˈteɪ.ʃən/
 
-1. 助记：来自动词 meditate ,源自med-原始印欧语词根med-（思考、深思熟虑）与measure 同源。在脑海里的思索与考虑，并引申为冥想，沉思。古希腊著名数学家阿基米德的名字Archimedes就是“聪明绝顶”的意思。
+1. 助记：
+
+   来自动词 meditate ,源自med-原始印欧语词根med-（思考、深思熟虑）与measure 同源。在脑海里的思索与考虑，并引申为冥想，沉思。
+
+   古希腊著名数学家阿基米德的名字Archimedes就是“聪明绝顶”的意思。
+
 2. 词源：
 
 3. 定义：
@@ -27,6 +32,30 @@
    2. to think calm thoughts in order to relax or as a religious activity:
       冥想，沉思
 
+
+**Meditate** /ˈmed.ɪ.teɪt
+
+1. 助记,
+
+   词源med, measure离思考比较远.
+
+   关联到单词metal.
+
+2.  词源,
+
+   from a base meaning ‘measure’; related to mete.  *med
+
+   **Oxford Origin**
+   Mid 16th century: from Latin meditat- ‘contemplated’, from the verb meditari, from a base meaning ‘measure’; related to mete.
+   **Etymology**
+   1580s, "to ponder," back-formation from meditation, or else from Latin meditatus, past participle of meditari "to meditate, think over, reflect, consider," frequentative form of PIE root *med- "take appropriate measures." Related: Meditated; meditating.
+
+3. 定义, 
+
+   Cambridge : To think calm thoughts in order to relax or as a religious activity
+   Oxford: Focus one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation.
+
+   ​
 
 #### inevitable /ɪˈnev.ɪ.tə.bəl/
 
@@ -41,11 +70,18 @@
 
 1. 助记：plummet /‘plʌmɪt/ n. 铅锤，坠子 vi. 垂直落下,
    来自古法语plomet,铅，铅球. plumb-=lead，作为名词，表示铅；-et为名词后缀，表示小东西。铅很重，所以引申为“铅垂，垂直下落”。同根词 plunge vi. 投入；跳进；陷入
+
 2. 词源：
-   etymology
+
+   **Origin** 
+
+   Late Middle English: from Latin inevitabilis, from in- ‘not’ + evitabilis ‘avoidable’ (from evitare ‘avoid’).
+
+   **Etymology**
    ate 14c., "ball of lead, plumb of a bob-line," from Old French plomet "graphite, lead; plummet, sounding lead," diminutive of plom "sounding lead" (see plumb (n.)).
    plumb
    lead hung on a string to show the vertical line," early 14c., from Old French *plombe, plomee "sounding lead," and directly from Late Latin *plumba, originally plural of Latin plumbum "lead (the metal), lead ball; pipe; pencil," a word of unknown origin, related to Greek molybdos "lead" (dialectal bolimos) and perhaps from an extinct Mediterranean language, perhaps Iberian.
+
 3. 定义：
     to fall very quickly and suddenly 非常突然，急速的下降
 
@@ -59,11 +95,103 @@
 
 
 
+**Model** /ˈmɑː.dəl/ 模型
+
+1. 助记,
+
+   model,词根med,词源同measure.
+
+   mold模具, (模具的英式拼写是mould), 
+
+   模型是从mold模具里造出来的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century (denoting a set of plans of a building): from French modelle, from Italian modello, from an alteration of Latin modulus (see modulus).
+
+   **Etymology**
+
+   1570s, "likeness made to scale; architect's set of designs," from Middle French modelle (16c., Modern French modèle), from Italian modello **"a model, mold,"** from Vulgar Latin *modellus, from Latin modulus **"a small measure, standard,"** diminutive of modus "manner, measure" (from PIE root [*med-](https://www.etymonline.com/word/*med-?ref=etymonline_crossreference) "take appropriate measures").Sense of **"thing or person to be imitated"** is 1630s. Meaning "motor vehicle of a particular design" is from 1900 (such as Model T, 1908; Ford's other early models included C, F, and B). Sense of "artist's model" is first recorded 1690s; that of "fashion model" is from 1904. German, Swedish modell, Dutch, Danish model are from French or Italian.
+
+3. 释义,
+
+   1)模范，典型，榜样
+
+    something that a copy can be based on because it is anextremely good example of itstype
+
+   2) 模型molA three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original.
+
+   3) Verb 模拟, 模拟；用模型展示**to make a model of something**
+
+4. 拓展,
+
+   Mold(mould) (from PIE root [*med-](https://www.etymonline.com/word/*med-?ref=etymonline_crossreference) "take appropriate measures").
+
+   module(注意这个单词的发音,是/ˈmɑː.dʒuːl/ 骂椒奥 )
+
+   **Origin**
+
+   Late Middle English: probably from obsolete mould, past participle of moul ‘grow moldy’, of Scandinavian origin; compare with Old Norse mygla ‘grow moldy’.
+
+   ​
+
+**Market**
+
+1. 助记,
+
+   源自法语, from past participle of mercari "to trade, deal in,** buy,
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English, via Anglo-Norman French from Latin mercatus, from mercari ‘buy’ (see also merchant).
+
+   **Etymology**
+
+   early 12c., "a meeting at a fixed time for buying and selling livestock and provisions," from Old North French market "marketplace, trade, commerce" (Old French marchiet, Modern French marché), from Latin mercatus"trading, buying and selling, trade, market" (source of Italian mercato, Spanish mercado, Dutch markt, German Markt), **from past participle of mercari "to trade, deal in,** buy," from merx (genitive mercis) "wares, merchandise."This is from an Italic root *merk-, possibly from Etruscan, referring to various aspects of economics. Meaning "public building or space where markets are held" first attested mid-13c. Sense of "sales, as controlled by supply and demand" is from 1680s. Market value (1690s) first attested in writings of John Locke. Market economy is from 1948; market research is from 1921.
+
+3. 释义,
+
+   1) 集市，市集；市场, a place or event at whichpeople meet in order to buy andsell things
+
+4. 拓展
+
+   Merchant 商人
+
+   Middle English: from Old French marchant, based on Latin mercari ‘to trade’, from merx, merc- ‘merchandise’.
+
 
 
 ### Building The Business
 
 
+
+**Build**
+
+1. 助记,
+
+   build, 源自古英语bold(房子)
+
+2. 词源,
+
+   **Origin**
+
+   Old English byldan, from bold, botl ‘dwelling’, of Germanic origin; related to bower.
+
+   **Etymology**
+
+   Middle English bilden, from late Old English byldan "construct a house," **verb form of bold "house,"** from Proto-Germanic *buthla- (source also of Old Saxon bodl, Old Frisian bodel "building, house"), from PIE *bhu- "to dwell," from root[*bheue-](https://www.etymonline.com/word/*bheue-?ref=etymonline_crossreference) "to be, exist, grow." Rare in Old English; in Middle English it won out over more common Old English timbran (see [timber](https://www.etymonline.com/word/timber?ref=etymonline_crossreference)). Modern spelling is unexplained. Figurative use from mid-15c. Of physical things other than buildings from late 16c. Related: Builded (archaic); [built](https://www.etymonline.com/word/built?ref=etymonline_crossreference); [building](https://www.etymonline.com/word/building?ref=etymonline_crossreference).In the United States, this verb is used with much more latitude than in England. There, as Fennimore Cooper puts it, everything is BUILT. The priest BUILDS up a flock; the speculator a fortune; the lawyer a reputation; the landlord a town; and the tailor, as in England, BUILDS up a suit of clothes. A fire is BUILT instead of made, and the expression is even extended to individuals, to be BUILT being used with the meaning of formed. [Farmer, "Slang and Its Analogues," 1890]
+
+3. 释义,
+
+   1) 建造，修建to make something by putting bricks or other materials together
+
+   2) 建立；发展；开辟to create and develop something over a long period of time
+
+   ​
 
 
 
@@ -72,6 +200,22 @@
 
 
 ### A Silver Roller Coaster
+
+
+
+**Roller Coaster** /ˈroʊ.lɚ ˌkoʊ.stɚ/ 急转突变,过山车
+
+1. 助记,(略)
+
+2. 词源(略)
+
+3. 释义,
+
+   1) 过山车，云霄飞车[ C ] an exciting entertainment in an amusement park, like a fast train that goes up and down very steep slopes and around very sudden bends
+
+   2)（局势的）急转突变，变幻莫测；（情绪的）大起大落[ S ] a situation which changes from one extreme to another, or in which a person's feelings change from one extreme to another
+
+   ​
 
 
 
@@ -86,6 +230,38 @@
 
 
 
+
+**Depression** **/dɪˈpreʃ.ən/ 萧条
+
+1. 助记
+
+   de(down) + press 
+
+   被按压下去
+
+2. 词源,
+
+   **Origin**
+
+   Late Middle English: from Latin depressio(n-), from deprimere ‘press down’ (see depress).
+
+   **Etymology**
+
+   late 14c. as a term in astronomy, from Old French depression (14c.) or directly from Latin depressionem(nominative depressio), noun of action from past participle stem of deprimere **"to press down, depress"** (see [depress](https://www.etymonline.com/word/depress?ref=etymonline_crossreference)).
+
+   Attested from 1650s in the literal sense; meaning "dejection, depression of spirits" is from early 15c. (as a clinical term in psychology, from 1905); meteorological sense is from 1881 (in reference to barometric pressure); meaning "a lowering or reduction in economic activity" was in use by 1826; given a specific application (with capital D-) by 1934 to the one that began worldwide in 1929. For "melancholy, depression" an Old English word was grevoushede.
+
+3. 释义,
+
+   1) 忧郁，抑郁；消沉，沮丧the state of feeling very unhappy and without hope for the future
+
+   2) （经济）萧条期，不景气时期
+
+   a period in which there is very little business activity and not many jobs
+
+    
+
+   ​
 
 <img src='https://ws2.sinaimg.cn/large/006tNc79gy1fpg8rztq08j30qe0wwjuc.jpg' style='zoom:40%'>
 
@@ -203,6 +379,10 @@ Venture/ˈven.tʃɚ/ 冒险
 1. 助记,
    Inflat(e)+ion
 
+   in(into) + flat(blow) + ion
+
+   blow into 膨胀就是往里吹气.
+
 2. 词源,
    **OED Origin**
 
@@ -231,10 +411,18 @@ Venture/ˈven.tʃɚ/ 冒险
 
 
 
- **Parity** /ˈper.ə.t̬i/ 平价
+ **Parity** /ˈper.ə.t̬i/ 等同的,
 
 1. 助记,
    Par(i)+ty
+
+   词源同pair
+
+   partiy, pair,等同的是公平和平等..
+
+   Risk Parity是风险1:1:1:1..
+
+   翻译成风险平价是行业黑话.
 
 2. 词源,
    **OED Origin**
@@ -252,6 +440,7 @@ Venture/ˈven.tʃɚ/ 冒险
 
    parity : 来自拉丁语par,对等，等同，词源同pair
 
+   ​
 
 
 ### To Remain A Beautiful Boutique Or Become A Great Institution?
@@ -317,6 +506,12 @@ Venture/ˈven.tʃɚ/ 冒险
 ## 6. RETURNING THE BOON:  2011–2015
 
 
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/1019px-Heroesjourney.svg.png' style='zoom:50'>
+
+[Hero's journey - Wikipedia](https://en.wikipedia.org/wiki/Hero%27s_journey)
+
+![Screen Shot 2018-03-18 at 11.52.11 PM](https://ws4.sinaimg.cn/large/006tKfTcgy1fphexo86nmj310y0pgdij.jpg)
 
 
 
