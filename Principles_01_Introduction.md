@@ -98,6 +98,115 @@ After that, there will be no advice I can give that will not be available in the
 
 # Vocabulary
 
+@Grace 2018-03-17
+
+#### **Enormously**
+
+UK /ɪˈnɔː.məs.li/ US /əˈnɔːr.məs.li/
+
+1. 助记,
+
+   “e-”+“norm-”+"-ous"+"-ly" = "being out of rule" 在常规之外的
+
+   **e-**：表示“从，从...离开，从...向外，向外，向上”，来自PIE*eghs,向外，‘out of’。
+
+   **norm-**： rule, norm, 表示“规则，规范，正常”，来自拉丁语norma， ‘pattern, standard，model’，在英语中被使用的含义是“木工尺，矩尺”，’carpenter's square‘。
+
+   **-ous**： 表形容词，表示“…的”，’having, full of, having to do with, doing, inclined to‘。
+
+   **-ly**：表副词，通常放在形容词后。
+
+2. 词源,
+
+   **enormous** (adj.)
+
+   **OED Origin**
+
+   Mid 16th century: from Latin enormis ‘unusual, huge’ (see enormity) + -ous.
+
+   **Etymology**
+
+   1530s, "abnormal" (usually in a bad sense), from Latin enormis "out of rule, irregular, shapeless; extraordinary, very large," from assimilated form of ex "out of" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + norma "rule, norm" (see [norm](https://www.etymonline.com/word/norm?ref=etymonline_crossreference)), with English [-ous](https://www.etymonline.com/word/-ous?ref=etymonline_crossreference) substituted for Latin -is. Meaning "extraordinary in size" is attested from 1540s; original sense of "outrageous" is more clearly preserved in [enormity](https://www.etymonline.com/word/enormity?ref=etymonline_crossreference). Earlier was enormyous(mid-15c.) "exceedingly great, monstrous." Related: Enormously; enormousness.
+
+3. 释义,
+
+   adv. 非常，极其**very,very much,extremely large,Very large in size, quantity, or extent**​
+
+4. 相关词语和词组
+
+   **enormity** n. 巨大，深远影响，严重性；滔天罪行，罪大恶极
+
+   **enormous** adj. 巨大的，庞大的，极大的
+
+   **enormously rich/powerful/grateful** 非常富有/强大/感激
+
+5. 同义词辨析
+
+   **enormous**    adj. 巨大的，庞大的。指体积、数量或程度巨大的。
+
+   **huge**              adj. 巨大的，庞大的。含义很广，指体积、数量、程度方面极大的，但通常不用于重量。
+
+   **colossal**        adj. 巨大的，庞大的。通常指体积或总量极大的。
+
+   **giant**              adj. 巨大的，庞大的。只作定语，指比其他同类事物大的。
+
+   **gigantic**         adj.  巨大的，庞大的。指规格、数量或程度巨大的，含超出常规或预想之意。
+
+   **immense**       adj.  巨大的，广大的，无限的。指无边无际，非一般衡量标准能度量。常用于指立体或空间。
+
+   **vast**                adj. 巨大的，广阔的，浩瀚的。强调空间的广度、事物程度或范围很大。
+
+   **tremendous** adj. 巨大的，极大的。指出奇的或惊人的大。
+
+   ​
+
+#### Similar**
+
+UK /ˈsɪmələ(r)/ US /ˈsɪməlɚ/
+
+1. 助记,
+
+   “simil-”+“-ar”
+
+   **simil-**：来自拉丁语similis，表示“相类似，一样”， ‘together,one,as one’，来自PIE*sem，“一，一样”， ’same, the same, equal, like’，词源同same,simple。
+
+   **-ar**：形容词后缀，表示“属于…的，有…性质的，如…的”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century (also as a term in anatomy meaning ‘homogeneous’): from French similaire or medieval Latin similaris, from Latin similis ‘like’.
+
+   **Etymology**
+
+   "having characteristics in common," 1610s (earlier similary, 1560s), from Frenchsimilaire, from a Medieval Latin extended form of Latin similis "like, resembling, of the same kind," from Old Latin semol "together," from PIE root [*sem-](https://www.etymonline.com/word/*sem-?ref=etymonline_crossreference) (1) "one; as one, together with." The noun meaning "that which is similar" is from 1650s. Related: Similarly.
+
+3. 释义,
+
+   adj. 相像的；相仿的；类似的**like sb/sth but not exactly the same**
+
+   n. 类似物;相像的人;相似物**A person or thing similar to another**
+
+4. 相关词语和词组
+
+   **similarity** n. 相似性，类似性；相似处，相似点，类似的地方
+
+   **similarly** adv. 相似地，类似地，差不多地；同样，也
+
+5. 同义词辨析
+
+   **similar**          adj. 相似的，类似的。指不同的人或事物之间部分相似但不完全相同的，暗含可暂不考虑或忽略其差异之意。
+
+   **same**             adj. 相同的，一样的。指两个或多个人或物有相同之处。
+
+   **alike**              adj. 相同的，相象的。指有某种关系而相象，用作表语。
+
+   **comparable** adj. 类似的，可相比的。指在大小、数量、价值、能力等方面有相似之处的，可作有限或粗略的对比。
+
+   **identical**       adj. 同一的；完全相同的。语气最强，可用于强调同一个人或事物，也可指数个人或事物之间完全没有差别的。
+
+
 
 @Grace 2018-03-16
 
