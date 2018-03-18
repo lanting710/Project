@@ -16,9 +16,38 @@
 
 ## 2. Crossing The Threshold: **1967–1979**
 
+#### meditation /ˌmed.ɪˈteɪ.ʃən/
+
+1. 助记：来自动词 meditate ,源自med-原始印欧语词根med-（思考、深思熟虑）与measure 同源。在脑海里的思索与考虑，并引申为冥想，沉思。古希腊著名数学家阿基米德的名字Archimedes就是“聪明绝顶”的意思。
+2. 词源：
+
+3. 定义：
+   1. to think seriously about something for a long time:
+      深思，考虑
+   2. to think calm thoughts in order to relax or as a religious activity:
+      冥想，沉思
 
 
+#### inevitable /ɪˈnev.ɪ.tə.bəl/
 
+1. 助记：inevitable : in-,不，非，e-,向外，-vit,分开，离开，词源同divide,widow.即不可离开的，肯定在的，引申词义不可避免的。
+2. 词源：
+   etymology
+   unavoidable," mid-15c., from Latin inevitabilis "unavoidable," from in- "not, opposite of" (see in- (1)) + evitabilis "avoidable," from evitare "to avoid," from ex "out" (see ex-) + vitare "shun," originally "go out of the way." As a noun from 1850. Related: Inevitableness.
+   in- 两种基本意思：1. 表示"向内,成为,进入,使……"; 2. 表示"不,无,非"
+3. 定义： certain to happen and unable to be avoided or  prevented: 一定发生的，不可避免的
+
+#### plummet /ˈplʌm.ɪt/
+
+1. 助记：plummet /‘plʌmɪt/ n. 铅锤，坠子 vi. 垂直落下,
+   来自古法语plomet,铅，铅球. plumb-=lead，作为名词，表示铅；-et为名词后缀，表示小东西。铅很重，所以引申为“铅垂，垂直下落”。同根词 plunge vi. 投入；跳进；陷入
+2. 词源：
+   etymology
+   ate 14c., "ball of lead, plumb of a bob-line," from Old French plomet "graphite, lead; plummet, sounding lead," diminutive of plom "sounding lead" (see plumb (n.)).
+   plumb
+   lead hung on a string to show the vertical line," early 14c., from Old French *plombe, plomee "sounding lead," and directly from Late Latin *plumba, originally plural of Latin plumbum "lead (the metal), lead ball; pipe; pencil," a word of unknown origin, related to Greek molybdos "lead" (dialectal bolimos) and perhaps from an extinct Mediterranean language, perhaps Iberian.
+3. 定义：
+    to fall very quickly and suddenly 非常突然，急速的下降
 
 ### Starting the BridgeWater
 
