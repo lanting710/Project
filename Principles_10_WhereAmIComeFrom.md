@@ -103,6 +103,8 @@
 
 
 
+
+
 ## 4. My Road of Trials 1983-1994
 
 
@@ -116,6 +118,29 @@
 
 
 ### Venturing Behind The "Closed Door" Of China
+
+
+
+Venture/ˈven.tʃɚ/ 冒险
+
+1. 助记,
+   adventure
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (in the sense ‘adventure’, **also ‘risk the loss of**’): shortening of adventure.
+
+   **Etymology**
+
+   c. 1400, "fortune, chance," **shortening of aventure (n.), a variant of [adventure](https://www.etymonline.com/word/adventure?ref=etymonline_crossreference) (n.);** also from Anglo-French venture. Sense of "risky undertaking" first recorded 1560s; meaning "enterprise of a business nature" is recorded from 1580s. Venture capital is attested from 1943.
+
+3. 释义,
+   冒险 a new activity, usually in business, that involves risk or uncertainty
+
+4. 拓展
+
+   venture : 缩写自adventure,风险。
 
 
 
@@ -173,6 +198,27 @@
 
 
 
+ **Inflation** /ɪnˈfleɪ.ʃən/ 通货膨胀
+
+1. 助记,
+   Inflat(e)+ion
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘the condition of being inflated with a gas’): **from Latin inflatio(n-), from inflare ‘blow in to’ (see inflate)**. inflation (sense 2) dates from the mid 19th century.
+
+   **Etymology**
+
+   mid-14c., "swelling caused by gathering of 'wind' in the body; flatulence," also, figuratively, "outbursts of pride," **from Latin inflationem (nominative inflatio) "a puffing up, a blowing into;** flatulence," noun of action from past participle stem of inflare "blow into, puff up," figuratively "inspire, encourage," from in- "into" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + flare "to blow" (from PIE root [*bhle-](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) "to blow"). 
+
+3. 释义,
+   通货膨胀  a general, continuous increase in prices
+
+4. 拓展
+
+    inflation : 来自inflate,膨胀。用于经济学术语通货膨胀。
+
 
 
 ### Discovering Inflation-Indexed Bonds
@@ -184,6 +230,27 @@
 ### Discovering Risk Parity
 
 
+
+ **Parity** /ˈper.ə.t̬i/ 平价
+
+1. 助记,
+   Par(i)+ty
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: **from late Latin paritas, from par ‘equal’.**
+
+   **Etymology**
+
+   1570s, "equality of rank or status," from Middle French parité (14c.) or directly from Late Latin paritas "equality," **from Latin adjective par (genitive paris) "equal" (see [par](https://www.etymonline.com/word/par?ref=etymonline_crossreference) (n.))**. Meaning "condition in which adversaries have equal resources" is from 1955, originally in reference to the U.S.A. and the U.S.S.R.
+
+3. 释义,
+   平价 equality, especially of pay or position
+
+4. 拓展
+
+   parity : 来自拉丁语par,对等，等同，词源同pair
 
 
 
