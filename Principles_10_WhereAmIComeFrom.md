@@ -369,7 +369,6 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
    a period in which there is very little business activity and not many jobs
 
-    
 
    ​
 
