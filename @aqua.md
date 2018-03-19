@@ -549,7 +549,9 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 **Parameter** /pəˈræm.ə.t̬ɚ/ 参数
 
 1. 助记,
-   Para+meter
+   Para(beside,near)+meter
+   在附近测量,
+   比如三点确定一个圆,就是在圆心附近找三个点,来划定一个圆的范围.
 
 2. 词源,
    **OED Origin**
@@ -561,7 +563,10 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    1650s in geometry, from Modern Latin parameter (1630s), **from Greek para- "beside, subsidiary" (see [para-](https://www.etymonline.com/word/para-?ref=etymonline_crossreference) (1)) + metron "measure" (from PIE root [*me-](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference) (2) "to measure").**
 
 3. 释义,
-   参数 a set of facts or a fixed limit that establishes or limits how something can or musthappen or be done
+   限定因素 a set of facts or a fixed limit that establishes or limits how something can or musthappen or be done
+   Technical A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.
+   ‘there are three parameters by which a speaker is able to modify the meaning of the utterance—pitch, volume, and tempo’
+
 
 4. 拓展
 
@@ -573,6 +578,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
    Arg+ument
+   Argos，百眼巨人,含义是“明亮的、发亮的”。
+   论据,用眼睛可以看到的,眼见为实的.
 
 2. 词源,
    **OED Origin**

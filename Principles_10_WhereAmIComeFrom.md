@@ -171,29 +171,101 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
 1. 助记：inevitable : in-,不，非，e-,向外，-vit,分开，离开，词源同divide,widow.即不可离开的，肯定在的，引申词义不可避免的。
 2. 词源：
-   etymology
-   unavoidable," mid-15c., from Latin inevitabilis "unavoidable," from in- "not, opposite of" (see in- (1)) + evitabilis "avoidable," from evitare "to avoid," from ex "out" (see ex-) + vitare "shun," originally "go out of the way." As a noun from 1850. Related: Inevitableness.
+   **Origin** 
+   Late Middle English: from Latin inevitabilis, from in- ‘not’ + evitabilis ‘avoidable’ (from evitare ‘avoid’).
+
+   **etymology**
+   unavoidable," mid-15c., from Latin inevitabilis "unavoidable," from in- "not, opposite of" (see in- (1)) + evitabilis "avoidable," f
+   rom evitare "to avoid," from ex "out" (see ex-) + vitare "shun," originally "go out of the way." As a noun from 1850. Related: Inevitableness.
    in- 两种基本意思：1. 表示"向内,成为,进入,使……"; 2. 表示"不,无,非"
 3. 定义： certain to happen and unable to be avoided or  prevented: 一定发生的，不可避免的
 
-#### plummet /ˈplʌm.ɪt/
+
+**plummet** /ˈplʌm.ɪt/ 暴跌
 
 1. 助记：plummet /‘plʌmɪt/ n. 铅锤，坠子 vi. 垂直落下,
-   来自古法语plomet,铅，铅球. plumb-=lead，作为名词，表示铅；-et为名词后缀，表示小东西。铅很重，所以引申为“铅垂，垂直下落”。同根词 plunge vi. 投入；跳进；陷入
+
+   来自古法语plomet,铅，铅球. plumb-=lead，作为名词，表示铅；-et为名词后缀，表示小东西。铅很重，所以引申为“铅垂，垂直下落”。
+
+   同根词 plunge vi. 投入；跳进；陷入
 
 2. 词源：
 
-   **Origin** 
+   **Origin**
 
-   Late Middle English: from Latin inevitabilis, from in- ‘not’ + evitabilis ‘avoidable’ (from evitare ‘avoid’).
+   Late Middle English (as a noun): from Old French plommet ‘small sounding lead’, **diminutive of plomb ‘lead’**. The current verb sense dates from the 1930s.
 
-   **Etymology**
-   ate 14c., "ball of lead, plumb of a bob-line," from Old French plomet "graphite, lead; plummet, sounding lead," diminutive of plom "sounding lead" (see plumb (n.)).
-   plumb
-   lead hung on a string to show the vertical line," early 14c., from Old French *plombe, plomee "sounding lead," and directly from Late Latin *plumba, originally plural of Latin plumbum "lead (the metal), lead ball; pipe; pencil," a word of unknown origin, related to Greek molybdos "lead" (dialectal bolimos) and perhaps from an extinct Mediterranean language, perhaps Iberian.
+    **Etymology**
+
+   Late 14c., "ball of lead, plumb of a bob-line," from Old French plomet "graphite, lead; plummet, sounding lead," diminutive of plom "sounding lead" (see plumb (n.)).
+
+   *plumb*
+
+   Middle English (originally in the sense ‘sounding lead’): via Old French from Latin plumbum ‘l
+
+   ead’.
+
+    lead hung on a string to show the vertical line," early 14c., from Old French *plombe, plomee "sounding lead," and directly from Late Latin *plumba, originally plural of Latin plumbum "lead (the metal), lead ball; pipe; pencil," a word of unknown origin, related to Greek molybdos "lead" (dialectal bolimos) and perhaps from an extinct Mediterranean language, perhaps Iberian.
 
 3. 定义：
-    to fall very quickly and suddenly 非常突然，急速的下降
+
+   ​    to fall very quickly and suddenly 非常突然，急速的下降
+
+**Plumb**  /plʌm/  铅直
+
+1. 助记,
+
+   Plum - lead 铅直
+
+   水管工需要测量安装水管的铅直度.
+
+2. 词源, 
+
+   **OED Origin**
+
+   Late 19th century (in the sense ‘work as a plumber’): back-formation from plumber.
+
+   *Late 19th century (in the sense ‘work as a plumber’): back-formation from plumber.*
+
+   **Etymology**
+
+   "lead hung on a string to show the vertical line," early 14c., from Old French *plombe, plomee"sounding lead," and directly from Late Latin *plumba, originally plural of Latin plumbum"lead (the metal), lead ball; pipe; pencil," a word of unknown origin, related to Greek molybdos"lead" (dialectal bolimos) and perhaps from an extinct Mediterranean language, perhaps Iberian.
+
+3. 释义,
+
+   1) 给…装水管(WATER)
+
+   to supply a building or a device with water pipes, or to connect a building or a device to a water pipe
+
+   2)  测（尤指水）的深度engineering to measure how deep something is, especially water
+
+   3) 完全，彻底(COMPLETELY)
+    completely
+
+   4) 垂直的 exactly straight, usually describing a vertical surface or line
+
+   ​
+
+**Plumber** /ˈplʌm.ɚ/ 水管安装工
+
+1. 助记,
+
+    安装水管,需要用到'铅坠'测量水管的垂直度.
+
+2. 词源,
+
+    **OED Origin**
+
+    Late Middle English (originally denoting a person dealing in and working with lead): from Old French plommier, from Latin plumbarius, from plumbum ‘lead’.
+
+    **Etymology**
+
+    late 14c. (from c. 1100 as a surname), "a worker in any sort of lead" (roofs, gutters, pipes), from Old French plomier "lead-smelter" (Modern French plombier) and directly from Latin plumbarius "worker in lead," noun use of adjective meaning **"pertaining to lead,"** from plumbum "lead" (see [plumb](https://www.etymonline.com/word/plumb?ref=etymonline_crossreference) (n.)). Meaning focused 19c. on "workman who installs pipes and fittings" as lead water pipes became the principal concern of the trade. In U.S. Nixon administration (1969-74), the name of a special unit for investigation of "leaks" of government secrets.
+
+3. 释义,
+
+    1) 管子工，水暖工**a person whose job is tosupply and connect or repairwater pipes, baths, toilets, etc.**
+
 
 ### Starting the BridgeWater
 
@@ -331,6 +403,106 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
 ### Expanding The Team
 
+
+
+
+**Expand** /ɪkˈspænd/ 扩展
+
+1. 助记,
+
+   ex (out) + pand(pace,step) 向外迈出一步,即是扩展.
+
+   pace(一步；一步之距): a single step, or thedistance you move when you take a single step
+
+   ex- ‘out’ + pandere ‘to spread’
+
+   PIE root [*pete-](https://www.etymonline.com/word/*pete-?ref=etymonline_crossreference) "to spread"
+
+2. 词源,
+
+   **OED  Origin**
+
+   Late Middle English: from Latin expandere ‘to spread out’, from ex- ‘out’ + pandere ‘to spread’.
+
+   **Etymology**
+
+   early 15c., "spread out, open out, spread flat, extend widely;" also transitive, "cause to grow larger;" from Anglo-French espaundre, Old French espandre "spread, spread out, be spilled," and directly from Latin expandere "to spread out, unfold, expand," from ex "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + pandere "to spread, stretch" (from nasalized form of PIE root [*pete-](https://www.etymonline.com/word/*pete-?ref=etymonline_crossreference) "to spread"). Related: Expanded; expanding.
+
+3. 释义,
+
+   1) （使）（尺寸、数量或重要性）扩大，增加；（使）膨胀
+
+   to increase in size, number, or importance, or to make something increase in this way
+
+4. 拓展, 
+
+   expansion /ɪkˈspæn.ʃən/
+
+   （尺寸、数量或重要性的）扩大，增加，扩展 the increase of something in size, number, or importance
+
+   ​
+
+**Compass** /ˈkʌm.pəs/  指南针, 圆规
+
+1. 助记,
+
+   Com(together) + pass(pace)
+
+   走过的每一步的集合, 圆规画圆形是无数点的集合
+
+   指南针,是指导如何一步一步的走完行程.
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old Frech compas (noun), compasser (verb), based on Latin com- ‘together’ + passus ‘a step or pace’. Several senses (‘measure’, ‘artifice’, ‘circumscribed area’, and ‘pair of compasses’) which appeared in Middle English are also found in Old French, but their development and origin are uncertain. The transference of sense to the magnetic compass is held to have occurred in the related Italian word compasso, from the circular shape of the compass box.
+
+   **Etymology**
+
+   c. 1300, "space, area, extent, circumference," from Old French compas "circle, radius; size, extent; pair of compasses" (12c.), from compasser "to go around, measure (with a compass); divide equally," from Vulgar Latin *compassare "to pace out," from Latin com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + passus "a step" (from PIE root [*pete-](https://www.etymonline.com/word/*pete-?ref=etymonline_crossreference) "to spread").The mathematical instrument for describing circles was so called in English from mid-14c. The mariners' directional tool (so called since early 15c.) took the name, perhaps, because it's round and has a point like the mathematical instrument.Meaning "limits, boundary" is from 1550s. Sense of "range of notes which a given voice or instrument can produce" is from 1590s. The word is in most European languages, with a mathematical sense in Romance, a nautical sense in Germanic, and both in English. In Middle English it also could mean "ingenuity, subtlety, cunning." Also an adverb in Middle English: to go compass was "go in a circle, go around."
+
+3. 释义,
+
+   1)  (DIRECTION DEVICE) 指南针
+   a device for finding direction with a needle that can move easily and that always points to magnetic north
+
+   2)  (MEASURING DEVICE) 圆规
+   a V-shaped device that is used for drawing circles or measuring distances on maps
+
+   3) （能力、活动、兴趣等的）界限，范围，范畴 formal a particular range (of ability, activity, interest, etc.)
+
+
+
+**Pace** /peɪs/ 一步,步速
+
+1. 助记
+
+   from Old French pas, from Latin passus ‘stretch (of the leg)’, from pandere ‘to stretch’.
+
+   迈开腿走一步,是词根pete(spread)的原型.
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French pas, from Latin passus ‘stretch (of the leg)’, from pandere ‘to stretch’.
+
+   **Etymology**
+
+   late 13c., "a step in walking; rate of motion," from Old French pas "a step, pace, trace," and directly from Latin passus, passum "a step, pace, stride," noun use of past participle of pandere"to stretch (the leg), spread out," probably from PIE *pat-no-, nasalized variant form of root [*pete-](https://www.etymonline.com/word/*pete-?ref=etymonline_crossreference) "to spread." Also, "a measure of five feet" [Johnson]. Pace-setter in fashion is from 1895.
+
+3. 释义,
+
+   1) （移动的）步速；（发生的）速度；节奏 
+
+   the speed at which someone or something moves, or with which something happens or changes
+
+   2) 一步；一步之距
+
+   a single step, or the distance you move when you take a single step
+
+   ​
 
 
 
@@ -657,6 +829,12 @@ Venture/ˈven.tʃɚ/ 冒险
 
 
 ## 8. LOOKING BACK FROM A HIGHER LEVEL
+
+
+
+
+
+
 
 
 
