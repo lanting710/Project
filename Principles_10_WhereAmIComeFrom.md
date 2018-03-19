@@ -233,7 +233,7 @@ UK /pæl/ US /pæl/
 
    关联到单词metal.
 
-2.  词源,
+2. 词源,
 
    from a base meaning ‘measure’; related to mete.  *med
 
@@ -458,6 +458,11 @@ UK /pæl/ US /pæl/
    ​
 
 
+**Good sentences** :
+
+ While making money was good,having meaningful work and meaningful relationships was far better.
+
+
 
 ## 3. My Abyss 1979-1982
 
@@ -480,6 +485,35 @@ UK /pæl/ US /pæl/
    2)（局势的）急转突变，变幻莫测；（情绪的）大起大落[ S ] a situation which changes from one extreme to another, or in which a person's feelings change from one extreme to another
 
    ​
+
+
+#### hostage /ˈhɒs.tɪdʒ/
+
+1. 助记：hostage原本指的是送到其他国家或他人家中作为双方互不侵犯的保证的人，其实还是到别人家做客的人，所以依然与host（接待）有关。
+2. 词源：
+   etymology
+   late 13c., from Old French ostage, hostage "kindness, hospitality; residence, dwelling; rent, tribute; compensation; guarantee, pledge, bail; person given as security or hostage" (11c., Modern French ôtage), which is of uncertain origin. Either from hoste "guest" (see host (n.1)) via notion of "a lodger held by a landlord as security" [Watkins, Barnhart]; or else from Late Latin obsidanus "condition of being held as security," from obses "hostage," from ob- "before" + base of sedere "to sit," with spelling influenced by Latin hostis. [OED, Century Dictionary]. Modern political/terrorism sense is from 1970.
+3. 定义：
+   someone who is taken as a prisoner by an enemy in order to force the other people involved to do what the enemy wants: 人质
+4. 拓展：
+   hospital（医院）hospitable（热情好客的）hospitality（殷勤 好客）hospice（临终关怀救济院）都源自词根host。host是“主持、当主人接待客人”的意思。hospital原本不是医院，而是养育院、救济所等专门接待穷苦人家的机构，依然具有“接待”的含义在其中。hospice原本指的是招待朝圣者和旅行者的场所，通常由寺院、修道院等宗教机构提供，后来职责逐渐变成救济院，现在一般专指为贫穷病人提供临终关怀的救济机构。
+   host：[həʊst] n.主人，主持人vt.主持，做主人接待vi.做主人
+   hospital：['hɒspɪt(ə)l] n.医院
+   hospitable：[hɒ'spɪtəb(ə)l; 'hɒspɪt-] adj.热情好客的
+   hospitality：[hɒspɪ'tælɪtɪ] n.好客，殷勤
+   hospice：['hɒspɪs] n.收容所，救济院，临终关怀救济院
+   hostage：['hɑstɪdʒ] n.人质，抵押品
+
+
+
+#### militant /ˈmɪl.ɪ.tənt/
+
+1. 助记：与和militia（义勇军） military（军队，军事的）同源，-ant,人。引申词义好斗者，好战的，激进的等。
+   联想：mil-形似单词mile（英里）军事行动常会成英里地行军
+2. 词源：
+   etymology
+   mid-15c., from Middle French militaire (14c.), from Latin militaris "of soldiers or war, of military service, warlike," from miles (genitive militis) "soldier," of unknown origin, perhaps ultimately from Etruscan, or else meaning "one who marches in a troop," and thus connected to Sanskrit melah "assembly," Greek homilos "assembled crowd, throng." Related: Militarily. Old English had militisc, from Latin. Military-industrial complex coined 1961 in farewell speech of U.S. president Dwight D. Eisenhower.
+3. 定义：active determined and often willing to use force 好战的 
 
 
 
