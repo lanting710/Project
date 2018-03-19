@@ -170,4 +170,25 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 
 - 2018-03-15 Th
 
+  - 完成'Principles'目录的查询阅读
+
+- 2018-03-16 Fr
+
+   - 阅读 Principles Introduction
+
+- 2018-03-17 Sa
+
+   - 完成 Principles Introduction
+   - Aqua完成'ThinkPython'目录的查询.
+
+- 2018-03-18 Su
+
+   - 阅读Part 1 'Where I come from'
+   - Dalio按照Hero Journey的框架梳理自己的经历.
+
+- 2018-03-19 Mo
+
+   - English文件夹初具规模,可以当词典用.
+
+
    ​
