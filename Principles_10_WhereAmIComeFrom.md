@@ -118,6 +118,88 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
 ## 1. My Call To Adventure:**1949–1967**
 
+@Grace 2018-03-19
+
+#### **Innate**
+
+UK /ɪˈneɪt/ US /ɪˈnet, ˈɪnˌet/
+
+1. 助记,
+
+   “in-”+“nat-” = being born within a person出生时内在的
+
+   **in-**：来自拉丁语，表示“在内，进入，使...”，‘into,within’。
+
+   **nat-**： to be born, 表示“出生的”，来自古典拉丁语gnasci，由词根gen-（出生，产生）组成。词源同natal,native，即出生就有的，天生的，'give birth, beget'。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin innatus, past participle of innasci, from in- ‘into’ + nasci ‘be born’.
+
+   **Etymology**
+
+   early 15c., "existing from birth," from Late Latin innatus "inborn, native, natural" (source also of French inné, Spanish and Italian innato), past participle of innasci "to be born in, originate in," from in- "in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + nasci "to be born" (Old Latin gnasci), from PIE root [*gene-](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) "give birth, beget," with derivatives referring to procreation and familial and tribal groups. Opposed to acquired. Related: Innately; innateness.
+
+3. 释义,
+
+   adj. 天生的；先天的；与生俱来的**that you have when you are born**
+
+4. 相关词语和词组
+
+   **innately** adv. 天赋地;内在地，固有地
+
+   ​
+
+#### ** Pal**
+
+UK /pæl/ US /pæl/
+
+1. 助记,
+
+   来自英式吉普赛语pal，兄弟，伙计，‘brother, mate, comrade’，来自吉普赛语phral的简化形式，来自梵语bhrata，兄弟，词源同brother。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 17th century: from Romany, ‘brother, mate’, based on Sanskrit bhrātṛ ‘brother’.
+
+   **Etymology**
+
+   1788, from Romany (English Gypsy) pal "brother, comrade," variant of continental Romany pral, plal, phral, probably from Sanskrit bhrata "brother" (from PIE root [*bhrater-](https://www.etymonline.com/word/*bhrater-?ref=etymonline_crossreference) "brother"). Extended colloquial form palsy-walsy attested from 1930.
+
+3. 释义,
+
+   n. 1) 朋友，伙伴，哥们儿**a friend **
+
+   ​    2)(对男子的不友好称呼)家伙，小子**used to address a man in an unfriendly way**
+
+   v. 交友**form a friendship**
+
+4. 相关词语和词组
+
+   **pally** adj. <口>亲密的；要好的
+
+   **Pal** n. 【物理学】帕耳(固体上振动强度的无量纲单位)
+
+   **PAL** 1)PAL制(欧洲大部分地区使用的电视广播系统)
+
+   ​        2)Pacific Aeronautical [Aerospace] Library <美>太平洋航空[航天]图书馆
+
+   ​        3)Philippine Air Lines 菲律宾航空公司
+
+   **pal around (with sb)** (和某人)一起共事，结伙出没
+
+   **pal up (with sb)** (和某人)成为朋友
+
+   ​
+
+好句：My most  obvious weakness was my bad rote memory……and I don't like following instructions.
+
+(我对此话有共鸣。)
+
 
 
 <img src='https://ws2.sinaimg.cn/large/006tNc79gy1fpg8aez0e5j30s80cmq3m.jpg' style='zoom:50'>
@@ -369,7 +451,6 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
    a period in which there is very little business activity and not many jobs
 
-    
 
    ​
 
