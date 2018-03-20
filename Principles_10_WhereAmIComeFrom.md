@@ -464,6 +464,114 @@ UK /pæl/ US /pæl/
 
 
 
+@aqua 2018-03-19
+
+**Engross** /ɪnˈɡroʊs/ 全情投入的
+
+1. 助记,
+
+   En+gross
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (formerly also as ingross): **based on en-, in- ‘in’ + late Latin grossus ‘large’.** Sense 1 is from Old French en gros, from medieval Latin in grosso ‘wholesale’; sense 2 comes from Anglo-Norman French engrosser, medieval Latin ingrossare, from Old French grosse, medieval Latin grossa ‘large writing’, with reference to clerks writing out documents in large, clear writing.
+
+   **Etymology**
+
+   c. 1400, "to buy up the whole stock of" (in Anglo-French from c. 1300), from Old French en gros "in bulk, in a large quantity, at wholesale," as opposed to en detail. See [gross](https://www.etymonline.com/word/gross?ref=etymonline_crossreference). Figurative sense of "absorb the whole attention" is first attested 1709. A parallel engross, meaning "to write (something) in large letters," is from Anglo-French engrosser, from Old French en gros "in large (letters)." Related: Engrossed; engrossing.
+
+3. 释义,
+
+   全情投入的 If something engrosses you, it is so interesting that you give it all your attention
+
+4. 拓展,
+
+    engross : en-,进入，使，gross,总的，全部的,投入全部的.
+
+
+
+**Intrinsic** /ɪnˈtrɪn.zɪk/ 内在的
+
+1. 助记,
+
+   Intrin+sic
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 15th century (in the general sense ‘interior, inner’): from French intrinsèque, from late Latin intrinsecus, from the earlier adverb intrinsecus ‘inwardly, inwards’.
+
+   **Etymology**
+
+   late 15c., "interior, inward, internal," **from Middle French intrinsèque "inner" (14c.), from Medieval Latin intrinsecus "interior, internal,"** from Latin intrinsecus (adv.) "inwardly, on the inside," from intra "within" (see [intra-](https://www.etymonline.com/word/intra-?ref=etymonline_crossreference)) + secus "along, alongside," from PIE *sekw-os- "following," suffixed form of root [*sekw-](https://www.etymonline.com/word/*sekw-?ref=etymonline_crossreference) (1) "to follow." 
+
+3. 释义,
+
+   内在的  being an extremely important and basic characteristic of a person or thing
+
+4. 拓展,
+
+   intrinsic : intrin-,内在的，来自internal,-sic,沿着的，词源同sequel,sequence.引申词义固有的，内在的。
+
+   ​
+
+**Speculation**/ˌspek.jəˈleɪ.ʃən/ 投机
+
+1. 助记,
+
+   Spec+ulat(e)+tion
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from Latin speculat- ‘observed from a vantage point’, from the verb speculari, **from specula ‘watchtower’, from specere ‘to look’.**
+
+   **Etymology**
+
+   late 14c., "intelligent contemplation, consideration; act of looking," from Old French speculacion "close observation, rapt attention," and directly from Late Latin speculationem (nominative speculatio) "contemplation, observation," noun of action from Latin speculatus, past participle of speculari "observe," **from specere "to look at, view" (from PIE root [*spek-](https://www.etymonline.com/word/*spek-?ref=etymonline_crossreference) "to observe").** 
+
+3. 释义,
+
+   投机 the activity of guessing possible answers to a question without having enough information to be certain
+
+4. 拓展,
+
+   speculation:(spec+ulate→看准了→思考,投机).
+
+
+
+ **Volatile** /ˈvɑː.lə.t̬əl/ 不稳定的
+
+1. 助记,
+
+   Vol+atile
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘creature that flies’, also, as a collective, ‘birds’): from Old French volatil or Latin volatilis, **from volare ‘to fly’.**
+
+   **Etymology**
+
+   1590s "fine or light," also "evaporating rapidly" (c. 1600), from Middle French volatile, from Latin volatilis "fleeting, transitory; swift, rapid; flying, winged," **from past participle stem of volare "to fly" (see [volant](https://www.etymonline.com/word/volant?ref=etymonline_crossreference)).** Sense of "readily changing, flighty, fickle" is first recorded 1640s. Volatiles in Middle English meant "birds, butterflies, and other winged creatures" (c. 1300).
+
+3. 释义,
+
+   不稳定的 Liable to change rapidly and unpredictably, especially for the worse
+
+4. 拓展,
+
+   volatile :  volatile : 来自拉丁语 ,VOL=飞，引申词义飞来飞去,浮动的，不稳定的.
+
+
+
+
+
 ## 3. My Abyss 1979-1982
 
 
