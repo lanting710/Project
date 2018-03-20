@@ -251,9 +251,13 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
 
 
-**Exhilarating** /ɪɡˈzɪl.ə.reɪ.t̬ɪŋ/
+**Exhilarating** /ɪɡˈzɪl.ə.reɪ.t̬ɪŋ/ 出离欢乐,极度欢乐
 
 1. 助记,
+
+   ex(out) + hilary(欢乐)
+
+   愤怒有出离愤怒, 欢乐也有出离欢乐,
 
 2. 词源,
 
