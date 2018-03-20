@@ -8,7 +8,7 @@
 
 2018-03-18
 
-#### **Encounter**
+**Encounter**
 
 UK /ɪnˈkaʊn.tər/ US /ɪnˈkaʊn.t̬ɚ/
 
@@ -19,6 +19,8 @@ UK /ɪnˈkaʊn.tər/ US /ɪnˈkaʊn.t̬ɚ/
    **en-**：进入，使，'in'。
 
    **counter**： 相对， 'contra,against’。
+
+   control这个单词也是面对面的控制.
 
 2. 词源,
 
@@ -60,7 +62,7 @@ UK /ɪnˈkaʊn.tər/ US /ɪnˈkaʊn.t̬ɚ/
 
    ​
 
-#### Influence**
+**Influence**
 
 UK /ˈɪnfluəns/ US /ˈɪnfluəns/
 
@@ -115,7 +117,6 @@ UK /ˈɪnfluəns/ US /ˈɪnfluəns/
    **impress**    v. 给…留下深刻印象。指给人留下很深的印象，从而受到影响和感动，比 affect 影响更深，时间更长。
 
 
-
 ## 1. My Call To Adventure:**1949–1967**
 
 @Grace 2018-03-19
@@ -152,9 +153,7 @@ UK /ɪˈneɪt/ US /ɪˈnet, ˈɪnˌet/
 
    ​
 
-#### **Pal**
-
-UK /pæl/ US /pæl/
+**Pal**UK /pæl/ US /pæl/
 
 1. 助记,
 
@@ -272,15 +271,15 @@ UK /ɪnˈstrʌkʃn/ US /ɪnˈstrʌkʃən/
 
    ​
 
-#### ** rote**
-
-UK /rəʊt/ US /roʊt/
+#### **rote** UK /rəʊt/ US /roʊt/
 
 1. 助记,
 
    rote → ROT = read over thoroughly 深入认真地阅读
 
    可能来自拉丁语rotare,旋转，转动，词源同round,roll,rotate，比喻用法。后延伸为"custom, habit,by heart"之意。
+
+   roll,一遍一遍的滚动着死记硬背.
 
 2. 词源,
 
@@ -337,13 +336,15 @@ UK /rəʊt/ US /roʊt/
       冥想，沉思
 
 
-**Meditate** /ˈmed.ɪ.teɪt
+**Meditate** /ˈmed.ɪ.teɪt/ 冥想
 
 1. 助记,
 
    词源med, measure离思考比较远.
 
    关联到单词metal.
+
+   me(metal) + di(direct) + tate
 
 2. 词源,
 
@@ -574,15 +575,17 @@ UK /rəʊt/ US /roʊt/
 
  While making money was good,having meaningful work and meaningful relationships was far better.
 
-
-
 @aqua 2018-03-19
 
 **Engross** /ɪnˈɡroʊs/ 全情投入的
 
 1. 助记,
 
-   En+gross
+   En(In) + gross(all, total)
+
+   all in 投入全部,全情投入
+
+   GDP(Gross domestic product)国民生产总值.
 
 2. 词源,
 
@@ -598,9 +601,11 @@ UK /rəʊt/ US /roʊt/
 
    全情投入的 If something engrosses you, it is so interesting that you give it all your attention
 
-4. 拓展,
+   engross : en-,进入，使，gross,总的，全部的,投入全部的.
 
-    engross : en-,进入，使，gross,总的，全部的,投入全部的.
+   ​
+
+   ​
 
 
 
@@ -608,7 +613,7 @@ UK /rəʊt/ US /roʊt/
 
 1. 助记,
 
-   Intrin+sic
+   Intrin(internal) +sic
 
 2. 词源,
 
@@ -896,6 +901,31 @@ UK /rəʊt/ US /roʊt/
 
 
 
+**Grail** the holy grail
+​ noun [ S ] UK /ˌhəʊ.li ˈɡreɪl/ US /ˌhoʊ.li ˈɡreɪl/
+
+1. 助记.
+
+   词源crater，碗，容器，引申为圣杯
+
+2. 词源.
+
+   **OED.**
+   From Old French graal, from medieval Latin gradalis ‘dish’.
+   **ETYMON.**
+   c. 1300, gral, "the Holy Grail," from Old French graal, greal "Holy Grail; cup," earlier "large shallow dish, basin," from Medieval Latin gradalis, also gradale, grasale, "a flat dish or shallow vessel." The original form is uncertain; the word is perhaps ultimately from Latin crater "bowl," which is from Greek krater "bowl, especially for mixing wine with water" (see crater (n.)).
+   Holy Grail is Englished from Middle English seint gral (c. 1300), also sangreal, sank-real (c. 1400), which seems to show deformation as if from sang real "royal blood" (that is, the blood of Christ) The object had been inserted into the Celtic Arthurian legends by 12c., perhaps in place of some pagan otherworldly object. It was said to be the cup into which Joseph of Arimathea received the last drops of blood of Christ (according to the writers who picked up the thread of Chrétien de Troyes' "Perceval") or the dish from which Christ ate the Last Supper (Robert de Boron), and ultimately was identified as both ("þe dische wiþ þe blode," "Joseph of Aramathie," c. 1350?).
+
+3. 释义.
+
+   1. 圣杯（传说耶稣在最后的晚餐上使用过） also the Holy Grail a cup believed to have been used by Jesus Christ at the meal before his death
+
+   2. 极难找到（或得到）之物 something that is extremely difficult to find or get
+
+      A thing which is eagerly pursued or sought after.
+
+   ​
+
 
 
 ## 4. My Road of Trials 1983-1994
@@ -1169,6 +1199,47 @@ Venture/ˈven.tʃɚ/ 冒险
 ## 8. LOOKING BACK FROM A HIGHER LEVEL
 
 
+
+
+
+
+
+
+
+​**Alpha**  /ˈæl.fə/ US  /ˈæl.fə/ symbol A, α
+
+1. 助记.
+
+   原来阿尔法是这么来的哦
+
+   The first letter of the Greek alphabet (Α, α), transliterated as ‘a’.
+
+2. 词源.
+
+   c. 1300, from Latin alpha, from Greek alpha, from Hebrew or Phoenician aleph (see aleph). The Greeks added -a because Greek words cannot end in most consonants. Sense of "beginning of anything" is from late 14c., often paired with omega (the last letter in the Greek alphabet, representing "the end"); sense of "first in a sequence" is from 1620s. In astronomy, the designation of the brightest star of each constellation (the use of Greek letters in star names began with Bayer's atlas in 1603). Alpha male was in use by c. 1960 among scientists studying animals; applied to humans in society from c. 1992.
+
+3. 释义.
+
+   （希腊语字母表的第一个字母） the first letter of the Greek alphabet
+
+
+
+**Boutique** /buːˈtiːk/ US /buːˈtiːk/
+
+1. 助记.
+
+   来自apothecary的变体。apo, 离开，收好。thec, 放置，词源同do. 原指仓库或衣服仓库
+
+2. 词源.
+
+   OED.
+   Mid 18th century: from French, ‘small shop’, via Latin from Greek apothēkē ‘storehouse’. Compare with bodega.
+   ETYMON.
+   trendy fashion shop," 1950, earlier "small shop of any sort" (1767), from French boutique (14c.), from Old Provençal botica, from Latin apotheca "storehouse" (see apothecary). Latin apotheca directly into French normally would have yielded *avouaie.
+
+3. 释义
+
+   卖流行服饰的小商店，精品店a small shop that sells fashionable clothes, shoes, jewellery, etc.
 
 
 

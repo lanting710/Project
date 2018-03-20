@@ -3032,4 +3032,417 @@ ce159e6 2018-02-25 14:23:36
 :[K[K[?1l>bash: prompt_git: command not found
 ]0;~/desktop/english[1m
 [38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
-[97m$ (B[m git[K
+[97m$ (B[m git[K[K[K[Kgit pull
+Updating d2461fe..e418890
+error: Your local changes to the following files would be overwritten by merge:
+	Principles_10_WhereAmIComeFrom.md
+Please commit your changes or stash them before you merge.
+Aborting
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit commit -m [K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add .
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit commit -m 's[K2018-03-20 18:22:03][K'
+[master 088f287] 2018-03-20 18:22:03
+ 4 files changed, 6112 insertions(+), 198 deletions(-)
+ create mode 100644 cal.md
+ rewrite readme.md (98%)
+ create mode 100644 typescript
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': M-DFK
+Password for 'https://M-DFK@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/M-DFK/English.git/'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': M-DFK K
+Password for 'https://M-DFK@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/M-DFK/English.git/'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': M-DFK
+Password for 'https://M-DFK@github.com': 
+To https://github.com/M-DFK/English.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/M-DFK/English.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mGOL[K[K[KGIT[K[K[Kgit pull
+Auto-merging Principles_10_WhereAmIComeFrom.md
+hint: Waiting for your editor to close the file... [?2004h[?1049h[?1h=[?2004h[1;31r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[31;1H"~/Desktop/PubRepo/English/.git/MERGE_MSG" 7L, 285C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1HMerge branch 'master' of https://github.com/M-DFK/English
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+[94m~                                                                                                    [9;1H~                                                                                                    [10;1H~                                                                                                    [11;1H~                                                                                                    [12;1H~                                                                                                    [13;1H~                                                                                                    [14;1H~                                                                                                    [15;1H~                                                                                                    [16;1H~                                                                                                    [17;1H~                                                                                                    [18;1H~                                                                                                    [19;1H~                                                                                                    [20;1H~                                                                                                    [21;1H~                                                                                                    [22;1H~                                                                                                    [23;1H~                                                                                                    [24;1H~                                                                                                    [25;1H~                                                                                                    [26;1H~                                                                                                    [27;1H~                                                                                                    [28;1H~                                                                                                    [29;1H~                                                                                                    [30;1H~                                                                                                    [1;1H[?12l[?25h[31;1H[?2004l[m[31;1H[K[31;1H[?2004l[?1l>[?1049l[KMerge made by the 'recursive' strategy.
+ Principles_10_WhereAmIComeFrom.md |  94 [32m+++++++++++++++++++++++++++++++++++++[m
+ Principles_20_@aqua.md            | 149 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 2 files changed, 243 insertions(+)
+ create mode 100644 Principles_20_@aqua.md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit log --oneline
+[?1h=[33m1795b58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33m088f287[m 2018-03-20 18:22:03[m
+[33me418890[m[33m ([m[1;31morigin/master[m[33m)[m Merge pull request #41 from aqua2018/master[m
+[33m0410de2[m Merge pull request #42 from GGG-Grace/master[m
+[33m5bbe04c[m @Grace update Principles_10_WhereAmIComeFrom.md on 2018-03-20[m
+[33m4eefaa2[m @aqua 2018-3-20[m
+[33md2461fe[m Merge pull request #40 from aqua2018/master[m
+[33md9bce06[m updated @豆腐块[m
+[33m9501cac[m 2018-03-19 23:08:55[m
+[33m1c226cc[m @aqua 2018-3-19[m
+[33mcd23200[m Merge pull request #39 from Alina201803/master[m
+[33md8b47bb[m @Alina updated Principles_10_WhereAmIComeFrom.md on 2018-03-19[m
+[33m8216098[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33ma216b80[m 2018-03-19 20:37:26[m
+[33m9184a50[m Merge pull request #38 from GGG-Grace/master[m
+[33mf7a8b4d[m @Grace update Principles_10_WhereAmIComeFrom.md on 2018-03-19[m
+[33mbb8f5a8[m 2018-03-19 00:03:59[m
+[33m500f00d[m Merge pull request #37 from GGG-Grace/master[m
+[33m6a32a1a[m 2018-03-19 00:00:40[m
+[33md2ea54c[m @Grace update /c/Users/Administrator/Desktop/English/Principles_10_WhereAmIComeFrom.md on 201[m [33m[m8-03-18[m
+[33m03120a7[m Merge pull request #36 from aqua2018/master[m
+[33m1b0267f[m aqua 2018-3-18[m
+[33m5d22779[m Merge pull request #34 from GGG-Grace/master[m
+[33mf560eb7[m Merge pull request #35 from Alina201803/master[m
+[33md1b9e38[m Alina updated Principles_10_WhereAmIComeFrom.md on 2018-03-18[m
+[33m890b1da[m add book dir containing  Principles in pdf version[m
+[33me81e956[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33m9803cef[m books[m
+[33ma80af64[m add Principles_10_WhereAmIComeFrom.md[m
+:[K[K[?1l>bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[m
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit log --grapsh[K[Kh
+[?1h=*   [33mcommit 1795b58629281af96466946efdb3c3179b209373[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+[31m|[m[32m\[m  Merge: 088f287 e418890[m
+[31m|[m [32m|[m Author: M-DFK <igabriel_job@icloud.com>[m
+[31m|[m [32m|[m Date:   Tue Mar 20 18:23:27 2018 +0800[m
+[31m|[m [32m|[m [m
+[31m|[m [32m|[m     Merge branch 'master' of https://github.com/M-DFK/English[m
+[31m|[m [32m|[m   [m
+[31m|[m *   [33mcommit e418890e78d8293b097662ee6c4f8e8db8e5dfdb[m[33m ([m[1;31morigin/master[m[33m)[m[m
+[31m|[m [33m|[m[34m\[m  Merge: 0410de2 4eefaa2[m
+[31m|[m [33m|[m [34m|[m Author: MDFK <36806136+M-DFK@users.noreply.github.com>[m
+[31m|[m [33m|[m [34m|[m Date:   Tue Mar 20 18:19:13 2018 +0800[m
+[31m|[m [33m|[m [34m|[m [m
+[31m|[m [33m|[m [34m|[m     Merge pull request #41 from aqua2018/master[m
+[31m|[m [33m|[m [34m|[m     [m
+[31m|[m [33m|[m [34m|[m     @aqua 2018-3-20[m
+[31m|[m [33m|[m [34m|[m [m
+[31m|[m [33m|[m * [33mcommit 4eefaa29ddb63af35911fa7e21b14111a18264e3[m[m
+[31m|[m [33m|[m [34m|[m Author: aqua2018 <paomashe@163.com>[m
+[31m|[m [33m|[m [34m|[m Date:   Tue Mar 20 16:17:12 2018 +0800[m
+[31m|[m [33m|[m [34m|[m [m
+[31m|[m [33m|[m [34m|[m     @aqua 2018-3-20[m
+[31m|[m [33m|[m [34m|[m   [m
+[31m|[m * [34m|[m   [33mcommit 0410de23c1b566d673b232bb487cfb7c936ed1e1[m[m
+[31m|[m [35m|[m[36m\[m [34m\[m  Merge: d2461fe 5bbe04c[m
+[31m|[m [35m|[m [36m|[m [34m|[m Author: MDFK <36806136+M-DFK@users.noreply.github.com>[m
+[31m|[m [35m|[m [36m|[m [34m|[m Date:   Tue Mar 20 18:17:55 2018 +0800[m
+[31m|[m [35m|[m [36m|[m [34m|[m [m
+[31m|[m [35m|[m [36m|[m [34m|[m     Merge pull request #42 from GGG-Grace/master[m
+[31m|[m [35m|[m [36m|[m [34m|[m     [m
+[31m|[m [35m|[m [36m|[m [34m|[m     @Grace update Principles_10_WhereAmIComeFrom.md on 2018-03-20[m
+:[K[K:[K[K[?1l>bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[m
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit log --oneline
+[?1h=[33m1795b58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33m088f287[m 2018-03-20 18:22:03[m
+[33me418890[m[33m ([m[1;31morigin/master[m[33m)[m Merge pull request #41 from aqua2018/master[m
+[33m0410de2[m Merge pull request #42 from GGG-Grace/master[m
+[33m5bbe04c[m @Grace update Principles_10_WhereAmIComeFrom.md on 2018-03-20[m
+[33m4eefaa2[m @aqua 2018-3-20[m
+[33md2461fe[m Merge pull request #40 from aqua2018/master[m
+[33md9bce06[m updated @豆腐块[m
+[33m9501cac[m 2018-03-19 23:08:55[m
+[33m1c226cc[m @aqua 2018-3-19[m
+[33mcd23200[m Merge pull request #39 from Alina201803/master[m
+[33md8b47bb[m @Alina updated Principles_10_WhereAmIComeFrom.md on 2018-03-19[m
+[33m8216098[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33ma216b80[m 2018-03-19 20:37:26[m
+[33m9184a50[m Merge pull request #38 from GGG-Grace/master[m
+[33mf7a8b4d[m @Grace update Principles_10_WhereAmIComeFrom.md on 2018-03-19[m
+[33mbb8f5a8[m 2018-03-19 00:03:59[m
+[33m500f00d[m Merge pull request #37 from GGG-Grace/master[m
+[33m6a32a1a[m 2018-03-19 00:00:40[m
+[33md2ea54c[m @Grace update /c/Users/Administrator/Desktop/English/Principles_10_WhereAmIComeFrom.md on 201[m [33m[m8-03-18[m
+[33m03120a7[m Merge pull request #36 from aqua2018/master[m
+[33m1b0267f[m aqua 2018-3-18[m
+[33m5d22779[m Merge pull request #34 from GGG-Grace/master[m
+[33mf560eb7[m Merge pull request #35 from Alina201803/master[m
+[33md1b9e38[m Alina updated Principles_10_WhereAmIComeFrom.md on 2018-03-18[m
+[33m890b1da[m add book dir containing  Principles in pdf version[m
+[33me81e956[m Merge branch 'master' of https://github.com/M-DFK/English[m
+[33m9803cef[m books[m
+[33ma80af64[m add Principles_10_WhereAmIComeFrom.md[m
+:[K[K[?1l>bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mls
+0.Principles_outline.md			2018-02-20 Tues (Day 25).md
+01.Set_up_git_connecting.md		2018-02-21 Wednes (Day 26).md
+02.git_flow.md				2018-02-22 Thurs (Day 27).md
+2018-01-27 Satur (Day 1).md		2018-02-23 Fri (Day 28).md
+2018-01-28 Sun (Day 2) examples.md	2018-02-24 Satur  (Day 29).md
+2018-01-28 Sun (Day 2).md		2018-02-25 Sun (Day 30).md
+2018-01-29 Mon (Day 3).md		2018-02-26 Mon (Day 31).md
+2018-01-30  Tues (Day 4) Operate.md	2018-02-27 Tues (Day 32).md
+2018-01-31 Wednes (Day 5).md		2018-03-06 Tues (Day 39).md
+2018-02-01 Thurs (Day 6).md		2018-03-08 Thurs (Day 41).md
+2018-02-02 Fri (Day 7).md		@Alina.md
+2018-02-03 Satur (Day 8).md		@Grace.md
+2018-02-04 Sun (Day 9).md		@Penny.md
+2018-02-05 Mon (Day 10) Time.md		@aqua.md
+2018-02-05 Mon (Day 10).md		@arnakin.md
+2018-02-06 Tues (Day 11).md		@melody真.md
+2018-02-07 Wednes (Day 12).md		@穆紫.md
+2018-02-08 Thurs (Day 13) examples.md	@董长青.md
+2018-02-08 Thurs (Day 13).md		@豆腐块.md
+2018-02-09 Fri (Day 14).md		Books
+2018-02-10 Satur (Day 15).md		Git Collection
+2018-02-11 Python Crash Course.md	Principles_00_Outline.md
+2018-02-11 Sun (Day 16).md		Principles_01_Introduction.md
+2018-02-12 Mon (Day 17).md		Principles_10_WhereAmIComeFrom.md
+2018-02-13 Tues (Day 18).md		Principles_20_@aqua.md
+2018-02-14 Wednes (Day 19).md		cal.md
+2018-02-15 Thurs (Day 20).md		draft.py
+2018-02-16 Fri (Day 21).md		english
+2018-02-17 Satur (Day 22).md		readme.md
+2018-02-18 Sun (Day 23).md		typescript
+2018-02-19 Mon (Day 24).md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mcl[K[Kcler[K[K[K[Kclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mopen[K[K[K[Kls
+0.Principles_outline.md			2018-02-20 Tues (Day 25).md
+01.Set_up_git_connecting.md		2018-02-21 Wednes (Day 26).md
+02.git_flow.md				2018-02-22 Thurs (Day 27).md
+2018-01-27 Satur (Day 1).md		2018-02-23 Fri (Day 28).md
+2018-01-28 Sun (Day 2) examples.md	2018-02-24 Satur  (Day 29).md
+2018-01-28 Sun (Day 2).md		2018-02-25 Sun (Day 30).md
+2018-01-29 Mon (Day 3).md		2018-02-26 Mon (Day 31).md
+2018-01-30  Tues (Day 4) Operate.md	2018-02-27 Tues (Day 32).md
+2018-01-31 Wednes (Day 5).md		2018-03-06 Tues (Day 39).md
+2018-02-01 Thurs (Day 6).md		2018-03-08 Thurs (Day 41).md
+2018-02-02 Fri (Day 7).md		@Alina.md
+2018-02-03 Satur (Day 8).md		@Grace.md
+2018-02-04 Sun (Day 9).md		@Penny.md
+2018-02-05 Mon (Day 10) Time.md		@aqua.md
+2018-02-05 Mon (Day 10).md		@arnakin.md
+2018-02-06 Tues (Day 11).md		@melody真.md
+2018-02-07 Wednes (Day 12).md		@穆紫.md
+2018-02-08 Thurs (Day 13) examples.md	@董长青.md
+2018-02-08 Thurs (Day 13).md		@豆腐块.md
+2018-02-09 Fri (Day 14).md		Books
+2018-02-10 Satur (Day 15).md		Git Collection
+2018-02-11 Python Crash Course.md	Principles_00_Outline.md
+2018-02-11 Sun (Day 16).md		Principles_01_Introduction.md
+2018-02-12 Mon (Day 17).md		Principles_10_WhereAmIComeFrom.md
+2018-02-13 Tues (Day 18).md		Principles_20_@aqua.md
+2018-02-14 Wednes (Day 19).md		cal.md
+2018-02-15 Thurs (Day 20).md		draft.py
+2018-02-16 Fri (Day 21).md		english
+2018-02-17 Satur (Day 22).md		readme.md
+2018-02-18 Sun (Day 23).md		typescript
+2018-02-19 Mon (Day 24).md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[m词典[K[Kcd ..
+bash: prompt_git: command not found
+]0;~/desktop[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop
+[97m$ (B[mls
+Cheatsheet	Homework	Principles	Work		english		ls.md
+Coding		PriRepo		PubRepo		Xmind		foo.txt
+bash: prompt_git: command not found
+]0;~/desktop[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop
+[97m$ (B[mls -l
+total 16
+drwxr-xr-x   22 gaowei  staff   704 Mar 20 11:55 Cheatsheet
+drwxr-xr-x    7 gaowei  staff   224 Mar 20 19:20 Coding
+drwxr-xr-x    3 gaowei  staff    96 Mar 13 15:23 Homework
+drwxr-xr-x    6 gaowei  staff   192 Mar 19 11:02 PriRepo
+drwxr-xr-x  176 gaowei  staff  5632 Mar 16 14:42 Principles
+drwxr-xr-x   10 gaowei  staff   320 Mar 20 19:16 PubRepo
+drwxr-xr-x   42 gaowei  staff  1344 Mar 13 14:47 Work
+drwxr-xr-x    9 gaowei  staff   288 Mar 17 09:59 Xmind
+lrwxr-xr-x    1 gaowei  staff    37 Mar 19 14:31 english -> /Users/gaowei/Desktop/PubRepo/English
+-rw-r--r--    1 gaowei  staff     0 Mar 20 16:23 foo.txt
+-rw-------    1 gaowei  staff  8133 Mar 19 15:46 ls.md
+bash: prompt_git: command not found
+]0;~/desktop[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop
+[97m$ (B[mcd english
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mls
+0.Principles_outline.md			2018-02-20 Tues (Day 25).md
+01.Set_up_git_connecting.md		2018-02-21 Wednes (Day 26).md
+02.git_flow.md				2018-02-22 Thurs (Day 27).md
+2018-01-27 Satur (Day 1).md		2018-02-23 Fri (Day 28).md
+2018-01-28 Sun (Day 2) examples.md	2018-02-24 Satur  (Day 29).md
+2018-01-28 Sun (Day 2).md		2018-02-25 Sun (Day 30).md
+2018-01-29 Mon (Day 3).md		2018-02-26 Mon (Day 31).md
+2018-01-30  Tues (Day 4) Operate.md	2018-02-27 Tues (Day 32).md
+2018-01-31 Wednes (Day 5).md		2018-03-06 Tues (Day 39).md
+2018-02-01 Thurs (Day 6).md		2018-03-08 Thurs (Day 41).md
+2018-02-02 Fri (Day 7).md		@Alina.md
+2018-02-03 Satur (Day 8).md		@Grace.md
+2018-02-04 Sun (Day 9).md		@Penny.md
+2018-02-05 Mon (Day 10) Time.md		@aqua.md
+2018-02-05 Mon (Day 10).md		@arnakin.md
+2018-02-06 Tues (Day 11).md		@melody真.md
+2018-02-07 Wednes (Day 12).md		@穆紫.md
+2018-02-08 Thurs (Day 13) examples.md	@董长青.md
+2018-02-08 Thurs (Day 13).md		@豆腐块.md
+2018-02-09 Fri (Day 14).md		Books
+2018-02-10 Satur (Day 15).md		Git Collection
+2018-02-11 Python Crash Course.md	Principles_00_Outline.md
+2018-02-11 Sun (Day 16).md		Principles_01_Introduction.md
+2018-02-12 Mon (Day 17).md		Principles_10_WhereAmIComeFrom.md
+2018-02-13 Tues (Day 18).md		Principles_20_@aqua.md
+2018-02-14 Wednes (Day 19).md		cal.md
+2018-02-15 Thurs (Day 20).md		draft.py
+2018-02-16 Fri (Day 21).md		english
+2018-02-17 Satur (Day 22).md		readme.md
+2018-02-18 Sun (Day 23).md		typescript
+2018-02-19 Mon (Day 24).md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mopen @dou[K[K[K豆腐\@豆腐块.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclar
+bash: clar: command not found
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mopen[K[K[Kipe[K[K[Kpen Principles_10_WhereAmIComeFrom.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mks[K[Kls
+0.Principles_outline.md			2018-02-20 Tues (Day 25).md
+01.Set_up_git_connecting.md		2018-02-21 Wednes (Day 26).md
+02.git_flow.md				2018-02-22 Thurs (Day 27).md
+2018-01-27 Satur (Day 1).md		2018-02-23 Fri (Day 28).md
+2018-01-28 Sun (Day 2) examples.md	2018-02-24 Satur  (Day 29).md
+2018-01-28 Sun (Day 2).md		2018-02-25 Sun (Day 30).md
+2018-01-29 Mon (Day 3).md		2018-02-26 Mon (Day 31).md
+2018-01-30  Tues (Day 4) Operate.md	2018-02-27 Tues (Day 32).md
+2018-01-31 Wednes (Day 5).md		2018-03-06 Tues (Day 39).md
+2018-02-01 Thurs (Day 6).md		2018-03-08 Thurs (Day 41).md
+2018-02-02 Fri (Day 7).md		@Alina.md
+2018-02-03 Satur (Day 8).md		@Grace.md
+2018-02-04 Sun (Day 9).md		@Penny.md
+2018-02-05 Mon (Day 10) Time.md		@aqua.md
+2018-02-05 Mon (Day 10).md		@arnakin.md
+2018-02-06 Tues (Day 11).md		@melody真.md
+2018-02-07 Wednes (Day 12).md		@穆紫.md
+2018-02-08 Thurs (Day 13) examples.md	@董长青.md
+2018-02-08 Thurs (Day 13).md		@豆腐块.md
+2018-02-09 Fri (Day 14).md		Books
+2018-02-10 Satur (Day 15).md		Git Collection
+2018-02-11 Python Crash Course.md	Principles_00_Outline.md
+2018-02-11 Sun (Day 16).md		Principles_01_Introduction.md
+2018-02-12 Mon (Day 17).md		Principles_10_WhereAmIComeFrom.md
+2018-02-13 Tues (Day 18).md		Principles_20_@aqua.md
+2018-02-14 Wednes (Day 19).md		cal.md
+2018-02-15 Thurs (Day 20).md		draft.py
+2018-02-16 Fri (Day 21).md		english
+2018-02-17 Satur (Day 22).md		readme.md
+2018-02-18 Sun (Day 23).md		typescript
+2018-02-19 Mon (Day 24).md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mopen Principles_20_\@aqua.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mls books
+Principles - Dalio, Ray.pdf
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mc[Kopen books/'Principles - Dalio, Ray.pdf'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mg[Kgit pull
+Already up to date.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[m偶尔跑哪[K[K[K[Kopen .
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[m偶尔跑哪[K[K[K[Kopen Principles_20_\@aqua.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mopen Principles_20_\@aqua.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mclear
+[H[2Jbash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
