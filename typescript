@@ -1,4 +1,14 @@
-Script started on Tue Mar 20 12:42:34 2018
+Script started on Tue Mar 20 12:42:08 2018
+bash: prompt_git: command not found
+[?1034h]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mstypestri[K[K[K[K[K[K[K[K[Ktypescript
+bash: typescript: command not found
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mscript readme.md
+Script started, output file is readme.md
 bash: prompt_git: command not found
 [?1034h]0;~/desktop/english[1m
 [38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
@@ -3032,4 +3042,4 @@ ce159e6 2018-02-25 14:23:36
 :[K[K[?1l>bash: prompt_git: command not found
 ]0;~/desktop/english[1m
 [38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
-[97m$ (B[m git[K
+[97m$ (B[m git[K[K[K[Kgit pull

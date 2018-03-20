@@ -152,7 +152,7 @@ UK /ɪˈneɪt/ US /ɪˈnet, ˈɪnˌet/
 
    ​
 
-#### ** Pal**
+#### **Pal**
 
 UK /pæl/ US /pæl/
 
@@ -198,7 +198,25 @@ UK /pæl/ US /pæl/
 
 好句：My most  obvious weakness was my bad rote memory……and I don't like following instructions.
 
-(我对此话有共鸣。)
+(我对此话有共鸣。) 
+
+> 维基百科的解释
+>
+> **Rote learning** is a [memorization](https://en.wikipedia.org/wiki/Memorization) technique based on [repetition](https://en.wikipedia.org/wiki/Repetition_(rhetorical_device)). The idea is that one will be able to quickly [recall](https://en.wikipedia.org/wiki/Recollection) the meaning of the material the more one repeats it. Some of the alternatives to rote learning include [meaningful learning](https://en.wikipedia.org/wiki/Meaningful_learning), [associative learning](https://en.wikipedia.org/wiki/Associative_learning), and [active learning](https://en.wikipedia.org/wiki/Active_learning).
+>
+> [Learning - Wikipedia](https://en.wikipedia.org/wiki/Learning#Associative_learning)
+
+**rote**/rəʊt
+
+1. 助记,
+
+2. 词源,
+
+3. 释义,
+
+   1) 死记硬背learning something inorder to be able torepeat it from memory,rather than in order tounderstand it
+
+   ​
 
 
 
@@ -1012,11 +1030,13 @@ Venture/ˈven.tʃɚ/ 冒险
 
 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/1019px-Heroesjourney.svg.png' style='zoom:50'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/1019px-Heroesjourney.svg.png' style='zoom:45%'>
 
 [Hero's journey - Wikipedia](https://en.wikipedia.org/wiki/Hero%27s_journey)
 
-![Screen Shot 2018-03-18 at 11.52.11 PM](https://ws4.sinaimg.cn/large/006tKfTcgy1fphexo86nmj310y0pgdij.jpg)
+<img src='https://ws4.sinaimg.cn/large/006tKfTcgy1fphexo86nmj310y0pgdij.jpg' style='zoom:50%'>
+
+
 
 
 
