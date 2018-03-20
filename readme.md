@@ -3446,3 +3446,217 @@ bash: prompt_git: command not found
 ]0;~/desktop/english[1m
 [38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
 [97m$ (B[mgit pull
+remote: Counting objects: 4, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 4 (delta 2), reused 3 (delta 2), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+From https://github.com/M-DFK/English
+   e418890..25d2f0b  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	Principles_10_WhereAmIComeFrom.md
+Please commit your changes or stash them before you merge.
+Aborting
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit add .
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit commit -m 'sj[K[K2018-03-20 23:24:46'
+[master 1930363] 2018-03-20 23:24:46
+ 7 files changed, 1607 insertions(+), 169 deletions(-)
+ delete mode 100644 Principles_20_@aqua.md
+ create mode 100644 Principles_20_LifePrinciples.md
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': M-DF
+Password for 'https://M-DF@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/M-DFK/English.git/'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': M-DFK
+Password for 'https://M-DFK@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/M-DFK/English.git/'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push
+Username for 'https://github.com': m M-DFK
+Password for 'https://M-DFK@github.com': 
+To https://github.com/M-DFK/English.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/M-DFK/English.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
+Auto-merging Principles_10_WhereAmIComeFrom.md
+CONFLICT (content): Merge conflict in Principles_10_WhereAmIComeFrom.md
+Automatic merge failed; fix conflicts and then commit the result.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit fech[K[Ktch
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit merge pr[K[Korigin/master
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit merge origin master
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit merge
+error: Merging is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit ppu[K[Kush
+Username for 'https://github.com': M-S DFK
+Password for 'https://M-DFK@github.com': 
+To https://github.com/M-DFK/English.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/M-DFK/English.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push origin master
+Username for 'https://github.com': M-DFK
+Password for 'https://M-DFK@github.com': 
+To https://github.com/M-DFK/English.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/M-DFK/English.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull origin master
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull --rebase
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push -f origin master
+Username for 'https://github.com': M-DFK
+Password for 'https://M-DFK@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/M-DFK/English.git/'
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit push -f origin master
+Username for 'https://github.com': GOLWAY      M-DFK
+Password for 'https://M-DFK@github.com': 
+Counting objects: 18, done.
+Delta compression using up to 4 threads.
+Compressing objects:   5% (1/18)   Compressing objects:  11% (2/18)   Compressing objects:  16% (3/18)   Compressing objects:  22% (4/18)   Compressing objects:  27% (5/18)   Compressing objects:  33% (6/18)   Compressing objects:  38% (7/18)   Compressing objects:  44% (8/18)   Compressing objects:  50% (9/18)   Compressing objects:  55% (10/18)   Compressing objects:  61% (11/18)   Compressing objects:  66% (12/18)   Compressing objects:  72% (13/18)   Compressing objects:  77% (14/18)   Compressing objects:  83% (15/18)   Compressing objects:  88% (16/18)   Compressing objects:  94% (17/18)   Compressing objects: 100% (18/18)   Compressing objects: 100% (18/18), done.
+Writing objects:   5% (1/18)   Writing objects:  11% (2/18)   Writing objects:  16% (3/18)   Writing objects:  22% (4/18)   Writing objects:  27% (5/18)   Writing objects:  33% (6/18)   Writing objects:  38% (7/18)   Writing objects:  44% (8/18)   Writing objects:  50% (9/18)   Writing objects:  55% (10/18)   Writing objects:  61% (11/18)   Writing objects:  66% (12/18)   Writing objects:  72% (13/18)   Writing objects:  77% (14/18)   Writing objects:  83% (15/18)   Writing objects:  88% (16/18)   Writing objects:  94% (17/18)   Writing objects: 100% (18/18)   Writing objects: 100% (18/18), 74.87 KiB | 5.35 MiB/s, done.
+Total 18 (delta 10), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/10)   [Kremote: Resolving deltas:  10% (1/10)   [Kremote: Resolving deltas:  20% (2/10)   [Kremote: Resolving deltas:  30% (3/10)   [Kremote: Resolving deltas:  40% (4/10)   [Kremote: Resolving deltas:  50% (5/10)   [Kremote: Resolving deltas:  80% (8/10)   [Kremote: Resolving deltas: 100% (10/10)   [Kremote: Resolving deltas: 100% (10/10), completed with 5 local objects.[K
+To https://github.com/M-DFK/English.git
+ + 25d2f0b...1930363 master -> master (forced update)
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mppe[K[K[Kopen Principles_10_WhereAmIComeFrom.md 
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit stash
+Principles_10_WhereAmIComeFrom.md: needs merge
+Principles_10_WhereAmIComeFrom.md: needs merge
+Principles_10_WhereAmIComeFrom.md: unmerged (7a770e2172aa72275ef56d2304c0120ee482de98)
+Principles_10_WhereAmIComeFrom.md: unmerged (d9b1798e38718c0f52c82b6a3aac2f470a69d8a0)
+Principles_10_WhereAmIComeFrom.md: unmerged (45c98c0c611c8cd645c165383013ebc464322cb0)
+fatal: git-write-tree: error building trees
+Cannot save the current index state
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit pull --rebase
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgit[K[K[Kgit stash pop
+No stash entries found.
+bash: prompt_git: command not found
+]0;~/desktop/english[1m
+[38;5;166mgaowei[97m at [38;5;136mMax-2018[97m in [38;5;64m~/desktop/english
+[97m$ (B[mgtit[K[K[K[Kgit 
