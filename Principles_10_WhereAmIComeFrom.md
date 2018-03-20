@@ -874,11 +874,82 @@ UK /rəʊt/ US /roʊt/
 
 ### Finding A Way Past My Interactable Investment Problem
 
+#### prone /prəʊn/
 
+1. 助记：prone 易于…的 有…倾向的，来自拉丁语pronus,向前弯的，向前倾的，来自pro,向前，来自PIE*per,向前
+2. 词源：
+   etymology
+   c. 1400, "naturally inclined to something, apt, liable," from Latin pronus "bent forward, leaning forward, bent over," figuratively "inclined to, disposed," perhaps from adverbial form of pro "before, for, instead of" (see pro-) + ending as in infernus, externus. Meaning "lying face-down" is first recorded 1570s. Literal and figurative senses both were in Latin; figurative is older in English. Related: Proneness.
+3. 定义：likely to experience a particular prpblem more often than is usual 易于…的 有…倾向的
+               be prone to do sth
 
+#### mission/ˈmɪʃ.ən/ 
 
+1. 助记：mission : 来自拉丁语mittere,送出，词源同emit,commit,-ss,过去分词后缀。引申词义使命，使团。
+2. 词源：
+   etymology 
+   1590s, "a sending abroad," originally of Jesuits, from Latin missionem (nominative missio) "act of sending, a dispatching; a release, a setting at liberty; discharge from service, dismissal," noun of action from past participle stem of mittere "to release, let go; send, throw," which de Vaan traces to a PIE *m(e)ith- "to exchange, remove," also source of Sanskrit methete, mimetha "to become hostile, quarrel," Gothic in-maidjan "to change;" he writes, "From original 'exchange', the meaning developed to 'give, bestow' ... and 'let go, send'." 
+3. 定义：
+   1. an important job, especially a military one, that someone is sent somewhere to do（尤指军事）任务，使命
+   2. any work that someone believes it is their duty to do使命，天职
+4. 拓展：
+   mission（使命）：基督教耶稣会派遣传道士四处传播福音
+   16世纪时，随着美洲新大陆的发现和殖民活动，欧洲基督教的耶稣会大规模派遣传教士，漂洋过海到世界各地传播福音、建立基督教会和学校。耶稣会将这种派遣活动以及派出去的团队称为mission，它来自拉丁语missionem，是动词mittere的过去分词的名词形式，字面意思是“派遣”。因为这种派遣活动的目的是完成传播福音的使命，所以mission逐渐衍生出“使命”的含义。用来表示团队时，除了表示传教团队外，还可以表示其他各种去远处执行使命的团队，如外交团队、参加比赛或会议的代表团等。另外，接受mission的传教士自然就被称为missionary。
+    mission：['mɪʃən] n.使命，任务，代表团，传教vt.派遣，向……传教
+    missionary：['mɪʃənɛri] adj. 传教的；传教士的n. 传教士
 
+#### agressive/əˈɡres.ɪv/
 
+1. 助记：aggress : [ag-（ad-）=to 向；gress=to step 跨步 。“to step to sb. 向某人逼近一步”→]攻击性 侵略性的
+2. 词源：
+   etymology
+   make an attack," 1714, probably a back-formation from aggression; an identical word was used earlier with a sense of "approach" (1570s) and in this sense it is from French aggresser, from Late Latin aggressare, frequentative of Latin aggredi "to approach, attack." Related: Aggressed; aggressing. 
+3. 定义：
+   1. behaving in an angry and violent way towards another person好斗的；富于攻击性的；挑衅的
+   2. determined to win or succeed and using forceful action to win or to achieve success积极进取的；有冲劲的；雄心勃勃的
+
+#### equilibrium/ˌek.wɪˈlɪb.ri.əm/
+
+1. 助记：equilibrium : equ-,平等，相等，-libra,秤，见Libra,天秤座 平衡 均衡 
+
+2. 词源
+   etymology 
+
+   c. 1600, "state of mental balance," from Latin aequilibrium "an even balance; a horizontal position," from aequilibris "equal, level, horizontal, evenly balanced," from aequus "equal" (see equal (adj.)) + libra "a balance, pair of scales, plummet" (see Libra). Related: Equilibrious.
+
+3. 定义：
+
+   1. a state of balance平衡；均衡
+   2. a calm mental state（心情或情绪的）平静，安宁；心理平衡
+
+#### stimulus/ˈstɪm.jə.ləs/
+
+1. 助记：来自拉丁语stimulus,尖棒，尖刺，来自PIE*sti,刺，插，用尖的东西刺 即 刺激 词源同sting,stick.引申诸相关词义。
+
+2. 词源：
+
+   **etymology**
+
+   plural stimuli, 1680s, originally as a medical term, "something that goads a lazy organ" (often the male member), from a modern use of Latin stimulus "a goad, a pointed stick," figuratively "a sting, a pang; incitement, spur," from PIE *sti- "point, prick, pierce" (see stick (v.)). General sense of "something that excites or arouses the mind or spirit" is from 1791. Psychological sense is first recorded 1894.
+
+3. 定义：
+
+   1. something that causes growth or activity 刺激（物），激励（物）；促进因素
+   2. something that causes part of the body to react（使身体部位产生反应的）刺激
+
+好句：
+
+1. If you are ready to give up everything else and study the whole history and background of the market and all principal companies whose stocks are on the board as carefully as a medical student studies anatomy—if you can do all that and in addition you have the cool nerves of a gambler, the sixth sense of a clairvoyant and the courage of a lion, you have a ghost of a chance. 巴鲁克 （美国投机大师，金融家）道出了投资的真谛
+
+2. Staring at these failings, I realized that if I was going to move forward without a high likelihood of getting whacked again, I would have to look at myself objectively and change—starting by learning a better way of handling the natural aggressiveness I’ve always shown in going after what I wanted.    Dalio 关于自身失败的思考与反省
+
+3. Imagine that in order to have a great life you have to cross a dangerous jungle. You can stay safe where you are and have an ordinary life, or you can risk crossing the jungle to have a terrific life  鼓舞人心的句子
+
+4. beneficial change begins when you can acknowledge and even embrace your weaknesses. 有意义的改变从认识和拥抱自身弱点开始
+
+5. “It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don’t lose faith. I’m convinced that the only thing that kept me going was that I loved what I did” Dalio认识到他和乔布斯对失败的认识很相似，此句为乔布斯所说
+
+   ​
 
 ## 4. My Road of Trials 1983-1994
 
