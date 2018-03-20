@@ -202,6 +202,100 @@ UK /pæl/ US /pæl/
 
 
 
+@Grace 2018-03-20
+
+#### **Instruction**
+
+UK /ɪnˈstrʌkʃn/ US /ɪnˈstrʌkʃən/
+
+1. 助记,
+
+   “in-”+“struct”+"-tion" = action or process of teaching
+
+   **in-**：来自拉丁语in-，表示“在内，进入，使...”，‘upon, towards’ 。
+
+   **struct-**： build, 表示“建立”。建造，建设，词源同structure,destruct，引申词义教导，训练，指示，吩咐等，‘pile up’。
+
+   **-ion**：表名词，“行为、动作、状态、过程、结果；物品”等。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from late Latin instructio(n-), from the verb instruere (see instruct).
+
+   Late Middle English (in instruct (sense 2)): from Latin instruct- ‘constructed, equipped, taught’, from the verb instruere, from in- ‘upon, towards’ + struere ‘pile up’.
+
+   **Etymology**
+
+   c. 1400, instruccioun, "action or process of teaching," from Old French instruccion (14c., Modern French instruction), from Latin instructionem (nominative instructio) "an array, arrangement," in Late Latin "teaching," from past participle stem of instruere "arrange, prepare, set in order; inform, teach," from in- "on" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + struere "to pile, build" (from PIE *streu-，extended form of root *stere- "to spread"。).
+
+3. 释义,
+
+   n. 1)指示；命令；吩咐(order)**something that someone tells you to do**
+
+   ​     2)用法说明，操作指南；教授，教导(teaching)**advice and information about how to do or use something, often written in a book or on the side of acontainer；the teaching of aparticular skill or subject**
+
+   ​     3)(计算机的)指令**a piece of information that tells a computer to perform a particular operation**
+
+   adj. 说明用法的，操作指南的(giving instructions)**giving detailed information on how to do or use sth**
+
+4. 相关词语和词组
+
+   **instruct** v. 教育, 命令, 通知
+
+   **instructional** adj. 教学的, 教育的
+
+   **instructive** adj. 富有教益的；增长知识的
+
+   **instructor** n. 教练，导师
+
+   **commands and instructions** 命令和指令
+
+   ​
+
+#### ** rote**
+
+UK /rəʊt/ US /roʊt/
+
+1. 助记,
+
+   rote → ROT = read over thoroughly 深入认真地阅读
+
+   可能来自拉丁语rotare,旋转，转动，词源同round,roll,rotate，比喻用法。后延伸为"custom, habit,by heart"之意。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (also in the sense ‘habit, custom’): of unknown origin.
+
+   **Etymology**
+
+   c. 1300, "custom, habit," in phrase bi rote "by heart," of uncertain origin, sometimes said to be connected with Old French rote "route" (see [route](https://www.etymonline.com/word/route?ref=etymonline_crossreference) (n.)), or from Latin rota "wheel" (see [rotary](https://www.etymonline.com/word/rotary?ref=etymonline_crossreference)), but OED calls both suggestions groundless.
+
+3. 释义,
+
+   n. 1)死记硬背；生硬的方法；刻板的程序**the process of learning sth by repeating it until you remember it rather than by understanding the meaning of it **
+
+   ​     2)惊涛拍岸声
+
+   ​     3)【音乐】洛特琴(中古时代的一种弦乐器)[亦作rota，rotta，rotte]
+
+4. 相关词语和词组
+
+   **by rote** 强记，死记硬背
+
+   **rote learning** 死记硬背的学习
+
+   ​
+
+好句：When I didn't want to do something, I would fight it, but when I was excited about something, nothing could hold me back.
+
+（此话表明了作者的做事风格与态度。）
+
+
+
 <img src='https://ws2.sinaimg.cn/large/006tNc79gy1fpg8aez0e5j30s80cmq3m.jpg' style='zoom:50'>
 
 
