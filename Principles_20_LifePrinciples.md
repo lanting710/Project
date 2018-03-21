@@ -10,7 +10,7 @@ There is nothing more important than understanding **how reality works and how t
 
 
 
-​ascend  verb UK   /əˈsend/ US   /əˈsend/ formal
+**Ascend**  verb UK   /əˈsend/ US   /əˈsend/ formal
 
 1.助记.前缀a-同ad-, 在sc, sp, st开头词根前缩小为a-. 词根scend, 爬，爬升，比较descend，下降.
 
@@ -89,7 +89,7 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
 3. 释义,
 
-   <img src='http://th04.deviantart.net/fs71/PRE/f/2012/199/0/8/gem_png_by_doloresdevelde-d57oyqr.png' style='zoom:20%'>
+   ​
 
    ​
 
@@ -233,11 +233,12 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
     **Origin**
 
-   Late Middle English: from Old French reflecter or Latin reflectere, from re- ‘back’ + flectere ‘to bend’.
+    Late Middle English: from Old French reflecter or Latin reflectere, from re- ‘back’ + flectere ‘to bend’.
 
     **Etymology**
+    late 14c., reflexion, in reference to surfaces throwing back light or heat, from Late Latin reflexionem (nominative reflexio) "a reflection," literally "a bending back," noun of action from past participle stem of Latin reflectere "to bend back, bend backwards, turn away," from re- "back" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + flectere "to bend" (see [flexible](https://www.etymonline.com/word/flexible?ref=etymonline_crossreference)). Of the mind, from 1670s. Meaning "remark made after turning back one's thought on some subject" is from 1640s. Spelling with -ct-recorded from late 14c., established 18c., by influence of the verb.
 
-   late 14c., reflexion, in reference to surfaces throwing back light or heat, from Late Latin reflexionem (nominative reflexio) "a reflection," literally "a bending back," noun of action from past participle stem of Latin reflectere "to bend back, bend backwards, turn away," from re- "back" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + flectere "to bend" (see [flexible](https://www.etymonline.com/word/flexible?ref=etymonline_crossreference)). Of the mind, from 1670s. Meaning "remark made after turning back one's thought on some subject" is from 1640s. Spelling with -ct-recorded from late 14c., established 18c., by influence of the verb.
+
 
 3. 释义,
 
@@ -314,6 +315,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 3. 定义：lasting for a long time or for ever 永久（性）的，永恒的
 
 
+
+
 #### coalesce/kəʊ.əˈles/
 
 1. 助记：coalesce : co-,表强调，-al,生长，词源同adult（承认）,adolescence（青春期）即长到一块。
@@ -321,6 +324,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
    etymology
    1540s, "grow together, unite by growing into one body," from Latin coalescere "unite, grow together, become one in growth," from assimilated form of com- "together" (see co-) + alescere "be nourished," hence, "increase, grow up," inchoative of alere "to suckle, nourish," from PIE root *al- (2) "to grow, nourish." Related: Coalesced; coalescing; coalescence; coalescent.
 3. 定义：If two or more things coalesce, they come or grow together to form one thing or system. 联合，合并
+
+
 
 
 #### vessel/ˈves.əl/
@@ -334,6 +339,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
    2. a curved container that is used to hold liquid 容器
    3. a person who has a particular quality or who is used for a particular purpose:
 
+   ​
+
 
 #### absolute/ˈæb.sə.luːt/
 
@@ -344,6 +351,184 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 3. 定义：
    1. very great or to the largest degree possible 完全的 绝对的
    2. used when expressing a strong opinion十足的 地道的
+
+
+
+
+
+
+1. ​
+
+   **@aqua 2018-03-21**
+
+**Despise** /dɪˈspaɪz/ 轻视
+
+1. 助记,
+
+   De+spise
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French despire, from Latin despicere, **from de- ‘down’ + specere ‘look at’.**
+
+   **Etymology**
+
+   c. 1300, from Old French despis-, present participle stem of despire "to despise," from Latin despicere"look down on, scorn," **from de- "down" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + spicere/specere "to look at" (from PIE root[*spek-](https://www.etymonline.com/word/*spek-?ref=etymonline_crossreference) "to observe").** Related: Despised; despising.
+
+3. 释义,
+
+   轻视 to feel a strong dislike for someone or something because you think that thatperson or thing is bad or has no value
+
+4. 拓展 
+
+   despise : [de-=down向下；spis (spic的异体)=to look看；-e→]
+
+**Idealism** /aɪˈdiː.ə.lɪ.zəm/ 理想主义
+
+1. 助记,
+
+   Ideal+ism
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 18th century (in idealism (sense 2)): from French idéalisme or German Idealismus, **from late Latin idealis (see ideal).**
+
+   **Etymology**
+
+   1796 in the abstract metaphysical sense "belief that reality is made up only of ideas," **from [ideal](https://www.etymonline.com/word/ideal?ref=etymonline_crossreference) (adj.) + [-ism](https://www.etymonline.com/word/-ism?ref=etymonline_crossreference)**. Probably formed on model of French idéalisme. Meaning "tendency to represent things in an ideal form" is from 1829. Meaning "pursuit of the ideal, a striving after the perfect state" (of truth, purity, justice, etc.).
+
+3. 释义,
+
+   理想主义the belief that your ideals can be achieved, often when this does not seem likely to others
+
+4. 拓展 
+
+   idealism:(idal+ism→理想主义,唯心主义)
+
+   理想主义【哲学】唯心论，唯心主义；观念论，理念论
+
+**Harmony** /ˈhɑːr.mə.ni/ 和谐
+
+1. 助记,
+
+   harmony:(harm+ony→适合的心态→和谐)
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin harmonia ‘joining, concord’, from Greek, **from harmos ‘joint’.**
+
+   **Etymology**
+
+   late 14c., "combination of tones pleasing to the ear," from Old French harmonie, armonie "harmony," also the name of a musical instrument (12c.), from Latin harmonia, **from Greek harmonia "agreement, concord of sounds,"** also as a proper name, the personification of music, literally "means of joining," used of ship-planks, etc., also "settled government, order," related to harmos "fastenings of a door; joint, shoulder," from PIE ar(ə)-smo-, suffixed form of root [*ar-](https://www.etymonline.com/word/*ar-?ref=etymonline_crossreference) "to fit together." Modern scientific harmony, using combinations of notes to form chords, is from 16c. Sense of "agreement of feeling, concord" is from late 14c.
+
+3. 释义,
+
+   和谐 a situation in which people are peaceful and agree with each other, or when things seem right or suitable together
+
+4. 拓展 
+
+   harmony（和谐）：和谐女神哈耳摩尼亚
+   哈耳摩尼亚（Harmonia）是希腊神话中代表和谐和协调的女神。在罗马神话中对应的神祇为孔科耳狄亚（Concordia）。哈耳摩尼亚的对头是不和女神厄里斯。根据赫西俄德的《神谱》，她是战神阿瑞斯和爱神阿芙洛狄忒私通所生的女儿。
+   哈耳摩尼亚以其在婚礼所收的项链而为人熟悉。当雅典娜把底比斯交给卡德摩斯统治时，宙斯把哈耳摩尼亚许给卡德摩斯。婚礼上，诸神齐来庆贺。爱神阿芙洛狄忒的丈夫、火神赫淮斯托斯也来参加婚礼，并为新娘献上一件他亲手做的一件无袖长袍和一条项链。但出于对爱神与战神的痛恨，赫淮斯托斯对项链施加了诅咒，凡是戴上该项链的人都会遭遇不幸。这就是著名的“哈耳摩尼亚项链”。
+   哈耳摩尼亚的名字Harmonia在希腊语中就是“和谐”的意思。
+
+   英语单词harmony（和谐）就来源于此。
+   harmonic：[hɑː'mɒnɪk] adj.和谐的，和睦的，协调的，和声的n.谐波，和声
+   harmonious：[hɑr'monɪəs] adj. 和谐的，和睦的；协调的；悦耳的
+   Harmonia’s necklace：不祥之物，祸根
+
+**Illustrate** /ˈɪl.ə.streɪt/ 阐明
+
+1. 助记,
+
+   illustrate : il-,进入，使，luster,发光，光泽。引申词义解释，阐明。使，luster,发光，光泽。引申词义解释，阐明。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century (in the sense ‘illuminate, shed light on’): from Latin illustrat- ‘lit up’, from the verb illustrare, **from in- ‘upon’ + lustrare ‘illuminate’.**
+
+   **Etymology**
+
+   1520s, "light up, shed light on;" 1610s, "educate by means of examples," back-formation from[illustration](https://www.etymonline.com/word/illustration?ref=etymonline_crossreference), and in some cases from Latin illustratus, past participle of illustrare "light up, make light, illuminate." Sense of "provide pictures to explain or decorate" is 1630s. Related: [Illustrated](https://www.etymonline.com/word/Illustrated?ref=etymonline_crossreference);illustrating.
+
+3. 释义,
+
+   阐明   to show the meaning or truth of something more clearly, especially by givingexamples
+
+4. 拓展 
+
+   lunar（月亮的）：第一代月亮女神卢娜
+   罗马神话中，第一代月亮女神叫做“卢娜”（Luna），对应于希腊神话中的塞勒涅（Selene）。卢娜的名字Luna在拉丁语中就是“月亮”的意思，源自原始印欧语leuk-。英语中表示“月亮”的词根lun-就来源于此。
+   古人认为满月拥有使人发狂的魔力，人狼会在月圆之夜变身为狼，因此就用由词根lun-衍生的单词lunatic来表示“疯狂的、精神错乱的”。
+   与Luna同源的还有英语单词light（光）、词根luc-/lumin-/lustr-（光、光亮）等。英文名字Lucius（卢修斯）、Lucia（路西娅）、Lucas（卢卡斯）、Lucy（露西）等都来自词根luc-，含有“光明”之意。
+   lun-：月亮，月
+   Luna：['lju:nə] n.月亮，月神
+   lunar：['luːnə] adj.月亮的，阴历的
+   lunatic：['luːnətɪk] n.疯子，疯人adj.疯狂的，精神错乱的，愚蠢的
+   lunacy： ['lunəsi] n. 精神失常；愚蠢的行为
+   lunate： ['lʊnet] adj. 新月状的；半月形的
+   lunation： [lʊ'neʃən] n. 阴历月
+   lux-/luc-/lumin-/lustr-：光，光亮
+   illustrate：['ɪləstret] vt. 阐明，举例说明；图解vi. 举例
+   illuminate：[ɪ'lumɪnet] vt. 阐明，说明；照亮；使灿烂；用灯装饰vi. 照亮
+
+**Mutual** /ˈmjuː.tʃu.əl/ 相互的
+
+1. 助记,
+
+   Mut+ual→你变我也变→相互的,词源同mutable,common.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 15th century: from Old French mutuel, from Latin mutuus ‘mutual, borrowed’; **related to mutare ‘to change’.**
+
+   **Etymology**
+
+   late 15c., originally of feelings, from Middle French mutuel (14c.), from Latin mutuus "reciprocal, done in exchange," **from PIE root [*mei-](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference) (1) "to change, go, move,"** "with derivatives referring to the exchange of goods and services within a society as regulated by custom or law" [Watkins].
+
+3. 释义,
+
+   相互的 feeling the same emotion, or doing the same thing to or for each other
+
+4. 拓展 
+
+ **Reinforce**/ˌriː.ɪnˈfɔːrs/ 增援
+
+1. 助记,
+
+   Re+in+force
+
+   re-=again再；in-=to put into投入；force n.力→“to put into force again再投入兵力”→增援
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from French renforcer, influenced by inforce, an obsolete spelling of enforce; the sense of providing military support is probably from Italian rinforzare.
+
+   **Etymology**
+
+   c. 1600, originally in military sense, **from [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference) "again" + [enforce](https://www.etymonline.com/word/enforce?ref=etymonline_crossreference) (compare [re-enforce](https://www.etymonline.com/word/re-enforce?ref=etymonline_crossreference)). Related:Reinforced;** reinforcing.
+
+3. 释义,
+
+   增援 to provide an army with more soldiers or weapons to make it stronger
+
+4. 拓展 
+
+   我们学习小组就是mutually reinforce的关系，彼此之间互相增援、互相加持。
+
+
 
 ## 2 Use the 5-Step Process to Get What You Want Out of Life
 
