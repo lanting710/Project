@@ -8,6 +8,29 @@
 
 There is nothing more important than understanding **how reality works and how to deal with it.** The state of mind you bring to this process makes all the difference. I **have found it helpful to think of my life as if it were a game in which each problem I face is a puzzle I need to solve.** By solving the puzzle, I get a **gem** in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improves my decision making, so I am able to **ascend** to higher and higher levels of play in which the game gets harder and the **stakes** become ever greater.
 
+
+
+​ascend  verb UK   /əˈsend/ US   /əˈsend/ formal
+
+1.助记.前缀a-同ad-, 在sc, sp, st开头词根前缩小为a-. 词根scend, 爬，爬升，比较descend，下降.
+
+2.词源.
+
+OED.
+
+Late Middle English: from Latin ascendere, from ad- ‘to’ + scandere ‘to climb’.
+
+ETYMON.
+
+late 14c., "move upward," from Latin ascendere "to climb up, mount," of planets, constellations, "come over the horizon," figuratively "to rise, reach," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + scandere "to climb" (see [scan](https://www.etymonline.com/word/scan?ref=etymonline_crossreference)(v.)). Also in 15c. used with a sense "to mount (a female) for copulation." Meaning "slope upward" is from 1832. Related: Ascended; [ascending](https://www.etymonline.com/word/ascending?ref=etymonline_crossreference). An Old English word for it was stigan.
+
+3.释义.
+
+1.上升；攀登；登上 [ I or T ] to move up or climb something
+
+2.[ I ] to rise to a position of higher rank
+登上高的职位；升级，晋级
+
 All sorts of **emotions** come to me while I am playing and those emotions can either help me or hurt me. If I can **reconcile** my emotions with my logic and only act when they are **aligned**, I make better decisions.
 
 **Learning how reality works, visualizing the things I want to create, and then building them out is incredibly exciting to me.** **Stretching** for big goals puts me in the position of failing and needing to learn and come up with new inventions in order to move forward. I find it **exhilarating** being caught up **in the feedback loop of rapid learning**—just as a surfer loves riding a wave, even though it sometimes leads to crashes. Don’t get me wrong, I’m still scared of the crashes and I still find them painful. But I keep that pain in perspective, knowing that I will get through these **setbacks** and that most of my learning will come from **reflecting on** them.  Just as long-distance runners push through pain to experience the pleasure of “runner’s high,” I have largely gotten past the pain of my mistake making and instead enjoy the pleasure that comes with learning from it. I believe that with practice you can change your habits and experience the same “mistake learner’s high.”
