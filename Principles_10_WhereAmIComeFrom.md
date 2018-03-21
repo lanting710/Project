@@ -852,6 +852,118 @@ UK /ɪnˈstrʌkʃn/ US /ɪnˈstrʌkʃən/
 
 
 
+@Grace 2018-03-21
+
+#### **Expend**
+
+UK /ɪkˈspænd/ US /ɪkˈspænd/
+
+1. 助记,
+
+   “ex-”+“pand” = ‘to spread out‘分散，伸展，延长
+
+   **ex-**：表示“从，从...离开，从...向外，向外，向上”，来自PIE*eghs,向外，'out'。
+
+   **pand**： = spread. 表示“展开，延展, 扩展”，词源同pace,feather。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin expandere ‘to spread out’, from ex- ‘out’ + pandere ‘to spread’.
+
+   **Etymology**
+
+   early 15c., "spread out, open out, spread flat, extend widely;" also transitive, "cause to grow larger;" from Anglo-French espaundre, Old French espandre "spread, spread out, be spilled," and directly from Latin expandere "to spread out, unfold, expand," from ex "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + pandere "to spread, stretch" (from nasalized form of PIE root [*pete-](https://www.etymonline.com/word/*pete-?ref=etymonline_crossreference) "to spread"). Related: Expanded; expanding.
+
+3. 释义,
+
+   v. 1)扩大，增加，增强（尺码、数量或重要性）**to become greater in size, number or importance; to make sth greater in size, number or importance**
+
+   ​     2)扩展，发展（业务）**if a business expands or is expanded , new branches are opened, it makes more money, etc.**
+
+   ​     3)细谈；详述；详细阐明**to talk more; to add details to what you are saying**
+
+4. 相关词语和词组
+
+   **expandable** adj. 可扩张的；可补充的；可膨胀的
+
+   **expanse** n. 一大片，广阔，浩瀚（尤指陆地或海洋）
+
+   **expansion** n. 扩张，扩展，膨胀
+
+   **expansionary** adj. 刺激经济扩张的
+
+   **expansionism** n. 扩张主义；扩张政策
+
+   **expansive** adj. 辽阔的；广泛的
+
+   **expand on/upon sth** 详述；充分叙述；详细阐明
+
+5. 同义词辨析
+
+   **expand**    v. （使）扩大，膨胀。强调向外扩张。
+
+   **amplify**   v. 放大。指放大声音等，尤指音乐声。
+
+   **enlarge**   v. 扩大。指放大尺寸、面积、容量等。
+
+   **increase** v. 增加。指增加数目或数量。
+
+
+
+#### ** Depression**
+
+UK /dɪˈpreʃn/ US /dɪˈprɛʃən/
+
+1. 助记,
+
+   “de-”+“press” = 'put down by force,press down'消沉，沮丧
+
+   **de-**：来自拉丁语介词形式de, 表示“从，从...离开，从...向下，向下”，'down'。
+
+   **press**： 表示“挤压”，'to strike,push down physically'。
+
+   **-ion**：表名词，“行为、动作、状态、过程、结果；物品”等。
+
+2. 词源,
+
+   depress v.
+
+   **OED Origin**
+
+   Late Middle English: from Old French depresser, from late Latin depressare, frequentative of deprimere ‘press down’.
+
+   **Etymology**
+
+   early 14c., "put down by force," from Old French depresser, from Late Latin depressare, frequentative of Latin deprimere "press down," from de- "down" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + premere "to press, hold fast, cover, crowd, compress" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (4) "to strike"). Meaning "push down physically" is from early 15c.; that of "deject, make gloomy" is from 1620s; economic sense of "lower in value" is from 1878. Related: Depressed; depressing.
+
+3. 释义,
+
+   n. 1)抑郁症；精神忧郁；抑郁；沮丧；消沉(unhappiness)**a medical condition in which a person feels very sad and anxious and often has physical symptoms such as being unable to sleep, etc. ;the state of feeling very sad and without hope **
+
+   ​     2)萧条期；经济衰退；不景气(no activity**a period when there is little economic activity and many people are poor or without jobs **
+
+   ​     3)洼地；凹地；坑(hole)**a part of a surface that is lower than the parts around itunderstanding the meaning of it**
+
+   ​     4)[术语]低气压；气压降低(weather) **a weather condition in which the pressure of the air becomes lower, often causing rain**
+
+4. 相关词语和词组
+
+   **depress** n. 抑郁，消沉；萧条，不景气；降低（价格），减少（工资）；按，压，推下（尤指机器部件）
+
+   **depressive** adj. 抑郁的
+
+   ​                      n. 抑郁症患者
+
+   **fall into a (deep) depression** 变得意志消沉，精神沮丧
+
+   ​
+
+好句：All of this pounded an indelible lesson into my head: Timing is everything.
+
+（许多事情，不能像多米诺骨牌那样推倒重来，但至少留给了我们经验教训。）
+
 
 
 **Depression** **/dɪˈpreʃ.ən/ 萧条
@@ -881,6 +993,8 @@ UK /ɪnˈstrʌkʃn/ US /ɪnˈstrʌkʃən/
    2) （经济）萧条期，不景气时期
 
    a period in which there is very little business activity and not many jobs
+
+   ​
 
 
    ​
