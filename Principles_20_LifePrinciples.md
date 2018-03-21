@@ -357,9 +357,7 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
 
 
-1. ​
-
-   **@aqua 2018-03-21**
+**@aqua 2018-03-21**
 
 **Despise** /dɪˈspaɪz/ 轻视
 
