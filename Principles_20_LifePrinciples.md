@@ -274,7 +274,53 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
 
 
+#### detract /dɪˈtrækt/
 
+1. 助记：detract : de-,向下，-tract,拉，词源同attract,contract.即向下拉，贬低。
+2. 词源：
+   etymology
+   mid-14c., from Old French detraccion "detraction, disparagement, denigration," from Latin detractionem (nominative detractio) "a drawing off," from past participle stem of detrahere "take down, pull down, disparage," from de- "down" (see de-) + trahere "to pull" (see tract (n.1)). The fem. form detractress is attested from 1716.
+3. 定义：If one thing detracts from another, it makes it seem less good or impressive 减损;诋毁;贬低
+
+#### permanent/ˈpɜː.mə.nənt/
+
+1. permanent : per-,整个的，词根man,main表示停留、居住。词源同(remain剩余物，残骸) 引申词义永久的。
+2. 词源：
+   etymology
+   early 15c., from Middle French permanent (14c.) or directly from Latin permanentem (nominative permanens) "remaining," present participle of permanere "endure, hold out, continue, stay to the end," from per "through" (from PIE root *per- (1) "forward," hence "through") + manere "stay" (from PIE root *men-(3) "to remain"). As a noun meaning "permanent wave," by 1909. Of clothing, permanent press attested from 1964.
+3. 定义：lasting for a long time or for ever 永久（性）的，永恒的
+
+
+#### coalesce/kəʊ.əˈles/
+
+1. 助记：coalesce : co-,表强调，-al,生长，词源同adult（承认）,adolescence（青春期）即长到一块。
+2. 词源：
+   etymology
+   1540s, "grow together, unite by growing into one body," from Latin coalescere "unite, grow together, become one in growth," from assimilated form of com- "together" (see co-) + alescere "be nourished," hence, "increase, grow up," inchoative of alere "to suckle, nourish," from PIE root *al- (2) "to grow, nourish." Related: Coalesced; coalescing; coalescence; coalescent.
+3. 定义：If two or more things coalesce, they come or grow together to form one thing or system. 联合，合并
+
+
+#### vessel/ˈves.əl/
+
+1. 助记：vessel : 来自拉丁语vas,容器，词源同vase(花瓶）,vascular（血管的）.引申词义船只，轮船。
+2. 词源：
+   etymology
+   c. 1300, "container," from Old French vessel "container, receptacle, barrel; ship" (12c., Modern French vaisseau) from Late Latin vascellum "small vase or urn," also "a ship," alteration of Latin vasculum, diminutive of vas "vessel." Sense of "ship, boat" is found in English from early 14c. "The association between hollow utensils and boats appears in all languages" [Weekley]. Meaning "canal or duct of the body" (especially for carrying blood) is attested from late 14c.
+3. 定义：
+   1. a large boat or a ship 船 
+   2. a curved container that is used to hold liquid 容器
+   3. a person who has a particular quality or who is used for a particular purpose:
+
+
+#### absolute/ˈæb.sə.luːt/
+
+1. 助记：ab前缀“远离”，solut词根“松开”  绝对的  鲜明的解除束缚、获得自由的过程。由“松开束缚”的具体意思抽象化为“不受条件约束的、无条件的”，无条件的就是绝对的
+2. 词源：
+   etymology
+   late 14c., "unrestricted, free from limitation; complete, perfect, free from imperfection;" also "not relative to something else" (mid-15c.), from Latin absolutus, past participle of absolvere "to set free, acquit; complete, bring to an end; make separate," from ab "off, away from" (see ab-) + solvere "to loosen, untie, release, detach," from PIE *se-lu-, from reflexive pronoun *s(w)e- (see idiom) + root *leu- "to loosen, divide, cut apart."
+3. 定义：
+   1. very great or to the largest degree possible 完全的 绝对的
+   2. used when expressing a strong opinion十足的 地道的
 
 ## 2 Use the 5-Step Process to Get What You Want Out of Life
 
