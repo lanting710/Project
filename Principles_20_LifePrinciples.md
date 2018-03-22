@@ -530,7 +530,6 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    我们学习小组就是mutually reinforce的关系，彼此之间互相增援、互相加持。
 
-   
 
 
 **@Alina 2018-03-22**
@@ -714,8 +713,6 @@ UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
 Evolving is life's greatest accomplishment and its greatest reward.
 
-
-
 @aqua 2018-03-22
 
  **Evolve** /ɪˈvɑːlv/ 进化
@@ -828,14 +825,6 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
    cent为唱,吟唱,词源同chant,cantor.唱的比说的好听,所以用唱的办法更能激励人.
 
-
-
-
-
-
-
-
-## 2 Use the 5-Step Process to Get What You Want Out of Life
 
 
 
