@@ -195,5 +195,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
    - 开始阅读Part 2, Life Principles
    - 计划阅读'英雄之旅'
 
+- 2018-03-22 Th
 
-   ​
+   - Melody真,初次走完git flow
+
