@@ -603,7 +603,109 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
 ## 2 Use the 5-Step Process to Get What You Want Out of Life
 
+@Grace 2018-03-22
 
+#### **Prioritize**
+
+UK /praɪˈɒrətaɪz/ US /praɪˈɔ:rətaɪz/
+
+1. 助记,
+
+   “prior-”+“-ity”+"-ize" = "fact or condition of being prior"
+
+   **prior-**：'earlier,former, previous, first,superior, better,forefather,superior,rank,before',表示“提前，优先”，来自PIE*per-,‘forward,in front of, before, first'。
+
+   **-ity**： = 表示性质、状态、行为。
+
+   **-ize**： = 动词后缀，表示使成为，使…化。
+
+   priority一词，是1972年美国总统竞选中创造出来的。词源网站记述如下：
+
+   1972, apparently coined during the U.S. presidential contest that year, from root of [priority](https://www.etymonline.com/word/priority?ref=etymonline_crossreference) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference). Related: Prioritized; prioritizing.
+
+2. 词源,
+
+   priority n.
+
+   **OED Origin**
+
+   Late Middle English (denoting precedence in time or rank): from Old French priorite, from medieval Latin prioritas, from Latin prior ‘former’ (see prior).
+
+   **Etymology**
+
+   late 14c., "state of being earlier," from Old French priorite (14c.), from Medieval Latin prioritatem (nominative prioritas) "fact or condition of being prior," from Latin prior (see [prior](https://www.etymonline.com/word/prior?ref=etymonline_crossreference) (adj.)). From c. 1400 as "precedence in right or rank." Wyclif (early 15c.) renders prioritas into (Middle) English as furtherhead.
+
+3. 释义,
+
+   v. 1)按重要性排列；划分优先顺序**to put tasks, problems, etc. in order of importance, so that you can deal with the most important first**
+
+   ​    2)优先处理**to treat sth as being more important than other things**
+
+4. 相关词语和词组
+
+   **priority** n. 优先事项，首先事情；优先，优先权，重点；（车辆）优先通行权
+
+   **prioritization** n. 优先次序;[计] 优化
+
+   **a high/low priority** 重点/非重点项目
+
+   ​
+
+#### ** Tolerate**
+
+UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
+
+1. 助记,
+
+   来自拉丁语tolerat，意为‘endure pain’。
+
+   摘自词源网站:Early 16th century (in the sense ‘endure pain’): from Latin tolerat- ‘endured’, from the verb tolerare.
+
+2. 词源,
+
+   toleration n.
+
+   **OED Origin**
+
+   Late 15th century (denoting the granting of permission by authority): from French tolération, from Latin toleratio(n-), from tolerare (see tolerate).
+
+   **Etymology**
+
+   1510s, "permission granted by authority, licence," from Middle French tolération (15c.), from Latin tolerationem (nominative toleratio) "a bearing, supporting, enduring," noun of action from past participle stem of tolerare "to endure, sustain, support, suffer," literally "to bear," from PIE *tele- "to bear, carry" (see [extol](https://www.etymonline.com/word/extol?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   v. 1)容许，允许（不同意或不喜欢的事物）(accept)**to allow sb to do sth that you do not agree with or like **
+
+   ​    2)忍受，容忍，包容；（对药物）有耐受性；能经受（困难条件）(deal with)**to accept sb/sth that is annoying, unpleasant, etc. without complaining ;to be able to be affected by a drug, difficult conditions, etc. without being harmed**
+
+4. 相关词语和词组
+
+   **tolerable** adj. 过得去的，还可以的；可接受的，可容忍的；
+
+   **tolerance** n. 忍受，宽容；忍耐力，忍受性；（术语）公差，容限
+
+   **tolerant** adj. 忍受的，宽容的；（植物，动物或机器）能在困难条件下生存（或操作）的，能耐…的
+
+   **toleration** n. 忍受，宽容，容许
+
+5. 同义词辨析
+
+   **tilerate** v. 忍受，容忍。指以克制的态度容忍令人反感或厌恶的事物，含默认、宽容之意。
+
+   **bear**      v. 忍受，忍耐。普通用词，指忍受饥饿、寒冷、疼痛、不幸、困难、侮辱等，多强调忍受者的勇敢和坚毅。
+
+   **stand**    v. 经受；忍受。作“经受”解时，常与 could 或 can 连用，指某人或某物经得起伤害等；作“忍受”解时，主要指对某人、某种困难情况的忍受或承受，通常用于疑问句和否定句中，常可与 bear 换用。
+
+   **endure** v. [正式]忍受，忍耐。强调长期性，主要指对灾难、困难、疼痛等长时间地忍受而不抱怨。
+
+   **sustain** v. [正式]遭受，经受。指受到损害、创伤或金钱方面的损失。
+
+   ​
+
+好句：While you can have virtually anything you want，you can't everything you want.
+
+（很有哲理的一句话。我们会面临太多的诱惑，选择你最想要的，定准目标后为之奋斗，而不要过于贪心、三心两意，否则将一事无成。）
 
 
 
