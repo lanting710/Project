@@ -651,7 +651,7 @@ UK /praɪˈɒrətaɪz/ US /praɪˈɔ:rətaɪz/
 
    ​
 
-#### ** Tolerate**
+#### **Tolerate**
 
 UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
@@ -703,7 +703,7 @@ UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
    ​
 
-好句：While you can have virtually anything you want，you can't everything you want.
+好句：While you can have virtually anything you want，you can't have everything you want.
 
 （很有哲理的一句话。我们会面临太多的诱惑，选择你最想要的，定准目标后为之奋斗，而不要过于贪心、三心两意，否则将一事无成。）
 
