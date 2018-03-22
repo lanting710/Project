@@ -409,6 +409,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    理想主义【哲学】唯心论，唯心主义；观念论，理念论
 
+   ​
+
 **Harmony** /ˈhɑːr.mə.ni/ 和谐
 
 1. 助记,
@@ -477,6 +479,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
    lux-/luc-/lumin-/lustr-：光，光亮
    illustrate：['ɪləstret] vt. 阐明，举例说明；图解vi. 举例
    illuminate：[ɪ'lumɪnet] vt. 阐明，说明；照亮；使灿烂；用灯装饰vi. 照亮
+
+   ​
 
 **Mutual** /ˈmjuː.tʃu.əl/ 相互的
 
