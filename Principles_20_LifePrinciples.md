@@ -526,7 +526,80 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    我们学习小组就是mutually reinforce的关系，彼此之间互相增援、互相加持。
 
+   ​
 
+
+**@Alina 2018-03-22**
+
+#### innate/ɪˈneɪt/
+
+1. 助记：in-,进入，使，-nat,出生， nat =born,表示"出生的,本土的" 词源同 natal,native.即出生就有的，天生的。
+2. 词源：
+   etymlogy
+   early 15c., "existing from birth," from Late Latin innatus "inborn, native, natural" (source also of French inné, Spanish and Italian innato), past participle of innasci "to be born in, originate in," from in- "in" (from PIE root *en "in") + nasci "to be born" (Old Latin gnasci), from PIE root *gene- "give birth, beget," with derivatives referring to procreation and familial and tribal groups. Opposed to acquired. Related: Innately; innateness.
+3. 定义：An innate quality or ability is one that you were born with, not one you have learned 天生的 特有的
+4. 拓展：
+   neonate 出生婴儿 neo新+nat出生的,本土的+e→新出生
+   nation 出生国家 nat出生的,本土的+ion表名词→出生之处
+   native  本地人 本国人 nat本土的+ive人→n.本地人,本国人
+
+
+#### diminishing/dɪˈmɪn.ɪʃ/
+
+1. 助记：di- 表示“分开，散开”，引申词义“离开，无  缺乏   min- = small, 表示“小”     -ish 表动词，“造成…     即减少，缩小
+
+2. 词根：
+   **etymology**
+   diminish: [15] Diminish is a hybrid verb, the result of a marriage between the now obsolete diminue [14] and the virtually obsolete minish [14], both of which meant ‘make smaller’. Diminue came via Old French diminuer from Latin dīminuere ‘break into small pieces’; it was a compound verb formed from the prefix dē- ‘from’ and minuere ‘lessen’ (source of English minute). Minish came via Old French menuiser from Vulgar Latin *minūtiāre, a derivative of Latin minūtus ‘small’; this, bringing the history of diminish full circle, was an adjectival use of the past participle of minuere.
+   => minute[diminish etymology, ]
+
+3. 定义：decrease in size, extent, or range 缩小 减少
+
+4. 拓展：
+
+   minimize minim[n.极小之物;半音符]+ize表动词→减少到最少
+
+   minim mini小+m→n.极小之物;半音符
+
+   miniature mini小+ature表名词→小物品→小画象
+
+#### decompose /di:kəmˈpəʊz/
+
+1. 助记：de-不，非，使相反 + compose【组成】使不组成 即分解，腐蚀
+
+2. 词源：
+
+   **etymology**
+
+    1750s, "to separate into components," from de- "opposite      of" + compose. Sense of "putrefy" is first recorded 1777. Related: Decomposed; decomposing.
+
+3. 定义：to decay, or to cause something to decay 腐败 衰退 分解
+
+4. 拓展：反义词 recompose 重组
+
+#### marginal/ˈmɑː.dʒɪ.nəl/ 
+
+1. 助记；来自名词 margin ，margin来自拉丁语 marginem,边缘，边界，来自 PIE*merg,记号，标记，边界，词源同 mark,march.引申词义湖边，河边，页边等
+   marginal 形容词意为 边缘的 最低限度的
+2. 词源：
+   **etymology**
+   mid-14c., "edge of a sea or lake;" late 14c., "space between a block of text and the edge of a page," from Latin marginem (nominative margo) "edge, brink, border, margin," from PIE *merg- "edge, border, boundary" (see mark (n.1)). General sense of "boundary space; rim or edge of anything" is from late 14c. Meaning "comfort allowance, cushion" is from 1851; margin of safety first recorded 1888. Stock market sense of "sum deposited with a broker to cover risk of loss" is from 1848. Related: Margins.
+3. 定义：
+   1. at or constituting a border or edge 边缘的
+   2. of questionable or minimal quality 最低限度的 
+   3. just barely adequate or within a lower limit 勉强够用的
+
+#### subliminally /sʌbˈlɪmɪnli/ 
+
+1. 助记：1 - sub-,在下，-lim,门槛，界线，词源同 limit.（限制 界限） 即界线下的，引申词义下意识的，潜意识的。
+
+2. 词源：
+   **etymology**
+   1873, "below the threshold" (of consciousness or sensation), formed from Latin stem of sublime (Latin limen, genitive liminis) + -al (1)). Apparently a loan-translation of German unter der Schwelle (des Bewusstseins) "beneath the threshold (of consciousness)," from Johann Friedrich Herbart (1776-1841), author of a textbook on psychology published in 1824. The scare over subliminal advertising came in 1957. Related: Subliminally.
+
+3. 定义：below the threshold of conscious perception 潜意识的 在意识知觉下的
+
+   ​
 
 ## 2 Use the 5-Step Process to Get What You Want Out of Life
 
