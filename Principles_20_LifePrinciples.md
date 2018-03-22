@@ -526,7 +526,7 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    我们学习小组就是mutually reinforce的关系，彼此之间互相增援、互相加持。
 
-   ​
+   
 
 
 **@Alina 2018-03-22**
@@ -701,11 +701,137 @@ UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
    **sustain** v. [正式]遭受，经受。指受到损害、创伤或金钱方面的损失。
 
-   ​
 
 好句：While you can have virtually anything you want，you can't have everything you want.
 
 （很有哲理的一句话。我们会面临太多的诱惑，选择你最想要的，定准目标后为之奋斗，而不要过于贪心、三心两意，否则将一事无成。）
+
+
+
+Evolving is life's greatest accomplishment and its greatest reward.
+
+
+
+@aqua 2018-03-22
+
+ **Evolve** /ɪˈvɑːlv/ 进化
+
+1. 助记,
+
+   E+volve
+
+   e出+volv-roll out+e→向外,转动出来→发展,进化
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century (in the general sense ‘make more complex, develop’): from Latin evolvere, **from e- (variant of ex-) ‘out of’ + volvere ‘to roll’.**
+
+   **Etymology**
+
+   1640s, "to unfold, open out, expand," from Latin evolvere "to unroll, roll out, roll forth, unfold," especially of books; figuratively "to make clear, disclose; to produce, develop," **from assimilated form ofex "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + volvere "to roll,"** from PIE root [*wel-](https://www.etymonline.com/word/*wel-?ref=etymonline_crossreference) (3) "to turn, revolve." Meaning "to develop by natural processes to a higher state" is from 1832. Related: Evolved; evolving.
+
+3. 释义,
+
+   进化 to develop gradually, or to cause something or someone to develop gradually
+
+4. 拓展 
+
+   词源同volume,voluble.后用于进化义，并通过达尔文的使用使该词广泛传播。
+
+   与施展老师提出的“内卷”结合起来，是否可以理解为内卷，就停滞;向外卷动、滚动，就得到发展和进步。
+
+
+
+**Reward** /rɪˈwɔːrd/ 回报
+
+1. 助记,
+
+   Re+ward
+
+   re-表强调,反复看 +ward-看,注视,反复看,即留意,关切,引申为具体的奖励,回报.
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Anglo-Norman French, variant of Old French reguard ‘regard, heed’, also an early sense of the English word.
+
+   **Etymology**
+
+   mid-14c., "a regarding, heeding, observation," from Anglo-French and Old North French reward, back-formation **from rewarder (see [reward](https://www.etymonline.com/word/reward?ref=etymonline_crossreference) (v.)).** Meaning "repayment for some service" is from late 14c. Sense of "sum of money in exchange for capture" is from 1590s.
+
+3. 释义,
+
+   回报  something that is successful, or that is achieved after a lot of work or effort
+
+4. 拓展 
+
+   略
+
+
+
+**Instinctual** /ɪnˈstɪŋk.tju.əl/ 本能的
+
+1. 助记,
+
+   In+stinct+ual
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1841, from [instinct](https://www.etymonline.com/word/instinct?ref=etymonline_crossreference) (Latin instinctus) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1). Related: Instinctually.
+
+3. 释义,
+
+   本能的 happening naturally, as a result of instinct, rather than being thought about,planned, or developed by training
+
+4. 拓展 
+
+   念念不忘,终有回响.
+
+
+
+
+
+**Incentive** /ɪnˈsen.t̬ɪv/ 激励
+
+1. 助记,
+
+   in+cent+ive
+
+   in-进去+cent-唱歌,把精神唱进去--激励
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin incentivum ‘**something that sets the tune or incites’,** from incantare ‘to chant or charm’.
+
+   **Etymology**
+
+   c. 1600, "provocative, exciting, encouraging," **from Late Latin incentivus "inciting" (see [incentive](https://www.etymonline.com/word/incentive?ref=etymonline_crossreference)(n.)).** In reference to a system of rewards meant to encourage harder work, first attested 1943 in jargon of the U.S. war economy.
+
+3. 释义,
+
+   激励 something that encourages a person to do something
+
+4. 拓展 
+
+   cent为唱,吟唱,词源同chant,cantor.唱的比说的好听,所以用唱的办法更能激励人.
+
+
+
+
+
+
+
+
+## 2 Use the 5-Step Process to Get What You Want Out of Life
 
 
 
