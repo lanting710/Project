@@ -981,6 +981,135 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 
 
+@Grace 2018-03-23
+
+#### **Symbiotic**
+
+UK /ˌsɪmbaɪ'ɒtɪk/ US /ˌsɪmbaɪ'ɒtɪk/
+
+1. 助记,
+
+   “symbiot”+“-ic” = "symbiosis“ + ”-ic“ = "a living together" 一起生活, 后引申为共生之意
+
+   **syn-**：来源于希腊语，意为“with,together,at the same time,by means of,alike”等，相当于拉丁文前缀co-，前缀syn在辅音字母b,m,p前变为sym。
+
+   **bios**：表示“生活, 生命”，‘life, to live’。
+
+   **-ic**： 形容词后缀，表示of～（与...有关的），having the nature of ～（有...性质的），being～（是...的）；made up of ～（由...组成的）；made or caused by ～（由...引起的）；like ～（像...的）。
+
+2. 词源,
+
+   symbiosis n.
+
+   **OED Origin**
+
+   Late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun ‘live together’, from sumbios ‘companion’.
+
+   **Etymology**
+
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun "live together," from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + bios"life" (from PIE root [*gwei-](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) "to live"). Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verb symbiose is recorded from 1960.
+
+3. 释义,
+
+   adj. 1)(生)共生的**a relationship between two types of animal orplant in which each provides for the other the conditionsnecessary for its continued existence**
+
+   ​        2)互惠互利的,合作关系的**a relationship between people or organizations that depend on each other equally**
+
+4. 相关词语和词组
+
+   **symbiosis** n. (生) 共生(关系); 合作关系,互惠互利关系
+
+   ​
+
+#### ** Complementary**
+
+UK /ˌkɒmplɪˈmentri/ US /ˌkɑ:mplɪˈmentri/
+
+1. 助记,
+
+   “complement”+“-ary” = "forming a complement, mutually completing each other's deficiencies" 相互形成补充关系的
+
+   **comple**：即complete，"充满，使完整"的意思，‘fill up’。其中'com-', 前缀，意思是“共同”, 表加强； 'plete', 意思是"充满"。
+
+   **ment**：名词后缀。
+
+   **-ary**： 形容词后缀，表示“属于…的,与…有关的”。
+
+2. 词源,
+
+   complement n.
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘completion’): from Latin complementum, from complere ‘fill up’ (see complete). Compare with compliment.
+
+   **Etymology**
+
+   late 14c., "means of completing; that which completes; what is needed to complete or fill up," from Old French compliement "accomplishment, fulfillment" (14c., Modern French complément), from Latin complementum "that which fills up or completes," from complere "fill up," from com-, here probably as an intensive prefix (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)), + plere "to fill" (from PIE root [*pele-](https://www.etymonline.com/word/*pele-?ref=etymonline_crossreference) (1) "to fill").
+
+3. 释义,
+
+   adj. 互补的；补充的；相互补足的**useful or attractive together**
+
+4. 相关词语和词组
+
+   **complement** v. 补充，补足，使完美，使更具吸引力
+
+   ​                         n.补充物; 足额; (语法)补语
+
+   **complementation** n. 补充; (动词的)补语
+
+   **complementary angle** n. (几何)90°余角
+
+   **complementary color** n. (术语)互补色; 对比色
+
+   **complementary medicine** n. 辅助性医疗(不属于西方国家通常采用的科学疗法,如针灸)
+
+   ​
+
+#### **Disruptive**
+
+UK /dɪsˈrʌptɪv/ US /dɪsˈrʌptɪv/
+
+1. 助记,
+
+   “disrupt”+“-ive” = "bring or throw into disorder"造成无序混乱的局面
+
+   **disrupt**：表示“扰乱，中断”，‘broken apart’。其中‘dis-’前缀，”脱离“的意思，‘off，apart’；‘rupt’，”打乱“的意思，‘break’。
+
+   **-ive**： 形容词后缀，表示与该行为有关的性质与倾向等，其意思相当于英语的现在分词后缀-ing（…的）或having to do with ~ing（与…有关的）；having the quality of ~ing（具有…性质的）；tending to or likely to ~（倾向于做…的）。
+
+2. 词源,
+
+   disrupt v.
+
+   **OED Origin**
+
+   Late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere.
+
+   **Etymology**
+
+   early 15c., from Latin disruptionem (nominative disruptio) "a breaking asunder," noun of action from past participle stem of disrumpere "break apart, split, shatter, break to pieces," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference)) + rumpere "to break" (see[rupture](https://www.etymonline.com/word/rupture?ref=etymonline_crossreference) (n.)).
+
+3. 释义,
+
+   adj. 引起混乱的；扰乱性的；破坏性的**causing trouble and therefore stopping something fromcontinuing as usual;  changing the traditional way that an industryoperates, especially in a new and effective way**
+
+4. 相关词语和词组
+
+   **disrupt** v  扰乱, 使中断, 打乱
+
+   **disruption** n. 扰乱, 混乱
+
+
+
+好句：Differences in thinking can be symbiotic and complementary instead of
+disruptive. 
+
+（每个人自有不足之处，若拥有开放性思维，认清自己的弱点，欣赏他人的优点，思维互补能助你更成功。）
+
+
+
 ## 4 Understand That People Are Wired Very Differently
 
 
