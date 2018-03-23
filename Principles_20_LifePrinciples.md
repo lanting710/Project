@@ -830,11 +830,64 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 ## 3 Be Radically Open-Minded
 
+#### mess /mes/
+
+1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
+2. 词源：
+   etymology
+   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
+3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
+
+#### hijack /ˈhaɪ.dʒæk/
+
+1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
+2. 词源：
+   etymology
+   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
+3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
 
 
+#### tragic /ˈtrædʒ.ɪk/
+
+1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
+2. 词源：
+   etymology
+   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
+3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
+4. 拓展：
+   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
+   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
+   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
+   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
+   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
+   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
+
+#### clue/kluː/
+
+1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
+2. 词源：
+   etymology
+   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
+3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
+4. 拓展：
+   clue（线索）：引导忒修斯走出迷宫的线团
+   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
+   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
+   clue：[kluː] n.线索，情节
+   clueless： ['kluləs] adj. 无线索的；愚蠢的
 
 
-## 4 Understand that People Are Wired Very Differently
+#### symbioticˌ/sɪmbaɪ'ɒtɪk/
+
+1. 助记：sym-共同 + bio-生命 + -tic形容词后缀。
+   名词：symbiosis 共生 共栖
+2. 词源：etymology 1882, in biology, from stem of symbiosis + -ic. Of human activities from 1951. Related: Symbiotical; symbiotically.
+   symbiosis
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun "live together," from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn- "together" (see syn-) + bios "life" (from PIE root *gwei- "to live"). Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verb symbiose is recorded from 1960.
+3. 定义：a relationship between two types of animal or plant in which each provides for the other the conditions necessary for its continued existence
+   共栖的 共生的
+
+好句：The two biggest barriers to good decision making are your ego and your blind spots 
 
 
 
