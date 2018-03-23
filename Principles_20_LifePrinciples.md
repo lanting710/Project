@@ -186,7 +186,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    re再+con一起+cil=call\召集→[双方]再次召集到一起→和解、调节、使一致。
 
-   <img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
+   
+   img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
 
 **Align** /əˈlaɪn/ 校直
 
@@ -827,6 +828,38 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 
 
+
+@aqua 2018-03-23
+
+**Optimize** /ˈɑːp.tə.maɪz/ 优化
+
+1. 助记,
+
+   optim+ize
+
+   optim=best,最好的,使变得最好,即优化.
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: from Latin optimus **‘best’ + -ize**.
+
+   **Etymology**
+
+   1844, "to act as an optimist," back-formation from [optimist](https://www.etymonline.com/word/optimist?ref=etymonline_crossreference). Meaning "**to make the most of**" is first recorded 1857. Related: Optimized; optimizing.
+
+3. 释义,
+
+   优化  to make something as good as possible
+
+4. 拓展 
+
+   略
+
+
+
+
 #### mess /mes/
 
 1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
@@ -862,10 +895,13 @@ Evolving is life's greatest accomplishment and its greatest reward.
 #### clue/kluː/
 
 1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
+
 2. 词源：
    etymology
    anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
+
 3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
+
 4. 拓展：
    clue（线索）：引导忒修斯走出迷宫的线团
    克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
@@ -873,11 +909,10 @@ Evolving is life's greatest accomplishment and its greatest reward.
    clue：[kluː] n.线索，情节
    clueless： ['kluləs] adj. 无线索的；愚蠢的
 
+   ​
 
+   **Optimize** /ˈɑːp.tə.maɪz/ 优化
 
-@aqua 2018-03-23
-
-**Optimize** /ˈɑːp.tə.maɪz/ 优化
 
 1. 助记,
 
@@ -943,6 +978,10 @@ Evolving is life's greatest accomplishment and its greatest reward.
    共栖的 共生的
 
 好句：The two biggest barriers to good decision making are your ego and your blind spots 
+
+
+
+## 4 Understand That People Are Wired Very Differently
 
 
 
