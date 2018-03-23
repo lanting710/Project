@@ -828,9 +828,67 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 
 
+@aqua 2018-03-23
+
+**Optimize** /ˈɑːp.tə.maɪz/ 优化
+
+1. 助记,
+
+   optim+ize
+
+   optim=best,最好的,使变得最好,即优化.
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: from Latin optimus **‘best’ + -ize**.
+
+   **Etymology**
+
+   1844, "to act as an optimist," back-formation from [optimist](https://www.etymonline.com/word/optimist?ref=etymonline_crossreference). Meaning "**to make the most of**" is first recorded 1857. Related: Optimized; optimizing.
+
+3. 释义,
+
+   优化  to make something as good as possible
+
+4. 拓展 
+
+   略
+
+**Paramount** /ˈper.ə.maʊnt/ 至上的
+
+1. 助记,
+
+   para+mount
+
+   para=par=by,通过,穿过,mount-山顶,意思为到达山顶,至尊,重要的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘highest in jurisdiction’ in the phrases lord paramount and paramount chief): from Anglo-Norman French paramont, **from Old French par ‘by’ + amont ‘above**’.
+
+   **Etymology**
+
+   1530s, from Anglo-French paramont, Old French paramont "above" (in place, order, degree), mid-14c., from Old French par "by," from Latin per "through, for, **by" (see [per](https://www.etymonline.com/word/per?ref=etymonline_crossreference) (prep.)) + amont "up," froma mont "upward" (see [amount](https://www.etymonline.com/word/amount?ref=etymonline_crossreference) (v.)).** The whole from Latin per ad montem, literally "to the hill."
+
+3. 释义,
+
+   首要的,至上的  more important than anything else
+
+4. 拓展 
+
+   越过高山.达到顶峰.至高无上,无与伦比的.
+
+    Paramount 为好莱坞电影公司名.
+
+
+
+
+
 ## 3 Be Radically Open-Minded
-
-
 
 
 
