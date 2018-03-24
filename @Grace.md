@@ -392,6 +392,7 @@
    **OED Origin**
 
    Late Middle English: from Latin absolutus ‘freed, unrestricted’, past participle of absolvere (see absolve).
+   
    **Etymology**
 
    late 14c., "unrestricted, free from limitation; complete, perfect, free from imperfection;" also "not relative to something else" (mid-15c.), from Latin absolutus, past participle of absolvere "to set free, acquit; complete, bring to an end; make separate," from ab "off, away from" (see [ab-](https://www.etymonline.com/word/ab-?ref=etymonline_crossreference)) + solvere "to loosen, untie, release, detach," from PIE *se-lu-, from reflexive pronoun *s(w)e- (see [idiom](https://www.etymonline.com/word/idiom?ref=etymonline_crossreference)) + root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart."

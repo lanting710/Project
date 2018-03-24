@@ -1085,6 +1085,99 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
    略
 
+   @aqua 2018-03-25
+
+
+**Conflict**  /ˈkɑːn.flɪkt/ 分歧
+
+1. 助记,
+
+   con+flict
+
+   con共同+flict 抽打→共同打→冲突\分歧
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin conflict- ‘struck together, fought’, from the verb confligere, **from con- ‘together’ + fligere ‘to strike’;** the noun is via Latin conflictus ‘a contest’.
+
+   **Etymology**
+
+   early 15c., "armed encounter, battle," from Old French conflit and directly from Latin conflictus "a striking together," in Late Latin "a fight, conflict," noun use of past participle of confligere "to strike together, be in conflict," from assimilated form of com **"with, together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference)) + fligere "to strike" (see [afflict](https://www.etymonline.com/word/afflict?ref=etymonline_crossreference)).**
+
+3. 释义,
+
+   分歧  an active disagreement between people with opposing opinions or principles
+
+4. 拓展 
+
+   词源同flagellate,afflict.
+
+    近义词
+
+   fight\struggle\contention\contest
+
+   反义词
+
+   accord\harmony
+
+
+
+**Synthesize**/ˈsɪn.θə.saɪz/ 使合成
+
+1. 助记,
+
+   synthes(is)+ize
+
+   synthesis,综合，合成，-ize,使
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "combine or bring together" (two or more things), 1825, **from [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference).** A correct formation would be *synthetize. Related: Synthesized; synthesizing.
+
+3. 释义,
+
+   合成  to produce a substance by a chemical reaction in plants or animals
+
+4. 拓展 
+
+   synthesis   syn=same; the-=thesis-=setting,放置；因此synthesis 表示，把东西放到一起，即“合成，综合”。Synthesize为使合成.
+
+
+
+**Presume** /prɪˈzuːm/ 假定
+
+1. 助记,
+
+   pre+sum+e
+
+   pre预先+sum+e→预先拿往→假定
+
+   词源同assume,resume.引申词义假设，假定
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), **from prae ‘before’ + sumere ‘take’.**
+
+   **Etymology**
+
+   late 14c., "to take upon oneself, to take liberty," also "to take for granted, presuppose," especially overconfidently, from Old French presumer (12c.) and directly from Latin praesumere "anticipate," in Late Latin, "assume," **from prae "before" (see [pre-](https://www.etymonline.com/word/pre-?ref=etymonline_crossreference)) + sumere "to take, obtain,** buy," from sus‑, variant of sub‑ "up from under" + emere "to take" (from PIE root [*em-](https://www.etymonline.com/word/*em-?ref=etymonline_crossreference) "to take, distribute"). "To presume is to base a tentative or provisional opinion on such knowledge as one has, to be held until it is modified or overthrown by further information" [Century Dictionary]. Related: Presumed; presumedly; presuming.
+
+3. 释义,
+
+   假定 to believe something to be true because it is very likely, although you are not certain
+
+4. 拓展 
+
+   ​
+
 
 
 ## 4 Understand That People Are Wired Very Differently
