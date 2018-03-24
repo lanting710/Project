@@ -186,7 +186,7 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    re再+con一起+cil=call\召集→[双方]再次召集到一起→和解、调节、使一致。
 
-   
+
    img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
 
 **Align** /əˈlaɪn/ 校直
@@ -858,82 +858,6 @@ Evolving is life's greatest accomplishment and its greatest reward.
    略
 
 
-
-
-#### mess /mes/
-
-1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
-2. 词源：
-   etymology
-   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
-3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
-
-#### hijack /ˈhaɪ.dʒæk/
-
-1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
-2. 词源：
-   etymology
-   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
-3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
-
-
-#### tragic /ˈtrædʒ.ɪk/
-
-1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
-2. 词源：
-   etymology
-   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
-3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
-4. 拓展：
-   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
-   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
-   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
-   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
-   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
-   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
-
-#### clue/kluː/
-
-1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
-
-2. 词源：
-   etymology
-   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
-
-3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
-
-4. 拓展：
-   clue（线索）：引导忒修斯走出迷宫的线团
-   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
-   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
-   clue：[kluː] n.线索，情节
-   clueless： ['kluləs] adj. 无线索的；愚蠢的
-
-   ​
-
-   **Optimize** /ˈɑːp.tə.maɪz/ 优化
-
-
-1. 助记,
-
-   optim+ize
-   optim=best,最好的,使变得最好,即优化.
-
-2. 词源,
-
-   **OED Origin**
-   Early 19th century: from Latin optimus **‘best’ + -ize**.
-   
-   **Etymology**
-   1844, "to act as an optimist," back-formation from [optimist](https://www.etymonline.com/word/optimist?ref=etymonline_crossreference). Meaning "**to make the most of**" is first recorded 1857. Related: Optimized; optimizing.
-
-3. 释义,
-   优化  to make something as good as possible
-
-4. 拓展 
-
-   略
-
 **Paramount** /ˈper.ə.maʊnt/ 至上的
 
 1. 助记,
@@ -967,6 +891,51 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 ## 3 Be Radically Open-Minded
 
+#### mess /mes/
+
+1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
+2. 词源：
+   etymology
+   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
+3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
+
+#### hijack /ˈhaɪ.dʒæk/
+
+1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
+2. 词源：
+   etymology
+   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
+3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
+
+#### tragic /ˈtrædʒ.ɪk/
+
+1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
+2. 词源：
+   etymology
+   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
+3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
+4. 拓展：
+   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
+   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
+   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
+   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
+   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
+   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
+
+#### clue/kluː/
+
+1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
+2. 词源：
+   etymology
+   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
+3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
+4. 拓展：
+   clue（线索）：引导忒修斯走出迷宫的线团
+   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
+   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
+   clue：[kluː] n.线索，情节
+   clueless： ['kluləs] adj. 无线索的；愚蠢的
+
 #### symbioticˌ/sɪmbaɪ'ɒtɪk/
 
 1. 助记：sym-共同 + bio-生命 + -tic形容词后缀。
@@ -983,7 +952,65 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 ## 4 Understand That People Are Wired Very Differently
 
+#### orchestra/ˈɔː.kɪ.strə/
 
+1. 助记：ori ,orig,ort = rise, begin, 表示“升起，开始”，来自拉丁语。orche是同源词，基本含义是舞蹈。他们的原始印欧语形式为ergh。
+2. 词源：
+   etymology
+   c. 1600, "area in an ancient theater for the chorus," from Latin orchestra, from Greek orkhestra, semicircular space where the chorus of dancers performed, with suffix -tra denoting place + orkheisthai "to dance," perhaps an intensive of erkhesthai "to go, come," but Beekes rejects the suggested derivations.
+3. 定义：a large group of musicians who play many different instruments together and are led by a conductor 乐队  管弦乐队
+4. 拓展：
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestic：['ɔ:kestɪk] adj.舞蹈的
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐的结合
+
+#### reluctant/rɪˈlʌk.tənt/
+
+1. 助记：re-相对，对着干 + luct-扭打 + -ant表形容词 → 勉强的，不情愿的。
+2. 词源：
+   etymology
+   "unwilling," 1660s, from Latin reluctantem (nominative reluctans), present participle of reluctari "to struggle against, resist, make opposition," from re- "against" (see re-) + luctari "to struggle, wrestle" (see reluctance). Related: Reluctantly. The Latin word is also the source of Spanish reluchante, Italian riluttante.
+3. 定义：not willing to do something and therefore slow to do it:不情愿的 勉强的
+
+#### parameter/pəˈræm.ɪ.tər/
+
+1. 助记：para-在旁，在周围 + -meter测量，规定， 引申词义参数，规范。
+2. 词源：
+   etymology
+   1650s in geometry, from Modern Latin parameter (1630s), from Greek para- "beside, subsidiary" (see para- (1)) + metron "measure" (from PIE root *me- (2) "to measure").
+   A geometry term until 1920s when it yielded sense of "measurable factor which helps to define a particular system" (1927). Common modern meaning (influenced by perimeter) of "boundary, limit, characteristic factor" is from 1950s. Related: Parametric.
+3. 定义：a set of facts or a fixed limit that establishes or limits how something can or must happen or be done 参数  参量
+4. 拓展：
+   parameter [pə'ræmɪtə] n.参数；系数。前缀para-表alongside,beside，词根meter表尺寸、测量，数学角度，parameter要随着（alongside）数值而变。
+   易混淆的另外一个单词是：perimeter [pə'rɪmɪtə] n.周长；周界，前缀peri-表around，那是“line around a figure”，如security perimeter警戒线。 
+
+#### skeleton/ˈskel.ə.tən/
+
+1. 助记：sclero-表hard硬 引申为 骨骼 
+2. 词源 ：
+   etymology
+   1570s, from Modern Latin sceleton "bones, bony framework of the body," from Greek skeleton soma "dried-up body, mummy, skeleton," from neuter of skeletos "dried-up" (also, as a noun, "dried body, mummy"), from skellein "dry up, make dry, parch," from PIE root *skele- "to parch, wither" (see sclero-).
+3. 定义：
+   1. the frame of bones supporting a human or animal body骨骼 骨架
+   2. the most basic form or structure of something 梗概
+4. 拓展：
+   skeleton（骨架）：古希腊人对古埃及人干尸的称呼。古希腊人将古埃及人制作的这种干尸称为skeleton soma，其中的skeleton是“干瘪的”之意。英语单词skeleton（骨架）就来源于此。古代历史学家希罗多德（Herodotus）曾在著作中描述古埃及有一习俗：凡重大的宴会都要在席上显眼处安放一具干尸，借此提醒众宾客居安思危，不忘苦难。所以英文中有skeleton at the feast 这一习语，但现在意思已经为“扫兴的家伙”了。
+   skeleton：['skɛlɪtn] n. 骨架，骨骼；骨瘦如柴的人adj. 骨骼的；骨瘦如柴的；概略的
+   skeletal：['skɛlətl] adj. 骨骼的，像骨骼的；骸骨的；骨瘦如柴的
+   a skeleton at the feast餐桌上的骷髅；让人在欢乐时不忘苦难的人(或事物)。古希腊历史学家普鲁塔克说埃及人在家宴要结束之时，会让仆人抬出一具骷髅并对宾客们说：Look on this!Eat,drink and be merry,for tomorrow you die!Don't ask him to come; we don't want to have a skeleton at the feast. 
+
+#### minutiae/mɪˈnuː.ʃi.aɪ/
+
+1. 助记：  minute【小】 + -ia → 小事件 → 琐事。
+2. 词源：
+   etymology
+   1751, plural minutiae, from Latin minutia "smallness" (plural minutiae, in Late Latin "trifles"), from minutus "small" (from PIE root *mei- (2) "small").
+3. 定义：small and often not important details
+   细节 琐碎
 
 
 
