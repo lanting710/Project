@@ -1079,6 +1079,205 @@ disruptive.
 
 
 
+@aqua 2018-03-24
+
+**Barrier** /ˈber.i.ɚ/ 障碍
+
+1. 助记,
+
+   bar+rier
+
+   来自bar,杆，棍，阻拦
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (denoting a palisade or fortification defending an entrance): from Old French barriere, of unknown origin; related to barre.
+
+   **Etymology**
+
+   "anything meant to obstruct entrance," early 14c., barere, from Anglo-French barrere, Old French barriere "obstacle, gatekeeper," **from barre "bar" (see [bar](https://www.etymonline.com/word/bar?ref=etymonline_crossreference) (n.1)).** First record of barrier reef is from 1805.
+
+3. 释义,
+
+   障碍 a long pole, fence, wall, or natural feature, such as a mountain or sea, that stops people from going somewhere
+
+4. 拓展 
+
+   单词bar来自拉丁语barra，本意是“横梁”、“横木”，最早表示用来固定大门的长木棍或铁棍，后来表示用这种条棒做成的屏障物，如酒吧中的吧台、法庭上用来分割庭上和观众席的栅栏。因此，bar又衍生出“酒吧”、“法庭”之意，还可以用作动词，表示“阻拦”。单词barrister（大律师）与此同源，原本指的是可以越过栅栏进入法庭的律师。同源词还有barrier（障碍）、barrage（拦河坝、阻塞）等。
+
+**Ego** /ˈiː.ɡoʊ/ 自我
+
+1. 助记,
+
+   ego : 来自拉丁语，英语I的原型。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: from Latin, **literally ‘I’**.
+
+   **Etymology**
+
+   1714, as a term in metaphysics, "the self; that which feels, acts, or thinks," **from Latin ego "I"** (cognate with Old English ic; see [I](https://www.etymonline.com/word/I?ref=etymonline_crossreference)). Psychoanalytic (Freudian) sense is from 1894; sense of "conceit" is 1891. Ego-trip first recorded 1969, from [trip](https://www.etymonline.com/word/trip?ref=etymonline_crossreference) (n.). Related: egoical; egoity. 
+
+3. 释义,
+
+   自我 in psychoanalysis, the part of a person's mind that tries to match the hidden desires (= wishes) of the id (= part of the unconscious mind) with the demands of the real world
+
+4. 拓展 
+
+   ego (n.) - 1714，玄学术语，"the self; that which feels, acts, or thinks"，源自拉丁语ego "I" (和古英语ic同源; 参见：I)。心理分析含义 (Freudian) 始于1894；含义 "conceit" 始于1891。Ego-trip最早记录于1969，用在trip (n.)。同根词：egoical; egoity。
+
+**Subliminal** /ˌsʌbˈlɪm.ən.əl/潜意识
+
+1. 助记,
+
+   Sub+limin+al
+
+   sub下面+limin+al→在门槛下→在意识下→潜意识的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: **from sub- ‘below’ + Latin limen, limin- ‘threshold’ + -al.**
+
+   **Etymology**
+
+   1873, "below the threshold" (of consciousness or sensation), **formed from Latin stem of [sublime](https://www.etymonline.com/word/sublime?ref=etymonline_crossreference) (Latin limen, genitive liminis) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1)).** Apparently a loan-translation of German unter der Schwelle (des Bewusstseins) "beneath the threshold (of consciousness)," from Johann Friedrich Herbart (1776-1841), author of a textbook on psychology published in 1824. The scare over subliminal advertising came in 1957. Related: Subliminally.
+
+3. 释义,
+
+   潜意识的 not recognized or understood by the conscious mind, but still having an influence on it
+
+4. 拓展 
+
+   below the threshold
+
+**Accessible** /əkˈses.ə.bəl/ 可接近的
+
+1. 助记,
+
+   Access+ible
+
+   Access-approach,接近的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from late Latin accessibilis, **from Latin access- ‘approached’,** from the verb accedere (see accede).
+
+   **Etymology**
+
+   c. 1400, "affording access, capable of being approached or reached," from Middle French accessible, from Late Latin accessibilis, verbal adjective from Latin accessus "a coming near, an approach; an entrance," **from accedere "approach, go to, come near, enter upon" (see [accede](https://www.etymonline.com/word/accede?ref=etymonline_crossreference))**. Meaning "easy to reach" is from 1640s; of art or writing, "able to be readily understood," 1961 (a word not needed before writing or art often deliberately was made not so). Related: Accessibility.
+
+3. 释义,
+
+   可接近的 able to be reached or easily got
+
+4. 拓展 
+
+   略
+
+   @aqua 2018-03-25
+
+
+**Conflict**  /ˈkɑːn.flɪkt/ 分歧
+
+1. 助记,
+
+   con+flict
+
+   con共同+flict 抽打→共同打→冲突\分歧
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin conflict- ‘struck together, fought’, from the verb confligere, **from con- ‘together’ + fligere ‘to strike’;** the noun is via Latin conflictus ‘a contest’.
+
+   **Etymology**
+
+   early 15c., "armed encounter, battle," from Old French conflit and directly from Latin conflictus "a striking together," in Late Latin "a fight, conflict," noun use of past participle of confligere "to strike together, be in conflict," from assimilated form of com **"with, together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference)) + fligere "to strike" (see [afflict](https://www.etymonline.com/word/afflict?ref=etymonline_crossreference)).**
+
+3. 释义,
+
+   分歧  an active disagreement between people with opposing opinions or principles
+
+4. 拓展 
+
+   词源同flagellate,afflict.
+
+    近义词
+
+   fight\struggle\contention\contest
+
+   反义词
+
+   accord\harmony
+
+
+
+**Synthesize**/ˈsɪn.θə.saɪz/ 使合成
+
+1. 助记,
+
+   synthes(is)+ize
+
+   synthesis,综合，合成，-ize,使
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "combine or bring together" (two or more things), 1825, **from [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference).** A correct formation would be *synthetize. Related: Synthesized; synthesizing.
+
+3. 释义,
+
+   合成  to produce a substance by a chemical reaction in plants or animals
+
+4. 拓展 
+
+   synthesis   syn=same; the-=thesis-=setting,放置；因此synthesis 表示，把东西放到一起，即“合成，综合”。Synthesize为使合成.
+
+
+
+**Presume** /prɪˈzuːm/ 假定
+
+1. 助记,
+
+   pre+sum+e
+
+   pre预先+sum+e→预先拿往→假定
+
+   词源同assume,resume.引申词义假设，假定
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), **from prae ‘before’ + sumere ‘take’.**
+
+   **Etymology**
+
+   late 14c., "to take upon oneself, to take liberty," also "to take for granted, presuppose," especially overconfidently, from Old French presumer (12c.) and directly from Latin praesumere "anticipate," in Late Latin, "assume," **from prae "before" (see [pre-](https://www.etymonline.com/word/pre-?ref=etymonline_crossreference)) + sumere "to take, obtain,** buy," from sus‑, variant of sub‑ "up from under" + emere "to take" (from PIE root [*em-](https://www.etymonline.com/word/*em-?ref=etymonline_crossreference) "to take, distribute"). "To presume is to base a tentative or provisional opinion on such knowledge as one has, to be held until it is modified or overthrown by further information" [Century Dictionary]. Related: Presumed; presumedly; presuming.
+
+3. 释义,
+
+   假定 to believe something to be true because it is very likely, although you are not certain
+
+4. 拓展 
+
+   ​
+
+
+
 ## 4 Understand That People Are Wired Very Differently
 
 #### orchestra/ˈɔː.kɪ.strə/
