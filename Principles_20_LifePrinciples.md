@@ -1280,6 +1280,110 @@ disruptive.
 
 ## 4 Understand That People Are Wired Very Differently
 
+
+
+@Grace 2018-03-25
+
+#### **Radical**
+
+UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
+
+1. 助记,
+
+   “radic”+“-al” = "of or having roots，forming the root"与根源有关的，根本的
+
+   **radic**：表示“根”，‘root,branch’。
+
+   **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
+
+   **Etymology**
+
+   late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
+
+3. 释义,
+
+   adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
+
+   ​        2)全新的；不同凡响的**new, different and likely to have a great effect**
+
+   ​        3)激进的；极端的(supporting change)**in favour of thorough and complete political or social change**
+
+   ​        4) 很好；非常好 **very good**
+
+   n. 1)激进分子**a person with radical opinions**
+
+   ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
+
+4. 相关词语和词组
+
+   **radicalism** n. 激进主义; 基本原理
+
+   ​
+
+#### ** Circumstance**
+
+UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
+
+1. 助记,
+
+   “circum”+“stance” = "surrounding condition"环境，状况
+
+   **circum**：表示“包围，环绕”，‘around，in a circle’。
+
+   **stance**： 表示“身处，站立的位置”，‘stand，make or be firm’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French circonstance or Latin circumstantia, from circumstare ‘encircle, encompass’, from circum ‘around’ + stare ‘stand’.
+
+   **Etymology**
+
+   . 1200, "a fact related to another fact and modifying it without affecting its essential nature" (originally in reference to sins), from Old French circonstance "circumstance, situation," also literally, "outskirts" (13c., Modern French circonstance), from Latin circumstantia "surrounding condition," neuter plural of circumstans (genitive circumstantis), present participle of circumstare "stand around, surround, encompass, occupy, take possession of" from circum "around" (see [circum-](https://www.etymonline.com/word/circum-?ref=etymonline_crossreference)) + stare "to stand," from PIE root [*sta-](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) "to stand, make or be firm." The Latin word is a loan-translation of Greek peristasis.
+
+3. 释义,
+
+   n. 1)[C]条件；环境；状况**the conditions and facts that are connected with and affect a situation, an event or an action **
+
+   ​    2)[U]命运；客观环境**situations and events that affect and influence your life and that are not in your control**
+
+   ​    3)[pl.] 境况；境遇；（尤指）经济状况**the conditions of a person's life, especially the money they have**
+
+4. 相关词语和词组
+
+   **circumstantial** adj. 按情况推测的，间接的；与特定条件（或环境、情况）有关的
+
+   **in/under the circumstances** 在这种情况下；既然如此
+
+   **in/under no circumstances** 决不；无论如何不
+
+   **pomp and circumstance** 隆重的仪式
+
+   **reduced circumstances** （委婉说法，与poor同义）境况不济
+
+5. 同义词辨析
+
+   **circumstance** n. 情况，情形。指影响某一局面、行动、事件等的条件和事实，通常用复数。
+
+   **case**                  n. 状况，情形。尤指对某个人或群体造成影响的情形，通常用单数。
+
+   **condition**        n. 情况，状况。指人的健康状况或事物所处的状态，其复数形式可指影响某事发生的一切因素。
+
+   ​
+
+好句：Our differences weren’t a product of poor communication; it was the other way around. Our different ways of thinking led to our poor communications.
+
+（我认为，不同的思维方式不是最大问题。我们要容许对方有不同的思维方式。但只有在良好的沟通之下，才能产生思想上的碰撞，才能得到大家最想要的结果。）
+
+
+
 #### orchestra/ˈɔː.kɪ.strə/
 
 1. 助记：ori ,orig,ort = rise, begin, 表示“升起，开始”，来自拉丁语。orche是同源词，基本含义是舞蹈。他们的原始印欧语形式为ergh。
