@@ -1,4 +1,114 @@
-@Grace
+### 2018-03-24
+
+#### **September**
+
+UK /sepˈtembə(r)/ US /sɛpˈtɛmbɚ/
+
+1. 助记,
+
+   “septem”+“-ber” = "the seventh month of the Roman year"古罗马日历的第七个月(因罗马日历是从三月份开始算起的)
+
+   **septem**：表示数字“七”，‘seven’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from septem ‘seven’ (being originally the seventh month of the Roman year).
+
+   **Etymology**
+
+   late Old English, from Latin September (also source of Old French Septembre, Spanish Setiembre, Italian Settembre, German September), from septem "seven" (see[seven](https://www.etymonline.com/word/seven?ref=etymonline_crossreference)). So called because it was the seventh month of the old Roman calendar, which began the year in March; Julian calendar reform (46 B.C.E.) shifted the new year back two months.
+
+3. 释义,
+
+   n. 九月**the 9th month of the year, between August and October**
+
+
+
+#### **October**
+
+UK /ɒkˈtəʊbə(r)/ US /ɑ:kˈtoʊbə(r)/
+
+1. 助记,
+
+   “octo”+“-ber” = "Eighth month of the old Roman calendar"古罗马日历的第八个月(因罗马日历是从三月份开始算起的)
+
+   **octo**：来自拉丁文,表示数字“8”，‘eight’。
+
+   **-ber**： 日历中最后三四个月由从始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from octo ‘eight’ (being originally the eighth month of the Roman year).
+
+   **Etymology**
+
+   c. 1050, from Latin October (mensis), from octo "eight," from PIE root *octo(u)-"eight" (see [eight](https://www.etymonline.com/word/eight?ref=etymonline_crossreference)). Eighth month of the old Roman calendar (pre-46 B.C.E.), which began the year in March. 
+
+3. 释义,
+
+   n. 十月**the tenth month of the year, after September and beforeNovember**
+
+
+
+#### **November**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “novem”+“-ber” = "The ninth month of the Roman calendar"古罗马日历的第九个月(因罗马日历是从三月份开始算起的)
+
+   **novem**：来自拉丁文,表示数字“9”，‘nine’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English, from Latin, from novem ‘nine’ (being originally the ninth month of the Roman year).
+
+   **Etymology**
+
+   c. 1200, from Old French novembre and directly from Latin November (also Novembris (mensis)), from novem "nine" (see [nine](https://www.etymonline.com/word/nine?ref=etymonline_crossreference)). The ninth month of the Roman calendar, which began in March. For -ber see [December](https://www.etymonline.com/word/December?ref=etymonline_crossreference). In Old English, it was Blotmonað"month of sacrifice," literally "blood-month," the time when the early Saxons prepared for winter by sacrificing animals, which they then butchered and stored for food.
+
+3. 释义,
+
+   n. 十一月**the eleventh month of the year, after October and before December**
+
+
+
+#### **December**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “decem”+“-ber” = "the tenth month of the old Roman calendar"古罗马日历的第十个月(因罗马日历是从三月份开始算起的)
+
+   **decem**：来自拉丁文,表示数字“10”，‘ten’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Latin, from decem ‘ten’ (being originally the tenth month of the Roman year).
+
+   **Etymology**
+
+   c. 1000, from Old French decembre, from Latin December, from decem "ten" (from PIE root [*dekm-](https://www.etymonline.com/word/*dekm-?ref=etymonline_crossreference) "ten"); tenth month of the old Roman calendar, which began with March.
+
+3. 释义,
+
+   n. 十二月**the 12th and last month of the year**
 
 
 
