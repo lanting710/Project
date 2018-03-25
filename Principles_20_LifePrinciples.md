@@ -1448,7 +1448,67 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 ## 5 Learn How to Make Decisions Effectively
 
+#### scenario/sɪˈnɑː.ri.əʊ/
 
+1. 助记：词源同 scene.（场，情景）引申词义设想，方案，剧本
+2. 词源：
+   etymology
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," from Latin scena "scene" (see scene). Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+3. 定义：a description of possible actions or events in the future剧本提纲 情节 方案
+4. 拓展：
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenario： [sə'nærɪo] n. 方案；情节；剧本
+
+#### infinite /ˈɪn.fɪ.nət/
+
+1. 助记：-in 表示“无，没有（not,opposite）”
+   fin-= end, boundary, 表示“结束，范围，限制”，来自拉丁语
+   -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
+2. 词源：
+   etymology
+   late 14c., "eternal, limitless," also "extremely great in number," from Old French infinit "endless, boundless" and directly from Latin infinitus "unbounded, unlimited, countless, numberless," from in- "not, opposite of" (see in- (1)) + finitus "defining, definite," from finis "end" (see finish (v.)). The noun meaning "that which is infinite" is from 1580s.
+3. 定义：without limits; extremely large or great 无穷的 无限的
+
+#### synthesize/ˈsɪn.θə.saɪz/
+
+1. 助记：synthesis n.(综合，综合体)
+   syn-表示“共同，相同
+   thes-= setting, 表示“放置”。源自the-的theca表示放东西的“囊，膜，鞘”。
+2. 词源：
+   etymology
+   1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
+3. 定义：to produce a substance by a chemical reaction in plants or animals 合成 综合
+
+#### categorize/ˈkæt.ə.ɡər.aɪz/
+
+1. 助记：名词 category （类别 范畴）
+   cata-表示“向下，相反，离开”，来源于希腊语。
+   egor- = group, 表示“群体”，来自拉丁语
+2. 词源：
+   etymology
+   "place in a category," 1705, from category + -ize. Related: Categorized; categorizing
+   1580s, in Aristotle's logic, "a highest notion," from Middle French catégorie, from Late Latin categoria, from Greek kategoria "accusation, prediction, category," verbal noun from kategorein "to speak against; to accuse, assert, predicate," from kata "down to" (or perhaps "against;" see cata-) + agoreuein "to harangue, to declaim (in the assembly)," from agora "public assembly" (from PIE root *ger- "to gather").
+3. 定义：
+   to put people or things into groups with the same features 分类 归类
+4. 拓展：cata-,向下，相对，-agora,广场，公开说，公开演讲，见 allegory,寓言。原指在广场发表演讲，叙述。后古希腊哲学家亚里士多德用该词描述类别，种类，使之固定为现在的词义。
+   category（范畴）：亚里士多德提出的“范畴”
+   kategoria原本是一个法律术语，表示“指控、断言”。它由kata（=cata，表示down to或against）+agoreuein（当众宣称）构成。
+   古希腊著名哲学家亚里士多德在其哲学著作中使用了希腊语kategoria来表示哲学术语“范畴”，“范畴”指的是“可用来描述、断言一个主体的最基本的概念”。
+
+#### conjecture/kənˈdʒek.tʃər/
+
+1. 助记：con-强调 + ject-扔，投掷 + -ure表名词。conjecture  n.推测；猜想，vi.&vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。
+2. 词源：
+   etymology
+   late 14c., "interpretation of signs, dreams, and omens," also "a supposing, a surmising," from Old French conjecture "surmise, guess," or directly from Latin coniectura "conclusion, interpretation, guess, inference," literally "a casting together (of facts, etc.)," from coniectus, past participle of conicere "to throw together," from assimilated form of com "together" (see con-) + iacere "to throw" (from PIE root *ye- "to throw, impel").
+3. 定义：a guess about something based on how it seems and not on proof
+   推想 猜测 揣摩
+4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
 
 
 
