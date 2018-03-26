@@ -175,12 +175,99 @@ brief_detials = {
                     (9, 'Data Structures'),
                     (10, 'Dictionary Subtraction'),
                     (11, 'Debugging'),
-                    (12, 'Glossary')
-                    (13, 'Exercises')
-                   ]
+                    (12, 'Glossary'),
+                    (13, 'Exercises')],
+'14.Files':
+                   [(1, 'Persistence'),
+                    (2, 'Reading and Writing'),
+                    (3, 'Format Operation'),
+                    (4, 'Filenames and Paths'),
+                    (5, 'Catching Exceptions'),
+                    (6, 'Databases'), 
+                    (7, 'Pickling'),
+                    (8, 'Pickling'),
+                    (9, 'Pipes'),
+                    (10, 'Writing Modules'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary'),
+                    (13, 'Exercises')]
+'15.Classs and Objects':
+                   [(1, 'Programmer-Defined Types'),
+                    (2, 'Attributes'),
+                    (3, 'Rectangles'),
+                    (4, 'Instances as Return Values'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Copying'), 
+                    (7, 'Debugging'),
+                    (8, 'Glossary'),
+                    (9, 'Exercises')],
+'16.Classes and Functions':
+                   [(1, 'Time'),
+                    (2, 'Pure Functions'),
+                    (3, 'Modifiers'),
+                    (4, 'Prototyping versus Planning'),
+                    (5, 'Objects Are Mutable'),
+                    (6, 'Debugging'),
+                    (7, 'Glossary'),
+                    (8, 'Exercises')],
+'17.Classes and Methods':
+                   [(1, 'Object-Oriented Features'),
+                    (2, 'Printing Objects'),
+                    (3, 'Another Example'),
+                    (4, 'A More Complicated Example'),
+                    (5, 'The init Method'),
+                    (6, 'The_str_Method'), 
+                    (7, 'Operator Overloading'),
+                    (8, 'Type-Based Dispatch'),
+                    (9, 'Polymorphism'),
+                    (10, 'Interface and Implementation'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary'),
+                    (13, 'Exercises')]
+'18.Inheritance': [ (1, 'Card Objects'),
+                     (2, 'Class Attribute'),
+                     (3, 'Comparing Cards'),
+                     (4, 'Decks'),
+                     (5, 'Printing the Deck'),
+                     (6, 'Add, Remove, Shuffle, and Sort'),
+                     (7, 'Inheritance'),
+                     (8, 'Class Diagram'),
+                     (9, 'Data Encapsulation'),
+                     (10, 'Debugging'),
+                     (11, 'Glossary'),
+                     (12, 'Exerciese')],
+'19.The Goodies':[
+                     (1, 'Conditional Expressions'),
+                     (2, 'List Comprehensions'),
+                     (3, 'Generator Expressions'),
+                     (4, 'any and all'),
+                     (5, 'Sets'),
+                     (6, 'Counter'),
+                     (7, 'defaultdict'),
+                     (8, 'Named Tuples'),
+                     (9, 'Gathering Keyword Args'),
+                     (10, 'Glossary'),
+                     (11, 'Exercises')],
+'20.Debugging':{
+        (1, 'Syntax Errors'):
+                    ['I keep making changes and it makes no differece'],
+        (2, 'Runtime Errors'):[
+                    '1.My Program does absolutely nothing',
+                    '2.My program hangs',
+                    '3.When I run the program I get an exception',
+                    '4.I added so many print statements I get inundated with output'],
+        (3,'Semantic Errors'):[
+                    "1.My program doesn't work",
+                    "2.I've got a big hairy expression and it doesn't do what I expect.",
+                    "3.I'm really ,really stuck an I need help",
+                    "4.No, I really need help",]},
+'21.Analysis of Algorithms':[
+                     (1, 'Order of Growth'),
+                     (2, 'Analysis of Basic Python Operations'),
+                     (3, 'Analysis of Search Algorithms'),
+                     (4, 'Hashtables'),
+                     (5, 'Glossary')]}    
 
-
-       
 ```
 
 ## 1.The Way of the Program
@@ -239,6 +326,7 @@ brief_detials = {
 
 1. 助记,
    Arith+m+etic
+   art of computation
 
 2. 词源,
    **OED Origin**
@@ -258,7 +346,7 @@ brief_detials = {
 
 
 
-Debug** /ˌdiːˈbʌɡ/  排除错误
+**Debug** /ˌdiːˈbʌɡ/  排除错误, 调试
 
 1. 助记,
    De+bug
@@ -327,7 +415,9 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 4. 拓展
 
-   variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
+   1) 形容词, variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
+
+   2) 名词, 变量, a number, amount, or situation that can change
 
 
 
@@ -367,6 +457,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    **Etymology**
 
    late 14c., "something written," earlier scrite (c. 1300), **from Old French escrit "piece of writing, written paper;** credit note, IOU; deed, bond" (Modern French écrit) from Latin scriptum "a writing, book; law; line, mark," noun use of neuter past participle of scribere "to write," from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut, separate, sift." The original notion is of carving marks in stone, wood, etc.
+
+   ​
 
 3. 释义,
    手稿 the words of a film, play, broadcast, or speech:
@@ -457,7 +549,9 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 **Parameter** /pəˈræm.ə.t̬ɚ/ 参数
 
 1. 助记,
-   Para+meter
+   Para(beside,near)+meter
+   在附近测量,
+   比如三点确定一个圆,就是在圆心附近找三个点,来划定一个圆的范围.
 
 2. 词源,
    **OED Origin**
@@ -469,7 +563,10 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
    1650s in geometry, from Modern Latin parameter (1630s), **from Greek para- "beside, subsidiary" (see [para-](https://www.etymonline.com/word/para-?ref=etymonline_crossreference) (1)) + metron "measure" (from PIE root [*me-](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference) (2) "to measure").**
 
 3. 释义,
-   参数 a set of facts or a fixed limit that establishes or limits how something can or musthappen or be done
+   限定因素 a set of facts or a fixed limit that establishes or limits how something can or musthappen or be done
+   Technical A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.
+   ‘there are three parameters by which a speaker is able to modify the meaning of the utterance—pitch, volume, and tempo’
+
 
 4. 拓展
 
@@ -481,6 +578,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
    Arg+ument
+   Argos，百眼巨人,含义是“明亮的、发亮的”。
+   论据,用眼睛可以看到的,眼见为实的.
 
 2. 词源,
    **OED Origin**
@@ -908,6 +1007,12 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 
 
+## 13.Case Study:Data Structure Selection
+
+```python
+'13.Case Study:Data Structure Selection'= ['Structure','Frequency','Analysis','Random','Histogram']
+```
+
 **Structure** /ˈstrʌk.tʃɚ/ 结构
 
 1. 助记,
@@ -929,6 +1034,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
    structure : 来自拉丁语structura,装配，建造，布置，来自struere,连接，组装，建造，堆放，来自PIE*ster,展开，延展，词源同stratum,strew,construct.引申词义结构，构造，体系等。
+
+   ​
 
 
 
@@ -953,3 +1060,510 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
    frequency : 来自拉丁语frequens,反复的，拥挤的，硬塞的。可能来自PIE*ger,围，转，包围，词源同cram,crowd,group.
+
+
+
+**Analysis**/əˈnæl.ə.sɪs/ 分析
+
+1. 助记,
+
+   Ana+lysis
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: via medieval Latin **from Greek analusis**, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), **from Greek analysis "solution of a problem by analysis**," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+   分析  the act of analysing something
+
+​    4.拓展
+
+​       analysis:(ana+lysis分开→分开来→分析)
+
+**Random** /ˈræn.dəm/ 随机的
+
+1. 助记,
+
+   Ran+dom
+
+   from randir "to run fast," 跑得太快,就成随机了.
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘impetuous headlong rush’): **from Old French randon ‘great speed’**, from randir ‘gallop’, from a Germanic root shared by rand.
+
+   **Etymology**
+
+   "having no definite aim or purpose," 1650s, from at random (1560s), "at great speed" (thus, "carelessly, haphazardly"), alteration of Middle English noun randon "impetuosity, speed" (c. 1300), from Old French randon "rush, disorder, force, impetuosity," **from randir "to run fast," from Frankish*rant "a running"** or some other Germanic source, from Proto-Germanic *randa (source also of Old High German rennen "to run," **Old English rinnan "to flow, to run;" see [run](https://www.etymonline.com/word/run?ref=etymonline_crossreference) (v.)).**
+
+3. 释义,
+   随机的 happening, done, or chosen by chance rather than according to a plan
+
+4. 拓展
+
+    random : 缩写自短语at random,高速的，引申词义横冲直撞的，莽撞的，后用于指随机的。来自古法语randon,冲，冲力，速度，来自randir,快跑，词源同run.
+
+    ​
+
+
+
+ **Histogram** /ˈhɪs.tə.ɡræm/ 条形图
+
+1. 助记,
+
+   Histo+gram
+
+2. 词源,
+   **OED Origin**
+
+   Late 19th century: from Greek histos ‘mast, web’ + -gram.
+
+   **Etymology**
+
+   1891, from [histo-](https://www.etymonline.com/word/histo-?ref=etymonline_crossreference) "tissue" + [-gram](https://www.etymonline.com/word/-gram?ref=etymonline_crossreference).
+
+3. 释义,
+   条形图
+
+4. 拓展
+
+   histogram : histo,竖，直立，-gram,写，记录。引申词义条形图，柱形图。
+
+
+
+## 14.File
+
+```python
+'14.File'= ['Persistence']
+```
+
+ **Persistence**/pɚˈsɪs.təns/持续性
+
+1. 助记,
+
+   Persist+ence
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century: from French persistance, from the verb persister; influenced in spelling by Latin **persistent- ‘continuing steadfastly’.**
+
+   **Etymology**
+
+   1540s, from Middle French persistance, from persistant "lasting, enduring, permanent," from Latinpersistentem (nominative persistens), **present participle of persistere (see [persist](https://www.etymonline.com/word/persist?ref=etymonline_crossreference))**. Often spelledpersistance 16c. Related: Persistency.
+
+3. 释义,
+   坚持、持续 the fact that someone or something persists
+
+4. 拓展
+
+   persistence : 来自persist,坚持。
+
+
+## 16.Classes and Functions
+
+```python
+'16.Classes and Functions'= ['Prototype','Versus']
+```
+
+ **Prototype**/ˈproʊ.t̬ə.taɪp/ 原型
+
+1. 助记,
+
+   Proto+type
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century (denoting the original of which something else is a copy or derivative): via French or late Latin **from Greek prōtotupos (see proto-, type).**
+
+   **Etymology**
+
+   c. 1600, from French prototype (16c.) and directly from Medieval Latin prototypus "original, primitive," from Greek prototypon "a first or primitive form," noun use of neuter singular ofprototypos "original, primitive," **from protos "first" (see [proto-](https://www.etymonline.com/word/proto-?ref=etymonline_crossreference)) + typos "impression, mold, pattern" (see [type](https://www.etymonline.com/word/type?ref=etymonline_crossreference) (n.)). In English from 1590s as prototypon.**
+
+3. 释义,
+   原型 the first example of something, such as a machine or other industrial product, from which all later forms are developed.
+
+4. 拓展
+
+   prototype:(proto原始,第一+type→原始模式→原型)
+
+   proto-（第一）：变化多端的海中老人普罗透斯
+   普罗透斯（Proteus）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+   根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+   普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
+
+
+
+
+**Versus** /ˈvɝː.səs/ 对阵
+
+1. 助记,
+
+   Versus=turn,bend
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from a medieval Latin use of Latin **versus ‘towards’.**
+
+   **Etymology**
+
+   mid-15c., in legal case names, denoting action of one party against another, **from Latin versus "turned toward or against,"** past participle of vertere "to turn," from PIE *wert- "to turn, wind," from root[*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (2) "to turn, bend."
+
+3. 释义,
+   对阵  written abbreviation vs, vs., uk also v  used to say that one team or person iscompeting against another
+
+4. 拓展
+
+    versus : 来自拉丁语versus,转，来自PIE*wer,转，弯，词源converse,toward.引申词义转向对方的，相对，相比。
+
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+   ob(towards , in front of ) + ject (throw)
+
+   object 是扔到你面前东西.
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   ​
+
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   ​
+
+## 17.Classes and Methods
+
+```python
+'17.Classes and Methods'= ['Object','Orient']
+```
+
+ **Object/**ˈɑːb.dʒɪkt/ 对象
+
+1. 助记,
+
+   Ob+ject
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, **from ob- ‘in the way of’ + jacere ‘to throw’;** the verb may also partly represent the Latin frequentative objectare.
+
+   **Etymology**
+
+   late 14c., "tangible thing, something perceived or presented to the senses," from Medieval Latinobjectum "thing put before" (the mind or sight), noun use of neuter of Latin obiectus "lying before, opposite" (as a noun in classical Latin, "charges, accusations"), past participle of obicere "to present, oppose, cast in the way of," **from ob "in front of, towards, against" (see [ob-](https://www.etymonline.com/word/ob-?ref=etymonline_crossreference)) + iacere "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").**
+
+3. 释义,
+   对象 a thing that you can see or touch but that is not usually a living animal,plant, or person
+
+4. 拓展
+
+   object : ob-,向前，朝向，相对，对着的，-ject,扔，投掷，放置，词源同project.即放置在前面的目标或物体。也用于指对着扔的，引申词义反对。project(规划) ; subject(主题); reject(拒绝) ;abject（可怜的）;defect(缺点) ;effect（结果);infect(感染).
+
+ **Orient** /ˈɔːr.i.ənt/ 定位
+
+1. 助记,
+
+   rise，oriens
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin orient- ‘rising or east’, **from oriri ‘to rise’.**
+
+   **Etymology**
+
+   c. 1300, "the East" (originally usually meaning what is now called the Middle East), **from Old Frenchorient "east" (11c.)**, from Latin orientem (nominative oriens) "the rising sun, the east, part of the sky where the sun rises," originally "rising" (adj.), **present participle of oriri "to rise" (see [origin](https://www.etymonline.com/word/origin?ref=etymonline_crossreference))**. TheOrient Express was a train that ran from Paris to Istanbul via Vienna 1883-1961, from the start associated with espionage and intrigue.
+
+3. 释义,
+   略
+
+4. 拓展
+
+   1)orient : [ori =to rise上升；-ent 。“that or where the sun rises太阳升起方向的”→]
+
+   2)因为太阳从东方升起，所以orient也就等于“东方”.同源的英语单词有origin（起源）.
+
+   3)使……朝东→确定方向→定位
+
+   ​
+
+## 18.Inheritance
+
+```python
+'18.Inheritance'= ['Inheritance','Attribute']
+```
+
+ **Inheritance** /ɪnˈher.ɪ.təns/ 遗产
+
+1. 助记,
+
+   In+her+itance
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (formerly also as enheritance): from Anglo-Norman French enheritaunce ‘being admitted as heir’, **from Old French enheriter (see inherit).**
+
+   **Etymology**
+
+   late 14c., enheritaunce "fact of receiving by hereditary succession;" early 15c. as "that which is or may be inherited," from Anglo-French and Old French enheritaunce, **from Old French enheriter "make heir, appoint as heir" (see [inherit](https://www.etymonline.com/word/inherit?ref=etymonline_crossreference)). Heritance "act of inheriting" is from mid-15c.**
+
+3. 释义,
+   遗产 money or objects that someone gives you when they die
+
+4. 拓展
+
+   inheritance : in-,进入，使，-her,继承，词源同heir,heredity.即使继承，引申词义遗传。
+
+
+
+
+**Inherit** /ɪnˈher.ɪt/
+
+1. 助记
+
+   In  + heir(继承人)
+
+   Latin in- ‘in’ + heres, hered- ‘heir’.
+
+   进入继承人的序列,
+
+2. 词源,
+
+   **Origin**
+
+   Middle English enherite ‘receive as a right’, from Old French enheriter, from late Latin inhereditare ‘appoint as heir’, from Latin in- ‘in’ + heres, hered- ‘heir’.
+
+   **Etymology**
+
+   c. 1300, "to make (someone) an heir" (a sense now obsolete), from Old French enheriter "make heir, attribute the right of inheretance to, appoint as heir," from Late Latin inhereditare **s,"** from in- "in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + Latin hereditare "to inherit," from heres (genitive heredis) "heir" (see [heredity](https://www.etymonline.com/word/heredity?ref=etymonline_crossreference)).Sense of "receive inheritance, get by succession as representative of the former possessor" is attested from mid-14c.; in Medieval Latin inhereditare also had taken on a sense "put in possession." Original sense is retained in [disinherit](https://www.etymonline.com/word/disinherit?ref=etymonline_crossreference). Related: Inherited; inheriting; inheritable.
+
+3. 释义,
+
+   继承 to receive money, a house, etc. from someone after they have died**
+
+
+
+
+
+
+**Attribute**/ˈæt.rɪ.bjuːt/ 属性
+
+1. 助记,
+
+   At+tribute
+
+   at(ad to ) +tribute (礼物)
+
+   归属,把..归于 就是去送礼
+
+   属性,就是送的礼物是什么,怎么样.
+
+2. 词源,
+   **OED Origin**
+
+   Late 15th century: the noun from Old French attribut; the verb from Latin attribut- ‘allotted’: both from the verb attribuere, **from ad- ‘to’ + tribuere ‘assign’.**
+
+   **Etymology**
+
+   "quality ascribed to someone, distinguishing mark (especially an excellent or lofty one)," late 14c., **from Latin attributum "anything attributed," in grammar,** "predicate," noun use of neuter of attributus, past participle of attribuere "assign, allot; ascribe, impute" (see [attribute](https://www.etymonline.com/word/attribute?ref=etymonline_crossreference) (v.)). Distinguished from the verb by having stress on the first syllable.
+
+3. 释义,
+   属性 a quality or characteristic that someone or something has
+
+4. 拓展
+
+   attribute : at-,向，往，tribute,给予，归属，把……归于n.属性.词源同tribe,contribute.
+
+   tribute(礼物,贡品)
+
+   contribute = com(with) + tribute 带着礼物来,就是做贡献
+
+   distribute = dis(apart) + atribute 分礼物,就是分配
+
+   ​
+
+## 19.The Goodies
+
+```python
+'19.The Goodies'= ['Comprehension']
+```
+
+**Comprehension**/ˌkɑːm.prəˈhen.ʃən/ 理解
+
+1. 助记,
+
+   Com+pre+hen+sion
+
+   here probably "completely" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + prehendere "to catch hold of, seize,"
+
+   理解就是彻底的抓住.
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from French compréhension or Latin comprehensio(n-), **from the verb comprehendere ‘seize, comprise’ (see comprehend).**
+
+   **Etymology**
+
+   mid-15c., "act or fact of understanding," from Old French comprehénsion (15c.), and directly from Latin comprehensionem (nominative comprehensio) "a seizing, laying hold of, arrest," figuratively "perception, comprehension," noun of action from past participle stem of comprehendere "to take together, to unite; include; to comprehend, perceive" (to seize or take in the mind), **from com "with, together," here probably "completely" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + prehendere "to catch hold of, seize," from prae-"before" (see [pre-](https://www.etymonline.com/word/pre-?ref=etymonline_crossreference)) + -hendere, from PIE root [*ghend-](https://www.etymonline.com/word/*ghend-?ref=etymonline_crossreference) "to seize, take."** From 1540s as "the act of including;" from 1590s as "capacity of the mind to understand." In reading education, from 1921.
+
+3. 释义,
+   理解 the ability to understand completely and be familiar with a situation, facts, etc.
+
+4. 拓展
+
+   略
+
+
+
+
+
+## 20.Debugging
+
+```python
+'20.Debugging'= ['Syntax']
+```
+
+ **Syntax**/ˈsɪn.tæks/ 句法
+
+1. 助记,
+
+   Syn+tax(tactic)
+
+   from sun- ‘together’ + tassein ‘arrange’.
+
+   排列到一起的方法.
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century: from French syntaxe, or via late Latin from Greek suntaxis, **from sun- ‘together’ + tassein ‘arrange’.**
+
+   **Etymology**
+
+   c. 1600, from French syntaxe (16c.) and directly from Late Latin syntaxis, from Greek syntaxis "a putting together or in order, arrangement, a grammatical construction," **from stem of syntassein "put in order," from syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + tassein "arrange" (see [tactics](https://www.etymonline.com/word/tactics?ref=etymonline_crossreference)).**
+
+3. 释义,
+   句法 the grammatical arrangement of words in a sentence
+
+4. 拓展
+
+   syntax : syn-,一起，-tax,接触，安排，词源同tactics,tax,taxidermy.用于语法格指句法，句法规则。(事物的)联系体系(或次序)；(组成部分的)系统(或有条理)的排列；【计算机】语法.
+
+
+
+
