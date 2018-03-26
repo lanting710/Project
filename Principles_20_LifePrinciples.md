@@ -710,9 +710,9 @@ UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
 （很有哲理的一句话。我们会面临太多的诱惑，选择你最想要的，定准目标后为之奋斗，而不要过于贪心、三心两意，否则将一事无成。）
 
-
-
 Evolving is life's greatest accomplishment and its greatest reward.
+
+
 
 @aqua 2018-03-22
 
@@ -990,7 +990,7 @@ UK /ˌsɪmbaɪ'ɒtɪk/ US /ˌsɪmbaɪ'ɒtɪk/
 
    ​
 
-#### ** Complementary**
+#### **Complementary**
 
 UK /ˌkɒmplɪˈmentri/ US /ˌkɑ:mplɪˈmentri/
 
@@ -1072,8 +1072,7 @@ UK /dɪsˈrʌptɪv/ US /dɪsˈrʌptɪv/
 
 
 
-好句：Differences in thinking can be symbiotic and complementary instead of
-disruptive. 
+好句：Differences in thinking can be symbiotic and complementary instead of disruptive. 
 
 （每个人自有不足之处，若拥有开放性思维，认清自己的弱点，欣赏他人的优点，思维互补能助你更成功。）
 
@@ -1287,24 +1286,7 @@ disruptive.
 
 1. 助记,
 
-   ​
    trud-,trus-=push,表示推搡，来自拉丁语。
-   =======
-   @Grace 2018-03-25
-
-#### **Radical**
-
-UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
-
-1. 助记,
-
-   “radic”+“-al” = "of or having roots，forming the root"与根源有关的，根本的
-
-   **radic**：表示“根”，‘root,branch’。
-
-   **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
-
-
 
 
 2. 词源,
@@ -1418,9 +1400,30 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
 
-   **Etymology**
 
-   late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
+@Grace 2018-03-25
+
+#### **Radical**
+
+UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
+
+1. 助记,
+
+   “radic”+“-al” = "of or having roots，forming the root"与根源有关的，根本的
+
+   **radic**：表示“根”，‘root,branch’。
+
+   **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
+
+2. 词源, 
+
+   **OED Origin**
+
+   Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
+
+      **Etymology**
+
+      late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
 
 5. 释义,
 
@@ -1442,7 +1445,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    ​
 
-#### ** Circumstance**
+#### **Circumstance**
 
 UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
@@ -1563,7 +1566,6 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 
 
-
 ## 5 Learn How to Make Decisions Effectively
 
 @Grace 2018-03-26
@@ -1618,7 +1620,7 @@ UK /æŋˈzaɪəti/ US /æŋˈzaɪɪti/
 
    ​
 
-#### ** Analyze**
+#### **Analyze**
 
 UK /'ænəlaɪz/ US /ˈænəˌlaɪz/
 
