@@ -1287,9 +1287,10 @@ disruptive.
 
 1. 助记,
 
+   ​
    trud-,trus-=push,表示推搡，来自拉丁语。
-=======
-@Grace 2018-03-25
+   =======
+   @Grace 2018-03-25
 
 #### **Radical**
 
@@ -1421,7 +1422,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
 
-3. 释义,
+5. 释义,
 
    adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
 
@@ -1435,7 +1436,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
 
-4. 相关词语和词组
+6. 相关词语和词组
 
    **radicalism** n. 激进主义; 基本原理
 
@@ -1733,9 +1734,61 @@ the situation through time, and 3) navigate levels effectively.
 4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
 
 
+#### assess /əˈses/
 
+1. 助记：as-同ad- + sess-坐。
+2. 词源：
+   etymology
+   early 15c., "to fix the amount (of a tax, fine, etc.)," from Anglo-French assesser, from Medieval Latin assessare "fix a tax upon," originally frequentative of Latin assessus "a sitting by," past participle of assidere/adsidere "to sit beside" (and thus to assist in the office of a judge), "sit with in counsel or office," from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit."
+3. 定义：to judge or decide the amount, value, quality, or importance of something 估定 评定
+4. 拓展：
+   assess（评估）：坐在法官旁边计算罚金或税金数量
+   在古代西方的法庭上，法官旁边除了坐着书记员等人员外，还有一名辅助人员，他的职责是帮助法官计算当事人应当缴纳的罚金或税金的数量。因为他是坐在法官旁边进行计算的，所以这个计算过程在拉丁语中就被称为assessare，源自动词assidere（坐在一边），进入英语后演变为assess，最初用来表示确定罚金或税金的数量，后来词义得到扩展，可以用来表示其他更多与金额或价值有关的计算和评估。
+   assess：[ə'ses] vt.评估，评定，估价，对……征税
+   assessment：[ə'sɛsmənt] n. 评定；估价
 
+#### mortgage/ˈmɔː.ɡɪdʒ/
 
+1. 助记：mort-=death 死 gage- 表示“承诺”，引申为婚姻 
+   比喻用法，即直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的经济行为，即现代意义上的按揭。
+2. 词源：
+   etymology
+   late 14c., morgage, "conveyance of property as security for a loan or agreement," from Old French morgage (13c.), mort gaige, literally "dead pledge" (replaced in modern French by hypothèque), from mort "dead" (see mortal (adj.)) + gage "pledge" (see wage (n.)). So called because the deal dies either when the debt is paid or when payment fails. Old French mort is from Vulgar Latin *mortus "dead," from Latin mortuus, past participle of mori "to die" (from PIE root *mer- "to rub away, harm," also "to die" and forming words referring to death and to beings subject to death). The -t- restored in English based on Latin.
+3. 定义：an agreement that allows you to borrow money from a bank or similar organization, especially in order to buy a house, or the amount of money itself 抵押
+4. 拓展：
+   mortgage（抵押贷款）：以父亲遗产为担保的贷款
+   在古代西方，家庭中的长子在法律上拥有继承父亲遗产的权利。如果长子需要一大笔钱，而又无法从其父亲那里获得，他往往会找其他人借款。而其他人之所以愿意借钱给他，看中的是他的长子继承权，相信他将来继承遗产后可以偿还债务。借钱的时候，借款人会立下誓言，等他父亲去世，他继承遗产后就会偿还债务及其利息。这就是英语单词mortgage的来源。mortgage由mort和gage组成，mort表示“死亡”，gage表示“誓言、保证”，所以mortgage一词的字面含义就是“死亡保证”，即以其父亲的死亡（等于遗产）为保证的贷款。
+   mortgage： ['mɔːgɪdʒ] vt.n.抵押贷款
+   mortal： ['mɔrtl] adj. 凡人的；致死的；终有一死的n. 人类，凡人
+
+#### odds/ɒdz/
+
+1. 助记：odd【偶然发生的】 + -s复数后缀。原用于赌博赔率，引申词义机会，可能性。
+   odd来自古诺斯语 oddi,第三或多出的，来自 Proto-Germanicuzdaz,向上刺的点，顶角，来自PIEuzdho,刺，刺点。后引申词义奇数的，怪异的，偶然发生的等。
+2. 词源：
+   etymology
+   in wagering sense, found first in Shakespeare ("2 Henry IV," 1597), probably from earlier sense of "amount by which one thing exceeds or falls short of another" (1540s), from odd (q.v.), though the sense evolution is uncertain. Until 19c. treated as a singular, though obviously a plural (compare news).
+3. 定义：
+   the probability (= how likely it is) that a particular thing will or will not happen 可能性 几率
+
+#### peril/ˈper.əl/
+
+1. 助记：per-= try, 表示“尝试，冒险“ + il → 尝试 → 冒险。引申词义探索，开拓，风险，危险。比较其同源词 expert,experience.
+2. 词源：
+   etymology
+   c. 1200, from Old French peril "danger, risk" (10c.), from Latin periculum "an attempt, trial, experiment; risk, danger," with instrumentive suffix -culum and first element from PIE *peri-tlo-, suffixed form of root *per- (3) "to try, risk."
+3. 定义：great danger, or something that is very dangerous 危险 冒险
+
+#### intuitively [ɪnˈtju:ɪtɪv]
+
+1. 助记：in-不 + tuit-保护 + -ive表形容词 → 不加保护而来的[感觉] → 直觉的
+2. 词源：
+   etymology
+   1640s, "perceiving directly and immediately," from Middle French intuitif or directly from Medieval Latin intuitivus,
+    from intuit-, past participle stem of Latin intueri "look at, consider," from in- "into" (from PIE root *en "in") + tueri "to look at, watch over," a word of uncertain origin. Meaning "self-evident" is from 1833. Related: Intuitively; intuitiveness.
+3. 定义：spontaneously derived from or prompted by a natural tendency 有直觉力的;凭直觉获知的
+
+好句：Until you make the unconscious conscious, it will direct your life and you will call it fate. 潜意识在不知不觉中影响我们的命运
 
 
 ## Life Priciples: Putting it All Together
