@@ -1281,7 +1281,14 @@ disruptive.
 ## 4 Understand That People Are Wired Very Differently
 
 
+@aqua 2018-03-26
 
+**Threat** /θret/ 威胁
+
+1. 助记,
+
+   trud-,trus-=push,表示推搡，来自拉丁语。
+=======
 @Grace 2018-03-25
 
 #### **Radical**
@@ -1296,9 +1303,117 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
 
+
+
+
 2. 词源,
 
    **OED Origin**
+
+
+   Old English thrēat ‘oppression’, of Germanic origin; related to Dutch verdrieten ‘grieve’, German verdriessen ‘irritate’.
+
+   **Etymology**
+
+   Old English þreat "crowd, troop," also "oppression, coercion, menace," related to þreotan "to trouble, weary," from Proto-Germanic ***thrautam (source also of Dutch verdrieten**, German verdrießen "to vex"), from PIE *treud- "**to push, press squeeze**" (source also of Latin trudere "to press, thrust," Old Church Slavonic trudu "oppression," Middle Irish trott "quarrel, conflict," Middle Welsh cythrud"torture, torment, afflict"). Sense of "conditional declaration of hostile intention" was in Old English.
+
+3. 释义,
+
+   威胁 a suggestion that something unpleasant or violent will happen, especially if aparticular action or order is not followed
+
+4. 拓展 
+
+   词源同thrust,extrude,obtrude.
+
+
+
+**Subconscious** /ˌsʌbˈkɑːn.ʃəs/ 潜意识
+
+1. 助记,
+
+   Sub+conscious
+
+   sub-,under,在下面，下一级的；conscious有意识的
+
+   在意识之下，潜意识的.
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1823, "not wholly conscious, feebly conscious" (implied in subconsciously), **from [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference) + [conscious](https://www.etymonline.com/word/conscious?ref=etymonline_crossreference).** First attested in De Quincey. The noun, in the psychological sense ("mental processes taking place without consciousness"), is attested from 1886, from adjectival sense "occurring in the mind, but not in consciousness;" earlier noun was subconsciousness (1845).
+
+3. 释义,
+
+   潜意识 the part of your mind that notices and remembers information when you are notactively trying to do so, and influences your behaviour even though you do notrealize it
+
+4. 拓展 
+
+   与之前查过的单词Subliminal一起记忆
+
+
+
+**Scenario**/səˈner.i.oʊ/ 脚本
+
+1. 助记,
+
+   scen+ario
+
+   scen(e)表示舞台，布景，场景，引申为设想、方案、脚本、剧本。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from Italian, **from Latin scena ‘scene’**.
+
+   **Etymology**
+
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," **from Latin scena "scene" (see [scene](https://www.etymonline.com/word/scene?ref=etymonline_crossreference)).** Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+
+3. 释义,
+
+   设想、脚本 a description of possible actions or events in the future
+
+4. 拓展 
+
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenarius:舞台情节、场景
+
+
+
+**Multiply**/ˈmʌl.tə.plaɪ/ 成倍增长
+
+1. 助记,
+
+   multi+ply
+
+   multi-很多，ply-表重叠，倍数－变多-乘-大幅增加
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French multiplier, from Latin multiplicare.
+
+   **Etymology**
+
+   mid-12c., multeplier, "to cause to become many," from Old French multiplier, mouteplier (12c.) "increase, get bigger; flourish; breed; extend, enrich," **from Latin multiplicare "to increase,"** frommultiplex (genitive multiplicis) "having many folds, many times as great in number," from combining **form of multus "much, many" (see [multi-](https://www.etymonline.com/word/multi-?ref=etymonline_crossreference)) + -plex "-fold,**" from PIE root [*plek-](https://www.etymonline.com/word/*plek-?ref=etymonline_crossreference) "to plait." Mathematical sense is attested from late 14c. Related: Multiplied; multiplying.
+
+3. 释义,
+
+   成倍增长 to increase very much in number, or (in mathematics) to add a number to itself aparticular number of times
+
+4. 拓展 
+
+   multiply=manyfold
 
    Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
 
@@ -1446,6 +1561,8 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 
 
+
+
 ## 5 Learn How to Make Decisions Effectively
 
 #### scenario/sɪˈnɑː.ri.əʊ/
@@ -1509,6 +1626,10 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 3. 定义：a guess about something based on how it seems and not on proof
    推想 猜测 揣摩
 4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
+
+
+
+
 
 
 
