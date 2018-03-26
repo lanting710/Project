@@ -1448,6 +1448,111 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 ## 5 Learn How to Make Decisions Effectively
 
+@Grace 2018-03-26
+
+#### **Anxiety**
+
+UK /æŋˈzaɪəti/ US /æŋˈzaɪɪti/
+
+1. 助记,
+
+   anxiety (n.) = anxious (adj.)
+
+   **anxiety**：表示“焦虑”，‘anguish，uneasy, troubled in mind’。源于词根*angh-，"tight, painfully constricted, painful"。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from French anxiété or Latin anxietas, from anxius (see anxious).
+
+   **Etymology**
+
+   1520s, "apprehension caused by danger, misfortune, or error, uneasiness of mind respecting some uncertainty, a restless dread of some evil," from Latin anxietatem (nominative anxietas) "anguish, anxiety, solicitude," noun of quality from anxius "uneasy, troubled in mind" (see [anxious](https://www.etymonline.com/word/anxious?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1)焦虑；忧虑(worry)**the state of feeling nervous or worried that sth bad is going to happen**
+
+   ​     2)担心；忧虑；害怕 **a worry or fear about sth**
+
+   ​     3)渴望(eagerness)**a strong feeling of wanting to do sth or of wanting sth to happen**
+
+4. 相关词语和词组
+
+   **anxious** adj. 焦虑，忧虑，担心；令人焦虑的；渴望
+
+   **acute/intense/deep anxiety** 非常/极度/深深的忧虑
+
+   **anxiety to do sth/ anxiety for sth** 对…的渴望​
+
+5. 同义词辨析
+
+   **anxiety ** n. 不安，担心。强调由某事的不确定性而引起的焦虑或恐惧，也指因失败、不幸、灾难等而产生的忧虑心情。
+
+   **care**        n. [文]忧虑，烦恼。强调因恐惧或责任而产生的忧虑或负担。
+
+   **concern** n. 忧虑，担心，关心。强调对和自己或他人有利害关系的人或事物的担心或关切。
+
+   **unease**  n. 忧虑，不安。强调心绪不宁的感觉。
+
+   **worry**    n. 担忧，忧虑。强调心烦意乱，心里老惦记着某人或某事，有时含瞎操心之意。
+
+   ​
+
+#### ** Analyze**
+
+UK /'ænəlaɪz/ US /ˈænəˌlaɪz/
+
+1. 助记,
+
+   analyze，是analyse的美式拼写。
+
+   “ana-”+“ly” +“ze/ize”= "to dissect, take to pieces，a breaking up, a loosening, releasing"使各个组成部分分开，以揭示某种东西
+
+   **ana-**：表示“在旁边，分开来”，‘up, back, throughout’。
+
+   **ly**： 表示“松开，分解”，‘loosen，a loosening，divide, cut apart’。
+
+   **ze/ize**：动词后缀。
+
+2. 词源,
+
+   analysis n.
+
+   **OED Origin**
+
+   Late 16th century: via medieval Latin from Greek analusis, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), from Greek analysis "solution of a problem by analysis," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+
+   v. 分析**to examine the nature or structure of sth, especially by separating it into its parts, in order to understand or explain it**
+
+4. 相关词语和词组
+
+   **analysis** v. 分析，分解; 梗概，要略; [数] 解析; 验定
+
+   **analyst** n. 分析家，化验员; 〈美〉精神病医师
+
+   **analytical** adj. 分析的，分析法的; 善于分析的
+
+   **analytics** n. 分析学，解析学，分析论
+
+   **in the final analysis** 归根到底; 说到底; 总之，归根结底; 毕竟
+
+   ​
+
+好句：To synthesize well, you must 1) synthesize the situation at hand, 2) synthesize
+the situation through time, and 3) navigate levels effectively.
+
+（在决策之前，必须将所有的信息资料进行综合评估，才能作出正确的判断。）
+
+
+
 #### scenario/sɪˈnɑː.ri.əʊ/
 
 1. 助记：词源同 scene.（场，情景）引申词义设想，方案，剧本
