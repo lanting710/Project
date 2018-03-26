@@ -1281,8 +1281,16 @@ disruptive.
 ## 4 Understand That People Are Wired Very Differently
 
 
+@aqua 2018-03-26
 
-@Grace 2018-03-25
+**Threat** /θret/ 威胁
+
+1. 助记,
+
+   ​
+   trud-,trus-=push,表示推搡，来自拉丁语。
+   =======
+   @Grace 2018-03-25
 
 #### **Radical**
 
@@ -1296,9 +1304,117 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
 
+
+
+
 2. 词源,
 
    **OED Origin**
+
+
+   Old English thrēat ‘oppression’, of Germanic origin; related to Dutch verdrieten ‘grieve’, German verdriessen ‘irritate’.
+
+   **Etymology**
+
+   Old English þreat "crowd, troop," also "oppression, coercion, menace," related to þreotan "to trouble, weary," from Proto-Germanic ***thrautam (source also of Dutch verdrieten**, German verdrießen "to vex"), from PIE *treud- "**to push, press squeeze**" (source also of Latin trudere "to press, thrust," Old Church Slavonic trudu "oppression," Middle Irish trott "quarrel, conflict," Middle Welsh cythrud"torture, torment, afflict"). Sense of "conditional declaration of hostile intention" was in Old English.
+
+3. 释义,
+
+   威胁 a suggestion that something unpleasant or violent will happen, especially if aparticular action or order is not followed
+
+4. 拓展 
+
+   词源同thrust,extrude,obtrude.
+
+
+
+**Subconscious** /ˌsʌbˈkɑːn.ʃəs/ 潜意识
+
+1. 助记,
+
+   Sub+conscious
+
+   sub-,under,在下面，下一级的；conscious有意识的
+
+   在意识之下，潜意识的.
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1823, "not wholly conscious, feebly conscious" (implied in subconsciously), **from [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference) + [conscious](https://www.etymonline.com/word/conscious?ref=etymonline_crossreference).** First attested in De Quincey. The noun, in the psychological sense ("mental processes taking place without consciousness"), is attested from 1886, from adjectival sense "occurring in the mind, but not in consciousness;" earlier noun was subconsciousness (1845).
+
+3. 释义,
+
+   潜意识 the part of your mind that notices and remembers information when you are notactively trying to do so, and influences your behaviour even though you do notrealize it
+
+4. 拓展 
+
+   与之前查过的单词Subliminal一起记忆
+
+
+
+**Scenario**/səˈner.i.oʊ/ 脚本
+
+1. 助记,
+
+   scen+ario
+
+   scen(e)表示舞台，布景，场景，引申为设想、方案、脚本、剧本。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from Italian, **from Latin scena ‘scene’**.
+
+   **Etymology**
+
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," **from Latin scena "scene" (see [scene](https://www.etymonline.com/word/scene?ref=etymonline_crossreference)).** Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+
+3. 释义,
+
+   设想、脚本 a description of possible actions or events in the future
+
+4. 拓展 
+
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenarius:舞台情节、场景
+
+
+
+**Multiply**/ˈmʌl.tə.plaɪ/ 成倍增长
+
+1. 助记,
+
+   multi+ply
+
+   multi-很多，ply-表重叠，倍数－变多-乘-大幅增加
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French multiplier, from Latin multiplicare.
+
+   **Etymology**
+
+   mid-12c., multeplier, "to cause to become many," from Old French multiplier, mouteplier (12c.) "increase, get bigger; flourish; breed; extend, enrich," **from Latin multiplicare "to increase,"** frommultiplex (genitive multiplicis) "having many folds, many times as great in number," from combining **form of multus "much, many" (see [multi-](https://www.etymonline.com/word/multi-?ref=etymonline_crossreference)) + -plex "-fold,**" from PIE root [*plek-](https://www.etymonline.com/word/*plek-?ref=etymonline_crossreference) "to plait." Mathematical sense is attested from late 14c. Related: Multiplied; multiplying.
+
+3. 释义,
+
+   成倍增长 to increase very much in number, or (in mathematics) to add a number to itself aparticular number of times
+
+4. 拓展 
+
+   multiply=manyfold
 
    Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
 
@@ -1306,7 +1422,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
 
-3. 释义,
+5. 释义,
 
    adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
 
@@ -1320,7 +1436,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
 
-4. 相关词语和词组
+6. 相关词语和词组
 
    **radicalism** n. 激进主义; 基本原理
 
@@ -1446,7 +1562,114 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 
 
+
+
 ## 5 Learn How to Make Decisions Effectively
+
+@Grace 2018-03-26
+
+#### **Anxiety**
+
+UK /æŋˈzaɪəti/ US /æŋˈzaɪɪti/
+
+1. 助记,
+
+   anxiety (n.) = anxious (adj.)
+
+   **anxiety**：表示“焦虑”，‘anguish，uneasy, troubled in mind’。源于词根*angh-，"tight, painfully constricted, painful"。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from French anxiété or Latin anxietas, from anxius (see anxious).
+
+   **Etymology**
+
+   1520s, "apprehension caused by danger, misfortune, or error, uneasiness of mind respecting some uncertainty, a restless dread of some evil," from Latin anxietatem (nominative anxietas) "anguish, anxiety, solicitude," noun of quality from anxius "uneasy, troubled in mind" (see [anxious](https://www.etymonline.com/word/anxious?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1)焦虑；忧虑(worry)**the state of feeling nervous or worried that sth bad is going to happen**
+
+   ​     2)担心；忧虑；害怕 **a worry or fear about sth**
+
+   ​     3)渴望(eagerness)**a strong feeling of wanting to do sth or of wanting sth to happen**
+
+4. 相关词语和词组
+
+   **anxious** adj. 焦虑，忧虑，担心；令人焦虑的；渴望
+
+   **acute/intense/deep anxiety** 非常/极度/深深的忧虑
+
+   **anxiety to do sth/ anxiety for sth** 对…的渴望​
+
+5. 同义词辨析
+
+   **anxiety ** n. 不安，担心。强调由某事的不确定性而引起的焦虑或恐惧，也指因失败、不幸、灾难等而产生的忧虑心情。
+
+   **care**        n. [文]忧虑，烦恼。强调因恐惧或责任而产生的忧虑或负担。
+
+   **concern** n. 忧虑，担心，关心。强调对和自己或他人有利害关系的人或事物的担心或关切。
+
+   **unease**  n. 忧虑，不安。强调心绪不宁的感觉。
+
+   **worry**    n. 担忧，忧虑。强调心烦意乱，心里老惦记着某人或某事，有时含瞎操心之意。
+
+   ​
+
+#### ** Analyze**
+
+UK /'ænəlaɪz/ US /ˈænəˌlaɪz/
+
+1. 助记,
+
+   analyze，是analyse的美式拼写。
+
+   “ana-”+“ly” +“ze/ize”= "to dissect, take to pieces，a breaking up, a loosening, releasing"使各个组成部分分开，以揭示某种东西
+
+   **ana-**：表示“在旁边，分开来”，‘up, back, throughout’。
+
+   **ly**： 表示“松开，分解”，‘loosen，a loosening，divide, cut apart’。
+
+   **ze/ize**：动词后缀。
+
+2. 词源,
+
+   analysis n.
+
+   **OED Origin**
+
+   Late 16th century: via medieval Latin from Greek analusis, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), from Greek analysis "solution of a problem by analysis," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+
+   v. 分析**to examine the nature or structure of sth, especially by separating it into its parts, in order to understand or explain it**
+
+4. 相关词语和词组
+
+   **analysis** v. 分析，分解; 梗概，要略; [数] 解析; 验定
+
+   **analyst** n. 分析家，化验员; 〈美〉精神病医师
+
+   **analytical** adj. 分析的，分析法的; 善于分析的
+
+   **analytics** n. 分析学，解析学，分析论
+
+   **in the final analysis** 归根到底; 说到底; 总之，归根结底; 毕竟
+
+   ​
+
+好句：To synthesize well, you must 1) synthesize the situation at hand, 2) synthesize
+the situation through time, and 3) navigate levels effectively.
+
+（在决策之前，必须将所有的信息资料进行综合评估，才能作出正确的判断。）
+
+
 
 #### scenario/sɪˈnɑː.ri.əʊ/
 
@@ -1510,6 +1733,62 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
    推想 猜测 揣摩
 4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
 
+
+#### assess /əˈses/
+
+1. 助记：as-同ad- + sess-坐。
+2. 词源：
+   etymology
+   early 15c., "to fix the amount (of a tax, fine, etc.)," from Anglo-French assesser, from Medieval Latin assessare "fix a tax upon," originally frequentative of Latin assessus "a sitting by," past participle of assidere/adsidere "to sit beside" (and thus to assist in the office of a judge), "sit with in counsel or office," from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit."
+3. 定义：to judge or decide the amount, value, quality, or importance of something 估定 评定
+4. 拓展：
+   assess（评估）：坐在法官旁边计算罚金或税金数量
+   在古代西方的法庭上，法官旁边除了坐着书记员等人员外，还有一名辅助人员，他的职责是帮助法官计算当事人应当缴纳的罚金或税金的数量。因为他是坐在法官旁边进行计算的，所以这个计算过程在拉丁语中就被称为assessare，源自动词assidere（坐在一边），进入英语后演变为assess，最初用来表示确定罚金或税金的数量，后来词义得到扩展，可以用来表示其他更多与金额或价值有关的计算和评估。
+   assess：[ə'ses] vt.评估，评定，估价，对……征税
+   assessment：[ə'sɛsmənt] n. 评定；估价
+
+#### mortgage/ˈmɔː.ɡɪdʒ/
+
+1. 助记：mort-=death 死 gage- 表示“承诺”，引申为婚姻 
+   比喻用法，即直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的经济行为，即现代意义上的按揭。
+2. 词源：
+   etymology
+   late 14c., morgage, "conveyance of property as security for a loan or agreement," from Old French morgage (13c.), mort gaige, literally "dead pledge" (replaced in modern French by hypothèque), from mort "dead" (see mortal (adj.)) + gage "pledge" (see wage (n.)). So called because the deal dies either when the debt is paid or when payment fails. Old French mort is from Vulgar Latin *mortus "dead," from Latin mortuus, past participle of mori "to die" (from PIE root *mer- "to rub away, harm," also "to die" and forming words referring to death and to beings subject to death). The -t- restored in English based on Latin.
+3. 定义：an agreement that allows you to borrow money from a bank or similar organization, especially in order to buy a house, or the amount of money itself 抵押
+4. 拓展：
+   mortgage（抵押贷款）：以父亲遗产为担保的贷款
+   在古代西方，家庭中的长子在法律上拥有继承父亲遗产的权利。如果长子需要一大笔钱，而又无法从其父亲那里获得，他往往会找其他人借款。而其他人之所以愿意借钱给他，看中的是他的长子继承权，相信他将来继承遗产后可以偿还债务。借钱的时候，借款人会立下誓言，等他父亲去世，他继承遗产后就会偿还债务及其利息。这就是英语单词mortgage的来源。mortgage由mort和gage组成，mort表示“死亡”，gage表示“誓言、保证”，所以mortgage一词的字面含义就是“死亡保证”，即以其父亲的死亡（等于遗产）为保证的贷款。
+   mortgage： ['mɔːgɪdʒ] vt.n.抵押贷款
+   mortal： ['mɔrtl] adj. 凡人的；致死的；终有一死的n. 人类，凡人
+
+#### odds/ɒdz/
+
+1. 助记：odd【偶然发生的】 + -s复数后缀。原用于赌博赔率，引申词义机会，可能性。
+   odd来自古诺斯语 oddi,第三或多出的，来自 Proto-Germanicuzdaz,向上刺的点，顶角，来自PIEuzdho,刺，刺点。后引申词义奇数的，怪异的，偶然发生的等。
+2. 词源：
+   etymology
+   in wagering sense, found first in Shakespeare ("2 Henry IV," 1597), probably from earlier sense of "amount by which one thing exceeds or falls short of another" (1540s), from odd (q.v.), though the sense evolution is uncertain. Until 19c. treated as a singular, though obviously a plural (compare news).
+3. 定义：
+   the probability (= how likely it is) that a particular thing will or will not happen 可能性 几率
+
+#### peril/ˈper.əl/
+
+1. 助记：per-= try, 表示“尝试，冒险“ + il → 尝试 → 冒险。引申词义探索，开拓，风险，危险。比较其同源词 expert,experience.
+2. 词源：
+   etymology
+   c. 1200, from Old French peril "danger, risk" (10c.), from Latin periculum "an attempt, trial, experiment; risk, danger," with instrumentive suffix -culum and first element from PIE *peri-tlo-, suffixed form of root *per- (3) "to try, risk."
+3. 定义：great danger, or something that is very dangerous 危险 冒险
+
+#### intuitively [ɪnˈtju:ɪtɪv]
+
+1. 助记：in-不 + tuit-保护 + -ive表形容词 → 不加保护而来的[感觉] → 直觉的
+2. 词源：
+   etymology
+   1640s, "perceiving directly and immediately," from Middle French intuitif or directly from Medieval Latin intuitivus,
+    from intuit-, past participle stem of Latin intueri "look at, consider," from in- "into" (from PIE root *en "in") + tueri "to look at, watch over," a word of uncertain origin. Meaning "self-evident" is from 1833. Related: Intuitively; intuitiveness.
+3. 定义：spontaneously derived from or prompted by a natural tendency 有直觉力的;凭直觉获知的
+
+好句：Until you make the unconscious conscious, it will direct your life and you will call it fate. 潜意识在不知不觉中影响我们的命运
 
 
 ## Life Priciples: Putting it All Together
