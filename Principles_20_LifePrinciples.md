@@ -186,7 +186,8 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    re再+con一起+cil=call\召集→[双方]再次召集到一起→和解、调节、使一致。
 
-   <img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
+
+   img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
 
 **Align** /əˈlaɪn/ 校直
 
@@ -709,9 +710,9 @@ UK /ˈtɒləreɪt/ US /ˈtɑ:ləreɪt/
 
 （很有哲理的一句话。我们会面临太多的诱惑，选择你最想要的，定准目标后为之奋斗，而不要过于贪心、三心两意，否则将一事无成。）
 
-
-
 Evolving is life's greatest accomplishment and its greatest reward.
+
+
 
 @aqua 2018-03-22
 
@@ -828,22 +829,968 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 
 
+@aqua 2018-03-23
+
+**Optimize** /ˈɑːp.tə.maɪz/ 优化
+
+1. 助记,
+
+   optim+ize
+
+   optim=best,最好的,使变得最好,即优化.
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: from Latin optimus **‘best’ + -ize**.
+
+   **Etymology**
+
+   1844, "to act as an optimist," back-formation from [optimist](https://www.etymonline.com/word/optimist?ref=etymonline_crossreference). Meaning "**to make the most of**" is first recorded 1857. Related: Optimized; optimizing.
+
+3. 释义,
+
+   优化  to make something as good as possible
+
+4. 拓展 
+
+   略
+
+
+**Paramount** /ˈper.ə.maʊnt/ 至上的
+
+1. 助记,
+
+      para+mount
+
+      para=par=by,通过,穿过,mount-山顶,意思为到达山顶,至尊,重要的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘highest in jurisdiction’ in the phrases lord paramount and paramount chief): from Anglo-Norman French paramont, **from Old French par ‘by’ + amont ‘above**’.
+
+   **Etymology**
+
+   1530s, from Anglo-French paramont, Old French paramont "above" (in place, order, degree), mid-14c., from Old French par "by," from Latin per "through, for, **by" (see [per](https://www.etymonline.com/word/per?ref=etymonline_crossreference) (prep.)) + amont "up," froma mont "upward" (see [amount](https://www.etymonline.com/word/amount?ref=etymonline_crossreference) (v.)).** The whole from Latin per ad montem, literally "to the hill."
+
+3. 释义,
+
+   首要的,至上的  more important than anything else
+
+4. 拓展 
+
+   越过高山.达到顶峰.至高无上,无与伦比的.
+
+    Paramount 为好莱坞电影公司名.
+
+
+
+
 ## 3 Be Radically Open-Minded
 
+#### mess /mes/
+
+1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
+2. 词源：
+   etymology
+   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
+3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
+
+#### hijack /ˈhaɪ.dʒæk/
+
+1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
+2. 词源：
+   etymology
+   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
+3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
+
+#### tragic /ˈtrædʒ.ɪk/
+
+1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
+2. 词源：
+   etymology
+   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
+3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
+4. 拓展：
+   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
+   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
+   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
+   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
+   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
+   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
+
+#### clue/kluː/
+
+1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
+2. 词源：
+   etymology
+   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
+3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
+4. 拓展：
+   clue（线索）：引导忒修斯走出迷宫的线团
+   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
+   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
+   clue：[kluː] n.线索，情节
+   clueless： ['kluləs] adj. 无线索的；愚蠢的
+
+#### symbioticˌ/sɪmbaɪ'ɒtɪk/
+
+1. 助记：sym-共同 + bio-生命 + -tic形容词后缀。
+   名词：symbiosis 共生 共栖
+2. 词源：etymology 1882, in biology, from stem of symbiosis + -ic. Of human activities from 1951. Related: Symbiotical; symbiotically.
+   symbiosis
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun "live together," from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn- "together" (see syn-) + bios "life" (from PIE root *gwei- "to live"). Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verb symbiose is recorded from 1960.
+3. 定义：a relationship between two types of animal or plant in which each provides for the other the conditions necessary for its continued existence
+   共栖的 共生的
+
+好句：The two biggest barriers to good decision making are your ego and your blind spots 
 
 
 
+@Grace 2018-03-23
 
-## 4 Understand that People Are Wired Very Differently
+#### **Symbiotic**
 
+UK /ˌsɪmbaɪ'ɒtɪk/ US /ˌsɪmbaɪ'ɒtɪk/
+
+1. 助记,
+
+   “symbiot”+“-ic” = "symbiosis“ + ”-ic“ = "a living together" 一起生活, 后引申为共生之意
+
+   **syn-**：来源于希腊语，意为“with,together,at the same time,by means of,alike”等，相当于拉丁文前缀co-，前缀syn在辅音字母b,m,p前变为sym。
+
+   **bios**：表示“生活, 生命”，‘life, to live’。
+
+   **-ic**： 形容词后缀，表示of～（与...有关的），having the nature of ～（有...性质的），being～（是...的）；made up of ～（由...组成的）；made or caused by ～（由...引起的）；like ～（像...的）。
+
+2. 词源,
+
+   symbiosis n.
+
+   **OED Origin**
+
+   Late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun ‘live together’, from sumbios ‘companion’.
+
+   **Etymology**
+
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun "live together," from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + bios"life" (from PIE root [*gwei-](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) "to live"). Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verb symbiose is recorded from 1960.
+
+3. 释义,
+
+   adj. 1)(生)共生的**a relationship between two types of animal orplant in which each provides for the other the conditionsnecessary for its continued existence**
+
+   ​        2)互惠互利的,合作关系的**a relationship between people or organizations that depend on each other equally**
+
+4. 相关词语和词组
+
+   **symbiosis** n. (生) 共生(关系); 合作关系,互惠互利关系
+
+   ​
+
+#### **Complementary**
+
+UK /ˌkɒmplɪˈmentri/ US /ˌkɑ:mplɪˈmentri/
+
+1. 助记,
+
+   “complement”+“-ary” = "forming a complement, mutually completing each other's deficiencies" 相互形成补充关系的
+
+   **comple**：即complete，"充满，使完整"的意思，‘fill up’。其中'com-', 前缀，意思是“共同”, 表加强； 'plete', 意思是"充满"。
+
+   **ment**：名词后缀。
+
+   **-ary**： 形容词后缀，表示“属于…的,与…有关的”。
+
+2. 词源,
+
+   complement n.
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘completion’): from Latin complementum, from complere ‘fill up’ (see complete). Compare with compliment.
+
+   **Etymology**
+
+   late 14c., "means of completing; that which completes; what is needed to complete or fill up," from Old French compliement "accomplishment, fulfillment" (14c., Modern French complément), from Latin complementum "that which fills up or completes," from complere "fill up," from com-, here probably as an intensive prefix (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)), + plere "to fill" (from PIE root [*pele-](https://www.etymonline.com/word/*pele-?ref=etymonline_crossreference) (1) "to fill").
+
+3. 释义,
+
+   adj. 互补的；补充的；相互补足的**useful or attractive together**
+
+4. 相关词语和词组
+
+   **complement** v. 补充，补足，使完美，使更具吸引力
+
+   ​                         n.补充物; 足额; (语法)补语
+
+   **complementation** n. 补充; (动词的)补语
+
+   **complementary angle** n. (几何)90°余角
+
+   **complementary color** n. (术语)互补色; 对比色
+
+   **complementary medicine** n. 辅助性医疗(不属于西方国家通常采用的科学疗法,如针灸)
+
+   ​
+
+#### **Disruptive**
+
+UK /dɪsˈrʌptɪv/ US /dɪsˈrʌptɪv/
+
+1. 助记,
+
+   “disrupt”+“-ive” = "bring or throw into disorder"造成无序混乱的局面
+
+   **disrupt**：表示“扰乱，中断”，‘broken apart’。其中‘dis-’前缀，”脱离“的意思，‘off，apart’；‘rupt’，”打乱“的意思，‘break’。
+
+   **-ive**： 形容词后缀，表示与该行为有关的性质与倾向等，其意思相当于英语的现在分词后缀-ing（…的）或having to do with ~ing（与…有关的）；having the quality of ~ing（具有…性质的）；tending to or likely to ~（倾向于做…的）。
+
+2. 词源,
+
+   disrupt v.
+
+   **OED Origin**
+
+   Late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere.
+
+   **Etymology**
+
+   early 15c., from Latin disruptionem (nominative disruptio) "a breaking asunder," noun of action from past participle stem of disrumpere "break apart, split, shatter, break to pieces," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference)) + rumpere "to break" (see[rupture](https://www.etymonline.com/word/rupture?ref=etymonline_crossreference) (n.)).
+
+3. 释义,
+
+   adj. 引起混乱的；扰乱性的；破坏性的**causing trouble and therefore stopping something fromcontinuing as usual;  changing the traditional way that an industryoperates, especially in a new and effective way**
+
+4. 相关词语和词组
+
+   **disrupt** v  扰乱, 使中断, 打乱
+
+   **disruption** n. 扰乱, 混乱
+
+
+
+好句：Differences in thinking can be symbiotic and complementary instead of disruptive. 
+
+（每个人自有不足之处，若拥有开放性思维，认清自己的弱点，欣赏他人的优点，思维互补能助你更成功。）
+
+
+
+@aqua 2018-03-24
+
+**Barrier** /ˈber.i.ɚ/ 障碍
+
+1. 助记,
+
+   bar+rier
+
+   来自bar,杆，棍，阻拦
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (denoting a palisade or fortification defending an entrance): from Old French barriere, of unknown origin; related to barre.
+
+   **Etymology**
+
+   "anything meant to obstruct entrance," early 14c., barere, from Anglo-French barrere, Old French barriere "obstacle, gatekeeper," **from barre "bar" (see [bar](https://www.etymonline.com/word/bar?ref=etymonline_crossreference) (n.1)).** First record of barrier reef is from 1805.
+
+3. 释义,
+
+   障碍 a long pole, fence, wall, or natural feature, such as a mountain or sea, that stops people from going somewhere
+
+4. 拓展 
+
+   单词bar来自拉丁语barra，本意是“横梁”、“横木”，最早表示用来固定大门的长木棍或铁棍，后来表示用这种条棒做成的屏障物，如酒吧中的吧台、法庭上用来分割庭上和观众席的栅栏。因此，bar又衍生出“酒吧”、“法庭”之意，还可以用作动词，表示“阻拦”。单词barrister（大律师）与此同源，原本指的是可以越过栅栏进入法庭的律师。同源词还有barrier（障碍）、barrage（拦河坝、阻塞）等。
+
+**Ego** /ˈiː.ɡoʊ/ 自我
+
+1. 助记,
+
+   ego : 来自拉丁语，英语I的原型。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: from Latin, **literally ‘I’**.
+
+   **Etymology**
+
+   1714, as a term in metaphysics, "the self; that which feels, acts, or thinks," **from Latin ego "I"** (cognate with Old English ic; see [I](https://www.etymonline.com/word/I?ref=etymonline_crossreference)). Psychoanalytic (Freudian) sense is from 1894; sense of "conceit" is 1891. Ego-trip first recorded 1969, from [trip](https://www.etymonline.com/word/trip?ref=etymonline_crossreference) (n.). Related: egoical; egoity. 
+
+3. 释义,
+
+   自我 in psychoanalysis, the part of a person's mind that tries to match the hidden desires (= wishes) of the id (= part of the unconscious mind) with the demands of the real world
+
+4. 拓展 
+
+   ego (n.) - 1714，玄学术语，"the self; that which feels, acts, or thinks"，源自拉丁语ego "I" (和古英语ic同源; 参见：I)。心理分析含义 (Freudian) 始于1894；含义 "conceit" 始于1891。Ego-trip最早记录于1969，用在trip (n.)。同根词：egoical; egoity。
+
+**Subliminal** /ˌsʌbˈlɪm.ən.əl/潜意识
+
+1. 助记,
+
+   Sub+limin+al
+
+   sub下面+limin+al→在门槛下→在意识下→潜意识的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: **from sub- ‘below’ + Latin limen, limin- ‘threshold’ + -al.**
+
+   **Etymology**
+
+   1873, "below the threshold" (of consciousness or sensation), **formed from Latin stem of [sublime](https://www.etymonline.com/word/sublime?ref=etymonline_crossreference) (Latin limen, genitive liminis) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1)).** Apparently a loan-translation of German unter der Schwelle (des Bewusstseins) "beneath the threshold (of consciousness)," from Johann Friedrich Herbart (1776-1841), author of a textbook on psychology published in 1824. The scare over subliminal advertising came in 1957. Related: Subliminally.
+
+3. 释义,
+
+   潜意识的 not recognized or understood by the conscious mind, but still having an influence on it
+
+4. 拓展 
+
+   below the threshold
+
+**Accessible** /əkˈses.ə.bəl/ 可接近的
+
+1. 助记,
+
+   Access+ible
+
+   Access-approach,接近的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from late Latin accessibilis, **from Latin access- ‘approached’,** from the verb accedere (see accede).
+
+   **Etymology**
+
+   c. 1400, "affording access, capable of being approached or reached," from Middle French accessible, from Late Latin accessibilis, verbal adjective from Latin accessus "a coming near, an approach; an entrance," **from accedere "approach, go to, come near, enter upon" (see [accede](https://www.etymonline.com/word/accede?ref=etymonline_crossreference))**. Meaning "easy to reach" is from 1640s; of art or writing, "able to be readily understood," 1961 (a word not needed before writing or art often deliberately was made not so). Related: Accessibility.
+
+3. 释义,
+
+   可接近的 able to be reached or easily got
+
+4. 拓展 
+
+   略
+
+   @aqua 2018-03-25
+
+
+**Conflict**  /ˈkɑːn.flɪkt/ 分歧
+
+1. 助记,
+
+   con+flict
+
+   con共同+flict 抽打→共同打→冲突\分歧
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin conflict- ‘struck together, fought’, from the verb confligere, **from con- ‘together’ + fligere ‘to strike’;** the noun is via Latin conflictus ‘a contest’.
+
+   **Etymology**
+
+   early 15c., "armed encounter, battle," from Old French conflit and directly from Latin conflictus "a striking together," in Late Latin "a fight, conflict," noun use of past participle of confligere "to strike together, be in conflict," from assimilated form of com **"with, together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference)) + fligere "to strike" (see [afflict](https://www.etymonline.com/word/afflict?ref=etymonline_crossreference)).**
+
+3. 释义,
+
+   分歧  an active disagreement between people with opposing opinions or principles
+
+4. 拓展 
+
+   词源同flagellate,afflict.
+
+    近义词
+
+   fight\struggle\contention\contest
+
+   反义词
+
+   accord\harmony
+
+
+
+**Synthesize**/ˈsɪn.θə.saɪz/ 使合成
+
+1. 助记,
+
+   synthes(is)+ize
+
+   synthesis,综合，合成，-ize,使
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "combine or bring together" (two or more things), 1825, **from [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference).** A correct formation would be *synthetize. Related: Synthesized; synthesizing.
+
+3. 释义,
+
+   合成  to produce a substance by a chemical reaction in plants or animals
+
+4. 拓展 
+
+   synthesis   syn=same; the-=thesis-=setting,放置；因此synthesis 表示，把东西放到一起，即“合成，综合”。Synthesize为使合成.
+
+
+
+**Presume** /prɪˈzuːm/ 假定
+
+1. 助记,
+
+   pre+sum+e
+
+   pre预先+sum+e→预先拿往→假定
+
+   词源同assume,resume.引申词义假设，假定
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), **from prae ‘before’ + sumere ‘take’.**
+
+   **Etymology**
+
+   late 14c., "to take upon oneself, to take liberty," also "to take for granted, presuppose," especially overconfidently, from Old French presumer (12c.) and directly from Latin praesumere "anticipate," in Late Latin, "assume," **from prae "before" (see [pre-](https://www.etymonline.com/word/pre-?ref=etymonline_crossreference)) + sumere "to take, obtain,** buy," from sus‑, variant of sub‑ "up from under" + emere "to take" (from PIE root [*em-](https://www.etymonline.com/word/*em-?ref=etymonline_crossreference) "to take, distribute"). "To presume is to base a tentative or provisional opinion on such knowledge as one has, to be held until it is modified or overthrown by further information" [Century Dictionary]. Related: Presumed; presumedly; presuming.
+
+3. 释义,
+
+   假定 to believe something to be true because it is very likely, although you are not certain
+
+4. 拓展 
+
+   ​
+
+
+
+## 4 Understand That People Are Wired Very Differently
+
+
+@aqua 2018-03-26
+
+**Threat** /θret/ 威胁
+
+1. 助记,
+
+   trud-,trus-=push,表示推搡，来自拉丁语。
+
+
+2. 词源,
+
+   **OED Origin**
+
+
+   Old English thrēat ‘oppression’, of Germanic origin; related to Dutch verdrieten ‘grieve’, German verdriessen ‘irritate’.
+
+   **Etymology**
+
+   Old English þreat "crowd, troop," also "oppression, coercion, menace," related to þreotan "to trouble, weary," from Proto-Germanic ***thrautam (source also of Dutch verdrieten**, German verdrießen "to vex"), from PIE *treud- "**to push, press squeeze**" (source also of Latin trudere "to press, thrust," Old Church Slavonic trudu "oppression," Middle Irish trott "quarrel, conflict," Middle Welsh cythrud"torture, torment, afflict"). Sense of "conditional declaration of hostile intention" was in Old English.
+
+3. 释义,
+
+   威胁 a suggestion that something unpleasant or violent will happen, especially if aparticular action or order is not followed
+
+4. 拓展 
+
+   词源同thrust,extrude,obtrude.
+
+
+
+**Subconscious** /ˌsʌbˈkɑːn.ʃəs/ 潜意识
+
+1. 助记,
+
+   Sub+conscious
+
+   sub-,under,在下面，下一级的；conscious有意识的
+
+   在意识之下，潜意识的.
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1823, "not wholly conscious, feebly conscious" (implied in subconsciously), **from [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference) + [conscious](https://www.etymonline.com/word/conscious?ref=etymonline_crossreference).** First attested in De Quincey. The noun, in the psychological sense ("mental processes taking place without consciousness"), is attested from 1886, from adjectival sense "occurring in the mind, but not in consciousness;" earlier noun was subconsciousness (1845).
+
+3. 释义,
+
+   潜意识 the part of your mind that notices and remembers information when you are notactively trying to do so, and influences your behaviour even though you do notrealize it
+
+4. 拓展 
+
+   与之前查过的单词Subliminal一起记忆
+
+
+
+**Scenario**/səˈner.i.oʊ/ 脚本
+
+1. 助记,
+
+   scen+ario
+
+   scen(e)表示舞台，布景，场景，引申为设想、方案、脚本、剧本。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from Italian, **from Latin scena ‘scene’**.
+
+   **Etymology**
+
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," **from Latin scena "scene" (see [scene](https://www.etymonline.com/word/scene?ref=etymonline_crossreference)).** Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+
+3. 释义,
+
+   设想、脚本 a description of possible actions or events in the future
+
+4. 拓展 
+
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenarius:舞台情节、场景
+
+
+
+**Multiply**/ˈmʌl.tə.plaɪ/ 成倍增长
+
+1. 助记,
+
+   multi+ply
+
+   multi-很多，ply-表重叠，倍数－变多-乘-大幅增加
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French multiplier, from Latin multiplicare.
+
+   **Etymology**
+
+   mid-12c., multeplier, "to cause to become many," from Old French multiplier, mouteplier (12c.) "increase, get bigger; flourish; breed; extend, enrich," **from Latin multiplicare "to increase,"** frommultiplex (genitive multiplicis) "having many folds, many times as great in number," from combining **form of multus "much, many" (see [multi-](https://www.etymonline.com/word/multi-?ref=etymonline_crossreference)) + -plex "-fold,**" from PIE root [*plek-](https://www.etymonline.com/word/*plek-?ref=etymonline_crossreference) "to plait." Mathematical sense is attested from late 14c. Related: Multiplied; multiplying.
+
+3. 释义,
+
+   成倍增长 to increase very much in number, or (in mathematics) to add a number to itself aparticular number of times
+
+4. 拓展 
+
+   multiply=manyfold
+
+   Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
+
+
+@Grace 2018-03-25
+
+#### **Radical**
+
+UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
+
+1. 助记,
+
+   “radic”+“-al” = "of or having roots，forming the root"与根源有关的，根本的
+
+   **radic**：表示“根”，‘root,branch’。
+
+   **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
+
+2. 词源, 
+
+   **OED Origin**
+
+   Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
+
+      **Etymology**
+
+      late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
+
+5. 释义,
+
+   adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
+
+   ​        2)全新的；不同凡响的**new, different and likely to have a great effect**
+
+   ​        3)激进的；极端的(supporting change)**in favour of thorough and complete political or social change**
+
+   ​        4) 很好；非常好 **very good**
+
+   n. 1)激进分子**a person with radical opinions**
+
+   ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
+
+6. 相关词语和词组
+
+   **radicalism** n. 激进主义; 基本原理
+
+   ​
+
+#### **Circumstance**
+
+UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
+
+1. 助记,
+
+   “circum”+“stance” = "surrounding condition"环境，状况
+
+   **circum**：表示“包围，环绕”，‘around，in a circle’。
+
+   **stance**： 表示“身处，站立的位置”，‘stand，make or be firm’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French circonstance or Latin circumstantia, from circumstare ‘encircle, encompass’, from circum ‘around’ + stare ‘stand’.
+
+   **Etymology**
+
+   . 1200, "a fact related to another fact and modifying it without affecting its essential nature" (originally in reference to sins), from Old French circonstance "circumstance, situation," also literally, "outskirts" (13c., Modern French circonstance), from Latin circumstantia "surrounding condition," neuter plural of circumstans (genitive circumstantis), present participle of circumstare "stand around, surround, encompass, occupy, take possession of" from circum "around" (see [circum-](https://www.etymonline.com/word/circum-?ref=etymonline_crossreference)) + stare "to stand," from PIE root [*sta-](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) "to stand, make or be firm." The Latin word is a loan-translation of Greek peristasis.
+
+3. 释义,
+
+   n. 1)[C]条件；环境；状况**the conditions and facts that are connected with and affect a situation, an event or an action **
+
+   ​    2)[U]命运；客观环境**situations and events that affect and influence your life and that are not in your control**
+
+   ​    3)[pl.] 境况；境遇；（尤指）经济状况**the conditions of a person's life, especially the money they have**
+
+4. 相关词语和词组
+
+   **circumstantial** adj. 按情况推测的，间接的；与特定条件（或环境、情况）有关的
+
+   **in/under the circumstances** 在这种情况下；既然如此
+
+   **in/under no circumstances** 决不；无论如何不
+
+   **pomp and circumstance** 隆重的仪式
+
+   **reduced circumstances** （委婉说法，与poor同义）境况不济
+
+5. 同义词辨析
+
+   **circumstance** n. 情况，情形。指影响某一局面、行动、事件等的条件和事实，通常用复数。
+
+   **case**                  n. 状况，情形。尤指对某个人或群体造成影响的情形，通常用单数。
+
+   **condition**        n. 情况，状况。指人的健康状况或事物所处的状态，其复数形式可指影响某事发生的一切因素。
+
+   ​
+
+好句：Our differences weren’t a product of poor communication; it was the other way around. Our different ways of thinking led to our poor communications.
+
+（我认为，不同的思维方式不是最大问题。我们要容许对方有不同的思维方式。但只有在良好的沟通之下，才能产生思想上的碰撞，才能得到大家最想要的结果。）
+
+
+
+#### orchestra/ˈɔː.kɪ.strə/
+
+1. 助记：ori ,orig,ort = rise, begin, 表示“升起，开始”，来自拉丁语。orche是同源词，基本含义是舞蹈。他们的原始印欧语形式为ergh。
+2. 词源：
+   etymology
+   c. 1600, "area in an ancient theater for the chorus," from Latin orchestra, from Greek orkhestra, semicircular space where the chorus of dancers performed, with suffix -tra denoting place + orkheisthai "to dance," perhaps an intensive of erkhesthai "to go, come," but Beekes rejects the suggested derivations.
+3. 定义：a large group of musicians who play many different instruments together and are led by a conductor 乐队  管弦乐队
+4. 拓展：
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestic：['ɔ:kestɪk] adj.舞蹈的
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐的结合
+
+#### reluctant/rɪˈlʌk.tənt/
+
+1. 助记：re-相对，对着干 + luct-扭打 + -ant表形容词 → 勉强的，不情愿的。
+2. 词源：
+   etymology
+   "unwilling," 1660s, from Latin reluctantem (nominative reluctans), present participle of reluctari "to struggle against, resist, make opposition," from re- "against" (see re-) + luctari "to struggle, wrestle" (see reluctance). Related: Reluctantly. The Latin word is also the source of Spanish reluchante, Italian riluttante.
+3. 定义：not willing to do something and therefore slow to do it:不情愿的 勉强的
+
+#### parameter/pəˈræm.ɪ.tər/
+
+1. 助记：para-在旁，在周围 + -meter测量，规定， 引申词义参数，规范。
+2. 词源：
+   etymology
+   1650s in geometry, from Modern Latin parameter (1630s), from Greek para- "beside, subsidiary" (see para- (1)) + metron "measure" (from PIE root *me- (2) "to measure").
+   A geometry term until 1920s when it yielded sense of "measurable factor which helps to define a particular system" (1927). Common modern meaning (influenced by perimeter) of "boundary, limit, characteristic factor" is from 1950s. Related: Parametric.
+3. 定义：a set of facts or a fixed limit that establishes or limits how something can or must happen or be done 参数  参量
+4. 拓展：
+   parameter [pə'ræmɪtə] n.参数；系数。前缀para-表alongside,beside，词根meter表尺寸、测量，数学角度，parameter要随着（alongside）数值而变。
+   易混淆的另外一个单词是：perimeter [pə'rɪmɪtə] n.周长；周界，前缀peri-表around，那是“line around a figure”，如security perimeter警戒线。 
+
+#### skeleton/ˈskel.ə.tən/
+
+1. 助记：sclero-表hard硬 引申为 骨骼 
+2. 词源 ：
+   etymology
+   1570s, from Modern Latin sceleton "bones, bony framework of the body," from Greek skeleton soma "dried-up body, mummy, skeleton," from neuter of skeletos "dried-up" (also, as a noun, "dried body, mummy"), from skellein "dry up, make dry, parch," from PIE root *skele- "to parch, wither" (see sclero-).
+3. 定义：
+   1. the frame of bones supporting a human or animal body骨骼 骨架
+   2. the most basic form or structure of something 梗概
+4. 拓展：
+   skeleton（骨架）：古希腊人对古埃及人干尸的称呼。古希腊人将古埃及人制作的这种干尸称为skeleton soma，其中的skeleton是“干瘪的”之意。英语单词skeleton（骨架）就来源于此。古代历史学家希罗多德（Herodotus）曾在著作中描述古埃及有一习俗：凡重大的宴会都要在席上显眼处安放一具干尸，借此提醒众宾客居安思危，不忘苦难。所以英文中有skeleton at the feast 这一习语，但现在意思已经为“扫兴的家伙”了。
+   skeleton：['skɛlɪtn] n. 骨架，骨骼；骨瘦如柴的人adj. 骨骼的；骨瘦如柴的；概略的
+   skeletal：['skɛlətl] adj. 骨骼的，像骨骼的；骸骨的；骨瘦如柴的
+   a skeleton at the feast餐桌上的骷髅；让人在欢乐时不忘苦难的人(或事物)。古希腊历史学家普鲁塔克说埃及人在家宴要结束之时，会让仆人抬出一具骷髅并对宾客们说：Look on this!Eat,drink and be merry,for tomorrow you die!Don't ask him to come; we don't want to have a skeleton at the feast. 
+
+#### minutiae/mɪˈnuː.ʃi.aɪ/
+
+1. 助记：  minute【小】 + -ia → 小事件 → 琐事。
+2. 词源：
+   etymology
+   1751, plural minutiae, from Latin minutia "smallness" (plural minutiae, in Late Latin "trifles"), from minutus "small" (from PIE root *mei- (2) "small").
+3. 定义：small and often not important details
+   细节 琐碎
 
 
 
 
 ## 5 Learn How to Make Decisions Effectively
 
+@Grace 2018-03-26
+
+#### **Anxiety**
+
+UK /æŋˈzaɪəti/ US /æŋˈzaɪɪti/
+
+1. 助记,
+
+   anxiety (n.) = anxious (adj.)
+
+   **anxiety**：表示“焦虑”，‘anguish，uneasy, troubled in mind’。源于词根*angh-，"tight, painfully constricted, painful"。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from French anxiété or Latin anxietas, from anxius (see anxious).
+
+   **Etymology**
+
+   1520s, "apprehension caused by danger, misfortune, or error, uneasiness of mind respecting some uncertainty, a restless dread of some evil," from Latin anxietatem (nominative anxietas) "anguish, anxiety, solicitude," noun of quality from anxius "uneasy, troubled in mind" (see [anxious](https://www.etymonline.com/word/anxious?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1)焦虑；忧虑(worry)**the state of feeling nervous or worried that sth bad is going to happen**
+
+   ​     2)担心；忧虑；害怕 **a worry or fear about sth**
+
+   ​     3)渴望(eagerness)**a strong feeling of wanting to do sth or of wanting sth to happen**
+
+4. 相关词语和词组
+
+   **anxious** adj. 焦虑，忧虑，担心；令人焦虑的；渴望
+
+   **acute/intense/deep anxiety** 非常/极度/深深的忧虑
+
+   **anxiety to do sth/ anxiety for sth** 对…的渴望​
+
+5. 同义词辨析
+
+   **anxiety ** n. 不安，担心。强调由某事的不确定性而引起的焦虑或恐惧，也指因失败、不幸、灾难等而产生的忧虑心情。
+
+   **care**        n. [文]忧虑，烦恼。强调因恐惧或责任而产生的忧虑或负担。
+
+   **concern** n. 忧虑，担心，关心。强调对和自己或他人有利害关系的人或事物的担心或关切。
+
+   **unease**  n. 忧虑，不安。强调心绪不宁的感觉。
+
+   **worry**    n. 担忧，忧虑。强调心烦意乱，心里老惦记着某人或某事，有时含瞎操心之意。
+
+   ​
+
+#### **Analyze**
+
+UK /'ænəlaɪz/ US /ˈænəˌlaɪz/
+
+1. 助记,
+
+   analyze，是analyse的美式拼写。
+
+   “ana-”+“ly” +“ze/ize”= "to dissect, take to pieces，a breaking up, a loosening, releasing"使各个组成部分分开，以揭示某种东西
+
+   **ana-**：表示“在旁边，分开来”，‘up, back, throughout’。
+
+   **ly**： 表示“松开，分解”，‘loosen，a loosening，divide, cut apart’。
+
+   **ze/ize**：动词后缀。
+
+2. 词源,
+
+   analysis n.
+
+   **OED Origin**
+
+   Late 16th century: via medieval Latin from Greek analusis, from analuein ‘unloose’, from ana- ‘up’ + luein ‘loosen’.
+
+   **Etymology**
+
+   1580s, "resolution of anything complex into simple elements" (opposite of [synthesis](https://www.etymonline.com/word/synthesis?ref=etymonline_crossreference)), from Medieval Latin analysis (15c.), from Greek analysis "solution of a problem by analysis," literally "a breaking up, a loosening, releasing," noun of action from analyein "unloose, release, set free; to loose a ship from its moorings," in Aristotle, "to analyze," from ana "up, back, throughout" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + lysis "a loosening," from lyein "to unfasten" (from PIE root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart").
+
+3. 释义,
+
+   v. 分析**to examine the nature or structure of sth, especially by separating it into its parts, in order to understand or explain it**
+
+4. 相关词语和词组
+
+   **analysis** v. 分析，分解; 梗概，要略; [数] 解析; 验定
+
+   **analyst** n. 分析家，化验员; 〈美〉精神病医师
+
+   **analytical** adj. 分析的，分析法的; 善于分析的
+
+   **analytics** n. 分析学，解析学，分析论
+
+   **in the final analysis** 归根到底; 说到底; 总之，归根结底; 毕竟
+
+   ​
+
+好句：To synthesize well, you must 1) synthesize the situation at hand, 2) synthesize
+the situation through time, and 3) navigate levels effectively.
+
+（在决策之前，必须将所有的信息资料进行综合评估，才能作出正确的判断。）
 
 
+
+#### scenario/sɪˈnɑː.ri.əʊ/
+
+1. 助记：词源同 scene.（场，情景）引申词义设想，方案，剧本
+2. 词源：
+   etymology
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," from Latin scena "scene" (see scene). Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+3. 定义：a description of possible actions or events in the future剧本提纲 情节 方案
+4. 拓展：
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenario： [sə'nærɪo] n. 方案；情节；剧本
+
+#### infinite /ˈɪn.fɪ.nət/
+
+1. 助记：-in 表示“无，没有（not,opposite）”
+   fin-= end, boundary, 表示“结束，范围，限制”，来自拉丁语
+   -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
+2. 词源：
+   etymology
+   late 14c., "eternal, limitless," also "extremely great in number," from Old French infinit "endless, boundless" and directly from Latin infinitus "unbounded, unlimited, countless, numberless," from in- "not, opposite of" (see in- (1)) + finitus "defining, definite," from finis "end" (see finish (v.)). The noun meaning "that which is infinite" is from 1580s.
+3. 定义：without limits; extremely large or great 无穷的 无限的
+
+#### synthesize/ˈsɪn.θə.saɪz/
+
+1. 助记：synthesis n.(综合，综合体)
+   syn-表示“共同，相同
+   thes-= setting, 表示“放置”。源自the-的theca表示放东西的“囊，膜，鞘”。
+2. 词源：
+   etymology
+   1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
+3. 定义：to produce a substance by a chemical reaction in plants or animals 合成 综合
+
+#### categorize/ˈkæt.ə.ɡər.aɪz/
+
+1. 助记：名词 category （类别 范畴）
+   cata-表示“向下，相反，离开”，来源于希腊语。
+   egor- = group, 表示“群体”，来自拉丁语
+2. 词源：
+   etymology
+   "place in a category," 1705, from category + -ize. Related: Categorized; categorizing
+   1580s, in Aristotle's logic, "a highest notion," from Middle French catégorie, from Late Latin categoria, from Greek kategoria "accusation, prediction, category," verbal noun from kategorein "to speak against; to accuse, assert, predicate," from kata "down to" (or perhaps "against;" see cata-) + agoreuein "to harangue, to declaim (in the assembly)," from agora "public assembly" (from PIE root *ger- "to gather").
+3. 定义：
+   to put people or things into groups with the same features 分类 归类
+4. 拓展：cata-,向下，相对，-agora,广场，公开说，公开演讲，见 allegory,寓言。原指在广场发表演讲，叙述。后古希腊哲学家亚里士多德用该词描述类别，种类，使之固定为现在的词义。
+   category（范畴）：亚里士多德提出的“范畴”
+   kategoria原本是一个法律术语，表示“指控、断言”。它由kata（=cata，表示down to或against）+agoreuein（当众宣称）构成。
+   古希腊著名哲学家亚里士多德在其哲学著作中使用了希腊语kategoria来表示哲学术语“范畴”，“范畴”指的是“可用来描述、断言一个主体的最基本的概念”。
+
+#### conjecture/kənˈdʒek.tʃər/
+
+1. 助记：con-强调 + ject-扔，投掷 + -ure表名词。conjecture  n.推测；猜想，vi.&vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。
+2. 词源：
+   etymology
+   late 14c., "interpretation of signs, dreams, and omens," also "a supposing, a surmising," from Old French conjecture "surmise, guess," or directly from Latin coniectura "conclusion, interpretation, guess, inference," literally "a casting together (of facts, etc.)," from coniectus, past participle of conicere "to throw together," from assimilated form of com "together" (see con-) + iacere "to throw" (from PIE root *ye- "to throw, impel").
+3. 定义：a guess about something based on how it seems and not on proof
+   推想 猜测 揣摩
+4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
+
+
+#### assess /əˈses/
+
+1. 助记：as-同ad- + sess-坐。
+2. 词源：
+   etymology
+   early 15c., "to fix the amount (of a tax, fine, etc.)," from Anglo-French assesser, from Medieval Latin assessare "fix a tax upon," originally frequentative of Latin assessus "a sitting by," past participle of assidere/adsidere "to sit beside" (and thus to assist in the office of a judge), "sit with in counsel or office," from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit."
+3. 定义：to judge or decide the amount, value, quality, or importance of something 估定 评定
+4. 拓展：
+   assess（评估）：坐在法官旁边计算罚金或税金数量
+   在古代西方的法庭上，法官旁边除了坐着书记员等人员外，还有一名辅助人员，他的职责是帮助法官计算当事人应当缴纳的罚金或税金的数量。因为他是坐在法官旁边进行计算的，所以这个计算过程在拉丁语中就被称为assessare，源自动词assidere（坐在一边），进入英语后演变为assess，最初用来表示确定罚金或税金的数量，后来词义得到扩展，可以用来表示其他更多与金额或价值有关的计算和评估。
+   assess：[ə'ses] vt.评估，评定，估价，对……征税
+   assessment：[ə'sɛsmənt] n. 评定；估价
+
+#### mortgage/ˈmɔː.ɡɪdʒ/
+
+1. 助记：mort-=death 死 gage- 表示“承诺”，引申为婚姻 
+   比喻用法，即直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的经济行为，即现代意义上的按揭。
+2. 词源：
+   etymology
+   late 14c., morgage, "conveyance of property as security for a loan or agreement," from Old French morgage (13c.), mort gaige, literally "dead pledge" (replaced in modern French by hypothèque), from mort "dead" (see mortal (adj.)) + gage "pledge" (see wage (n.)). So called because the deal dies either when the debt is paid or when payment fails. Old French mort is from Vulgar Latin *mortus "dead," from Latin mortuus, past participle of mori "to die" (from PIE root *mer- "to rub away, harm," also "to die" and forming words referring to death and to beings subject to death). The -t- restored in English based on Latin.
+3. 定义：an agreement that allows you to borrow money from a bank or similar organization, especially in order to buy a house, or the amount of money itself 抵押
+4. 拓展：
+   mortgage（抵押贷款）：以父亲遗产为担保的贷款
+   在古代西方，家庭中的长子在法律上拥有继承父亲遗产的权利。如果长子需要一大笔钱，而又无法从其父亲那里获得，他往往会找其他人借款。而其他人之所以愿意借钱给他，看中的是他的长子继承权，相信他将来继承遗产后可以偿还债务。借钱的时候，借款人会立下誓言，等他父亲去世，他继承遗产后就会偿还债务及其利息。这就是英语单词mortgage的来源。mortgage由mort和gage组成，mort表示“死亡”，gage表示“誓言、保证”，所以mortgage一词的字面含义就是“死亡保证”，即以其父亲的死亡（等于遗产）为保证的贷款。
+   mortgage： ['mɔːgɪdʒ] vt.n.抵押贷款
+   mortal： ['mɔrtl] adj. 凡人的；致死的；终有一死的n. 人类，凡人
+
+#### odds/ɒdz/
+
+1. 助记：odd【偶然发生的】 + -s复数后缀。原用于赌博赔率，引申词义机会，可能性。
+   odd来自古诺斯语 oddi,第三或多出的，来自 Proto-Germanicuzdaz,向上刺的点，顶角，来自PIEuzdho,刺，刺点。后引申词义奇数的，怪异的，偶然发生的等。
+2. 词源：
+   etymology
+   in wagering sense, found first in Shakespeare ("2 Henry IV," 1597), probably from earlier sense of "amount by which one thing exceeds or falls short of another" (1540s), from odd (q.v.), though the sense evolution is uncertain. Until 19c. treated as a singular, though obviously a plural (compare news).
+3. 定义：
+   the probability (= how likely it is) that a particular thing will or will not happen 可能性 几率
+
+#### peril/ˈper.əl/
+
+1. 助记：per-= try, 表示“尝试，冒险“ + il → 尝试 → 冒险。引申词义探索，开拓，风险，危险。比较其同源词 expert,experience.
+2. 词源：
+   etymology
+   c. 1200, from Old French peril "danger, risk" (10c.), from Latin periculum "an attempt, trial, experiment; risk, danger," with instrumentive suffix -culum and first element from PIE *peri-tlo-, suffixed form of root *per- (3) "to try, risk."
+3. 定义：great danger, or something that is very dangerous 危险 冒险
+
+#### intuitively [ɪnˈtju:ɪtɪv]
+
+1. 助记：in-不 + tuit-保护 + -ive表形容词 → 不加保护而来的[感觉] → 直觉的
+2. 词源：
+   etymology
+   1640s, "perceiving directly and immediately," from Middle French intuitif or directly from Medieval Latin intuitivus,
+    from intuit-, past participle stem of Latin intueri "look at, consider," from in- "into" (from PIE root *en "in") + tueri "to look at, watch over," a word of uncertain origin. Meaning "self-evident" is from 1833. Related: Intuitively; intuitiveness.
+3. 定义：spontaneously derived from or prompted by a natural tendency 有直觉力的;凭直觉获知的
+
+好句：Until you make the unconscious conscious, it will direct your life and you will call it fate. 潜意识在不知不觉中影响我们的命运
 
 
 ## Life Priciples: Putting it All Together
