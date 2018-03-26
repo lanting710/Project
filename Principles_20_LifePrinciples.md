@@ -186,7 +186,7 @@ All sorts of **emotions** come to me while I am playing and those emotions can e
 
    re再+con一起+cil=call\召集→[双方]再次召集到一起→和解、调节、使一致。
 
-   
+
    img src='https://tse3.mm.bing.net/th?id=OIP.kxTTTijveMjY0oyKG_pmBwHaEL&pid=Api' style='zoom:80%'>
 
 **Align** /əˈlaɪn/ 校直
@@ -858,82 +858,6 @@ Evolving is life's greatest accomplishment and its greatest reward.
    略
 
 
-
-
-#### mess /mes/
-
-1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
-2. 词源：
-   etymology
-   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
-3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
-
-#### hijack /ˈhaɪ.dʒæk/
-
-1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
-2. 词源：
-   etymology
-   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
-3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
-
-
-#### tragic /ˈtrædʒ.ɪk/
-
-1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
-2. 词源：
-   etymology
-   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
-3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
-4. 拓展：
-   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
-   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
-   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
-   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
-   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
-   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
-
-#### clue/kluː/
-
-1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
-
-2. 词源：
-   etymology
-   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
-
-3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
-
-4. 拓展：
-   clue（线索）：引导忒修斯走出迷宫的线团
-   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
-   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
-   clue：[kluː] n.线索，情节
-   clueless： ['kluləs] adj. 无线索的；愚蠢的
-
-   ​
-
-   **Optimize** /ˈɑːp.tə.maɪz/ 优化
-
-
-1. 助记,
-
-   optim+ize
-   optim=best,最好的,使变得最好,即优化.
-
-2. 词源,
-
-   **OED Origin**
-   Early 19th century: from Latin optimus **‘best’ + -ize**.
-   
-   **Etymology**
-   1844, "to act as an optimist," back-formation from [optimist](https://www.etymonline.com/word/optimist?ref=etymonline_crossreference). Meaning "**to make the most of**" is first recorded 1857. Related: Optimized; optimizing.
-
-3. 释义,
-   优化  to make something as good as possible
-
-4. 拓展 
-
-   略
-
 **Paramount** /ˈper.ə.maʊnt/ 至上的
 
 1. 助记,
@@ -967,6 +891,51 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
 ## 3 Be Radically Open-Minded
 
+#### mess /mes/
+
+1. 助记：来自古法语mes , 一份食物，就餐，引申词义吃饭的地方，尤指部队餐厅。后用于指倒剩饭剩菜的地方，猪食等，并最终引申词义肮脏，杂乱等词义。
+2. 词源：
+   etymology
+   c. 1300, "food for one meal, pottage," from Old French mes "portion of food, course at dinner," from Late Latin missus "course at dinner," literally "a placing, a putting (on a table, etc.)," from past participle of mittere "to put, place," in classical Latin "to send, let go" (see mission).
+3. 定义： Something or someone that is a mess, or is in a mess, looks dirty or untidy:混乱； 食堂； 肮脏； 困境；一团糟
+
+#### hijack /ˈhaɪ.dʒæk/
+
+1. 助记：hi-缩写自highway【公路，干道】，jack人名Jack，代指土匪无赖，后词义通用化。
+2. 词源：
+   etymology
+   by 1922 (perhaps c. 1918), American English, of unknown origin; perhaps from high(way) + jacker "one who holds up" (agent noun from jack (v.)). In early use "to rob (a bootlegger, smuggler, etc.) in transit;" sense of "seize an aircraft in flight" is 1968 (also in 1961 variant skyjack), extended 1970s to any form of public transportation. Related: Hijacked; hijacking. Related: Hijacker.
+3. 定义：to take control of an aircraft or other vehicle during a journey, especially using violence 劫持； 绑架； 拦路抢劫
+
+#### tragic /ˈtrædʒ.ɪk/
+
+1. 助记：trag= goat, 来源于希腊语,也用来指宗教仪式的舞蹈，舞蹈中人模仿山羊动作。-ic表形容词，“…的”。
+2. 词源：
+   etymology
+   1540s, "calamitous, disastrous, fatal" ("resembling the actions in a stage tragedy"), shortened from tragical (late 15c.), modeled on Latin tragicus, from Greek tragikos "of or pertaining to tragedy; stately, majestic; plaintive," literally "goatish, of or pertaining to a goat," and perhaps referring to a satyr impersonated by a goat singer or satyric actor, from tragodia (see tragedy). Tragic flaw (1913) translates Greek hamartia. Related: Tragically.
+3. 定义：very sad, often involving death and suffering 悲剧的 悲伤的
+4. 拓展：
+   Tragedy（悲剧）：古希腊酒神节上的“山羊之歌”
+   英语单词tragedy（悲剧）源自希腊语tragodia，由tragos（goat，山羊）+oide（song，歌）组成，字面意思就是“山羊之歌”。
+   “悲剧”与“山羊”到底有何关系呢？关于这一点，历来众说纷纭，莫衷一是，有一种说法是，悲剧源自古希腊的酒神节上表演的“羊人剧”（satyric drama）。在羊人剧中，演员身披羊皮，装扮成羊人，所以被称为“山羊之歌”。另一种说法是，在酒神节上歌手们为了竞争作为奖品的山羊而高唱悲歌。还有一种说法，在酒神节上歌手们围绕着献祭给酒神的山羊歌唱酒神的不幸。
+   tragedy： ['trædʒɪdɪ] n.悲剧，悲惨的事
+   tragic： ['trædʒɪk] adj.悲剧的，悲惨的，不幸的
+   tragedian：[trə'dʒidɪən] n. 悲剧演员；悲剧作家
+
+#### clue/kluː/
+
+1. 助记：来自clew的拼写变体，词源同clay , cling . 原指球团，线团
+2. 词源：
+   etymology
+   anything that guides or directs in an intricate case," 1590s, a special use of a revised spelling of clew "a ball of thread or yarn" (q.v.). The word, which is native Germanic, in Middle English was clewe, also cleue; some words borrowed from Old French in -ue, -eu also were spelled -ew in Middle English, such as blew, imbew, but these later were reformed to -ue, and this process was extended to native words (hue, true, clue) which had ended in a vowel and -w. The spelling clue is first attested mid-15c.
+3. 定义：a sign or some information that helps you to find the answer to a problem, question, or mystery 线索  提示
+4. 拓展：
+   clue（线索）：引导忒修斯走出迷宫的线团
+   克里特国王米诺斯的儿子被雅典人杀害。米诺斯替儿子报仇，打败了雅典人，强迫他们每年给公牛怪米诺陶洛斯进贡七对童男童女。雅典国王埃勾斯（Aegeus）的儿子、英雄忒修斯（Theseus）为了替民除害，自愿作为贡品前往克里特岛。克里特国王的女儿阿里阿德涅（Ariadne）爱上了忒修斯，送给他一把利剑和一个线团。忒修斯进入迷宫，手持利剑杀死了公牛怪，然后顺着线团原路返回，顺利逃离迷宫。
+   英语单词clue的来源就与这个故事有关。clue在古英语中拼作clew，原意是“线团”。因为忒修斯是凭借线团逃出迷宫的，所以线团成了他破解迷宫的线索。由此，单词clue就从“线团”引申出“线索”的含义。
+   clue：[kluː] n.线索，情节
+   clueless： ['kluləs] adj. 无线索的；愚蠢的
+
 #### symbioticˌ/sɪmbaɪ'ɒtɪk/
 
 1. 助记：sym-共同 + bio-生命 + -tic形容词后缀。
@@ -978,6 +947,135 @@ Evolving is life's greatest accomplishment and its greatest reward.
    共栖的 共生的
 
 好句：The two biggest barriers to good decision making are your ego and your blind spots 
+
+
+
+@Grace 2018-03-23
+
+#### **Symbiotic**
+
+UK /ˌsɪmbaɪ'ɒtɪk/ US /ˌsɪmbaɪ'ɒtɪk/
+
+1. 助记,
+
+   “symbiot”+“-ic” = "symbiosis“ + ”-ic“ = "a living together" 一起生活, 后引申为共生之意
+
+   **syn-**：来源于希腊语，意为“with,together,at the same time,by means of,alike”等，相当于拉丁文前缀co-，前缀syn在辅音字母b,m,p前变为sym。
+
+   **bios**：表示“生活, 生命”，‘life, to live’。
+
+   **-ic**： 形容词后缀，表示of～（与...有关的），having the nature of ～（有...性质的），being～（是...的）；made up of ～（由...组成的）；made or caused by ～（由...引起的）；like ～（像...的）。
+
+2. 词源,
+
+   symbiosis n.
+
+   **OED Origin**
+
+   Late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun ‘live together’, from sumbios ‘companion’.
+
+   **Etymology**
+
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun "live together," from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + bios"life" (from PIE root [*gwei-](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) "to live"). Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verb symbiose is recorded from 1960.
+
+3. 释义,
+
+   adj. 1)(生)共生的**a relationship between two types of animal orplant in which each provides for the other the conditionsnecessary for its continued existence**
+
+   ​        2)互惠互利的,合作关系的**a relationship between people or organizations that depend on each other equally**
+
+4. 相关词语和词组
+
+   **symbiosis** n. (生) 共生(关系); 合作关系,互惠互利关系
+
+   ​
+
+#### ** Complementary**
+
+UK /ˌkɒmplɪˈmentri/ US /ˌkɑ:mplɪˈmentri/
+
+1. 助记,
+
+   “complement”+“-ary” = "forming a complement, mutually completing each other's deficiencies" 相互形成补充关系的
+
+   **comple**：即complete，"充满，使完整"的意思，‘fill up’。其中'com-', 前缀，意思是“共同”, 表加强； 'plete', 意思是"充满"。
+
+   **ment**：名词后缀。
+
+   **-ary**： 形容词后缀，表示“属于…的,与…有关的”。
+
+2. 词源,
+
+   complement n.
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘completion’): from Latin complementum, from complere ‘fill up’ (see complete). Compare with compliment.
+
+   **Etymology**
+
+   late 14c., "means of completing; that which completes; what is needed to complete or fill up," from Old French compliement "accomplishment, fulfillment" (14c., Modern French complément), from Latin complementum "that which fills up or completes," from complere "fill up," from com-, here probably as an intensive prefix (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)), + plere "to fill" (from PIE root [*pele-](https://www.etymonline.com/word/*pele-?ref=etymonline_crossreference) (1) "to fill").
+
+3. 释义,
+
+   adj. 互补的；补充的；相互补足的**useful or attractive together**
+
+4. 相关词语和词组
+
+   **complement** v. 补充，补足，使完美，使更具吸引力
+
+   ​                         n.补充物; 足额; (语法)补语
+
+   **complementation** n. 补充; (动词的)补语
+
+   **complementary angle** n. (几何)90°余角
+
+   **complementary color** n. (术语)互补色; 对比色
+
+   **complementary medicine** n. 辅助性医疗(不属于西方国家通常采用的科学疗法,如针灸)
+
+   ​
+
+#### **Disruptive**
+
+UK /dɪsˈrʌptɪv/ US /dɪsˈrʌptɪv/
+
+1. 助记,
+
+   “disrupt”+“-ive” = "bring or throw into disorder"造成无序混乱的局面
+
+   **disrupt**：表示“扰乱，中断”，‘broken apart’。其中‘dis-’前缀，”脱离“的意思，‘off，apart’；‘rupt’，”打乱“的意思，‘break’。
+
+   **-ive**： 形容词后缀，表示与该行为有关的性质与倾向等，其意思相当于英语的现在分词后缀-ing（…的）或having to do with ~ing（与…有关的）；having the quality of ~ing（具有…性质的）；tending to or likely to ~（倾向于做…的）。
+
+2. 词源,
+
+   disrupt v.
+
+   **OED Origin**
+
+   Late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere.
+
+   **Etymology**
+
+   early 15c., from Latin disruptionem (nominative disruptio) "a breaking asunder," noun of action from past participle stem of disrumpere "break apart, split, shatter, break to pieces," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference)) + rumpere "to break" (see[rupture](https://www.etymonline.com/word/rupture?ref=etymonline_crossreference) (n.)).
+
+3. 释义,
+
+   adj. 引起混乱的；扰乱性的；破坏性的**causing trouble and therefore stopping something fromcontinuing as usual;  changing the traditional way that an industryoperates, especially in a new and effective way**
+
+4. 相关词语和词组
+
+   **disrupt** v  扰乱, 使中断, 打乱
+
+   **disruption** n. 扰乱, 混乱
+
+
+
+好句：Differences in thinking can be symbiotic and complementary instead of
+disruptive. 
+
+（每个人自有不足之处，若拥有开放性思维，认清自己的弱点，欣赏他人的优点，思维互补能助你更成功。）
 
 
 
@@ -1183,7 +1281,6 @@ Evolving is life's greatest accomplishment and its greatest reward.
 ## 4 Understand That People Are Wired Very Differently
 
 
-
 @aqua 2018-03-26
 
 **Threat** /θret/ 威胁
@@ -1191,10 +1288,28 @@ Evolving is life's greatest accomplishment and its greatest reward.
 1. 助记,
 
    trud-,trus-=push,表示推搡，来自拉丁语。
+=======
+@Grace 2018-03-25
+
+#### **Radical**
+
+UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
+
+1. 助记,
+
+   “radic”+“-al” = "of or having roots，forming the root"与根源有关的，根本的
+
+   **radic**：表示“根”，‘root,branch’。
+
+   **-al**： 形容词后缀，表示“与…有关的”；当构成名词时，表示过程或状态。
+
+
+
 
 2. 词源,
 
    **OED Origin**
+
 
    Old English thrēat ‘oppression’, of Germanic origin; related to Dutch verdrieten ‘grieve’, German verdriessen ‘irritate’.
 
@@ -1300,11 +1415,217 @@ Evolving is life's greatest accomplishment and its greatest reward.
 
    multiply=manyfold
 
+   Late Middle English (in the senses ‘forming the root’ and ‘inherent’): from late Latin radicalis, from Latin radix, radic- ‘root’.
+
+   **Etymology**
+
+   late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
+
+3. 释义,
+
+   adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
+
+   ​        2)全新的；不同凡响的**new, different and likely to have a great effect**
+
+   ​        3)激进的；极端的(supporting change)**in favour of thorough and complete political or social change**
+
+   ​        4) 很好；非常好 **very good**
+
+   n. 1)激进分子**a person with radical opinions**
+
+   ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
+
+4. 相关词语和词组
+
+   **radicalism** n. 激进主义; 基本原理
+
+   ​
+
+#### ** Circumstance**
+
+UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
+
+1. 助记,
+
+   “circum”+“stance” = "surrounding condition"环境，状况
+
+   **circum**：表示“包围，环绕”，‘around，in a circle’。
+
+   **stance**： 表示“身处，站立的位置”，‘stand，make or be firm’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French circonstance or Latin circumstantia, from circumstare ‘encircle, encompass’, from circum ‘around’ + stare ‘stand’.
+
+   **Etymology**
+
+   . 1200, "a fact related to another fact and modifying it without affecting its essential nature" (originally in reference to sins), from Old French circonstance "circumstance, situation," also literally, "outskirts" (13c., Modern French circonstance), from Latin circumstantia "surrounding condition," neuter plural of circumstans (genitive circumstantis), present participle of circumstare "stand around, surround, encompass, occupy, take possession of" from circum "around" (see [circum-](https://www.etymonline.com/word/circum-?ref=etymonline_crossreference)) + stare "to stand," from PIE root [*sta-](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) "to stand, make or be firm." The Latin word is a loan-translation of Greek peristasis.
+
+3. 释义,
+
+   n. 1)[C]条件；环境；状况**the conditions and facts that are connected with and affect a situation, an event or an action **
+
+   ​    2)[U]命运；客观环境**situations and events that affect and influence your life and that are not in your control**
+
+   ​    3)[pl.] 境况；境遇；（尤指）经济状况**the conditions of a person's life, especially the money they have**
+
+4. 相关词语和词组
+
+   **circumstantial** adj. 按情况推测的，间接的；与特定条件（或环境、情况）有关的
+
+   **in/under the circumstances** 在这种情况下；既然如此
+
+   **in/under no circumstances** 决不；无论如何不
+
+   **pomp and circumstance** 隆重的仪式
+
+   **reduced circumstances** （委婉说法，与poor同义）境况不济
+
+5. 同义词辨析
+
+   **circumstance** n. 情况，情形。指影响某一局面、行动、事件等的条件和事实，通常用复数。
+
+   **case**                  n. 状况，情形。尤指对某个人或群体造成影响的情形，通常用单数。
+
+   **condition**        n. 情况，状况。指人的健康状况或事物所处的状态，其复数形式可指影响某事发生的一切因素。
+
+   ​
+
+好句：Our differences weren’t a product of poor communication; it was the other way around. Our different ways of thinking led to our poor communications.
+
+（我认为，不同的思维方式不是最大问题。我们要容许对方有不同的思维方式。但只有在良好的沟通之下，才能产生思想上的碰撞，才能得到大家最想要的结果。）
+
+
+
+#### orchestra/ˈɔː.kɪ.strə/
+
+1. 助记：ori ,orig,ort = rise, begin, 表示“升起，开始”，来自拉丁语。orche是同源词，基本含义是舞蹈。他们的原始印欧语形式为ergh。
+2. 词源：
+   etymology
+   c. 1600, "area in an ancient theater for the chorus," from Latin orchestra, from Greek orkhestra, semicircular space where the chorus of dancers performed, with suffix -tra denoting place + orkheisthai "to dance," perhaps an intensive of erkhesthai "to go, come," but Beekes rejects the suggested derivations.
+3. 定义：a large group of musicians who play many different instruments together and are led by a conductor 乐队  管弦乐队
+4. 拓展：
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestic：['ɔ:kestɪk] adj.舞蹈的
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐的结合
+
+#### reluctant/rɪˈlʌk.tənt/
+
+1. 助记：re-相对，对着干 + luct-扭打 + -ant表形容词 → 勉强的，不情愿的。
+2. 词源：
+   etymology
+   "unwilling," 1660s, from Latin reluctantem (nominative reluctans), present participle of reluctari "to struggle against, resist, make opposition," from re- "against" (see re-) + luctari "to struggle, wrestle" (see reluctance). Related: Reluctantly. The Latin word is also the source of Spanish reluchante, Italian riluttante.
+3. 定义：not willing to do something and therefore slow to do it:不情愿的 勉强的
+
+#### parameter/pəˈræm.ɪ.tər/
+
+1. 助记：para-在旁，在周围 + -meter测量，规定， 引申词义参数，规范。
+2. 词源：
+   etymology
+   1650s in geometry, from Modern Latin parameter (1630s), from Greek para- "beside, subsidiary" (see para- (1)) + metron "measure" (from PIE root *me- (2) "to measure").
+   A geometry term until 1920s when it yielded sense of "measurable factor which helps to define a particular system" (1927). Common modern meaning (influenced by perimeter) of "boundary, limit, characteristic factor" is from 1950s. Related: Parametric.
+3. 定义：a set of facts or a fixed limit that establishes or limits how something can or must happen or be done 参数  参量
+4. 拓展：
+   parameter [pə'ræmɪtə] n.参数；系数。前缀para-表alongside,beside，词根meter表尺寸、测量，数学角度，parameter要随着（alongside）数值而变。
+   易混淆的另外一个单词是：perimeter [pə'rɪmɪtə] n.周长；周界，前缀peri-表around，那是“line around a figure”，如security perimeter警戒线。 
+
+#### skeleton/ˈskel.ə.tən/
+
+1. 助记：sclero-表hard硬 引申为 骨骼 
+2. 词源 ：
+   etymology
+   1570s, from Modern Latin sceleton "bones, bony framework of the body," from Greek skeleton soma "dried-up body, mummy, skeleton," from neuter of skeletos "dried-up" (also, as a noun, "dried body, mummy"), from skellein "dry up, make dry, parch," from PIE root *skele- "to parch, wither" (see sclero-).
+3. 定义：
+   1. the frame of bones supporting a human or animal body骨骼 骨架
+   2. the most basic form or structure of something 梗概
+4. 拓展：
+   skeleton（骨架）：古希腊人对古埃及人干尸的称呼。古希腊人将古埃及人制作的这种干尸称为skeleton soma，其中的skeleton是“干瘪的”之意。英语单词skeleton（骨架）就来源于此。古代历史学家希罗多德（Herodotus）曾在著作中描述古埃及有一习俗：凡重大的宴会都要在席上显眼处安放一具干尸，借此提醒众宾客居安思危，不忘苦难。所以英文中有skeleton at the feast 这一习语，但现在意思已经为“扫兴的家伙”了。
+   skeleton：['skɛlɪtn] n. 骨架，骨骼；骨瘦如柴的人adj. 骨骼的；骨瘦如柴的；概略的
+   skeletal：['skɛlətl] adj. 骨骼的，像骨骼的；骸骨的；骨瘦如柴的
+   a skeleton at the feast餐桌上的骷髅；让人在欢乐时不忘苦难的人(或事物)。古希腊历史学家普鲁塔克说埃及人在家宴要结束之时，会让仆人抬出一具骷髅并对宾客们说：Look on this!Eat,drink and be merry,for tomorrow you die!Don't ask him to come; we don't want to have a skeleton at the feast. 
+
+#### minutiae/mɪˈnuː.ʃi.aɪ/
+
+1. 助记：  minute【小】 + -ia → 小事件 → 琐事。
+2. 词源：
+   etymology
+   1751, plural minutiae, from Latin minutia "smallness" (plural minutiae, in Late Latin "trifles"), from minutus "small" (from PIE root *mei- (2) "small").
+3. 定义：small and often not important details
+   细节 琐碎
+
+
+
 
 
 ## 5 Learn How to Make Decisions Effectively
 
+#### scenario/sɪˈnɑː.ri.əʊ/
 
+1. 助记：词源同 scene.（场，情景）引申词义设想，方案，剧本
+2. 词源：
+   etymology
+   1868, "sketch of the plot of a play," from Italian scenario, from Late Latin scenarius "of stage scenes," from Latin scena "scene" (see scene). Meaning "imagined situation" is first recorded 1960, in reference to hypothetical nuclear wars.
+3. 定义：a description of possible actions or events in the future剧本提纲 情节 方案
+4. 拓展：
+   scene（场景）：古希腊剧场中舞台后方的棚屋
+   古希腊的剧场一般是露天的。剧场主要由三部分构成，中间是一个圆形舞台，是乐队演奏和演员表演的场地。环绕在舞台前方和两侧的是环形的观众席，通常修建有一定坡度的小山坡上。舞台后方是一个棚屋，供演员上台前化妆用，有三个门通往舞台。这个棚屋在希腊语中称为skene，本意是帐篷、小隔间、货摊。人们常常在棚屋表面绘制图案作为舞台背景。
+   英语单词scene就来自希腊语skene，表示“舞台上所展现的场面、场景”。而英语单词scenery由scene衍生而来，表示舞台布景。
+   scene： [siːn] n.场面，场景，景象，戏剧中的一场
+   scenic：[ˈsinɪk] adj. 风景优美的；舞台的；戏剧的n. 风景胜地；风景照片
+   scenery： ['siːn(ə)rɪ] n.风景，景色，舞台布景
+   scenario： [sə'nærɪo] n. 方案；情节；剧本
+
+#### infinite /ˈɪn.fɪ.nət/
+
+1. 助记：-in 表示“无，没有（not,opposite）”
+   fin-= end, boundary, 表示“结束，范围，限制”，来自拉丁语
+   -ite 形容词、名词、动词后缀，表示“属于或和...相关”，来自拉丁语和希腊语。
+2. 词源：
+   etymology
+   late 14c., "eternal, limitless," also "extremely great in number," from Old French infinit "endless, boundless" and directly from Latin infinitus "unbounded, unlimited, countless, numberless," from in- "not, opposite of" (see in- (1)) + finitus "defining, definite," from finis "end" (see finish (v.)). The noun meaning "that which is infinite" is from 1580s.
+3. 定义：without limits; extremely large or great 无穷的 无限的
+
+#### synthesize/ˈsɪn.θə.saɪz/
+
+1. 助记：synthesis n.(综合，综合体)
+   syn-表示“共同，相同
+   thes-= setting, 表示“放置”。源自the-的theca表示放东西的“囊，膜，鞘”。
+2. 词源：
+   etymology
+   1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
+3. 定义：to produce a substance by a chemical reaction in plants or animals 合成 综合
+
+#### categorize/ˈkæt.ə.ɡər.aɪz/
+
+1. 助记：名词 category （类别 范畴）
+   cata-表示“向下，相反，离开”，来源于希腊语。
+   egor- = group, 表示“群体”，来自拉丁语
+2. 词源：
+   etymology
+   "place in a category," 1705, from category + -ize. Related: Categorized; categorizing
+   1580s, in Aristotle's logic, "a highest notion," from Middle French catégorie, from Late Latin categoria, from Greek kategoria "accusation, prediction, category," verbal noun from kategorein "to speak against; to accuse, assert, predicate," from kata "down to" (or perhaps "against;" see cata-) + agoreuein "to harangue, to declaim (in the assembly)," from agora "public assembly" (from PIE root *ger- "to gather").
+3. 定义：
+   to put people or things into groups with the same features 分类 归类
+4. 拓展：cata-,向下，相对，-agora,广场，公开说，公开演讲，见 allegory,寓言。原指在广场发表演讲，叙述。后古希腊哲学家亚里士多德用该词描述类别，种类，使之固定为现在的词义。
+   category（范畴）：亚里士多德提出的“范畴”
+   kategoria原本是一个法律术语，表示“指控、断言”。它由kata（=cata，表示down to或against）+agoreuein（当众宣称）构成。
+   古希腊著名哲学家亚里士多德在其哲学著作中使用了希腊语kategoria来表示哲学术语“范畴”，“范畴”指的是“可用来描述、断言一个主体的最基本的概念”。
+
+#### conjecture/kənˈdʒek.tʃər/
+
+1. 助记：con-强调 + ject-扔，投掷 + -ure表名词。conjecture  n.推测；猜想，vi.&vt.推测；揣摩。词根ject-表to throw，前缀con-表together，所谓猜想就是把你知道的你认为的可能“一起”“扔”到前边来给大家来检验推理。
+2. 词源：
+   etymology
+   late 14c., "interpretation of signs, dreams, and omens," also "a supposing, a surmising," from Old French conjecture "surmise, guess," or directly from Latin coniectura "conclusion, interpretation, guess, inference," literally "a casting together (of facts, etc.)," from coniectus, past participle of conicere "to throw together," from assimilated form of com "together" (see con-) + iacere "to throw" (from PIE root *ye- "to throw, impel").
+3. 定义：a guess about something based on how it seems and not on proof
+   推想 猜测 揣摩
+4. 拓展：著名的Goldbach's conjecture哥德巴赫猜想，德国数学家哥德巴赫抛出了这个问题，任何人都可以来解答推导。 
 
 
 
