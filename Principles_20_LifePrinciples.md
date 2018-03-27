@@ -1795,7 +1795,105 @@ the situation through time, and 3) navigate levels effectively.
 
 ## Life Priciples: Putting it All Together
 
+@Grace 2018-03-27
 
+#### **Accurate**
+
+UK /ˈækjərət/ US /ˈækjərɪt/
+
+1. 助记,
+
+   "ac-"+"cura"+"te"= ‘done with care’原意为“小心谨慎的”，后引申为“准确无误的”
+
+   **ac-**：表示“接近”。 是ad-的变体，用在c前 ,‘to,towards’。
+
+   **cura**：即cure，表示“小心谨慎”， ‘care,take care of’。
+
+   **te**：形容词后缀。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from Latin accuratus ‘done with care’, past participle of accurare, from ad- ‘towards’ + cura ‘care’.
+
+   **Etymology**
+
+   1610s, "done with care," from Latin accuratus "prepared with care, exact, elaborate," past participle of accurare "take care of," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + curare "take care of" (see [cure](https://www.etymonline.com/word/cure?ref=etymonline_crossreference) (n.1)). The notion of doing something carefully led to that of being precise (1650s). A stronger word than correct (adj.), weaker than exact (adj.). Related: Accurately; accurateness.
+
+3. 释义,
+
+   adj. 1)准确无误的**correct and true in every detail**
+
+   ​        2)精确的；准确的 **able to give completely correct information or to do sth in an exact way**
+
+   ​        3)准确的（掷、射、击等）**an accurate throw, shot, weapon, etc. hits or reaches the thing that it was aimed at**
+
+4. 相关词语和词组
+
+   **accuracy** n. 准确（性），精确（程度）
+
+5. 同义词辨析
+
+   **accurate ** adj. 准确的，精确的。指报道、描述等符合事实的，也指测量数据、计算结果、记录内容等没有差错的。
+
+   **correct**     adj. 指准确无误的、正确的。correct较right正式，更多用于官方或正式的说明或文件中。
+
+   **exact**        adj. 确切的，精确的。指每个细节都正确无误的，多作定语。
+
+   **precise**     adj. 准确的，精确的。强调信息、细节等准确无误的。
+
+   ​
+
+#### **Psychometric**
+
+UK /ˌsaɪ.kəʊˈmet.rɪk/ US /ˌsaɪ.koʊˈmet.rɪk/
+
+1. 助记,
+
+   psycho--”+“-metry”+"-ic"= "the measurement of the duration of mental states"对精神状态、思想状况的测量
+
+   **psycho-**：表示与心理、精神有关的，‘mind, mental; spirit, unconscious’。如psychic（adj. 精神的），psychal（adj. 精神的，心理的），psychology（n. 心理学）
+
+   **metry**： 表示“测量，测试”，‘process of measuring’，源于词根*me-，‘to measure’。
+
+   **-ic**：形容词后缀，‘having to do with, having the nature of, being, made of, caused by, similar to’。
+
+2. 词源,
+
+   **Etymology**
+
+   also psycho-metric, 1854, from psychometry (1854), the alleged power of reading the history of an object by handling it, + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference). In reference to the measurement of the duration of mental states, from 1879, from [psycho-](https://www.etymonline.com/word/psycho-?ref=etymonline_crossreference) + [-metric](https://www.etymonline.com/word/-metric?ref=etymonline_crossreference).
+
+   psycho-
+
+   word-forming element meaning "mind, mental; spirit, unconscious," from Greek psykho-, combining form of psykhe (see [psyche](https://www.etymonline.com/word/psyche?ref=etymonline_crossreference)). It also was used to form compounds in Greek, such as psychapates "soul-beguiling" (with apate "deceit").
+
+   -metric
+
+   word-forming element representing [-metry](https://www.etymonline.com/word/-metry?ref=etymonline_crossreference) + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference).
+
+   -metry
+
+   word-forming element meaning "process of measuring," Middle English -metrie, from Middle French -metrie, from Latin -metria, from Greek -metria "a measuring of," from -metros "measurer of," from metron "measure," from PIE root [*me-](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference) (2) "to measure."
+
+3. 释义,
+
+   adj. (technical 术语) 心理测量的；精神测定的**used for measuring mental abilities and processes**
+
+4. 相关词语和词组
+
+   **psychology** n. 心理学；心理特征；；心理影响
+
+   **psychopath** n. 精神变态者; 精神病患者
+
+   **psychopathology** n. 精神病理学，心里病理学；精神机能障碍
+
+   **psychosis** n. 精神病
+
+   **psychotic** n. 精神患者
+
+   ​
 
 **Transparent** /trænˈsper.ənt/ 公开无秘密的
 
