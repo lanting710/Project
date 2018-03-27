@@ -1425,7 +1425,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
       late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
 
-5. 释义,
+3. 释义,
 
    adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
 
@@ -1439,7 +1439,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
 
-6. 相关词语和词组
+4. 相关词语和词组
 
    **radicalism** n. 激进主义; 基本原理
 
@@ -1795,8 +1795,266 @@ the situation through time, and 3) navigate levels effectively.
 
 ## Life Priciples: Putting it All Together
 
+@Grace 2018-03-27
+
+#### **Accurate**
+
+UK /ˈækjərət/ US /ˈækjərɪt/
+
+1. 助记,
+
+   "ac-"+"cura"+"te"= ‘done with care’原意为“小心谨慎的”，后引申为“准确无误的”
+
+   **ac-**：表示“接近”。 是ad-的变体，用在c前 ,‘to,towards’。
+
+   **cura**：即cure，表示“小心谨慎”， ‘care,take care of’。
+
+   **te**：形容词后缀。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from Latin accuratus ‘done with care’, past participle of accurare, from ad- ‘towards’ + cura ‘care’.
+
+   **Etymology**
+
+   1610s, "done with care," from Latin accuratus "prepared with care, exact, elaborate," past participle of accurare "take care of," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + curare "take care of" (see [cure](https://www.etymonline.com/word/cure?ref=etymonline_crossreference) (n.1)). The notion of doing something carefully led to that of being precise (1650s). A stronger word than correct (adj.), weaker than exact (adj.). Related: Accurately; accurateness.
+
+3. 释义,
+
+   adj. 1)准确无误的**correct and true in every detail**
+
+   ​        2)精确的；准确的 **able to give completely correct information or to do sth in an exact way**
+
+   ​        3)准确的（掷、射、击等）**an accurate throw, shot, weapon, etc. hits or reaches the thing that it was aimed at**
+
+4. 相关词语和词组
+
+   **accuracy** n. 准确（性），精确（程度）
+
+5. 同义词辨析
+
+   **accurate ** adj. 准确的，精确的。指报道、描述等符合事实的，也指测量数据、计算结果、记录内容等没有差错的。
+
+   **correct**     adj. 指准确无误的、正确的。correct较right正式，更多用于官方或正式的说明或文件中。
+
+   **exact**        adj. 确切的，精确的。指每个细节都正确无误的，多作定语。
+
+   **precise**     adj. 准确的，精确的。强调信息、细节等准确无误的。
+
+   ​
+
+#### **Psychometric**
+
+UK /ˌsaɪ.kəʊˈmet.rɪk/ US /ˌsaɪ.koʊˈmet.rɪk/
+
+1. 助记,
+
+   psycho--”+“-metry”+"-ic"= "the measurement of the duration of mental states"对精神状态、思想状况的测量
+
+   **psycho-**：表示与心理、精神有关的，‘mind, mental; spirit, unconscious’。如psychic（adj. 精神的），psychal（adj. 精神的，心理的），psychology（n. 心理学）
+
+   **metry**： 表示“测量，测试”，‘process of measuring’，源于词根*me-，‘to measure’。
+
+   **-ic**：形容词后缀，‘having to do with, having the nature of, being, made of, caused by, similar to’。
+
+2. 词源,
+
+   **Etymology**
+
+   also psycho-metric, 1854, from psychometry (1854), the alleged power of reading the history of an object by handling it, + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference). In reference to the measurement of the duration of mental states, from 1879, from [psycho-](https://www.etymonline.com/word/psycho-?ref=etymonline_crossreference) + [-metric](https://www.etymonline.com/word/-metric?ref=etymonline_crossreference).
+
+   psycho-
+
+   word-forming element meaning "mind, mental; spirit, unconscious," from Greek psykho-, combining form of psykhe (see [psyche](https://www.etymonline.com/word/psyche?ref=etymonline_crossreference)). It also was used to form compounds in Greek, such as psychapates "soul-beguiling" (with apate "deceit").
+
+   -metric
+
+   word-forming element representing [-metry](https://www.etymonline.com/word/-metry?ref=etymonline_crossreference) + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference).
+
+   -metry
+
+   word-forming element meaning "process of measuring," Middle English -metrie, from Middle French -metrie, from Latin -metria, from Greek -metria "a measuring of," from -metros "measurer of," from metron "measure," from PIE root [*me-](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference) (2) "to measure."
+
+3. 释义,
+
+   adj. (technical 术语) 心理测量的；精神测定的**used for measuring mental abilities and processes**
+
+4. 相关词语和词组
+
+   **psychology** n. 心理学；心理特征；；心理影响
+
+   **psychopath** n. 精神变态者; 精神病患者
+
+   **psychopathology** n. 精神病理学，心里病理学；精神机能障碍
+
+   **psychosis** n. 精神病
+
+   **psychotic** n. 精神患者
+
+   ​
+
+**Transparent** /trænˈsper.ənt/ 公开无秘密的
+
+1. 助记,
+
+   Trans+par+ent
+
+   trans-through 横过、穿过 + par(ere)-出现 + -ent形容词词尾
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French, from medieval Latin transparent- ‘shining through’, from Latin transparere, **from trans- ‘through’ + parere ‘appear’.**
+
+   **Etymology**
+
+   early 15c., from Medieval Latin transparentem (nominative transparens), present participle oftransparere **"show light through,"** from Latin trans "across, beyond; **through" (see [trans-](https://www.etymonline.com/word/trans-?ref=etymonline_crossreference)) + parere"come in sight, appear; submit, obey" (see [appear](https://www.etymonline.com/word/appear?ref=etymonline_crossreference)).** Figurative sense of "easily seen through" is first attested 1590s. The attempt to back-form a verb transpare (c. 1600) died with the 17c. Related:Transparently.
+
+3. 释义,
+
+   公开无秘密的 open and honest, without secrets
+
+4. 拓展 
+
+   ​
+
+**Dramatic** /drəˈmæt̬.ɪk/ 戏剧的
+
+1. 助记,
+
+   drama戏剧 + tic形容词词尾
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: via late Latin from Greek dramatikos, **from drama, dramat- (see drama)**.
+
+   **Etymology**
+
+   1580s, from Late Latin dramaticus, from Greek dramatikos "pertaining to plays," **from drama(genitive dramatos; see [drama](https://www.etymonline.com/word/drama?ref=etymonline_crossreference)).** Meaning "full of action and striking display, fit for a drama" is from 1725. Dramatic irony is recorded from 1907. Related: Dramatical; dramatically.
+
+3. 释义,
+
+   戏剧的 relating to plays and acting
+
+4. 拓展 
 
 
+
+**Inevitable** /ˌɪnˈev.ə.t̬ə.bəl/ 不可避免的
+
+1. 助记,
+
+   1）in+e+vit+able
+
+   in-,不，非，e-,向外，-vit,分开，离开，词源同divide,widow.即不可离开的，引申词义无可避免的。
+
+   2）in+evit(abilis)+able
+
+   in-,not,evitare-to avoid,不可避免。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin inevitabilis, **from in- ‘not’ + evitabilis ‘avoidable’ (from evitare ‘avoid’).**
+
+   **Etymology**
+
+   "unavoidable," mid-15c., from Latin inevitabilis "unavoidable," from in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + evitabilis "avoidable," **from evitare "to avoid," from ex "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + vitare "shun,"** originally "go out of the way." As a noun from 1850. Related: Inevitableness.
+
+3. 释义,
+
+   不可避免的 certain to happen and unable to be avoided or prevented
+
+4. 拓展 
+
+
+
+ **Impetus** /ˈɪm.pə.t̬əs/ 推动
+
+1. 助记,
+
+   im+pet+us
+
+   im-,进入，使，-pet,追逐，冲击，toward seek,to attack,引申词义推动，促进，刺激
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century: **from Latin, ‘assault, force’, from impetere ‘assail’, from in- ‘towards’ + petere ‘seek’**.
+
+   **Etymology**
+
+   early 15c., impetous "rapid movement, rush;" 1640s, with modern spelling, "force with which a body moves, driving force," from Latin impetus "an attack, assault; rapid motion; an impulse; violence, vigor, force;" figuratively "ardor, passion," **from impetere "to attack," from assimilated form of in-"into, in, on, upon" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + petere "aim for, rush at" (from PIE root [*pet-](https://www.etymonline.com/word/*pet-?ref=etymonline_crossreference) "to rush, to fly").**
+
+3. 释义,
+
+   推动 something that encourages a particular activity or makes that activity moreenergetic or effective
+
+4. 拓展 
+
+
+#### philanthropic/ˌfɪl.ənˈθrɒp.ɪk/
+
+1. 助记：phil-爱 + anthrop-人 + -ic表形容词 引申为慈善的 
+2. 词源：
+   etymology
+   c. 1600, from Late Latin philanthropia, from Greek philanthropia "kindliness, humanity, benevolence, love to mankind" (from gods, men, or things), from philanthropos (adj.) "loving mankind, useful to man," from phil- "loving" (see philo-) + anthropos "mankind" (see anthropo-). Originally in English in the Late Latin form; modern spelling attested from 1620s.
+3. 定义：helping poor people, especially by giving them money 慈善的 乐善好施的 
+
+
+#### fabulous/ˈfæb.jə.ləs/
+
+1. 助记：来自 fable,故事，寓言。引申词义绝妙的，童话般的。
+2. 词源：
+   etymology
+   early 15c., "mythical, legendary," from Latin fabulosus "celebrated in fable;" also "rich in myths," from fabula "story, tale" (see fable (n.)). Meaning "pertaining to fable" is from 1550s. Sense of "incredible" first recorded c. 1600, hence "enormous, immense, amazing," which was trivialized by 1950s to "marvelous, terrific." Slang shortening fab first recorded 1957; popularized in reference to The Beatles, c. 1963.
+3. 定义：very good; excellent 绝妙的 特别好的
+
+
+#### optimal /ˈɒp.tɪ.məl/
+
+1. 助记：optim-优 + -al表形容词
+2. 词源：
+   etymology
+   1879, from Latin optimum, neuter singular of optimus "best" (used as a superlative of bonus "good"), probably related to ops "power, resources" (in which case the evolution is from "richest" to "the most esteemed," thus from PIE root *op- "to work, produce in abundance.") or to ob "in front of," with superlative suffix *-tumos. Originally in biology, in reference to "conditions most favorable" (for growth, etc.). As an adjective from 1885.
+3. 定义：best most likely to bring success or advantage 最优的 最佳的
+
+
+#### genuine/ˈdʒen.ju.ɪn/
+
+1. 助记：（1）genu-产生 + -ine → 来源清楚 → 真正的。（2）genu 膝 见拓展故事
+2. 词源：
+   etymology
+   1590s, "natural, not acquired," from Latin genuinus "native, natural, innate," from root of gignere "to beget, produce" (from PIE root *gene- "give birth, beget"), perhaps influenced in form by contrasting adulterinus "spurious." [Alternative etymology is from Latin genu "knee," from a supposed ancient custom of a father acknowledging paternity of a newborn by placing it on his knee.] Meaning "really proceeding from its reputed source" is from 1660s. Related: Genuinely; genuineness.
+3. 定义：
+   1. If something is genuine, it is real and exactly what it appears to be 真正的 真实的
+   2. If people or emotions are genuine, they are honest and sincere 诚恳的
+4. 拓展：genuine（真正的）：抱起婴儿以示认可的罗马习俗
+   在古罗马时代，孩子出生并不能自动成为一个家庭的成员，还需要父亲的认可。孩子出生后，接生婆会把它放在地上。父亲过来擦看。如果愿意接纳这个孩子，就会把他抱起来，放在自己的膝上，通过这个举动来宣告正式同意接纳这个孩子作为自己的子女。如果不愿意接纳，父亲就不会把婴儿抱起来，这个婴儿就会被遗弃。这样做的原因可能有二：一是古罗马时代，男女关系混乱，妻子生的孩子未必就是自己的亲骨肉；二是做父亲的也可能跟女奴或女仆乱搞，生下的私生子也不能随便认可，因为一旦认可了，在法律上这个婴儿就算是你的子女了，将来有权继承你的遗产。
+   英语单词genuine表示“真实的，真正的”，它的词源就与这种把新生儿放到膝上以示认可的习俗有关。genuine来自拉丁语genu，而genu的意思就是“膝”，在英语中依然保持“膝”的含义。所以genuine的字面意思就是“放在膝上”。把新生儿放在膝上就意味着这个孩子确实是我的子女，所以genuine才逐渐演变出“真实的”的含义。
+   genu： ['dʒenjuː] n.膝
+   genuine： ['dʒenjʊɪn]adj.真实的，真正的
+
+#### lens/lenz/
+
+1. 助记：来自拉丁文lens , 豆荚，词源同lentil . 因镜片如同两面凸出的豆荚而得名。
+2. 词源：
+   etymology
+   1690s, "glass to regulate light rays," from Latin lens (genitive lentis) "a lentil," on analogy of the double-convex shape. See lentil. Anatomical use, of the eye part, from 1719. Lens-cap is from 1857.
+3. 定义：a curved piece of glass, plastic, or other transparent material, used in cameras, glasses, and scientific equipment, that makes objects seem closer, larger, smaller, etc.透镜
+4. 拓展：
+   lens（透镜）：像小扁豆一样两面凸起的镜片
+   人类很早就发现，将透明水晶或宝石磨成两面凸起的对称薄片，具有放大影像的功能。历史上关于透镜的最早记录是大约公元前700年，亚述人用水晶制作的。古埃及、希腊和巴比伦也有类似的镜片。当玻璃在13世纪问世后，人们开始使用玻璃来制作透镜。在英语中，透镜被称为lens，它来自拉丁语lens，原本指的是一种两面凸起的豆子，进入英语后变成英语单词lentil，中文译为“兵豆”或“小扁豆”。lens原本指的是两面凸起的透镜，如人眼中的晶状体。现在，lens可以表示各种形状的透镜，不管是凸透镜还是凹透镜。
+   lens：[lenz] n.透镜，镜头，晶状体，镜片，隐形眼镜
+   lenticular： [lɛn'tɪkjəlɚ] adj. 透镜的；晶状体的；两面凸的；小扁豆似的
+   lentil：['lent(ə)l] n.兵豆，小扁豆
 
 
 ## Summary and Table of Life Principles
