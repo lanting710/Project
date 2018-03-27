@@ -1,6 +1,136 @@
-@Grace
+### 2018-03-24
 
-2018.03.14
+#### **September**
+
+UK /sepˈtembə(r)/ US /sɛpˈtɛmbɚ/
+
+1. 助记,
+
+   “septem”+“-ber” = "the seventh month of the Roman year"古罗马日历的第七个月(因罗马日历是从三月份开始算起的)
+
+   **septem**：表示数字“七”，‘seven’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from septem ‘seven’ (being originally the seventh month of the Roman year).
+
+   **Etymology**
+
+   late Old English, from Latin September (also source of Old French Septembre, Spanish Setiembre, Italian Settembre, German September), from septem "seven" (see[seven](https://www.etymonline.com/word/seven?ref=etymonline_crossreference)). So called because it was the seventh month of the old Roman calendar, which began the year in March; Julian calendar reform (46 B.C.E.) shifted the new year back two months.
+
+3. 释义,
+
+   n. 九月**the 9th month of the year, between August and October**
+
+
+
+#### **October**
+
+UK /ɒkˈtəʊbə(r)/ US /ɑ:kˈtoʊbə(r)/
+
+1. 助记,
+
+   “octo”+“-ber” = "Eighth month of the old Roman calendar"古罗马日历的第八个月(因罗马日历是从三月份开始算起的)
+
+   **octo**：来自拉丁文,表示数字“8”，‘eight’。
+
+   **-ber**： 日历中最后三四个月由从始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from octo ‘eight’ (being originally the eighth month of the Roman year).
+
+   **Etymology**
+
+   c. 1050, from Latin October (mensis), from octo "eight," from PIE root *octo(u)-"eight" (see [eight](https://www.etymonline.com/word/eight?ref=etymonline_crossreference)). Eighth month of the old Roman calendar (pre-46 B.C.E.), which began the year in March. 
+
+3. 释义,
+
+   n. 十月**the tenth month of the year, after September and beforeNovember**
+
+
+
+#### **November**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “novem”+“-ber” = "The ninth month of the Roman calendar"古罗马日历的第九个月(因罗马日历是从三月份开始算起的)
+
+   **novem**：来自拉丁文,表示数字“9”，‘nine’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English, from Latin, from novem ‘nine’ (being originally the ninth month of the Roman year).
+
+   **Etymology**
+
+   c. 1200, from Old French novembre and directly from Latin November (also Novembris (mensis)), from novem "nine" (see [nine](https://www.etymonline.com/word/nine?ref=etymonline_crossreference)). The ninth month of the Roman calendar, which began in March. For -ber see [December](https://www.etymonline.com/word/December?ref=etymonline_crossreference). In Old English, it was Blotmonað"month of sacrifice," literally "blood-month," the time when the early Saxons prepared for winter by sacrificing animals, which they then butchered and stored for food.
+
+3. 释义,
+
+   n. 十一月**the eleventh month of the year, after October and before December**
+
+
+
+#### **December**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “decem”+“-ber” = "the tenth month of the old Roman calendar"古罗马日历的第十个月(因罗马日历是从三月份开始算起的)
+
+   **decem**：来自拉丁文,表示数字“10”，‘ten’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Latin, from decem ‘ten’ (being originally the tenth month of the Roman year).
+
+   **Etymology**
+
+   c. 1000, from Old French decembre, from Latin December, from decem "ten" (from PIE root [*dekm-](https://www.etymonline.com/word/*dekm-?ref=etymonline_crossreference) "ten"); tenth month of the old Roman calendar, which began with March.
+
+3. 释义,
+
+   n. 十二月**the 12th and last month of the year**
+
+
+
+### 2018-03-23
+
+**July**
+
+盖乌斯·尤利乌斯·恺撒（Gaius Julius Caesar），是罗马共和国末期杰出的军事统帅、政治家，并以其卓越的才能成为了罗马帝国的奠基者。莎士比亚为纪念恺撒大帝，特意写了一部名为《尤利乌斯·恺撒》的戏剧。因恺撒出生在七月份，七月（July）这个月份，也以凯撒的名字（Julius）来命名的。后来，德国的统治者都统称为“恺撒”，这个词在当地就是独裁者或皇帝的意思。而俄国统治者的发音也来源于恺撒的名字，他们简称为“沙”，也就是“沙皇”。
+
+**August**
+
+刚才阅读罗马历史,接着查找资料,很欣喜发现了一名被奉为神灵的君主,
+他就是恺撒的义子渥大维Octavian.我将资料整理如下:
+凯撒被刺杀后,Octavian与安东尼分别统治罗马帝国的西部与东部.Octavian后来出兵攻打安东尼,并将其击败.尽管埃及艳后Cleopatra对Octavian重施故技,像之前迷惑恺撒和安东尼那样,希望Octavian也能迷上自己.但Octavian就是不吃这一套,因为他的目标很明确,就是要成为世界上最伟大的统治者.最终他的目标实现了,成为了罗马帝国的第一位元首（Princeps）,元首政制的创始人，并统治罗马长达40年.
+后被罗马元老院赐封为“奥古斯都Augustus”（意为神圣伟大）.
+在他去世后，决定元老院将他列入“神”的行列。人们为他建造了庙宇,把他作为神一样供奉,并以他的名字Augustus命名为八月.
+
+**September**
+
+早安！英文七月July来自古罗马朱里斯·凯撒大帝(Julius Caesar)的名字，他诞生于公元前102年的7月12日，而八月August则来自他的甥孙兼养子屋大维被罗马元老院授与“奥古斯都” (Augustus)这一称号的月份。您知道九月September的来历么？怎么有点像seven呢？
+
+### 2018.03.14
 
 **Adventure** UK /ədˈventʃə(r)/ US /ædˈvɛntʃɚ/
 
@@ -372,6 +502,7 @@
    **OED Origin**
 
    Late Middle English: from Latin absolutus ‘freed, unrestricted’, past participle of absolvere (see absolve).
+   
    **Etymology**
 
    late 14c., "unrestricted, free from limitation; complete, perfect, free from imperfection;" also "not relative to something else" (mid-15c.), from Latin absolutus, past participle of absolvere "to set free, acquit; complete, bring to an end; make separate," from ab "off, away from" (see [ab-](https://www.etymonline.com/word/ab-?ref=etymonline_crossreference)) + solvere "to loosen, untie, release, detach," from PIE *se-lu-, from reflexive pronoun *s(w)e- (see [idiom](https://www.etymonline.com/word/idiom?ref=etymonline_crossreference)) + root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart."
