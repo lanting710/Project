@@ -1425,7 +1425,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
       late 14c., in a medieval philosophical sense, from Late Latin radicalis "of or having roots," from Latin radix (genitive radicis) "root" (from PIE root [*wrad-](https://www.etymonline.com/word/*wrad-?ref=etymonline_crossreference) "branch, root"). Meaning "going to the origin, essential" is from 1650s. Radical sign in mathematics is from 1680s.
 
-5. 释义,
+3. 释义,
 
    adj. 1)根本的；彻底的；完全的(very important)**concerning the most basic and important parts of sth; thorough and complete**
 
@@ -1439,7 +1439,7 @@ UK /ˈrædɪkl/ US /ˈrædɪkəl,'rædɪkḷ/
 
    ​     2)(化) 游离基；自由基 **a group of atoms that behave as a single unit in a number of compounds**
 
-6. 相关词语和词组
+4. 相关词语和词组
 
    **radicalism** n. 激进主义; 基本原理
 
@@ -1901,6 +1901,62 @@ the situation through time, and 3) navigate levels effectively.
 
 4. 拓展 
 
+
+#### philanthropic/ˌfɪl.ənˈθrɒp.ɪk/
+
+1. 助记：phil-爱 + anthrop-人 + -ic表形容词 引申为慈善的 
+2. 词源：
+   etymology
+   c. 1600, from Late Latin philanthropia, from Greek philanthropia "kindliness, humanity, benevolence, love to mankind" (from gods, men, or things), from philanthropos (adj.) "loving mankind, useful to man," from phil- "loving" (see philo-) + anthropos "mankind" (see anthropo-). Originally in English in the Late Latin form; modern spelling attested from 1620s.
+3. 定义：helping poor people, especially by giving them money 慈善的 乐善好施的 
+
+
+#### fabulous/ˈfæb.jə.ləs/
+
+1. 助记：来自 fable,故事，寓言。引申词义绝妙的，童话般的。
+2. 词源：
+   etymology
+   early 15c., "mythical, legendary," from Latin fabulosus "celebrated in fable;" also "rich in myths," from fabula "story, tale" (see fable (n.)). Meaning "pertaining to fable" is from 1550s. Sense of "incredible" first recorded c. 1600, hence "enormous, immense, amazing," which was trivialized by 1950s to "marvelous, terrific." Slang shortening fab first recorded 1957; popularized in reference to The Beatles, c. 1963.
+3. 定义：very good; excellent 绝妙的 特别好的
+
+
+#### optimal /ˈɒp.tɪ.məl/
+
+1. 助记：optim-优 + -al表形容词
+2. 词源：
+   etymology
+   1879, from Latin optimum, neuter singular of optimus "best" (used as a superlative of bonus "good"), probably related to ops "power, resources" (in which case the evolution is from "richest" to "the most esteemed," thus from PIE root *op- "to work, produce in abundance.") or to ob "in front of," with superlative suffix *-tumos. Originally in biology, in reference to "conditions most favorable" (for growth, etc.). As an adjective from 1885.
+3. 定义：best most likely to bring success or advantage 最优的 最佳的
+
+
+#### genuine/ˈdʒen.ju.ɪn/
+
+1. 助记：（1）genu-产生 + -ine → 来源清楚 → 真正的。（2）genu 膝 见拓展故事
+2. 词源：
+   etymology
+   1590s, "natural, not acquired," from Latin genuinus "native, natural, innate," from root of gignere "to beget, produce" (from PIE root *gene- "give birth, beget"), perhaps influenced in form by contrasting adulterinus "spurious." [Alternative etymology is from Latin genu "knee," from a supposed ancient custom of a father acknowledging paternity of a newborn by placing it on his knee.] Meaning "really proceeding from its reputed source" is from 1660s. Related: Genuinely; genuineness.
+3. 定义：
+   1. If something is genuine, it is real and exactly what it appears to be 真正的 真实的
+   2. If people or emotions are genuine, they are honest and sincere 诚恳的
+4. 拓展：genuine（真正的）：抱起婴儿以示认可的罗马习俗
+   在古罗马时代，孩子出生并不能自动成为一个家庭的成员，还需要父亲的认可。孩子出生后，接生婆会把它放在地上。父亲过来擦看。如果愿意接纳这个孩子，就会把他抱起来，放在自己的膝上，通过这个举动来宣告正式同意接纳这个孩子作为自己的子女。如果不愿意接纳，父亲就不会把婴儿抱起来，这个婴儿就会被遗弃。这样做的原因可能有二：一是古罗马时代，男女关系混乱，妻子生的孩子未必就是自己的亲骨肉；二是做父亲的也可能跟女奴或女仆乱搞，生下的私生子也不能随便认可，因为一旦认可了，在法律上这个婴儿就算是你的子女了，将来有权继承你的遗产。
+   英语单词genuine表示“真实的，真正的”，它的词源就与这种把新生儿放到膝上以示认可的习俗有关。genuine来自拉丁语genu，而genu的意思就是“膝”，在英语中依然保持“膝”的含义。所以genuine的字面意思就是“放在膝上”。把新生儿放在膝上就意味着这个孩子确实是我的子女，所以genuine才逐渐演变出“真实的”的含义。
+   genu： ['dʒenjuː] n.膝
+   genuine： ['dʒenjʊɪn]adj.真实的，真正的
+
+#### lens/lenz/
+
+1. 助记：来自拉丁文lens , 豆荚，词源同lentil . 因镜片如同两面凸出的豆荚而得名。
+2. 词源：
+   etymology
+   1690s, "glass to regulate light rays," from Latin lens (genitive lentis) "a lentil," on analogy of the double-convex shape. See lentil. Anatomical use, of the eye part, from 1719. Lens-cap is from 1857.
+3. 定义：a curved piece of glass, plastic, or other transparent material, used in cameras, glasses, and scientific equipment, that makes objects seem closer, larger, smaller, etc.透镜
+4. 拓展：
+   lens（透镜）：像小扁豆一样两面凸起的镜片
+   人类很早就发现，将透明水晶或宝石磨成两面凸起的对称薄片，具有放大影像的功能。历史上关于透镜的最早记录是大约公元前700年，亚述人用水晶制作的。古埃及、希腊和巴比伦也有类似的镜片。当玻璃在13世纪问世后，人们开始使用玻璃来制作透镜。在英语中，透镜被称为lens，它来自拉丁语lens，原本指的是一种两面凸起的豆子，进入英语后变成英语单词lentil，中文译为“兵豆”或“小扁豆”。lens原本指的是两面凸起的透镜，如人眼中的晶状体。现在，lens可以表示各种形状的透镜，不管是凸透镜还是凹透镜。
+   lens：[lenz] n.透镜，镜头，晶状体，镜片，隐形眼镜
+   lenticular： [lɛn'tɪkjəlɚ] adj. 透镜的；晶状体的；两面凸的；小扁豆似的
+   lentil：['lent(ə)l] n.兵豆，小扁豆
 
 
 ## Summary and Table of Life Principles
