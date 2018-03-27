@@ -1637,6 +1637,110 @@ UK /ˈsɜ:kəmstəns/ US /ˈsɜ:rkəmstæns/
 
 
 
+**Transparent** /trænˈsper.ənt/ 公开无秘密的
+
+1. 助记,
+
+   Trans+par+ent
+
+   trans-through 横过、穿过 + par(ere)-出现 + -ent形容词词尾
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French, from medieval Latin transparent- ‘shining through’, from Latin transparere, **from trans- ‘through’ + parere ‘appear’.**
+
+   **Etymology**
+
+   early 15c., from Medieval Latin transparentem (nominative transparens), present participle oftransparere **"show light through,"** from Latin trans "across, beyond; **through" (see [trans-](https://www.etymonline.com/word/trans-?ref=etymonline_crossreference)) + parere"come in sight, appear; submit, obey" (see [appear](https://www.etymonline.com/word/appear?ref=etymonline_crossreference)).** Figurative sense of "easily seen through" is first attested 1590s. The attempt to back-form a verb transpare (c. 1600) died with the 17c. Related:Transparently.
+
+3. 释义,
+
+   公开无秘密的 open and honest, without secrets
+
+4. 拓展 
+
+   ​
+
+**Dramatic** /drəˈmæt̬.ɪk/ 戏剧的
+
+1. 助记,
+
+   drama戏剧 + tic形容词词尾
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: via late Latin from Greek dramatikos, **from drama, dramat- (see drama)**.
+
+   **Etymology**
+
+   1580s, from Late Latin dramaticus, from Greek dramatikos "pertaining to plays," **from drama(genitive dramatos; see [drama](https://www.etymonline.com/word/drama?ref=etymonline_crossreference)).** Meaning "full of action and striking display, fit for a drama" is from 1725. Dramatic irony is recorded from 1907. Related: Dramatical; dramatically.
+
+3. 释义,
+
+   戏剧的 relating to plays and acting
+
+4. 拓展 
+
+
+
+**Inevitable** /ˌɪnˈev.ə.t̬ə.bəl/ 不可避免的
+
+1. 助记,
+
+   1）in+e+vit+able
+
+   in-,不，非，e-,向外，-vit,分开，离开，词源同divide,widow.即不可离开的，引申词义无可避免的。
+
+   2）in+evit(abilis)+able
+
+   in-,not,evitare-to avoid,不可避免。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin inevitabilis, **from in- ‘not’ + evitabilis ‘avoidable’ (from evitare ‘avoid’).**
+
+   **Etymology**
+
+   "unavoidable," mid-15c., from Latin inevitabilis "unavoidable," from in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + evitabilis "avoidable," **from evitare "to avoid," from ex "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + vitare "shun,"** originally "go out of the way." As a noun from 1850. Related: Inevitableness.
+
+3. 释义,
+
+   不可避免的 certain to happen and unable to be avoided or prevented
+
+4. 拓展 
+
+
+
+ **Impetus** /ˈɪm.pə.t̬əs/ 推动
+
+1. 助记,
+
+   im+pet+us
+
+   im-,进入，使，-pet,追逐，冲击，toward seek,to attack,引申词义推动，促进，刺激
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century: **from Latin, ‘assault, force’, from impetere ‘assail’, from in- ‘towards’ + petere ‘seek’**.
+
+   **Etymology**
+
+   early 15c., impetous "rapid movement, rush;" 1640s, with modern spelling, "force with which a body moves, driving force," from Latin impetus "an attack, assault; rapid motion; an impulse; violence, vigor, force;" figuratively "ardor, passion," **from impetere "to attack," from assimilated form of in-"into, in, on, upon" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + petere "aim for, rush at" (from PIE root [*pet-](https://www.etymonline.com/word/*pet-?ref=etymonline_crossreference) "to rush, to fly").**
+
+3. 释义,
+
+   推动 something that encourages a particular activity or makes that activity moreenergetic or effective
+
+4. 拓展 
+
 
 
 ## Summary and Table of Life Principles
