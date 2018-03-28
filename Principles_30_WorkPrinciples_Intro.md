@@ -12,6 +12,96 @@ If people in an organization feel that alignment, they will treasure their relat
 
 Those principles and values aren’t vague slogans, like “the customer always comes first” or “we should strive to be the best in our industry,” but a set of concrete directives anyone can understand, get aligned on, and carry out. As we shift our attention from Life Principles to Work Principles, I will explain how we went about achieving these alignments at Bridgewater and how that affected our results. But first, I want to explain how I think about organizations.
 
+@穆紫
+
+**stake** noun [ C ] UK   /steɪk/ US   /steɪk/
+
+1.助记.来自古英语 staca,桩，钉，销子，来自 Proto-Germanicstakon,棍，棒，柱子，来自 PIEsteg, 棍，棒，柱子，词源同 stack,stick.
+
+2.词源.
+
+"pointed stick or post," Old English staca "pin, stake," from Proto-Germanic *stakon (source also of Old Norse stiaki, Danish stage, Old Frisian stake, Middle Dutch stake, Dutch staak, German stake), from PIE root *steg- (1) "pole, stick." The Germanic word has been borrowed in Spanish (estaca), Old French (estaque), and Italian stacca) and was borrowed back as attach.
+
+Meaning "post upon which persons were bound for death by burning" is recorded from c. 1200. Meaning "vertical bar affixed to the edge of a platform of s truck, rail car, etc., to hold boards to keep the load from falling off" is from 1875; hence stake-body as a type of truck (1907). In pull up stakes, "The allusion is to pulling up the stakes of a tent" [Bartlett].
+
+3.释义.
+
+1.a share or a financial involvement in something such as a business 股本，股份
+
+2.the amount of money that you risk on the result of something such as a game or competition 赌注，赌金
+
+3.a strong stick or metal bar with a pointed end 桩，标桩
+
+4.to hold up and support something by fastening it to stakes
+
+用桩支撑；把…系于桩上
+
+
+
+**alignment**  noun UK   /əˈlaɪn.mənt/ US   /əˈlaɪn.mənt/
+
+1.助记.align,对齐，-ment,名词后缀。引申诸相关词义。
+
+2.词源.
+
+1790, "arrangement in a line," from French alignement, from aligner "to arrange in a line" (see align). Political sense is from 1933.
+
+3.释义.
+
+1.[ U ] an arrangement in which two or more things are positioned in a straight line or parallel to each other
+
+列队，排整齐
+
+2.an agreement between a group of countries, political parties, or people who want to work together because of shared interests or aims
+
+结盟，联盟；联合
+
+
+
+**vague** adjective UK   /veɪɡ/ US   /veɪɡ/
+
+1.助记.来自拉丁语vagus, 漫游，偏离，引申词义模糊的。
+
+2.词源.
+
+"uncertain as to specifics," 1540s, from Middle French vague "empty, vacant; wild, uncultivated; wandering" (13c.), from Latin vagus "strolling, wandering, rambling," figuratively "vacillating, uncertain," of unknown origin. Related: Vagueness.
+
+3.释义.
+
+1.C1 not clearly expressed, known, described, or decided
+
+含糊的，不明确的
+
+2.C1 not clear in shape, or not clearly seen
+
+（轮廓等）模糊的，不清楚的
+
+3.C2 A vague person is not able to think clearly, or gives an impression of not thinking clearly in order to hide their real thoughts.
+
+（人）迷糊的，含糊其词的
+
+slogan noun [ C ] UK   /ˈsləʊ.ɡən/ US   /ˈsloʊ.ɡən/
+
+
+
+1.助记.来自苏格兰盖尔语 sluagh-ghairm,战场呐喊声，喊杀声，来自古爱尔兰语 sluag,军队，词源同 slew,大量，ghairm,喊叫声，拟声词，词源同 garrulous.后词义通用化为标语，口号。
+
+2.词源.
+
+1670s, earlier slogorne (1510s), "battle cry," from Gaelic sluagh-ghairm "battle cry used by Scottish Highland or Irish clans," from sluagh "army, host, slew," from Celtic and Balto-Slavic *slough- "help, service." Second element is gairm "a cry" (see garrulous). Metaphoric sense of "distinctive word or phrase used by a political or other group" is first attested 1704.
+
+3.释义.
+
+C1 a short easily remembered phrase, especially one used to advertise an idea or a product
+
+标语，口号；广告语
+
+
+
+
+
+
+
 <img src='https://ws4.sinaimg.cn/large/006tKfTcgy1fpru2gmc4wj30re0smdgy.jpg' style='zoom:50%'>
 
 
@@ -24,7 +114,7 @@ Each influences the other, because the people who make up an organization determ
 
 3. **Great people have both great character and great capabilities.** By great character, I mean they are radically truthful, radically transparent, and deeply committed to the mission of the organization. By great capabilities, I mean they have the abilities and skills to do their jobs excellently. People who have one without the other are dangerous and should be removed from the organization. People who have both are rare and should be treasured.
 
-3. **Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before.** Doing that sustains their evolution. In our case, we do that by having an idea meritocracy that strives for meaningful work and meaningful relationships through radical truth and radical transparency. By meaningful work, I mean work that people are excited to get their heads into, and by meaningful relationships I mean those in which there is genuine caring for each other (like an extended family). I find that these reinforce each other and that being radically truthful and radically transparent with each other makes both the work and the relationships go better.
+4. **Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before.** Doing that sustains their evolution. In our case, we do that by having an idea meritocracy that strives for meaningful work and meaningful relationships through radical truth and radical transparency. By meaningful work, I mean work that people are excited to get their heads into, and by meaningful relationships I mean those in which there is genuine caring for each other (like an extended family). I find that these reinforce each other and that being radically truthful and radically transparent with each other makes both the work and the relationships go better.
 
    By constantly looking down on the machine, its managers can objectively compare the outcomes it produces with their goals. If those outcomes are consistent with those goals, then the machine is working effectively; if the outcomes are inconsistent with the goals, then something is wrong with either the design of the machine or the people who are a part of it and the problem needs to be diagnosed so the machine can be modified. As laid out in Chapter Two of Life Principles, this ideally happens in a 5-Step Process: 1) having clear goals, 2) identifying the problems preventing the goals from being achieved, 3) diagnosing what parts of the machine (i.e., which people or which designs) are not working well, 4) designing changes, and 5) doing what is needed. This is the fastest and most efficient way that an organization improves.
 
