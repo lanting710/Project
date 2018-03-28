@@ -112,21 +112,24 @@ Each influences the other, because the people who make up an organization determ
 
 2.  **A great organization has both great people and a great culture.** Companies that get progressively better over time have both. Nothing is more important or more difficult than to get the culture and people right.
 
-3. **Great people have both great character and great capabilities.** By great character, I mean they are radically truthful, radically transparent, and deeply committed to the mission of the organization. By great capabilities, I mean they have the abilities and skills to do their jobs excellently. People who have one without the other are dangerous and should be removed from the organization. People who have both are rare and should be treasured.
+3.  **Great people have both great character and great capabilities.** By great character, I mean they are radically truthful, radically transparent, and deeply committed to the mission of the organization. By great capabilities, I mean they have the abilities and skills to do their jobs excellently. People who have one without the other are dangerous and should be removed from the organization. People who have both are rare and should be treasured.
+
+
 
 4. **Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before.** Doing that sustains their evolution. In our case, we do that by having an idea meritocracy that strives for meaningful work and meaningful relationships through radical truth and radical transparency. By meaningful work, I mean work that people are excited to get their heads into, and by meaningful relationships I mean those in which there is genuine caring for each other (like an extended family). I find that these reinforce each other and that being radically truthful and radically transparent with each other makes both the work and the relationships go better.
 
-   By constantly looking down on the machine, its managers can objectively compare the outcomes it produces with their goals. If those outcomes are consistent with those goals, then the machine is working effectively; if the outcomes are inconsistent with the goals, then something is wrong with either the design of the machine or the people who are a part of it and the problem needs to be diagnosed so the machine can be modified. As laid out in Chapter Two of Life Principles, this ideally happens in a 5-Step Process: 1) having clear goals, 2) identifying the problems preventing the goals from being achieved, 3) diagnosing what parts of the machine (i.e., which people or which designs) are not working well, 4) designing changes, and 5) doing what is needed. This is the fastest and most efficient way that an organization improves.
 
-   I call this process of converting problems into progress “looping,” and how it happens through time is visualized in the diagrams to the right. In the first, a problem occurs that takes you off track from your goals and makes things worse than you planned.
+    By constantly looking down on the machine, its managers can objectively compare the outcomes it produces with their goals. If those outcomes are consistent with those goals, then the machine is working effectively; if the outcomes are inconsistent with the goals, then something is wrong with either the design of the machine or the people who are a part of it and the problem needs to be diagnosed so the machine can be modified. As laid out in Chapter Two of Life Principles, this ideally happens in a 5-Step Process: 1) having clear goals, 2) identifying the problems preventing the goals from being achieved, 3) diagnosing what parts of the machine (i.e., which people or which designs) are not working well, 4) designing changes, and 5) doing what is needed. This is the fastest and most efficient way that an organization improves.
 
-   If you identify the decline, diagnose the problems that caused it so as to get at their root causes, come up with new designs, and then push them through, the trajectory will loop back on itself and continue its upward ascent, like in the second diagram.
+    I call this process of converting problems into progress “looping,” and how it happens through time is visualized in the diagrams to the right. In the first, a problem occurs that takes you off track from your goals and makes things worse than you planned.
 
-   If you don’t identify the problem, design a suboptimal solution, or fail to push it through effectively, the decline will continue as shown in the diagram at the bottom.
+    If you identify the decline, diagnose the problems that caused it so as to get at their root causes, come up with new designs, and then push them through, the trajectory will loop back on itself and continue its upward ascent, like in the second diagram.
 
-   A manager’s ability to recognize when outcomes are inconsistent with goals and then modify designs and assemble people to rectify them makes all the difference in the world. The more often and more effectively a manager does this, the steeper the upward trajectory.
+    If you don’t identify the problem, design a suboptimal solution, or fail to push it through effectively, the decline will continue as shown in the diagram at the bottom.
 
-   As I explained in Life Principles, this is what I believe evolution looks like for all organisms and organizations. Having a culture and people that will evolve in this way is critical because the world changes quickly and in ways that can’t possibly be anticipated. I’m sure you can think of a number of companies that failed to identify and address their problems on time and ended up in a terminal decline (see: BlackBerry and Palm) and a rare few that have consistently looped well. Most don’t. For example, only six of the companies that forty years ago made up the Dow Jones 30, which is about when Bridgewater got started, are still in the Dow 30 today. Many of them—American Can, American Tobacco, Bethlehem Steel, General Foods, Inco, F. W. Woolworth—don’t even exist; some (Sears Roebuck, Johns-Manville, Eastman Kodak) are so different as to be almost unrecognizable. And many of the standouts on the list today—Apple, Cisco—were yet to be founded.
+    A manager’s ability to recognize when outcomes are inconsistent with goals and then modify designs and assemble people to rectify them makes all the difference in the world. The more often and more effectively a manager does this, the steeper the upward trajectory.
+
+    As I explained in Life Principles, this is what I believe evolution looks like for all organisms and organizations. Having a culture and people that will evolve in this way is critical because the world changes quickly and in ways that can’t possibly be anticipated. I’m sure you can think of a number of companies that failed to identify and address their problems on time and ended up in a terminal decline (see: BlackBerry and Palm) and a rare few that have consistently looped well. Most don’t. For example, only six of the companies that forty years ago made up the Dow Jones 30, which is about when Bridgewater got started, are still in the Dow 30 today. Many of them—American Can, American Tobacco, Bethlehem Steel, General Foods, Inco, F. W. Woolworth—don’t even exist; some (Sears Roebuck, Johns-Manville, Eastman Kodak) are so different as to be almost unrecognizable. And many of the standouts on the list today—Apple, Cisco—were yet to be founded.
 
 <img src='https://ws2.sinaimg.cn/large/006tKfTcgy1fpru2hgl70j30nc10edgp.jpg' style='zoom:50%'>
 
@@ -363,3 +366,68 @@ UK /trænsˈpærənsi/ US /[trænsˈpɛrənsi/
 
    **transparent** adj. 透明的，清澈的；易识破的，显而易见的；（语言、信息等）易懂的
 
+
+#### compound /ˈkɒm.paʊnd/
+
+1. 助记：推荐：com-全部 + pound放 → 全部放到一起 → 化合物。
+2. 词源：
+   **etymology**
+   late 14c., originally compouned, "composed of two or more elements, mixed, blended," past participle of compounen (see compound (v.)). Of flowers from 1660s; compound eye is attested from 1836; compound sentence, one consisting of two or more full clauses, is from 1772.
+3. 定义：
+   1. something consisting of two or more different parts化合物 
+   2. make more intense, stronger, or more marked 使更强烈，更强，更显著
+
+
+#### colleague/ˈkɒl.iːɡ/
+
+1. 助记：col-共同 + leag-=leg-选择 + ue → 选择在一起的人 → 同事。
+
+2. 词源：
+
+   **etymology**
+
+   "an associate in office, employment, or labor," 1530s, from Middle French collègue (16c.), from Latin collega "partner in office," from assimilated form of com "with, together" (see com-) + leg-, stem of legare "send as a deputy, send with a commission," from PIE root *leg- (1) "to collect, gather." So, "one sent or chosen to work with another," or "one chosen at the same time as another."
+
+3. 定义：
+   one of a group of people who work together同事
+
+4. 拓展：
+   college（学院）：提供给学生的住宿机构
+   在中世纪大学中，最初并没有集中的校舍，学生自行解决食宿问题。后来，为了解决贫困学生以及外地学生的食宿问题，一些私人捐赠的慈善机构出现，为大学生提供住宿。这种提供给大学生的住宿机构就是college（学院），通常由一个住宿部、一个食堂、一个小礼拜堂和一座图书馆构成。欧洲最早的学院是1180年设立于巴黎的迪克斯-惠特学院，它是为18名贫穷的学生提供住处而设立的。
+   13世纪后，学院发展迅速，学院内的老师除了管理职能外，还承担了指导职能，给住在学院内的大学生提供一些额外的课程，一般由教授或住在学院内的助教开设。随着这些教育活动的增多，在某些大学，学院逐渐垄断了大学的文科教学，使得学院成为大学生生活和教学的正式中心。到16世纪中期，大多数英国和巴黎的学院已经发展成为向本科学生和研究生提供教学的自给自足的教学单位，很多学院的名气甚至超过了所在大学。
+   英语中表示“学院”的单词college来自拉丁语collegium，后缀um表示“场所”。该词字面意思就是“community of colleague”（由colleague组成的社区，一群人在一起生活、学习的场所）。colleague就是一起做事的人，可以是同事，也可以是同学。
+   college原本仅仅表示university（综合性大学）中的一个学院，但后来，college还可以用来表示独立的教育机构，如专科大学、职业教育学校，还可以用来表示“学会”。在口语中，很多人还喜欢直接用college来表示大学。
+   college：['kɒlɪdʒ] n.学院，专科大学，大学，学会
+   collegiate：[kə'lidʒɪət] adj. 大学的；学院的；大学生的
+   collegial：[kə'liːdʒɪəl; -dʒ(ə)l] adj. 学院的；社团的；大学生的
+   colleague：['kɒliːg] n.同事，同僚，同仁。
+
+
+#### assertive /əˈsɜː.tɪv/ 
+
+1. 助记：as + sert-=join insert 插入 → 强行插入观点 → 断言。assert【断言】 + -ive表形容词 
+2. 词源：
+   **etymology**
+   1560s, "declaratory, positive, full of assertion," from assert (v.) + -ive. Meaning "insisting on one's rights or authority" is short for self-assertive.
+3. 定义：Someone who is assertive behaves confidently and is not frightened to say what they want or believe观点明确的； 坚决主张的
+
+
+#### adhere /ədˈhɪər/
+
+1. 助记：ad-增加 + her=stick-粘 + e → 粘上
+2. 词源：
+   **etymology**
+   1590s, from Middle French adhérer "to stick, adhere" (15c., corrected from earlier aderer, 14c.) or directly from Latin adhaerare "to stick, cling to," from ad "to" (see ad-) + haerere "to stick" (see hesitation). Originally often of persons, "to cleave to a leader, cause, party, etc." (compare adherent (n.), which still often retains this sense). Related: Adhered; adhering.
+3. 定义：to stick firmly 黏附； 附着
+4. 拓展 her-,hes-=stick 
+   hesitance(犹豫）hes-粘 + it + -ance表名词 → 粘粘糊糊 → 犹豫。
+
+#### foster/ˈfɒs.tər/
+
+1. 助记：来自food【喂养，食物】引申为促进 培养  寄养的(给饭吃就行)
+2. 词源：
+   **etymology**
+   Old English *fostrian "to supply with food, nourish, support," from fostor "food, nourishment, bringing up," from Proto-Germanic *fostra-, from extended form of PIE root *pa- "to feed."
+3. 定义：
+   1. to take care of a child, usually for a limited time, without being the child's legal parent 寄样的 代养的
+   2. to encourage the development or growth of ideas or feelings促进 培养
