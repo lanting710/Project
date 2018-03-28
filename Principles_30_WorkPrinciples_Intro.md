@@ -187,5 +187,89 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
+@Grace 2018-03-28
 
+#### **Compromise**
+
+UK /ˈkɒmprəmaɪz/ US /ˈkɑ:mprəmaɪz/
+
+1. 助记,
+
+   "com-"+"pro-"+"mise"= ‘a joint promise to abide by an arbiter's decision，to make a mutual promise，a consent to arbitration’对仲裁达成一致意见，妥协，和解。
+
+   **com-**：表示“共同，一致”,‘with,together’。
+
+   **pro-**：表示“向前，提前”， 源于词根*per-，‘forward,in front of, before, first, chief, toward, near, against’。
+
+   **mise**：即mission，‘a sending abroad’，原意“派遣，交代任务”，后引申为“交换条件，安置”，‘to release, let go; send, throw’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (denoting mutual consent to arbitration): from Old French compromis, from late Latin compromissum ‘a consent to arbitration’, neuter past participle of compromittere, from com- ‘together’ + promittere (see promise).
+
+   **Etymology**
+
+   early 15c., "a joint promise to abide by an arbiter's decision," from Old French compromis (13c.), from Late Latin compromissus, past participle of compromittere "to make a mutual promise" (to abide by the arbiter's decision), from com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + promittere "to send forth; let go; foretell; assure beforehand, promise," from pro "before" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "in front of, before") + mittere "to release, let go; send, throw" (see [mission](https://www.etymonline.com/word/mission?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1)[C] 妥协；折中；互让；和解**an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end**
+
+   ​     2)[C]妥协（或折中）方案 **a solution to a problem in which two or more things cannot exist together as they are, in which each thing is reduced or changed slightly so that they can exist together**
+
+   ​     3)[U] 达成妥协（或和解）**the act of reaching a compromise**
+
+   v. 1)（为达成协议而）妥协，折中，让步(agreement)**to give up some of your demands after a disagreement with sb, in order to reach an agreement**
+
+   ​    2)违背（原则）；达不到（标准）(lower standards)**to do sth that is against your principles or does not reach standards that you have set**
+
+   ​    3)（尤指因行为不很明智）使陷入危险，使受到怀疑；损害，危及(harm)**to bring sb/sth/yourself into danger or under suspicion, especially by acting in a way that is not very sensible**
+
+4. 相关词语和词组
+
+   **compromising** adj. 有失体面的，不宜泄露的
+
+   ​
+
+#### **Transparency**
+
+UK /trænsˈpærənsi/ US /[trænsˈpɛrənsi/
+
+1. 助记,
+
+   "trans-"”+“parent”+"-cy"= "shining through，show light through，easily seen through"原意“可透光，透明的“，后引申”为一目了然，显而易见的“。
+
+   **trans-**：表示”穿过“，‘across, beyond; through’。
+
+   **parent**： 表示“可见”，‘appear，come in sight; submit, obey’。
+
+   **-cy**：名词后缀。一般加在形容词 ( 词尾为 [-ant](http://www.etymon.cn/yingyucizhui/yingyuhouzhui/2664.html)，-ent，-te，-tic)、动词或名词 ( 词尾为 -t/ -n) 之后，构成抽象名词，表示“性质，状态”。
+
+2. 词源,
+
+   transparent (adj.)
+
+   **OED Origin**
+
+   Late Middle English: from Old French, from medieval Latin transparent- ‘shining through’, from Latin transparere, from trans- ‘through’ + parere ‘appear’.
+
+   **Etymology**
+
+   early 15c., from Medieval Latin transparentem (nominative transparens), present participle of transparere "show light through," from Latin trans "across, beyond; through" (see [trans-](https://www.etymonline.com/word/trans-?ref=etymonline_crossreference)) + parere "come in sight, appear; submit, obey" (see [appear](https://www.etymonline.com/word/appear?ref=etymonline_crossreference)). Figurative sense of "easily seen through" is first attested 1590s. The attempt to back-form a verb transpare (c. 1600) died with the 17c. Related: Transparently.
+
+3. 释义,
+
+   n. 1)[C] 幻灯片；透明正片**a picture printed on a piece of film, usually in a frame, that can be shown on a screen by shining light through the film**
+
+   ​     2)[U] 透明；透明性(see through)**the quality of sth, such as glass, that allows you to see through it**
+
+   ​     3)[U] 显而易见；一目了然**the quality of sth, such as an excuse or a lie, that allows sb to see the truth easily**
+
+   ​     4)[U] 易懂；清楚；透明度(open)**the quality of sth, such as a situation or an argument, that makes it easy to understand**
+
+4. 相关词语和词组
+
+   **transparent** adj. 透明的，清澈的；易识破的，显而易见的；（语言、信息等）易懂的
 
