@@ -280,6 +280,94 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
+@Grace 2018-03-29
+
+#### **Integrity**
+
+UK /ɪnˈtegrəti/ US /ɪnˈtɛɡrɪti/
+
+1. 助记,
+
+   "in-"+"teger"+"-ity"= ‘not to touch’。原意“不能碰，不能动”，后引申为“保持完整、完好无损”。
+
+   **integer**：表示“整数，完整无缺”,‘a whole number，intact，entire，whole，complete’。
+
+   其中**in-**：前缀，表示否定，‘not’；**teger**：即tangere的词根， 源于词根*tag-，表示“触碰”，‘to touch，handle’。
+
+   **-ity**：名词后缀。表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being～。
+
+2. 词源,
+
+   integer n.
+
+   **OED Origin**
+
+   Early 16th century (as an adjective meaning ‘entire, whole’): from Latin, ‘intact, whole’, from in- (expressing negation) + the root of tangere ‘to touch’. Compare with entire, also with integral, integrate, and integrity.
+
+   **Etymology**
+
+   c. 1400, "innocence, blamelessness; chastity, purity," from Old French integrité or directly from Latin integritatem (nominative integritas) "soundness, wholeness, completeness," figuratively "purity, correctness, blamelessness," from integer "whole" (see [integer](https://www.etymonline.com/word/integer?ref=etymonline_crossreference)). Sense of "wholeness, perfect condition" is mid-15c.
+
+3. 释义,
+
+   n. 1)诚实正直(honesty)**the quality of being honest and having strong moral principles**
+
+   ​    2)完整；完好(whole) **the state of being whole and not divided**
+
+4. 相关词语和词组
+
+   **integer** n. 整数
+
+   **integral** adj. 完整的；不可或缺的
+
+   **integrate** v. （使）合并，成为一体；（使）加入，融入群体
+
+   **integration** n. 整合，一体化；（不同肤色、种族、宗教信仰等的人的）融合
+
+   ​
+
+#### **Loyalty**
+
+UK /ˈlɔɪəlti/ US /[ˈlɔɪəlti/
+
+1. 助记,
+
+   "loyal"+"-ty"= "to do with law"原意“法定下的行为“，后引申”忠诚，忠心“。
+
+   **loyal**：即legal，源于拉丁语legalis，表示”合法的，法定的，法定权利“，‘to do with Mosaic law，of or pertaining to the law’。源于词根*leg。
+
+   其中**leg-**：就是“法律”的意思，’law‘，原意为’to collect, gather‘，后引申为’a collection of rules‘；**-al**：形容词后缀，意思相当于of～(...的），like ～（像...），having the nature of ～（有...性质的）。
+
+   **-ty**：名词后缀。表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being～。
+
+2. 词源,
+
+   legal (adj.)
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘to do with Mosaic law’): from French, or from Latin legalis, from lex, leg- ‘law’. Compare with loyal.
+
+   **Etymology**
+
+   mid-15c. "of or pertaining to the law," from Old French légal "legal" (14c.) or directly from Latin legalis "pertaining to the law," from lex (genitive legis) "an enactment; a precept, regulation, principle, rule; formal proposition for a law, motion, bill; a contract, arrangement, contrivance. This probably is related to legere "to gather," from PIE root [*leg-](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference) (1) "to collect, gather," with derivatives meaning "to speak (to 'pick out words')." Perhaps the noun is from the verb on the notion of "a collection of rules," but de Vaan seems to imply that the evolution is the reverse:
+
+3. 释义,
+
+   n. 1)[U]忠诚；忠实；忠心耿耿**he quality of being faithful in your support of sb/sth**
+
+   ​    2)[C] 要忠于…的强烈感情(see through)**a strong feeling that you want to be loyal to sb/sth**
+
+4. 相关词语和词组
+
+   **loyal** adj. 忠诚的，忠实的
+
+   **loyalist** n.（尤指在变动时期对统治者、政府或政党）忠诚的人
+
+   **loyalty card** 顾客忠诚卡，积分卡（凭消费累积的积分可优惠购物）
+
+
+
 @Grace 2018-03-28
 
 #### **Compromise**
