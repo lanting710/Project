@@ -519,3 +519,75 @@ UK /trænsˈpærənsi/ US /[trænsˈpɛrənsi/
 3. 定义：
    1. to take care of a child, usually for a limited time, without being the child's legal parent 寄样的 代养的
    2. to encourage the development or growth of ideas or feelings促进 培养
+
+#### accuse /əˈkjuːz/
+
+1. 助记：ac-朝 向 去+ cuse-原因 → 有理由指责别人。
+2. 词源:
+   etymology
+   c. 1300, "charge (with an offense, fault, error, etc.), impugn, blame," from Old French acuser "to accuse, indict, reproach, blame" (13c., Modern French accuser), earlier "announce, report, disclose" (12c.), or directly from Latin accusare "to call to account, make complaint against, reproach, blame; bring to trial, prosecute, arraign indict," from ad causa, from ad "with regard to" (see ad-) + causa "a cause; a lawsuit" (see cause (n.)). "Accuse commonly, though not invariably, expresses something more formal and grave than charge" [Century Dictionary, 1902]. Related: Accused; accusing; accusingly.
+3. 定义：to say that someone has done something morally wrong, illegal, or unkind:
+   指责，谴责； 指控；
+4. 拓展：
+   caus-/cus-（理由、指控）：古罗马的法庭辩论制度
+   古罗马实施公开审理制度。与公开审理相适应，采取法庭辩论的原则，允许当事人及其保护人展开辩论，辩论结束后法官才有资格作出判决。英语词根caus-/cus-源自拉丁语名词causa和动词causare，本意是“理由、引起”，衍生含义是“指控、诉讼”，因为对于古罗马人而言，“指控”某人即为要求某人在法庭上进行辩护，解释说明自己做某件事的理由。
+   例如，英语单词excuse由ex（out）和cuse（指控）构成，本意就是“从指控中脱身而出”，作名词时表示“理由”，作动词时表示“原谅、请求原谅”。
+   caus-/cus-：理由，指控，控告
+   cause：[kɔz] n. 理由，原因；事业；目标vt. 引起；使遭受
+   because：[bɪ'kɔz] conj. 因为
+   excuse：[ɪk'skjʊs] n. 借口；理由vt. 原谅；为…申辩；给…免去vi. 作为借口；请求宽恕；表示宽恕
+   accuse：[ə'kjuz] vt. 控告，指控；谴责；归咎于vi. 指责；控告
+
+#### duality/dʒuːˈæl.ə.ti/
+
+1. 助记：dual a. 双重的, 双的 n. 双数
+        -ity 表名词，指具备某种性质。
+2. 词源：
+   etymology
+   late 14c., from Old French dualité (14c.), from Late Latin dualitas, from Latin dualis (see dual)
+3. 定义：the state of combining two different things 二元性
+4. 拓展：du- dub- doub- =two
+   double 两倍 duad 一对 一双 dual 双重的 双的
+
+#### conceal/kənˈsiːl/
+
+1. 助记：con-强调 + ceal-隐藏
+2. 词源：
+   etymology
+   early 14c., concelen, "to keep close or secret, forbear to divulge," from Old French conceler "to hide, conceal, dissimulate," from Latin concelare "to hide," from con-, here probably an intensive prefix (see con-), + celare "to hide," from PIE root *kel-(1) "to cover, conceal, save." From early 15c. as "to hide or shield from observation." Replaced Old English deagan. Related: Concealed; concealing; concealable.
+3. 定义：to prevent something from being seen or known about 隐藏，隐瞒，遮住
+4. 拓展：ceal-,cel, cul,=hide 
+   cellar 地窖 地下室 酒藏  
+   cella 内殿
+
+#### spin /spɪn/
+
+1. 助记：来自古英语 spinnan,纺纱，织线，来自 Proto-Germanic*spenwan,弯，转，纺  纺纱的时候 需要转动纺纱车 引申为旋转
+2. 词源：
+   etymology
+   1831, "a rapid revolving motion," from spin (v.). Meaning "fairly rapid ride" is from 1856. Sense of "a twisting delivery in throwing or striking a ball" is from 1851. Sense in physics is from 1926. Meaning "act of playing a phonograph record" is from 1977. Meaning "influence imparted by a media source" is from 1984.
+3. 定义：to (cause to) turn around and around, especially fast  纺纱 旋转
+4. 拓展：
+   spinster（老姑娘）：纺织嫁妆的未婚女子
+   英语单词spinster由spin（纺织）+ster（女性名词后缀）构成，字面意思就是“纺织女”。在古代英国传统中，未婚女子的主要工作就是纺织。女孩需要在结婚前纺织好自己将来结婚时所需要的床单、被套、衣裙等嫁妆。因此，未婚女子在英语中就被称为spinster。从18世纪开始，该词逐渐用来表示过了适龄年纪的未婚女子，即我们常说的“剩女”。
+   spinster：['spɪnstə] n.老姑娘，大龄未婚女子；未婚女子
+   spin：[spɪn] v. （使）旋转；纺纱；吐丝；晕眩；编造；结网n. 旋转；疾驰
+   spinder  [ˈspaɪdə(r)]蜘蛛 
+
+
+#### virtual /ˈvɜː.tʃu.əl/
+
+1. 助记：来自virtue , 男人的品行，品质，原义为男人的，男人应有的品行和美德，后引申词义看不见但却实质存在的品行，类似于汉语“气场”，后用于计算机术语虚拟的。
+2. 词源：
+   etymology
+   late 14c., "influencing by physical virtues or capabilities, effective with respect to inherent natural qualities," from Medieval Latin virtualis, from Latin virtus "excellence, potency, efficacy," literally "manliness, manhood" (see virtue). The meaning "being something in essence or effect, though not actually or in fact" is from mid-15c., probably via sense of "capable of producing a certain effect" (early 15c.). Computer sense of "not physically existing but made to appear by software" is attested from 1959.
+3. 定义： almost a particular thing or quality
+   实质上的，事实上的； 虚拟的
+4. 拓展：
+   virtue（美德）：男人的能力和功效
+   重男轻女的思想自古就有，中外概莫能免。英语单词virtue就反映了这种思想。它来自拉丁语virtus，词根是vir（男人），同根词有virile（男性的，有男子气概的）。virtue的基本含义是“男人的能力和功效”。其隐含之意就是男性是世界的创造者，男人创造世界凭借的就是这种virtue。英语短语by virtue of（凭借）用的正是virtue的本意，即“功效”。除了“功效”外，virtue一词还往往被译为“美德”、“德性”，主要指“英勇、勇敢、刚毅”等与男人气概相关的道德品质，其实归根到底还是指男人气概的“功效”。virtue还可以用来表示女性的美德，但主要指“贞操”，即“忠诚于男性”这一美德。所以不妨可以把virtue理解为“男德”。在古罗马，有一个广受崇拜的神祇维尔图斯（Virtus），其实就是virtue的人格化和神化。
+   由virtue衍生出来的单词virtual（虚拟的）更能体现virtue的本意。virtual指的是“虽然并不客观存在，但却能产生一样的功效，从功效上看相当于存在一样。”最常见的就是网络上的虚拟人物、虚拟物品、虚拟场景。
+   virtue： ['vɜːtjuː; -tʃuː] n.美德，贞操，优点，功效
+   virile： ['vɪraɪl] adj.男人的，有男人气概的，刚健的
+   virility：[və'rɪləti] n. 男子气；男子特点；生殖力
+   virtual： ['vɜːtjʊəl] adj.虚拟的，几乎是事实的
