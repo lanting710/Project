@@ -280,6 +280,88 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
+@Grace 2018-03-30
+
+#### **Evolutionary**
+
+UK /ˌi:vəˈlu:ʃənri/ US /ˌi:vəˈlu:ʃəneri/
+
+1. 助记,
+
+   "evolve"+"tion"+"-ary"= ‘an opening of what was rolled up’。原意“将原来卷起来的东西展开来”，后引申为“揭示，进化，演变”。
+
+   **evolve**：表示“打开，揭示，披露，发展”,‘to unfold, open out, expand，to unroll, roll out, roll forth, unfold，to make clear, disclose; to produce, develop’。
+
+   其中**ex-**：前缀，表示否定，‘not’；**volvere**：源于词根*wel-，表示“卷起，转开”，‘to roll，to turn, revolve’。
+
+   **-tion**：名词后缀。表示“行为”，引申意有“行为的过程，结果，情况，性质，状态，动作”。
+
+   **-ary**：形容词后缀。意思是“人、物、场所,属于…的、有…性质的、与…有关的“。
+
+2. 词源,
+
+   evolution n.
+
+   **OED Origin**
+
+   Early 17th century: from Latin evolutio(n-) ‘unrolling’, from the verb evolvere (see evolve). Early senses related to movement, first recorded in describing a ‘wheeling’ manoeuvre in the realignment of troops or ships. Current senses stem from a notion of ‘opening out’, giving rise to the sense ‘development’.
+
+   **Etymology**
+
+   1620s, "an opening of what was rolled up," from Latin evolutionem (nominative evolutio) "unrolling (of a book)," noun of action from past participle stem of evolvere "to unroll" (see [evolve](https://www.etymonline.com/word/evolve?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   adj. 进化的；演变的；逐渐发展的**connected with evolution ; connected with gradual development and change**​
+
+4. 相关词语和词组
+
+   **evolve** v. 发展，进化，散发；[生]通过进化进程发展或发生
+
+   **evolution** n. 演变;进化;发展
+
+   **evolutionist** n. 进化论者的
+
+   ​                        adj. 进化论的
+
+   ​
+
+#### **Generosity**
+
+UK /ˌdʒenəˈrɒsəti/ US /[ˌdʒenəˈrɑ:səti/
+
+1. 助记,
+
+   "gener-"+"-ous"+"-ity"= "noble, magnanimous，of noble birth，characteristic of noble birth, courageous, magnanimous"原意“贵族出身，具有贵族特征“，后引申”慷慨大方“。
+
+   **gener-**：表示”出产，产生，基因“，‘stock, race，give birth，beget’。源于词根*gene-。如genesis（n.基础）；generate（v.使形成，发生）。
+
+   **-ous**：形容词后缀，基本意思是：havingof～(具有...的) 或full of ～(充满...的)，此外还有“characterized by～,having the nature of ～;having to do with～;of～；like～;practising～ ” 的意思。
+
+   **-ity**：名词后缀。加在带形容词后缀的单词上，如“形容词后缀+-ity”的复合形式，表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being。
+
+2. 词源,
+
+   generous (adj.)
+
+   **OED Origin**
+
+   Late 16th century: via Old French from Latin generosus ‘noble, magnanimous’, from genus, gener- ‘stock, race’. The original sense was ‘of noble birth’, hence ‘characteristic of noble birth, courageous, magnanimous, not mean’.
+
+   **Etymology**
+
+   1580s, "of noble birth," from Middle French généreux (14c.), from Latin generosus "of noble birth," figuratively "magnanimous, generous," from genus (genitive generis) "race, stock" (from PIE root [*gene-](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) "give birth, beget," with derivatives referring to procreation and familial and tribal groups). Secondary senses of "unselfish" (1690s) and "plentiful" (1610s) in English were present in French and in Latin. Related: Generously; generousness.
+
+3. 释义,
+
+   n. [U]慷慨；大方；宽宏大量**the fact of being generous (= willing to give sb money, gifts, time or kindness freely)**
+
+4. 相关词语和词组
+
+   **generous** adj. 慷慨的，大方的;丰盛的;肥沃的;浓厚的
+
+
+
 @Grace 2018-03-29
 
 #### **Integrity**
