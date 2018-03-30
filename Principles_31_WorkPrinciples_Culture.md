@@ -147,6 +147,60 @@
    [cause I deserve to]() 因为我值得
 
 
+#### unscrupulous /ʌnˈskruː.pjə.ləs/
+
+1. 助记：un- 表示“不，无，非，没有”
+    scruple n. 踌躇, 犹豫, 微量 vi. 踌躇, 有顾忌
+   -ous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
+   scruple 原意表示“小石子”，引申为顾虑
+   unscrupulous  无顾虑的 肆无忌惮的 不择手段的
+2. 词源：
+   etymology
+   scruple
+   "moral misgiving, pang of conscience," late 14c., from Old French scrupule (14c.), from Latin scrupulus "uneasiness, anxiety, pricking of conscience," literally "small sharp stone," diminutive of scrupus "sharp stone or pebble," used figuratively by Cicero for a cause of uneasiness or anxiety, probably from the notion of having a pebble in one's shoe. The word in the more literal Latin sense of "small unit of weight or measurement" is attested in English from late 14c.
+3. 定义： behaving in a way that is dishonest or unfair in order to get what you want:
+
+
+#### insidious/ɪnˈsɪd.i.əs/
+
+1. 助记：in-内 + sid-坐 + -ious形容词后缀 → 坐在内部的[坏人]，潜伏的 → 阴险的。
+2. 词源
+   etymology
+   1540s, from Middle French insidieux "insidious" (15c.) or directly from Latin insidiosus "deceitful, cunning, artful, treacherous," from insidiae (plural) "plot, snare, ambush," from insidere "sit on, occupy," from in- "in" (from PIE root *en "in") + sedere "to sit," from PIE root *sed- (1) "to sit." Figurative, usually with a suggestion of lying in wait and the intent to entrap. Related: Insidiously; insidiousness.
+3. 定义：(of something unpleasant or dangerous) gradually and secretly causing harm 隐伏的，潜在的，阴险的， 狡猾的adj.
+
+#### deserve/dɪˈzɜːv/
+
+1. 助记：de-加强 + serv-服务 + e → 加强服务 → 值得[重视]。
+2. 词源：
+   etymology
+   early 13c., from Old French deservir (Modern French desservir) "deserve, be worthy of, earn, merit," from Latin deservire "serve well," from de- "completely" (see de-) + servire "to serve" (see serve). From "be entitled to because of good service" (a sense found in Late Latin), meaning generalized c. 1300 to "be worthy of." Related: Deserved; deserving.
+3. 定义：to have earned or to be given something because of the way you have behaved or the qualities you have
+   值得 应得 v.
+
+#### corruption /kəˈrʌp.ʃən/
+
+1. 助记：cor-全部+rupt断—全部断—变坏的 引申为 腐败的
+   cor-来自拉丁语介词com，表示“与...一起，一起（with, together）”。在部分单词前无词义，仅表强化作用。该前缀在元音字母和h前缩写为co-；在字母b,m,p前使用其原型com-；在字母l, r 前col-, cor-；在字母g前缩略成co-或con-形式；其它情况下用con-形式。（备注：在字母f前应使用con-，但是，由于历史原因，有一个例外词comfort安慰）
+   rupt- 
+   = break, 表示“断裂”。
+2. 词源：
+   etymology 
+   mid-14c., from Old French corropt "unhealthy, corrupt; uncouth" (of language), and directly from Latin corruptus, past participle of corrumpere "to destroy; spoil," figuratively "corrupt, seduce, bribe," from com-, intensive prefix (see com-), + rup-, past participle stem of rumpere "to break" (see rupture (n.)). Related: Corruptly; corruptness.
+3. 定义： illegal, bad, or dishonest behaviour, especially by people in positions of power   腐败;贪污;受贿 n.
+
+
+####  eliminate/iˈlɪm.ɪ.neɪt/ 
+
+1. 助记：e-出 + limin-限制 + -ate表动词 → [赶]出门槛 → 删除。
+2. 词源：
+   etymology
+   1560s, from Latin eliminatus, past participle of eliminare "thrust out of doors, expel," from ex limine "off the threshold," from ex "off, out" (see ex-) + limine, ablative of limen "threshold" (see limit (n.)).
+   Used literally at first; sense of "exclude" first attested 1714; sense of "expel waste from the body" is c. 1795. Related: Eliminated; eliminating; eliminative; eliminatory.
+3. 定义：
+   1. to remove or take away someone or something消除，剔除，根除
+   2. to defeat someone so that they cannot continue in a competition淘汰
+   3. to murder someone 消灭;干掉
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
 
