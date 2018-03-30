@@ -12,6 +12,12 @@ If people in an organization feel that alignment, they will treasure their relat
 
 Those principles and values aren’t vague slogans, like “the customer always comes first” or “we should strive to be the best in our industry,” but a set of concrete directives anyone can understand, get aligned on, and carry out. As we shift our attention from Life Principles to Work Principles, I will explain how we went about achieving these alignments at Bridgewater and how that affected our results. But first, I want to explain how I think about organizations.
 
+
+
+
+
+
+
 <img src='https://ws4.sinaimg.cn/large/006tKfTcgy1fpru2gmc4wj30re0smdgy.jpg' style='zoom:50%'>
 
 
@@ -22,21 +28,24 @@ Each influences the other, because the people who make up an organization determ
 
 2.  **A great organization has both great people and a great culture.** Companies that get progressively better over time have both. Nothing is more important or more difficult than to get the culture and people right.
 
-3. **Great people have both great character and great capabilities.** By great character, I mean they are radically truthful, radically transparent, and deeply committed to the mission of the organization. By great capabilities, I mean they have the abilities and skills to do their jobs excellently. People who have one without the other are dangerous and should be removed from the organization. People who have both are rare and should be treasured.
+3.  **Great people have both great character and great capabilities.** By great character, I mean they are radically truthful, radically transparent, and deeply committed to the mission of the organization. By great capabilities, I mean they have the abilities and skills to do their jobs excellently. People who have one without the other are dangerous and should be removed from the organization. People who have both are rare and should be treasured.
 
-3. **Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before.** Doing that sustains their evolution. In our case, we do that by having an idea meritocracy that strives for meaningful work and meaningful relationships through radical truth and radical transparency. By meaningful work, I mean work that people are excited to get their heads into, and by meaningful relationships I mean those in which there is genuine caring for each other (like an extended family). I find that these reinforce each other and that being radically truthful and radically transparent with each other makes both the work and the relationships go better.
 
-   By constantly looking down on the machine, its managers can objectively compare the outcomes it produces with their goals. If those outcomes are consistent with those goals, then the machine is working effectively; if the outcomes are inconsistent with the goals, then something is wrong with either the design of the machine or the people who are a part of it and the problem needs to be diagnosed so the machine can be modified. As laid out in Chapter Two of Life Principles, this ideally happens in a 5-Step Process: 1) having clear goals, 2) identifying the problems preventing the goals from being achieved, 3) diagnosing what parts of the machine (i.e., which people or which designs) are not working well, 4) designing changes, and 5) doing what is needed. This is the fastest and most efficient way that an organization improves.
 
-   I call this process of converting problems into progress “looping,” and how it happens through time is visualized in the diagrams to the right. In the first, a problem occurs that takes you off track from your goals and makes things worse than you planned.
+4. **Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before.** Doing that sustains their evolution. In our case, we do that by having an idea meritocracy that strives for meaningful work and meaningful relationships through radical truth and radical transparency. By meaningful work, I mean work that people are excited to get their heads into, and by meaningful relationships I mean those in which there is genuine caring for each other (like an extended family). I find that these reinforce each other and that being radically truthful and radically transparent with each other makes both the work and the relationships go better.
 
-   If you identify the decline, diagnose the problems that caused it so as to get at their root causes, come up with new designs, and then push them through, the trajectory will loop back on itself and continue its upward ascent, like in the second diagram.
 
-   If you don’t identify the problem, design a suboptimal solution, or fail to push it through effectively, the decline will continue as shown in the diagram at the bottom.
+    By constantly looking down on the machine, its managers can objectively compare the outcomes it produces with their goals. If those outcomes are consistent with those goals, then the machine is working effectively; if the outcomes are inconsistent with the goals, then something is wrong with either the design of the machine or the people who are a part of it and the problem needs to be diagnosed so the machine can be modified. As laid out in Chapter Two of Life Principles, this ideally happens in a 5-Step Process: 1) having clear goals, 2) identifying the problems preventing the goals from being achieved, 3) diagnosing what parts of the machine (i.e., which people or which designs) are not working well, 4) designing changes, and 5) doing what is needed. This is the fastest and most efficient way that an organization improves.
 
-   A manager’s ability to recognize when outcomes are inconsistent with goals and then modify designs and assemble people to rectify them makes all the difference in the world. The more often and more effectively a manager does this, the steeper the upward trajectory.
+    I call this process of converting problems into progress “looping,” and how it happens through time is visualized in the diagrams to the right. In the first, a problem occurs that takes you off track from your goals and makes things worse than you planned.
 
-   As I explained in Life Principles, this is what I believe evolution looks like for all organisms and organizations. Having a culture and people that will evolve in this way is critical because the world changes quickly and in ways that can’t possibly be anticipated. I’m sure you can think of a number of companies that failed to identify and address their problems on time and ended up in a terminal decline (see: BlackBerry and Palm) and a rare few that have consistently looped well. Most don’t. For example, only six of the companies that forty years ago made up the Dow Jones 30, which is about when Bridgewater got started, are still in the Dow 30 today. Many of them—American Can, American Tobacco, Bethlehem Steel, General Foods, Inco, F. W. Woolworth—don’t even exist; some (Sears Roebuck, Johns-Manville, Eastman Kodak) are so different as to be almost unrecognizable. And many of the standouts on the list today—Apple, Cisco—were yet to be founded.
+    If you identify the decline, diagnose the problems that caused it so as to get at their root causes, come up with new designs, and then push them through, the trajectory will loop back on itself and continue its upward ascent, like in the second diagram.
+
+    If you don’t identify the problem, design a suboptimal solution, or fail to push it through effectively, the decline will continue as shown in the diagram at the bottom.
+
+    A manager’s ability to recognize when outcomes are inconsistent with goals and then modify designs and assemble people to rectify them makes all the difference in the world. The more often and more effectively a manager does this, the steeper the upward trajectory.
+
+    As I explained in Life Principles, this is what I believe evolution looks like for all organisms and organizations. Having a culture and people that will evolve in this way is critical because the world changes quickly and in ways that can’t possibly be anticipated. I’m sure you can think of a number of companies that failed to identify and address their problems on time and ended up in a terminal decline (see: BlackBerry and Palm) and a rare few that have consistently looped well. Most don’t. For example, only six of the companies that forty years ago made up the Dow Jones 30, which is about when Bridgewater got started, are still in the Dow 30 today. Many of them—American Can, American Tobacco, Bethlehem Steel, General Foods, Inco, F. W. Woolworth—don’t even exist; some (Sears Roebuck, Johns-Manville, Eastman Kodak) are so different as to be almost unrecognizable. And many of the standouts on the list today—Apple, Cisco—were yet to be founded.
 
 <img src='https://ws2.sinaimg.cn/large/006tKfTcgy1fpru2hgl70j30nc10edgp.jpg' style='zoom:50%'>
 
@@ -187,6 +196,176 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
+@Grace 2018-03-30
+
+#### **Evolutionary**
+
+UK /ˌi:vəˈlu:ʃənri/ US /ˌi:vəˈlu:ʃəneri/
+
+1. 助记,
+
+   "evolve"+"tion"+"-ary"= ‘an opening of what was rolled up’。原意“将原来卷起来的东西展开来”，后引申为“揭示，进化，演变”。
+
+   **evolve**：表示“打开，揭示，披露，发展”,‘to unfold, open out, expand，to unroll, roll out, roll forth, unfold，to make clear, disclose; to produce, develop’。
+
+   其中**ex-**：前缀，表示否定，‘not’；**volvere**：源于词根*wel-，表示“卷起，转开”，‘to roll，to turn, revolve’。
+
+   **-tion**：名词后缀。表示“行为”，引申意有“行为的过程，结果，情况，性质，状态，动作”。
+
+   **-ary**：形容词后缀。意思是“人、物、场所,属于…的、有…性质的、与…有关的“。
+
+2. 词源,
+
+   evolution n.
+
+   **OED Origin**
+
+   Early 17th century: from Latin evolutio(n-) ‘unrolling’, from the verb evolvere (see evolve). Early senses related to movement, first recorded in describing a ‘wheeling’ manoeuvre in the realignment of troops or ships. Current senses stem from a notion of ‘opening out’, giving rise to the sense ‘development’.
+
+   **Etymology**
+
+   1620s, "an opening of what was rolled up," from Latin evolutionem (nominative evolutio) "unrolling (of a book)," noun of action from past participle stem of evolvere "to unroll" (see [evolve](https://www.etymonline.com/word/evolve?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   adj. 进化的；演变的；逐渐发展的**connected with evolution ; connected with gradual development and change**​
+
+4. 相关词语和词组
+
+   **evolve** v. 发展，进化，散发；[生]通过进化进程发展或发生
+
+   **evolution** n. 演变;进化;发展
+
+   **evolutionist** n. 进化论者的
+
+   ​                        adj. 进化论的
+
+   ​
+
+#### **Generosity**
+
+UK /ˌdʒenəˈrɒsəti/ US /[ˌdʒenəˈrɑ:səti/
+
+1. 助记,
+
+   "gener-"+"-ous"+"-ity"= "noble, magnanimous，of noble birth，characteristic of noble birth, courageous, magnanimous"原意“贵族出身，具有贵族特征“，后引申”慷慨大方“。
+
+   **gener-**：表示”出产，产生，基因“，‘stock, race，give birth，beget’。源于词根*gene-。如genesis（n.基础）；generate（v.使形成，发生）。
+
+   **-ous**：形容词后缀，基本意思是：havingof～(具有...的) 或full of ～(充满...的)，此外还有“characterized by～,having the nature of ～;having to do with～;of～；like～;practising～ ” 的意思。
+
+   **-ity**：名词后缀。加在带形容词后缀的单词上，如“形容词后缀+-ity”的复合形式，表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being。
+
+2. 词源,
+
+   generous (adj.)
+
+   **OED Origin**
+
+   Late 16th century: via Old French from Latin generosus ‘noble, magnanimous’, from genus, gener- ‘stock, race’. The original sense was ‘of noble birth’, hence ‘characteristic of noble birth, courageous, magnanimous, not mean’.
+
+   **Etymology**
+
+   1580s, "of noble birth," from Middle French généreux (14c.), from Latin generosus "of noble birth," figuratively "magnanimous, generous," from genus (genitive generis) "race, stock" (from PIE root [*gene-](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) "give birth, beget," with derivatives referring to procreation and familial and tribal groups). Secondary senses of "unselfish" (1690s) and "plentiful" (1610s) in English were present in French and in Latin. Related: Generously; generousness.
+
+3. 释义,
+
+   n. [U]慷慨；大方；宽宏大量**the fact of being generous (= willing to give sb money, gifts, time or kindness freely)**
+
+4. 相关词语和词组
+
+   **generous** adj. 慷慨的，大方的;丰盛的;肥沃的;浓厚的
+
+
+
+@Grace 2018-03-29
+
+#### **Integrity**
+
+UK /ɪnˈtegrəti/ US /ɪnˈtɛɡrɪti/
+
+1. 助记,
+
+   "in-"+"teger"+"-ity"= ‘not to touch’。原意“不能碰，不能动”，后引申为“保持完整、完好无损”。
+
+   **integer**：表示“整数，完整无缺”,‘a whole number，intact，entire，whole，complete’。
+
+   其中**in-**：前缀，表示否定，‘not’；**teger**：即tangere的词根， 源于词根*tag-，表示“触碰”，‘to touch，handle’。
+
+   **-ity**：名词后缀。表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being～。
+
+2. 词源,
+
+   integer n.
+
+   **OED Origin**
+
+   Early 16th century (as an adjective meaning ‘entire, whole’): from Latin, ‘intact, whole’, from in- (expressing negation) + the root of tangere ‘to touch’. Compare with entire, also with integral, integrate, and integrity.
+
+   **Etymology**
+
+   c. 1400, "innocence, blamelessness; chastity, purity," from Old French integrité or directly from Latin integritatem (nominative integritas) "soundness, wholeness, completeness," figuratively "purity, correctness, blamelessness," from integer "whole" (see [integer](https://www.etymonline.com/word/integer?ref=etymonline_crossreference)). Sense of "wholeness, perfect condition" is mid-15c.
+
+3. 释义,
+
+   n. 1)诚实正直(honesty)**the quality of being honest and having strong moral principles**
+
+   ​    2)完整；完好(whole) **the state of being whole and not divided**
+
+4. 相关词语和词组
+
+   **integer** n. 整数
+
+   **integral** adj. 完整的；不可或缺的
+
+   **integrate** v. （使）合并，成为一体；（使）加入，融入群体
+
+   **integration** n. 整合，一体化；（不同肤色、种族、宗教信仰等的人的）融合
+
+   ​
+
+#### **Loyalty**
+
+UK /ˈlɔɪəlti/ US /[ˈlɔɪəlti/
+
+1. 助记,
+
+   "loyal"+"-ty"= "to do with law"原意“法定下的行为“，后引申”忠诚，忠心“。
+
+   **loyal**：即legal，源于拉丁语legalis，表示”合法的，法定的，法定权利“，‘to do with Mosaic law，of or pertaining to the law’。源于词根*leg。
+
+   其中**leg-**：就是“法律”的意思，’law‘，原意为’to collect, gather‘，后引申为’a collection of rules‘；**-al**：形容词后缀，意思相当于of～(...的），like ～（像...），having the nature of ～（有...性质的）。
+
+   **-ty**：名词后缀。表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being～。
+
+2. 词源,
+
+   legal (adj.)
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘to do with Mosaic law’): from French, or from Latin legalis, from lex, leg- ‘law’. Compare with loyal.
+
+   **Etymology**
+
+   mid-15c. "of or pertaining to the law," from Old French légal "legal" (14c.) or directly from Latin legalis "pertaining to the law," from lex (genitive legis) "an enactment; a precept, regulation, principle, rule; formal proposition for a law, motion, bill; a contract, arrangement, contrivance. This probably is related to legere "to gather," from PIE root [*leg-](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference) (1) "to collect, gather," with derivatives meaning "to speak (to 'pick out words')." Perhaps the noun is from the verb on the notion of "a collection of rules," but de Vaan seems to imply that the evolution is the reverse:
+
+3. 释义,
+
+   n. 1)[U]忠诚；忠实；忠心耿耿**he quality of being faithful in your support of sb/sth**
+
+   ​    2)[C] 要忠于…的强烈感情(see through)**a strong feeling that you want to be loyal to sb/sth**
+
+4. 相关词语和词组
+
+   **loyal** adj. 忠诚的，忠实的
+
+   **loyalist** n.（尤指在变动时期对统治者、政府或政党）忠诚的人
+
+   **loyalty card** 顾客忠诚卡，积分卡（凭消费累积的积分可优惠购物）
+
+
+
 @Grace 2018-03-28
 
 #### **Compromise**
@@ -273,3 +452,366 @@ UK /trænsˈpærənsi/ US /[trænsˈpɛrənsi/
 
    **transparent** adj. 透明的，清澈的；易识破的，显而易见的；（语言、信息等）易懂的
 
+
+#### compound /ˈkɒm.paʊnd/
+
+1. 助记：推荐：com-全部 + pound放 → 全部放到一起 → 化合物。
+2. 词源：
+   **etymology**
+   late 14c., originally compouned, "composed of two or more elements, mixed, blended," past participle of compounen (see compound (v.)). Of flowers from 1660s; compound eye is attested from 1836; compound sentence, one consisting of two or more full clauses, is from 1772.
+3. 定义：
+   1. something consisting of two or more different parts化合物 
+   2. make more intense, stronger, or more marked 使更强烈，更强，更显著
+
+
+#### colleague/ˈkɒl.iːɡ/
+
+1. 助记：col-共同 + leag-=leg-选择 + ue → 选择在一起的人 → 同事。
+
+2. 词源：
+
+   **etymology**
+
+   "an associate in office, employment, or labor," 1530s, from Middle French collègue (16c.), from Latin collega "partner in office," from assimilated form of com "with, together" (see com-) + leg-, stem of legare "send as a deputy, send with a commission," from PIE root *leg- (1) "to collect, gather." So, "one sent or chosen to work with another," or "one chosen at the same time as another."
+
+3. 定义：
+   one of a group of people who work together同事
+
+4. 拓展：
+   college（学院）：提供给学生的住宿机构
+   在中世纪大学中，最初并没有集中的校舍，学生自行解决食宿问题。后来，为了解决贫困学生以及外地学生的食宿问题，一些私人捐赠的慈善机构出现，为大学生提供住宿。这种提供给大学生的住宿机构就是college（学院），通常由一个住宿部、一个食堂、一个小礼拜堂和一座图书馆构成。欧洲最早的学院是1180年设立于巴黎的迪克斯-惠特学院，它是为18名贫穷的学生提供住处而设立的。
+   13世纪后，学院发展迅速，学院内的老师除了管理职能外，还承担了指导职能，给住在学院内的大学生提供一些额外的课程，一般由教授或住在学院内的助教开设。随着这些教育活动的增多，在某些大学，学院逐渐垄断了大学的文科教学，使得学院成为大学生生活和教学的正式中心。到16世纪中期，大多数英国和巴黎的学院已经发展成为向本科学生和研究生提供教学的自给自足的教学单位，很多学院的名气甚至超过了所在大学。
+   英语中表示“学院”的单词college来自拉丁语collegium，后缀um表示“场所”。该词字面意思就是“community of colleague”（由colleague组成的社区，一群人在一起生活、学习的场所）。colleague就是一起做事的人，可以是同事，也可以是同学。
+   college原本仅仅表示university（综合性大学）中的一个学院，但后来，college还可以用来表示独立的教育机构，如专科大学、职业教育学校，还可以用来表示“学会”。在口语中，很多人还喜欢直接用college来表示大学。
+   college：['kɒlɪdʒ] n.学院，专科大学，大学，学会
+   collegiate：[kə'lidʒɪət] adj. 大学的；学院的；大学生的
+   collegial：[kə'liːdʒɪəl; -dʒ(ə)l] adj. 学院的；社团的；大学生的
+   colleague：['kɒliːg] n.同事，同僚，同仁。
+
+
+#### assertive /əˈsɜː.tɪv/ 
+
+1. 助记：as + sert-=join insert 插入 → 强行插入观点 → 断言。assert【断言】 + -ive表形容词 
+2. 词源：
+   **etymology**
+   1560s, "declaratory, positive, full of assertion," from assert (v.) + -ive. Meaning "insisting on one's rights or authority" is short for self-assertive.
+3. 定义：Someone who is assertive behaves confidently and is not frightened to say what they want or believe观点明确的； 坚决主张的
+
+
+#### adhere /ədˈhɪər/
+
+1. 助记：ad-增加 + her=stick-粘 + e → 粘上
+2. 词源：
+   **etymology**
+   1590s, from Middle French adhérer "to stick, adhere" (15c., corrected from earlier aderer, 14c.) or directly from Latin adhaerare "to stick, cling to," from ad "to" (see ad-) + haerere "to stick" (see hesitation). Originally often of persons, "to cleave to a leader, cause, party, etc." (compare adherent (n.), which still often retains this sense). Related: Adhered; adhering.
+3. 定义：to stick firmly 黏附； 附着
+4. 拓展 her-,hes-=stick 
+   hesitance(犹豫）hes-粘 + it + -ance表名词 → 粘粘糊糊 → 犹豫。
+
+#### foster/ˈfɒs.tər/
+
+1. 助记：来自food【喂养，食物】引申为促进 培养  寄养的(给饭吃就行)
+2. 词源：
+   **etymology**
+   Old English *fostrian "to supply with food, nourish, support," from fostor "food, nourishment, bringing up," from Proto-Germanic *fostra-, from extended form of PIE root *pa- "to feed."
+3. 定义：
+   1. to take care of a child, usually for a limited time, without being the child's legal parent 寄样的 代养的
+     <<<<<<< HEAD
+
+   2. to encourage the development or growth of ideas or feelings促进 培养
+
+      ​
+
+      @穆紫
+
+      **stake **
+
+      noun [ C ] UK   /steɪk/ US   /steɪk/
+
+      1.助记.来自古英语 staca,桩，钉，销子，来自 Proto-Germanicstakon,棍，棒，柱子，来自 PIEsteg, 棍，棒，柱子，词源同 stack,stick.
+
+      2.词源.
+
+      "pointed stick or post," Old English staca "pin, stake," from Proto-Germanic *stakon (source also of Old Norse stiaki, Danish stage, Old Frisian stake, Middle Dutch stake, Dutch staak, German stake), from PIE root *steg- (1) "pole, stick." The Germanic word has been borrowed in Spanish (estaca), Old French (estaque), and Italian stacca) and was borrowed back as attach.
+
+      Meaning "post upon which persons were bound for death by burning" is recorded from c. 1200. Meaning "vertical bar affixed to the edge of a platform of s truck, rail car, etc., to hold boards to keep the load from falling off" is from 1875; hence stake-body as a type of truck (1907). In pull up stakes, "The allusion is to pulling up the stakes of a tent" [Bartlett].
+
+      3.释义.
+
+      1.a share or a financial involvement in something such as a business 股本，股份
+
+      2.the amount of money that you risk on the result of something such as a game or competition 赌注，赌金
+
+      3.a strong stick or metal bar with a pointed end 桩，标桩
+
+      4.to hold up and support something by fastening it to stakes
+
+      用桩支撑；把…系于桩上
+
+      ​
+
+      **alignment **
+
+       noun UK   /əˈlaɪn.mənt/ US   /əˈlaɪn.mənt/
+
+      1.助记.align,对齐，-ment,名词后缀。引申诸相关词义。
+
+      2.词源.
+
+      1790, "arrangement in a line," from French alignement, from aligner "to arrange in a line" (see align). Political sense is from 1933.
+
+      3.释义.
+
+      1.[ U ] an arrangement in which two or more things are positioned in a straight line or parallel to each other
+
+      列队，排整齐
+
+      2.an agreement between a group of countries, political parties, or people who want to work together because of shared interests or aims
+
+      结盟，联盟；联合
+
+      ​
+
+      **vague**
+
+       adjective UK   /veɪɡ/ US   /veɪɡ/
+
+      1.助记.来自拉丁语vagus, 漫游，偏离，引申词义模糊的。
+
+      2.词源.
+
+      "uncertain as to specifics," 1540s, from Middle French vague "empty, vacant; wild, uncultivated; wandering" (13c.), from Latin vagus "strolling, wandering, rambling," figuratively "vacillating, uncertain," of unknown origin. Related: Vagueness.
+
+      3.释义.
+
+      1.C1 not clearly expressed, known, described, or decided
+
+      含糊的，不明确的
+
+      2.C1 not clear in shape, or not clearly seen
+
+      （轮廓等）模糊的，不清楚的
+
+      3.C2 A vague person is not able to think clearly, or gives an impression of not thinking clearly in order to hide their real thoughts.
+
+      （人）迷糊的，含糊其词的
+
+      **slogan**
+
+      noun [ C ] UK   /ˈsləʊ.ɡən/ US   /ˈsloʊ.ɡən/
+
+      ​
+
+      1.助记.来自苏格兰盖尔语 sluagh-ghairm,战场呐喊声，喊杀声，来自古爱尔兰语 sluag,军队，词源同 slew,大量，ghairm,喊叫声，拟声词，词源同 garrulous.后词义通用化为标语，口号。
+
+      2.词源.
+
+      1670s, earlier slogorne (1510s), "battle cry," from Gaelic sluagh-ghairm "battle cry used by Scottish Highland or Irish clans," from sluagh "army, host, slew," from Celtic and Balto-Slavic *slough- "help, service." Second element is gairm "a cry" (see garrulous). Metaphoric sense of "distinctive word or phrase used by a political or other group" is first attested 1704.
+
+      3.释义.
+
+      C1 a short easily remembered phrase, especially one used to advertise an idea or a product
+
+      标语，口号；广告语
+
+      ​
+
+      **anticipate**  verb [ T ] UK   /ænˈtɪs.ɪ.peɪt/ US   /ænˈtɪs.ə.peɪt/
+
+      1.助记. 前缀ante-, 在前。词根cip, 同cap, 拿，抓，见capture.
+
+      2.词源.
+
+      1530s, "to cause to happen sooner," a back-formation from anticipation, or else from Latin anticipatus, past participle of anticipare "take (care of) ahead of time," literally "taking into possession beforehand," from anti, an old form of ante "before" (from PIE root *ant- "front, forehead," with derivatives meaning "in front of, before") + capere "to take," from PIE root *kap- "to grasp."
+
+      Later "prevent or preclude by prior action" (c. 1600) and "be aware of (something) coming at a future time" (1640s). Used in the sense of "expect, look forward to" since 1749, but anticipate has an element of "prepare for, forestall" that, etymologically, should prevent its being used as a synonym for expect. Related: Anticipated; anticipating.
+
+      3.释义.
+
+      1.C1 to imagine or expect that something will happen 预期，期望；预料
+
+      2.to take action in preparation for something that you think will happen 采取行动来防止；先发制人
+
+      ​
+
+      ​
+
+      **terminal**  adjective UK   /ˈtɜː.mɪ.nəl/ US   /ˈtɝː.mə.nəl/
+
+      1.助记.termin-,边界，终端，-al,形容词后缀。即终端的，后形容词作名词使用。
+
+      2.词源.
+
+      mid-15c., "relating to or marking boundaries," from Latin terminalis "pertaining to a boundary or end, final," from terminus "end, boundary line" (see terminus). Meaning "fatal" (terminal illness) is first recorded 1891. Sense of "situated at the extreme end" (of something) is from 1805. Slang meaning "extreme" first recorded 1983. Related: Termninally.
+
+      "end point of a railway line," 1888, from terminal (adj.); sense of "device for communicating with a computer" is first recorded 1954. Earlier "final part of a word" (1831).
+
+      3.释义.
+
+      1.(of a disease or illness) leading gradually to death （疾病）晚期的，末期的
+
+      2.extreme, when referring to something unpleasant or negative
+
+      极其的，极度的
+
+      3.the area or building at a station, airport, or port that is used by passengers leaving or arriving by train, aircraft, or ship
+
+      站台；候机楼，航站；码头
+
+      4.a piece of equipment consisting of a keyboard and screen, used for communicating with the part of a computer system that deals with information 计算机终端
+
+      5.the point at which a connection can be made in an electric circuit （电路的）端子，线接头
+
+      .
+
+      **inspire**  verb [ T ] UK   /ɪnˈspaɪər/ US   /ɪnˈspaɪr/
+
+      1.助记.in-,进入，使，-spir,呼吸，词源同respire,spirit.即吸入活力，吸收灵感，引申词义启发，鼓舞。
+
+      2.词源.
+
+      mid-14c., enspiren, "to fill (the mind, heart, etc., with grace, etc.);" also "to prompt or induce (someone to do something)," from Old French enspirer (13c.), from Latin inspirare "blow into, breathe upon," figuratively "inspire, excite, inflame," from in- "in" (from PIE root *en "in") + spirare "to breathe" (see spirit (n.)).
+
+      The Latin word was used as a loan-translation of Greek pnein in the Bible. General sense of "influence or animate with an idea or purpose" is from late 14c. Also sometimes used in literal sense in Middle English. Related: Inspires; inspiring.
+
+      3.释义.
+
+      1.B2 to make someone feel that they want to do something and can do it 激励，鼓舞
+
+      2.to make someone have a particular strong feeling or reaction
+
+      唤起，激起
+
+      3.to give someone an idea for a book, film, product, etc.
+
+      赋予灵感；激发（想法）                                                                                                                                                                                                                                                                                                                     
+      =======
+   3. to encourage the development or growth of ideas or feelings促进 培养
+
+#### accuse /əˈkjuːz/
+
+1. 助记：ac-朝 向 去+ cuse-原因 → 有理由指责别人。
+2. 词源:
+   etymology
+   c. 1300, "charge (with an offense, fault, error, etc.), impugn, blame," from Old French acuser "to accuse, indict, reproach, blame" (13c., Modern French accuser), earlier "announce, report, disclose" (12c.), or directly from Latin accusare "to call to account, make complaint against, reproach, blame; bring to trial, prosecute, arraign indict," from ad causa, from ad "with regard to" (see ad-) + causa "a cause; a lawsuit" (see cause (n.)). "Accuse commonly, though not invariably, expresses something more formal and grave than charge" [Century Dictionary, 1902]. Related: Accused; accusing; accusingly.
+3. 定义：to say that someone has done something morally wrong, illegal, or unkind:
+   指责，谴责； 指控；
+4. 拓展：
+   caus-/cus-（理由、指控）：古罗马的法庭辩论制度
+   古罗马实施公开审理制度。与公开审理相适应，采取法庭辩论的原则，允许当事人及其保护人展开辩论，辩论结束后法官才有资格作出判决。英语词根caus-/cus-源自拉丁语名词causa和动词causare，本意是“理由、引起”，衍生含义是“指控、诉讼”，因为对于古罗马人而言，“指控”某人即为要求某人在法庭上进行辩护，解释说明自己做某件事的理由。
+   例如，英语单词excuse由ex（out）和cuse（指控）构成，本意就是“从指控中脱身而出”，作名词时表示“理由”，作动词时表示“原谅、请求原谅”。
+   caus-/cus-：理由，指控，控告
+   cause：[kɔz] n. 理由，原因；事业；目标vt. 引起；使遭受
+   because：[bɪ'kɔz] conj. 因为
+   excuse：[ɪk'skjʊs] n. 借口；理由vt. 原谅；为…申辩；给…免去vi. 作为借口；请求宽恕；表示宽恕
+   accuse：[ə'kjuz] vt. 控告，指控；谴责；归咎于vi. 指责；控告
+
+#### duality/dʒuːˈæl.ə.ti/
+
+1. 助记：dual a. 双重的, 双的 n. 双数
+        -ity 表名词，指具备某种性质。
+2. 词源：
+   etymology
+   late 14c., from Old French dualité (14c.), from Late Latin dualitas, from Latin dualis (see dual)
+3. 定义：the state of combining two different things 二元性
+4. 拓展：du- dub- doub- =two
+   double 两倍 duad 一对 一双 dual 双重的 双的
+
+#### conceal/kənˈsiːl/
+
+1. 助记：con-强调 + ceal-隐藏
+2. 词源：
+   etymology
+   early 14c., concelen, "to keep close or secret, forbear to divulge," from Old French conceler "to hide, conceal, dissimulate," from Latin concelare "to hide," from con-, here probably an intensive prefix (see con-), + celare "to hide," from PIE root *kel-(1) "to cover, conceal, save." From early 15c. as "to hide or shield from observation." Replaced Old English deagan. Related: Concealed; concealing; concealable.
+3. 定义：to prevent something from being seen or known about 隐藏，隐瞒，遮住
+4. 拓展：ceal-,cel, cul,=hide 
+   cellar 地窖 地下室 酒藏  
+   cella 内殿
+
+#### spin /spɪn/
+
+1. 助记：来自古英语 spinnan,纺纱，织线，来自 Proto-Germanic*spenwan,弯，转，纺  纺纱的时候 需要转动纺纱车 引申为旋转
+2. 词源：
+   etymology
+   1831, "a rapid revolving motion," from spin (v.). Meaning "fairly rapid ride" is from 1856. Sense of "a twisting delivery in throwing or striking a ball" is from 1851. Sense in physics is from 1926. Meaning "act of playing a phonograph record" is from 1977. Meaning "influence imparted by a media source" is from 1984.
+3. 定义：to (cause to) turn around and around, especially fast  纺纱 旋转
+4. 拓展：
+   spinster（老姑娘）：纺织嫁妆的未婚女子
+   英语单词spinster由spin（纺织）+ster（女性名词后缀）构成，字面意思就是“纺织女”。在古代英国传统中，未婚女子的主要工作就是纺织。女孩需要在结婚前纺织好自己将来结婚时所需要的床单、被套、衣裙等嫁妆。因此，未婚女子在英语中就被称为spinster。从18世纪开始，该词逐渐用来表示过了适龄年纪的未婚女子，即我们常说的“剩女”。
+   spinster：['spɪnstə] n.老姑娘，大龄未婚女子；未婚女子
+   spin：[spɪn] v. （使）旋转；纺纱；吐丝；晕眩；编造；结网n. 旋转；疾驰
+   spinder  [ˈspaɪdə(r)]蜘蛛 
+
+
+#### virtual /ˈvɜː.tʃu.əl/
+
+1. 助记：来自virtue , 男人的品行，品质，原义为男人的，男人应有的品行和美德，后引申词义看不见但却实质存在的品行，类似于汉语“气场”，后用于计算机术语虚拟的。
+
+2. 词源：
+   etymology
+   late 14c., "influencing by physical virtues or capabilities, effective with respect to inherent natural qualities," from Medieval Latin virtualis, from Latin virtus "excellence, potency, efficacy," literally "manliness, manhood" (see virtue). The meaning "being something in essence or effect, though not actually or in fact" is from mid-15c., probably via sense of "capable of producing a certain effect" (early 15c.). Computer sense of "not physically existing but made to appear by software" is attested from 1959.
+
+3. 定义： almost a particular thing or quality
+   实质上的，事实上的； 虚拟的
+
+4. 拓展：
+   virtue（美德）：男人的能力和功效
+   重男轻女的思想自古就有，中外概莫能免。英语单词virtue就反映了这种思想。它来自拉丁语virtus，词根是vir（男人），同根词有virile（男性的，有男子气概的）。virtue的基本含义是“男人的能力和功效”。其隐含之意就是男性是世界的创造者，男人创造世界凭借的就是这种virtue。英语短语by virtue of（凭借）用的正是virtue的本意，即“功效”。除了“功效”外，virtue一词还往往被译为“美德”、“德性”，主要指“英勇、勇敢、刚毅”等与男人气概相关的道德品质，其实归根到底还是指男人气概的“功效”。virtue还可以用来表示女性的美德，但主要指“贞操”，即“忠诚于男性”这一美德。所以不妨可以把virtue理解为“男德”。在古罗马，有一个广受崇拜的神祇维尔图斯（Virtus），其实就是virtue的人格化和神化。
+   由virtue衍生出来的单词virtual（虚拟的）更能体现virtue的本意。virtual指的是“虽然并不客观存在，但却能产生一样的功效，从功效上看相当于存在一样。”最常见的就是网络上的虚拟人物、虚拟物品、虚拟场景。
+   virtue： ['vɜːtjuː; -tʃuː] n.美德，贞操，优点，功效
+   virile： ['vɪraɪl] adj.男人的，有男人气概的，刚健的
+   virility：[və'rɪləti] n. 男子气；男子特点；生殖力
+   virtual： ['vɜːtjʊəl] adj.虚拟的，几乎是事实的
+
+   ​
+transparent
+
+ adjective UK   /trænˈspær.ənt/ US   /trænˈsper.ənt/
+
+1.助记.trans-,进入，穿过，-par,发光，透明，词源同 appear,apparent.
+
+2.词源.
+
+early 15c., from Medieval Latin transparentem (nominative transparens), present participle of transparere "show light through," from Latin trans "across, beyond; through" (see trans-) + parere "come in sight, appear; submit, obey" (see appear). Figurative sense of "easily seen through" is first attested 1590s. The attempt to back-form a verb transpare (c. 1600) died with the 17c. Related: Transparently
+
+3.释义.
+
+1.B2 If a substance or object is transparent, you can see through it very clearly. 透明的
+
+2.clear and easy to understand or recognize 清楚易懂的；显而易见的
+
+3.open and honest, without secrets 公开和诚实的，无秘密的
+
+
+
+meritocracy 
+
+noun [ C or U ] UK   /ˌmer.ɪˈtɒk.rə.si/ US   /ˌmer.əˈtɑː.krə.si/
+
+1.助记.merit,才能，-cracy,管理，词源同democracy.引申词义精英领导体制
+
+2.词源.
+
+coined 1958 by British sociologist Michael Young (1915-2002) and used in title of his book, "The Rise of the Meritocracy"; from merit (n.) + -cracy. Related: Meritocratic.
+
+[Young's book] imagined an elite that got its position not from ancestry, but from test scores and effort. For him, meritocracy was a negative term; his spoof was a warning about the negative consequences of assigning social status based on formal educational qualifications, and showed how excluding from leadership anyone who couldn't jump through the educational hoops would create a new form of discrimination. And that's exactly what has happened. [Lani Guinier, interview, "New York Times," Feb. 7, 2015]
+
+3.释义.
+
+a social system, society, or organization in which people have power because of their abilities, not because of their money or social position
+
+精英领导体制；精英管理的社会
+
+suboptimal 
+
+adjective also sub-optimal UK   /ˌsʌbˈɒptɪməl/ US 
+
+1.助记.sub- + optima
+
+2.词源.
+
+also sub-optimal, 1901, from sub- + optimal. Related: Suboptimally.
+
+3.释义.
+
+below the highest level or standard, or not done in the best way possible: 次最优的；最适度下的；未达最佳标准的
