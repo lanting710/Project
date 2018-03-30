@@ -150,7 +150,129 @@
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
 
+ **Cultivate** /ˈkʌl.tə.veɪt/ 培养
 
+1. 助记,
+
+   cult+iv(e)+ate
+
+   cult- 培育 + **-ive** 形容词词尾 + **-ate** 动词词尾
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century: from medieval Latin cultivat- ‘prepared for crops’, from the verb cultivare, **from cultiva (terra) ‘arable (land)’,** from colere ‘cultivate, inhabit’.
+
+   **Etymology**
+
+   early 17c., from Medieval Latin cultivatus, past participle of cultivare "to cultivate," from Late Latincultivus "tilled," **from Latin cultus "care, labor; cultivation," from past participle of colere "to till" (see[colony](https://www.etymonline.com/word/colony?ref=etymonline_crossreference)).** Figurative sense of "improve by training or education" is from 1680s. Related: Cultivable;cultivated; cultivating.
+
+3. 释义,
+
+   培养  to try to develop and improve something
+
+4. 拓展
+
+   adj.
+
+   [cultivated](javascript:void(0);) 耕种的；有教养的
+
+   [cultivable](javascript:void(0);) 可培养的，可教化的；可耕种的
+
+   n.
+
+   [cultivation](javascript:void(0);) 培养；耕作；耕种；教化；文雅
+
+   [cultivator](javascript:void(0);) 耕者；栽培者；耕田机
+
+   v.
+
+   [cultivated](javascript:void(0);) 发展（cultivate的过去分词）；耕作；教化
+
+
+
+ **Fairness** /ˈfer.nəs/ 公平的
+
+1. 助记,
+
+   fair+ness
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   Old English fægernes "beauty;" **see [fair](https://www.etymonline.com/word/fair?ref=etymonline_crossreference) (adj.) + [-ness](https://www.etymonline.com/word/-ness?ref=etymonline_crossreference).** Meaning "even-handedness, impartiality" is from mid-15c. Meaning "lightness of complexion" is from 1590s.
+
+3. 释义,
+
+   公正 the quality of treating people equally or in a way that is right or reasonable
+
+4. 拓展
+
+   fair  公平的；美丽的，白皙的；[气象] 晴朗的
+
+   [fairly](javascript:void(0);) 相当地；公平地；简直
+
+
+
+ **Generosity** /ˌdʒen.əˈrɑː.sə.t̬i/ 大方
+
+1. 助记,
+
+   gener+osity
+
+   **-gener-** 生殖 + **-osity**	生殖-多的-慷慨大方
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (denoting nobility of birth): from Latin generositas, from generosus ‘magnanimous’ (see generous). Current senses date from the 17th century.
+
+   **Etymology**
+
+   early 15c., "nobility, goodness of race," from Latin generositatem (nominative generositas) "nobility, excellence, magnanimity," from generosus "of noble birth; magnanimous" (see [generous](https://www.etymonline.com/word/generous?ref=etymonline_crossreference)). **Meaning "munificence,** quality of being generous" is recorded from 1670s.
+
+3. 释义,
+
+   大方  the quality or condition of being generous
+
+4. 拓展
+
+   generous慷慨的，大方的；宽宏大量的；有雅量的
+
+   [generously](javascript:void(0);) 慷慨地；宽大地；丰盛地
+
+
+
+**Treasure** /ˈtreʒ.ɚ/ 珍惜
+
+1. 助记,
+
+   来自古法语 **tresor,** 宝库，藏宝，来自拉丁语 **thesaurus,** 宝库，来自希腊语 **thesauros,** 仓库，来 自 **PIE** * **dhe,** 做，放置，词源同**do,thesis,thesaurus.** 引申词义财富，珍宝,珍惜
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French tresor, based on Greek thēsauros (see thesaurus).
+
+   **Etymology**
+
+   late 14c., "to amass treasure; to store up for the future," also figurative, "regard as precious, retain carefully in the mind," from [treasure](https://www.etymonline.com/word/treasure?ref=etymonline_crossreference) (n.). Related: Treasured; treasuring.
+
+3. 释义,
+
+   珍惜 **to take great care of something because you love it or consider it veryvaluable**
+
+4. 拓展
+
+   [treasury](javascript:void(0);) 国库，金库；财政部；宝库
+
+​      [treasurer](javascript:void(0);) 会计；司库；财务主管；出纳员
 
 
 
