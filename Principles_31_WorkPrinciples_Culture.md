@@ -151,9 +151,9 @@
 
 1. 助记：un- 表示“不，无，非，没有”
     scruple n. 踌躇, 犹豫, 微量 vi. 踌躇, 有顾忌
-   -ous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
-   scruple 原意表示“小石子”，引申为顾虑
-   unscrupulous  无顾虑的 肆无忌惮的 不择手段的
+      -ous 表形容词，表示“…的”，用于化学领域表示“亚酸的，低价（金属）的”。
+      scruple 原意表示“小石子”，引申为顾虑
+      unscrupulous  无顾虑的 肆无忌惮的 不择手段的
 2. 词源：
    etymology
    scruple
@@ -201,6 +201,158 @@
    1. to remove or take away someone or something消除，剔除，根除
    2. to defeat someone so that they cannot continue in a competition淘汰
    3. to murder someone 消灭;干掉
+
+
+
+**Assertive** /əˈsɝː.t̬ɪv/ 坚定的
+
+1. 助记,
+
+   assert+ive
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1560s, "declaratory, positive, full of assertion," **from [assert](https://www.etymonline.com/word/assert?ref=etymonline_crossreference) (v.) + [-ive](https://www.etymonline.com/word/-ive?ref=etymonline_crossreference).** Meaning "insisting on one's rights or authority" is short for [self-assertive](https://www.etymonline.com/word/self-assertive?ref=etymonline_crossreference).
+
+3. 释义,
+
+   坚定的 Someone who is assertive behaves confidently and is not frightened to say what they want or believe.
+
+4. 拓展
+
+   adj. [assertive](javascript:void(0);) 肯定的；独断的；坚定而自信的
+
+   adv.[assertively](javascript:void(0);) 独断地；断言地
+
+   n.[assertion](javascript:void(0);) 断言，声明；主张，要求；坚持
+
+   vt.[assert](javascript:void(0);) 维护，坚持；断言；主张；声称
+
+
+
+ **Imperfection** /ˌɪm.pɚˈfek.ʃən/ 缺点
+
+1. 助记,
+
+   im+perfect+ion
+
+   im-不\非+perfect 完美的---即不完美的--缺点
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from late Latin imperfectio(n-), from imperfectus (see imperfect).
+
+   **Etymology**
+
+   late 14c., "incompleteness, deficiency, lack," from Old French imperfeccion "defect; imperfect state" (12c.) and directly from Late Latin imperfectionem (nominative imperfectio) "imperfection," noun of action **from Latin imperfectus "imperfect"(see [imperfect](https://www.etymonline.com/word/imperfect?ref=etymonline_crossreference)).** Meaning "an instance of being imperfect" is from early 15c.
+
+3. 释义,
+
+   缺点 a fault or weakness
+
+4. 拓展
+
+   同义词
+
+   [defect](javascript:void(0);) / [deficiency](javascript:void(0);) / [vice](javascript:void(0);) / [fault](javascript:void(0);) / [disadvantage](javascript:void(0);)
+
+   同根词
+
+   [imperfect](javascript:void(0);) 有缺点的；未完成的；半过去的；未完成时的
+
+   [imperfectible](javascript:void(0);) 不可能完善的；无法致于完美的
+
+   [imperfective](javascript:void(0);) 未完成体的；未完成体动词的
+
+   [imperfect](javascript:void(0);) 有瑕疵地；有缺点地
+
+   [imperfectly](javascript:void(0);) 有缺点地；不完美地；未完成地
+
+   [imperfect](javascript:void(0);) 未完成体
+
+   [imperfective](javascript:void(0);) 未完成体；未完成体动词
+
+   [imperfectness](javascript:void(0);) 不完全；缺点
+
+
+
+**Arbitrary**/ˈɑːr.bə.trer.i/ 武断的
+
+1. 助记,
+
+   arbitr(er)+ary
+
+   arbiter,仲裁，裁判，-ary,形容词后缀。做出自己的判断--武断的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘dependent on one's will or pleasure, discretionary’): from Latin arbitrarius, from arbiter ‘judge, supreme ruler’, perhaps influenced by French arbitraire.
+
+   **Etymology**
+
+   c. 1400, "deciding by one's own discretion, depending on one's judgment," from Latin arbitrarius "of arbitration," hence "depending on the will, uncertain," from arbiter (see [arbiter](https://www.etymonline.com/word/arbiter?ref=etymonline_crossreference)). The meaning in English gradually descended to "capricious, ungoverned by reason or rule, despotic" (1640s). Related: Arbitrarily; arbitrariness.
+
+3. 释义,
+
+   武断的  based on chance rather than being planned or based on reason
+
+4. 拓展
+
+   arbiter（仲裁者）：古罗马时期的审判员制度
+   古罗马时期，国家的司法权力掌握在“裁判官”手中。这个职位最早设立于公元前376年，是从执政官的职权中分离出来的，地位仅次于执政官，享有在其职责范围内的法律方面的最高权威。但裁判官并不参与具体案件的审判，而是交给审判员去审理。审判员不是国家官吏，他是由裁判官从预定名单中选定并授权处理特定案件的公断人，因此在拉丁语中被称为arbiter，由ad（to）和baetere（来、去）构成，字面意思就是“去某地（审案）的人”。
+   arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于：arbiter一词更为古老，是书面用语，通常应用于文学领域，“审判”的意味胜过“仲裁”；而arbitrator比较通俗，通常表示受争议双方所托，居中仲裁，拥有较大的自由裁量权，甚至可以是arbitrary（独断的）。
+   arbiter：['ɑːbɪtə] n.仲裁者，裁决人
+   arbitrator：['ɑːbɪtreɪtə] n.仲裁者，公断人
+   arbitrate：['ɑrbɪtret] vt.仲裁，公断
+   arbitrary：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
+
+
+
+**Appendix** /əˈpen.dɪks/ 附录
+
+1. 助记,
+
+   1)append+dix
+
+   append-附加+ix
+
+   2)ad+pendere
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in appendix (sense 2)): from Latin, **from appendere ‘hang upon’ (see append). appendix (sense 1) dates from the early 17th century.**
+
+   **Etymology**
+
+   1540s, "subjoined addition to a document or book," from Latin appendix "an addition, continuation, something attached," from appendere "cause to hang (from something)," **from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + pendere "to hang" (from PIE root [*(s)pen-](https://www.etymonline.com/word/*(s)pen-?ref=etymonline_crossreference) "to draw, stretch, spin").** Used for "small outgrowth of an internal organ" from 1610s, especially in reference to the vermiform appendix. This sense in English is perhaps from or influenced by French appendix, where the term was in use in anatomy from 1540s.
+
+3. 释义,
+
+   附录   a separate part at the end of a book or magazine that gives extra information
+
+4. 拓展
+
+   [appendant](javascript:void(0);) 附属的；附加的
+
+   [appendectomy](javascript:void(0);) [外科] 阑尾切除术
+
+   [appendant](javascript:void(0);) 附属物；附属品
+
+   [appendicectomy](javascript:void(0);) 阑尾切除术
+
+
+
+
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
 
