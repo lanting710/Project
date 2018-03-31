@@ -202,6 +202,67 @@
    2. to defeat someone so that they cannot continue in a competition淘汰
    3. to murder someone 消灭;干掉
 
+#### spouse/spaʊs/
+
+1. 助记：来自古法语 spouse,婚姻伴侣，来自拉丁语 sponsus,新郎，来自spondere,庄严的承诺，词源同 sponsor
+   spond-,spons,spous-: =promise 承诺
+2. 词源：
+   etymology
+   c. 1200, "a married person, either one of a married pair, but especially a married woman in relation to her husband," also "Christ or God as the spiritual husband of the soul, the church, etc.," also "marriage, the wedded state," from Old French spous (fem. spouse) "marriage partner," variant of espous/espouse (Modern French épous/épouse), from Latin sponsus "bridegroom" (fem. sponsa "bride"), literally "betrothed," from masc. and fem. past participle of spondere "to bind oneself, promise solemnly," from PIE *spend- "to make an offering, perform a rite" (see spondee). Spouse-breach (early 13c.) was an old name for "adultery."
+3. 定义：a person's husband or wife 配偶
+4. 拓展：
+   spouse（配偶）：古希腊人的签约祭神习俗
+   古希腊人在签订协议时都喜欢请神灵来做见证，方式就是在签订协议的同时祭奠神灵，最常用的祭奠方式就是奠酒，即把酒洒在地上请神灵享用。在希腊语中表示“奠酒”的单词是sponde，该词因而衍生出“承诺、立约”的含义。sponde进入拉丁语后演变为spondere，立约人则称为sponsus。古人结婚其实就是签订婚约然后举行婚礼，所以签订婚约的人也被称为sponsus。英语单词spouse（配偶）就来源于此，本意就是“签订了婚约的人”。与它同源的单词有sponsor（赞助者、举办者）等。
+   spouse：[spaʊz; -s] n.配偶，vt.和……结婚
+   spousal：['spaʊz(ə)l] adj.结婚的n.婚礼，结婚仪式
+   sponsor：['spɒnsə] n.赞助者，举办者，保证人vt.赞助，发起
+   espouse：[ɪ'spaʊz] vt. 支持；嫁娶；赞成；信奉
+   espousal：[ɪ'spaʊz(ə)l; e-] n. 拥护；信奉；订婚
+
+#### casual/ˈkæʒ.u.əl/
+
+1. 助记：cas-落下 + -ual表形容词 → 落下的 → 不是安排好的 → 偶然的。
+   cas-=fall 表示落下 降临 -ual 表示 “...的”
+2. 词源：
+   etymology
+   ate 14c., "subject to or produced by chance," from Middle French casuel (15c.), from Late Latin casualis "by chance," from Latin casus "chance, occasion, opportunity; accident, event" (see case (n.1)).
+   case
+   early 13c., "what befalls one; state of affairs," from Old French cas "an event, happening, situation, quarrel, trial," from Latin casus "a chance, occasion, opportunity; accident, mishap," literally "a falling," from cas-, past participle stem of cadere "to fall, sink, settle down, decline, perish" (used widely: of the setting of heavenly bodies, the fall of Troy, suicides), from PIE root *kad- "to fall."
+3. 定义：Casual clothes are not formal or not suitable for special occasions 偶然的 不经意的 便装的
+
+#### severity/sɪˈver.ə.ti/
+
+1. 助记：severe 严格的 + -ity表名词  严重性
+   se-否定前缀+ver-仁慈， ”严厉“ 就是不仁慈
+2. 词源：
+   etymology
+   late 15c., "austerity or strictness of life," from Middle French severite, from Latin severitas "seriousness, strictness, sternness," from severus "stern, strict, serious," of uncertain origin, probably from PIE root *segh- "to have, hold," on the notion of "steadfastness, toughness." Meaning "strictness in dealing with others" is recorded from 1520s.
+3. 定义： seriousness 严重 严格 严谨
+
+#### acquaintance /əˈkweɪn.təns/
+
+1. 助记：acquaint【认识】 + -ance表名词
+   ac-使 + quaint-知道 → 使[人们]知道 →使认识
+2. 词源：
+   etymology
+   c. 1300, "state of being acquainted;" late 14c., "person with whom one is acquainted;" also "personal knowledge;" from Old French acointance "acquaintance, friendship, familiarity," noun of action from acointer "make known" (see acquaint). Acquaintant (17c.), would have been better in the "person known" sense but is now obsolete. Fowler regards acquaintanceship (1792) as a "needless variant."
+3. 定义：
+   1. a person that you have met but do not know well熟人
+
+
+#### oblige/əˈblaɪdʒ/
+
+1. 助记：ob-加强 + lig-绑 + e → 绑住某人 → 迫使 , 束缚。
+2. 词源：
+   etymology
+   c. 1300, "to bind by oath," from Old French obligier "engage one's faith, commit (oneself), pledge" (13c.), from Latin obligare "to bind, bind up, bandage," figuratively "put under obligation," from ob "to" (see ob-) + ligare "to bind（约束 捆绑)" from PIE root *leig- "to tie, bind." Main modern meaning "to make (someone) indebted by conferring a benefit or kindness" is from 1560s. Related: Obliged; obliging.
+3. 定义：
+   1. to force someone to do something, or to make it necessary for someone to do something 强迫 强制
+
+   2. to please or help someone, especially by doing something they have asked you to do 使感激 施惠于
+
+      be obliged to do sth 被强迫做某事
+
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
 
  **Cultivate** /ˈkʌl.tə.veɪt/ 培养
