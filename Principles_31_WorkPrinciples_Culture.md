@@ -110,7 +110,7 @@
 
    [typicality](javascript:void(0);) 典型性
 
-   [typification](javascript:void(0);) 典型化；代表；象征
+
 
    [typify](javascript:void(0);) 代表；作为…的典型；具有…的特点
 
