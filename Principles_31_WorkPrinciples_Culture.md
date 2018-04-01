@@ -263,6 +263,48 @@
 
       be obliged to do sth 被强迫做某事
 
+**undermine/ˌʌn.dəˈmaɪn/**
+
+1. 助记：under-在下面 + mine【挖】 → 挖墙角。
+2. 词源：
+   etymology
+   c. 1300, undermyne, "render unstable by digging at the foundation," from under + mine (v.). The figurative sense "injure by invisible, secret, or dishonorable means" is attested from early 15c. Similar formation in Dutch ondermijnen, Danish underminere, German unterminiren. The Old English verb was underdelfan. Related: Undermined; undermining.
+3. 定义：o gradually weaken or destroy someone or something 
+   undermine（暗中破坏）：暗中挖掘地道摧毁敌人堡垒
+   英语单词mine作名词时表示“矿”，作动词时表示“采矿”。采矿的基本方式就是在地下挖掘地道，因此mine还含有“挖掘地道”的含义。古代打仗时，为了摧毁敌人的壁垒，人们往往会暗中挖掘地道，逐渐逼近敌人壁垒，然后通过地道发起攻击或使用炸药来摧毁敌人壁垒。这种作战手法就被称为undermine，字面意思就是“在下面挖掘地道”。后来，该词被普遍应用于更多领域，表示“暗中破坏”。
+   undermine：[ʌndə'maɪn] vt.暗中破坏，逐渐破坏，挖掘地道，挖掘地基
+
+**prudent/ˈpruː.dənt/**
+
+1. 助记：pr-=pro-前面 + ud-=vid-看 + -ent表形容词。- 来自古法语 prudent,审慎的，谨慎的，来自（缩写自）拉丁语 providere,预见，提前看到，提前准备，词源同 provide.引申词义精明的。
+2. 词源：
+   etymology
+   late 14c., from Old French prudent "with knowledge, deliberate" (c. 1300), from Latin prudentem (nominative prudens) "knowing, skilled, sagacious, circumspect;" rarely in literal sense "foreseeing;" contraction of providens, present participle of providere "look ahead, prepare, supply, act with foresight," from pro "ahead" (see pro-) + videre "to see" (from PIE root *weid- "to see"). Related: Prudently.
+3. 定义：careful and avoiding risks 小心的，慎重的; 顾虑周到的
+
+**steadfast/ˈsted.fɑːst./ **
+
+1. 助记：stead-和stand有关 + fast
+   stead- = stand, 表示“站、立
+   fast 
+   a. 快速的, 紧的 ad. 很快地, 紧紧地, 彻底地 n. 绝食, 斋戒 vi. 绝食, 斋戒
+2. 词源：
+   etymology
+   Old English stedefæst "secure in position, steady, firm in its place," from stede (see stead) + fæst (see fast (adj.)); similar formation in Middle Low German stedevast, Old Norse staðfastr "steadfast, firm; faithful, staunch, firm in one's mind." Of persons, in English, "unshakable, stubborn, resolute" from c. 1200. Related: Steadfastly, steadfastness.
+3. 定义：strongly and without stopping坚定的 固定的
+4. 拓展：
+   飞机起飞时或上车后，我们要fasten our safety belt ，这里的fasten就是动词使固定；扣紧。而steadfast ['stedfɑːst; -fəst] adj.坚定的，就是standing firmly了，stead-和stand有关。而每天早上吃breakfast，则是打破“牢牢”遵守的基督教意义上的晚餐和早晨之间的（fasting禁食和斋戒）。
+
+**vulnerable /ˈvʌl.nər.ə.bəl/**
+
+1. 助记：vulner-创伤 + -able表形容词
+   vulner- = wound, 表示“创伤
+   able 表形容词，“可…的，能…”
+2. 词源：
+   etymology
+   c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see svelte), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see Valhalla).
+3. 定义： able to be easily physically, emotionally, or mentally hurt, influenced, or attacked 易受攻击的 脆弱的 易感染（某种疾病）的
+
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
 
  **Cultivate** /ˈkʌl.tə.veɪt/ 培养
@@ -389,6 +431,16 @@
 
 ​      [treasurer](javascript:void(0);) 会计；司库；财务主管；出纳员
 
+#### utilitarian/ˌjuː.tɪ.lɪˈteə.ri.ən/
+
+1. 助记：util【使用，利用】 + itarian，即利用主义，功利主义。词源同 use.
+   util = use, 表示“用 utility效用 功用
+    -arian 表形容词或名词，“…的(人)”
+2. 词源：
+   etymology
+   1781, coined by Jeremy Bentham (1748-1832) from utility + -arian on the model of + unitarian, etc. One guided by the doctrine of the greatest happiness for the greatest number. From 1802 as an adjective; in the general sense "having regard to utility rather than beauty," from 1847.
+3. 定义：
+   to be useful rather than decorative 实用的 效用的
 
 
 
