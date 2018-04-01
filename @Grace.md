@@ -6,7 +6,7 @@ UK /ˌfɪlə'sɒfɪə/ US /ˌfɪlə'sɑfɪə/
 
 1. 助记,
 
-   “philo-”+“sophia” = "love of wisdom，love of knowledge, pursuit of wisdom；systematic investigation"这是一个组合新词。字面上的意思为“智慧的爱”，后释义为“哲学”。
+   “philo-”+“sophia” = "love of wisdom，love of knowledge, pursuit of wisdom；systematic investigaticon"这是一个组合新词。字面上的意思为“智慧的爱”，后释义为“哲学”。
 
    **philo-**：前缀，构成名词、形容词、动词和副词，，表示“爱好，喜爱”，‘liking，loving’。
 
