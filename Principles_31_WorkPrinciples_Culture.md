@@ -203,6 +203,10 @@
    3. to murder someone 消灭;干掉
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/master
 
 
 **Assertive** /əˈsɝː.t̬ɪv/ 坚定的
@@ -354,7 +358,10 @@
 
 
 
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
 #### spouse/spaʊs/
 
 1. 助记：来自古法语 spouse,婚姻伴侣，来自拉丁语 sponsus,新郎，来自spondere,庄严的承诺，词源同 sponsor
@@ -415,6 +422,11 @@
    2. to please or help someone, especially by doing something they have asked you to do 使感激 施惠于
 
       be obliged to do sth 被强迫做某事
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+
+
 >>>>>>> upstream/master
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
