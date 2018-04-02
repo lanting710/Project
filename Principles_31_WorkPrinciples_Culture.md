@@ -687,7 +687,141 @@
 
 ## 5. Believability Weight Your Decision Making
 
+​    @aqua 2018-04-02
 
+​    **Override** /ˌoʊ.vɚˈraɪd/ 否决
+
+1. 助记,
+
+   over+ride
+
+   over-上+ride-骑--骑在上面--推翻下面的
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   Old English oferridan "to ride across," **from ofer "over" (see [over](https://www.etymonline.com/word/over?ref=etymonline_crossreference)) + ridan "to ride" (see [ride](https://www.etymonline.com/word/ride?ref=etymonline_crossreference) (v.)).** Originally literal, of cavalry, etc. Figurative meaning "to set aside arrogantly" is from 1827. The mechanical sense "to suspend automatic operation" is attested from 1946. As a noun in this sense from 1946. Related: Overrode; overriding; overridden.
+
+3. 释义,
+
+    否决 of a person who has the necessary authority) to decide against orrefuse to accept a previous decision, an order, a person, etc.
+
+4. 拓展
+
+   overriding 高于一切的，最重要的 践踏；压垮；不顾
+
+
+
+​    **Supersede**/ˌsuː.pɚˈsiːd/ 取代
+
+1. 助记,
+
+   super+sede
+
+   super-在上面+sed-sit-坐--坐到上面去，坐到别人的位子上，替代、取代
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 15th century (in the sense ‘postpone, defer’): from Old French superseder, from Latin supersedere ‘be superior to’, **from super- ‘above’ + sedere ‘sit’.** The current sense dates from the mid 17th century.
+
+   **Etymology**
+
+   mid-15c., Scottish, "postpone, defer," from Middle French superceder "desist, delay, defer," from Latinsupersedere literally "sit on top of;" also, with ablative, "stay clear of, abstain from, forbear, refrain from," **from super "above" (see [super-](https://www.etymonline.com/word/super-?ref=etymonline_crossreference)) + sedere "to sit,"** from PIE root [*sed-](https://www.etymonline.com/word/*sed-?ref=etymonline_crossreference) (1) "to sit." Meaning "displace, replace" first recorded 1640s. Related: Superseded; superseding.
+
+3. 释义,
+
+   取代 to replace something, especially something older or more old-fashioned
+
+4. 拓展
+
+   [supersession](javascript:void(0);) 废弃；代替
+
+   [supersedure](javascript:void(0);) 接替；代替
+
+
+
+   **Arrogant** /ˈær.ə.ɡənt/ 狂妄的
+
+1. 助记,
+
+   ar+rog+art
+
+   ar-朝、向、去，rog-ask-要求，严厉的要求  ，ant-的，表傲慢、狂妄的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin arrogant- ‘claiming for oneself’, from the verb arrogare (see arrogate).
+
+   **Etymology**
+
+   "disposed to give oneself undue importance, aggressively haughty," late 14c., from Old Frencharrogant (14c.), from Latin arrogantem (nominative arrogans) "assuming, overbearing, insolent," present participle of arrogare "to claim for oneself, assume," **from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + rogare "to ask, entreat, request,"** apparently a figurative use of a PIE verb meaning literally "to stretch out (the hand)," from root [*reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference) "move in a straight line." Related: Arrogantly.
+
+3. 释义,
+
+   狂妄的 unpleasantly proud and behaving as if you are more important than, orknow more than, other people
+
+4. 拓展
+
+   adv.arrogantly傲慢地；自大地
+
+   n.arrogance自大；傲慢态度
+
+   arrogation诈称；僭越；霸占
+
+
+
+  **Oppose** /əˈpoʊz/ 抵制
+
+1. 助记,
+
+   op+pose
+
+   op-相对、对着+pos-放置--对着放的--反对、抵制
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French opposer, **from Latin opponere (see opponent),** but influenced by Latin oppositus ‘set or placed against’ and Old French poser ‘to place’.
+
+   **Etymology**
+
+   late 14c., from Old French oposer "oppose, resist, rival; contradict, state opposing point of view" (12c.), **from poser "to place, lay down" (see [pose](https://www.etymonline.com/word/pose?ref=etymonline_crossreference) (v.1))**, blended with Latin opponere "oppose, object to, set against" (see [opponent](https://www.etymonline.com/word/opponent?ref=etymonline_crossreference)). Related: Opposed; opposing.
+
+3. 释义,
+
+   抵制 to disagree with something or someone, often by speaking or fightingagainst it, him, or her
+
+4. 拓展
+
+   [opposite](javascript:void(0);) 相反的；对面的；对立的
+
+   [opposed](javascript:void(0);) 相反的；敌对的
+
+   [opposing](javascript:void(0);) 反对的；相对的；对面的
+
+   [opposable](javascript:void(0);) 可反对的；可相对的
+
+   [oppositive](javascript:void(0);) 反对的；相反的
+
+   [opposite](javascript:void(0);) 在对面
+
+   [oppositely](javascript:void(0);) 反向地；在相反的位置；面对面
+
+   [opposite](javascript:void(0);) 对立面；反义词
+
+   [opposition](javascript:void(0);) 反对；反对派；在野党；敌对
+
+   [opposer](javascript:void(0);) 反对者
+
+   ​
 
 
 
