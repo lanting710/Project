@@ -204,7 +204,6 @@
 
 
 
-
 **Assertive** /əˈsɝː.t̬ɪv/ 坚定的
 
 1. 助记,
@@ -353,7 +352,6 @@
 
 
 
-
 #### spouse/spaʊs/
 
 1. 助记：来自古法语 spouse,婚姻伴侣，来自拉丁语 sponsus,新郎，来自spondere,庄严的承诺，词源同 sponsor
@@ -416,6 +414,8 @@
       be obliged to do sth 被强迫做某事
 
 
+
+
 **undermine/ˌʌn.dəˈmaɪn/**
 
 1. 助记：under-在下面 + mine【挖】 → 挖墙角。
@@ -457,7 +457,6 @@
    etymology
    c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see svelte), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see Valhalla).
 3. 定义： able to be easily physically, emotionally, or mentally hurt, influenced, or attacked 易受攻击的 脆弱的 易感染（某种疾病）的
-=======
 
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
@@ -602,11 +601,79 @@
 
 ## 3. Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them
 
+**Punitive** /ˈpjuː.nə.t̬ɪv/ 惩罚
+
+1. 助记,
+
+   1)punit+ive
+
+   来自punire,punish惩罚，处罚，纠正.-itive,形容词后缀。
+
+   2pun+itive
+
+   pun=penal,处罚
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century: from French punitif, -ive or medieval Latin punitivus, **from Latin punit- ‘punished’,** from the verb punire (see punish).
+
+   **Etymology**
+
+   1620s, "inflicting or involving punishment," from French punitif (16c.) or directly from Medieval Latin punitivus, from Latin punitus, past participle of punire "**to punish, correct, chastise" (see [punish](https://www.etymonline.com/word/punish?ref=etymonline_crossreference)).**
+
+3. 释义,
+
+   惩罚 formal or specialized law intended as a punishment
+
+4. 拓展
+
+   [punishing](javascript:void(0);) 严厉的；打击沉重的；精疲力尽的
+
+   [punitory](javascript:void(0);) 惩罚的；刑罚的
+
+   [punitively](javascript:void(0);) 惩罚地；刑罚的
+
+   [punishment](javascript:void(0);) 惩罚；严厉对待，虐待
+
+   [punishing](javascript:void(0);) 惩罚；折磨（punish的ing形式）
+
+   [punish](javascript:void(0);) 惩罚
+
+   [punish](javascript:void(0);) 惩罚；严厉对待；贪婪地吃喝
 
 
 
+​    **Malevolent** /məˈlev.əl.ənt/ 恶意的
 
+1. 助记,
 
+   male+vol+ent
+
+   male-坏的+vol-意愿+ent 坏的意愿--恶意
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from Latin malevolent- ‘wishing evil’, **from male ‘ill’ + volent**- ‘wishing’ (from the verb velle).
+
+   **Etymology**
+
+   c. 1500, from Middle French malivolent and directly from Latin malevolentem (nominative malevolens) "ill-disposed, spiteful, envious," **from male "badly" (see [mal-](https://www.etymonline.com/word/mal-?ref=etymonline_crossreference)) + volentem (nominative volens), present participle of velle "to wish" (see [will](https://www.etymonline.com/word/will?ref=etymonline_crossreference) (v.)). Related: Malevolently.**
+
+3. 释义,
+
+   恶意的 causing or wanting to cause harm or evil
+
+4. 拓展
+
+   近义词
+
+   adj.恶毒的；有恶意的；坏心肠的
+
+   [vicious](javascript:void(0);) / [poisonous](javascript:void(0);)         
 
 
 
