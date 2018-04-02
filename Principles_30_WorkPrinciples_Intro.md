@@ -764,7 +764,7 @@ UK /trænsˈpærənsi/ US /[trænsˈpɛrənsi/
    virtual： ['vɜːtjʊəl] adj.虚拟的，几乎是事实的
 
    ​
-transparent
+   transparent
 
  adjective UK   /trænˈspær.ənt/ US   /trænˈsper.ənt/
 
@@ -815,3 +815,29 @@ also sub-optimal, 1901, from sub- + optimal. Related: Suboptimally.
 3.释义.
 
 below the highest level or standard, or not done in the best way possible: 次最优的；最适度下的；未达最佳标准的
+
+
+
+**trajectory ** noun [ C ] UK   /trəˈdʒek.tər.i/ US   /trəˈdʒek.tɚ.i/ 
+1.助记.tra-,转移，穿过，-ject,扔，投射，词源同 project,jet.引申词义轨迹，踪迹，弹道等。
+
+2.词源.
+
+"path described by a body moving under the influence of given forces," 1690s, from Modern Latin trajectorium, from trajectorius "of or pertaining to throwing across," from Latin traiectus "thrown over or across," past participle of traicere "throw across, shoot across," from Latin trans "across, beyond" (see trans-) + icere, combining form of iacere "to throw" (from PIE root *ye- "to throw, impel"). Middle French and Middle English had trajectorie as "end of a funnel," from Latin traiectorium.
+
+3.释义.
+
+the curved path that an object follows after it has been thrown or shot into the air
+（射体在空中的）轨道，轨迹
+
+*steeper*
+
+1.助记.steep（陡的）+er
+
+2.词源.1520s, agent noun from sweep (v.). As a position in soccer (association football) by 1964.
+
+3.释义.
+
+n. 浸润器；浸泡用的桶子
+adj. 陡峭的，险峻的
+
