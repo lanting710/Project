@@ -196,7 +196,99 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
-@Grace 2018-03-30
+@Grace Grace 2018-04-02
+
+#### **Appropriate**
+
+UK /əˈprəʊpriət/ US /əˈproʊpriət/
+
+1. 助记,
+
+   “ap-”+“propriate” = "specially suitable, proper"(adj.)，“take possession of, take exclusively，to make one's own”(v.)。
+
+   **ap-**：是前缀ad-的变体，意思相当于‘to’。
+
+   **propriate**： 可理解为proper，private的变体，分别表示“恰当的”、‘“占有”的意思，’for the individual, in particular‘、‘take as one's own，one's own’。其中**pro-**：源自*per-，意为“forward，forth（向前)或out（出）”。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from late Latin appropriatus, past participle of appropriare ‘make one's own’, from ad- ‘to’ + proprius ‘own, proper’.
+
+   **Etymology**
+
+   early 15c., "take possession of, take exclusively," from Late Latin appropriatus, past participle of appropriare, adpropriare "to make one's own," from Latin ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + propriare "take as one's own," from proprius "one's own" (see [proper](https://www.etymonline.com/word/proper?ref=etymonline_crossreference)). Related: Appropriated; appropriating.
+
+3. 释义,
+
+   adj. 合适的；恰当的**suitable, acceptable or correct for the particular circumstances**
+
+   v. 1)盗用；挪用；占用；侵吞(take)**to take sth, sb's ideas, etc. for your own use, especially illegally or without permission**
+
+   ​    2)拨（专款等）(keep money)**to take or give sth, especially money for a particular purpose**
+
+4. 相关词语和词组
+
+   **appropriateness** n. 得体，适当
+
+   **appropriation** n. 挪用，侵吞；拨专款；（尤指政府、公司的）所拨款项，专款
+
+   **appropriacy** n. 适当性，恰当性；（词语等的）得体；恰当用词
+
+5. 同义词辨析
+
+   **appropriate ** adj. 合适的。指适合某一时间、情况、目的等的，常后接介词 for/to。
+
+   **proper**            adj. 合适的，恰当的。指正确而恰当的，侧重于符合某种标准或习惯，用于此义时只作定语。
+
+   **convenient**   adj. 方便的，合宜的。指对某人来说很方便的，能省时省力省事的。
+
+   ​
+
+#### **Dictate**
+
+UK /dɪkˈteɪt/ US /ˈdɪkteɪt/
+
+1. 助记,
+
+   "dictate"="to practice dictation, say aloud for another to write down,say often, prescribe"。该词源于词根*deik-，“to show，pronounce solemnly”
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century (in dictate (sense 2 of the verb)): from Latin dictat- ‘dictated’, from the verb dictare.
+
+   **Etymology**
+
+   1590s, "to practice dictation, say aloud for another to write down," from Latin dictatus, past participle of dictare "say often, prescribe," frequentative of dicere "to say, speak" (from PIE root [*deik-](https://www.etymonline.com/word/*deik-?ref=etymonline_crossreference) "to show," also "pronounce solemnly"). Sense of "to command" is 1620s. Related: Dictated; dictates; dictating.
+
+3. 释义,
+
+   v. 1)口述(speak)**to say words for sb else to write down**
+
+   ​    2)（尤指以令人不快的方式）指使，强行规定(give orders)**to tell sb what to do, especially in an annoying way**
+
+   ​    3)支配；摆布；决定**to control or influence how sth happens**
+
+   n. 命令；规定**an order or a rule that you must obey**
+
+4. 相关词语和词组
+
+   **dictation** n. 口述；听写
+
+   **dictator** n. 独裁者；发号施令者，专横的人
+
+   **dictatorial** adj. 独裁的，专政的；发号施令的，专横的，盛气凌人的
+
+   **dictatorship** n. 独裁，专政；独裁国家
+
+   **dictate to ab** 任意指使某人；向某人发号施令
+
+
+
+2018-03-30
 
 #### **Evolutionary**
 
