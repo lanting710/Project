@@ -597,6 +597,82 @@
    to be useful rather than decorative 实用的 效用的
 
 
+#### potluck/ˌpɒt ˈlʌk/
+
+1. 助记：pot,罐子，炖罐，luck,运气。
+2. 词源：
+   etymology
+   also pot-luck, 1590s, from pot (n.1) + luck; with notion of "one's luck or chance as to what may be in the pot." As an adjective from 1775.
+3. 定义：
+   an informal meal where guests bring a different dish that is then shared with the other guests 百乐餐 家常便饭
+4. 拓展：potluck（百乐餐）：不速之客所吃的家常便饭
+   过去一家人从一个大锅（pot）里吃菜。如果来了不速之客，来不及另外做菜，就只能一道吃这锅菜，客人的口福要看运气（luck）。所以在英语中用potluck指并非特意准备的家常便饭。美国人把每人各带一个菜的聚餐形式称为potluck dinner，简称potlock，中文翻译为“百乐餐”。之所以将这种聚餐称为potluck dinner，也是因为大家口味和手艺各不相同，能否吃到可口的菜全凭运气。
+   potluck：['pɒt'lʌk] n.百乐餐，家常便饭
+
+#### considerate /kənˈsɪd.ər.ət/
+
+1. 助记：
+   consider【考虑】 + -ate表形容词。即精心考虑的，体贴的
+   con-共同 + sider-星星 → 通过星位预测、思考命运 → 考虑
+   con-,表强调，-sider,星星，词源同 sidereal.古义指星相学看星占卜，并通过星辰移位来思考预测人间万事。比较 disaster,星位不正，空难
+2. 词源：
+   etymology
+   1570s, "marked by deliberation," from Latin consideratus, past participle of considerare "to look at closely, observe" (see consider). Of persons, "deliberate, prudent, given to consideration" 1580s; meaning "not unfeeling or rigorous, showing consideration for the circumstances or feelings of others" is from c. 1700. Related: Considerately; considerateness.
+3. 定义：kind and helpful 体贴的，体谅的 深思熟虑
+4. 拓展：
+   consider（考虑）：占星时仔细观察群星
+   英语单词consider（考虑）就源自古代的占星术。它源自拉丁语considerare，由con（一道，集群）+siderare（源自sidus/sideris，星星）构成，字面意思就是“仔细观察群星”。由于观察星象后需要认真思索其中蕴含的吉凶信息，所以该词含义逐渐演变为“研究，琢磨、思索、考虑”。
+   与consider同源的单词还有sidereal（星星的）。单词desire（欲望）其实也与占星术有关。它来自拉丁语短语de sidere（=from stars），本意是“期待星星带来的好运”。与它同源的单词是desiderate（渴望），两者意思差不多。
+   sider-：星星
+   consider：[kən'sɪdə] v.考虑，思索，细想
+   considerate：[kənˈsɪdərɪt] adj. 体贴的；体谅的；考虑周到的
+   consideration： [kən,sɪdə'reʃən] n. 考虑；原因；关心
+   considerable：[kən'sɪdərəbl] adj. 相当大的；重要的，值得考虑的
+   sidereal：[saɪ'dɪərɪəl] adj.恒星的，星星的
+   desire：[dɪ'zaɪɚ] n. 欲望；要求，心愿；性欲vt. 想要；要求；希望得到…vi. 渴望
+   desiderate：[dɪ'zɪdəreɪt; -'sɪd-] vt. 希求
+
+
+#### faction /ˈfæk.ʃən/
+
+1. 助记：
+   fact-做 + -ion名词后缀 → [一帮人]做 → 小集团
+    fact- = make, do, 表示“做，制作”，来自拉丁语
+   -ion 表名词，“行为、动作、状态、过程、结果；物品”等
+2. 词源：
+   etymology
+   c. 1500, from Middle French faction (14c.) and directly from Latin factionem (nominative factio) "political party, class of persons," literally "a making or doing," noun of action from past participle stem of facere "to do" (from PIE root *dhe- "to set, put"). In ancient Rome, originally "one of the four teams of contenders for the chariot races in the circus," distinguished by the color of their dress. Later "oligarchy, usurping faction, party seeking by irregular means to bring about a change in government."
+3. 定义：a group within a larger group, especially one with slightly different ideas from the main group 派别 小团体 小集团 内讧
+4. 拓展：
+   faction ['fækʃ(ə)n] n.派别；内讧；小集团；纪实小说。词根fact-表示to do,to make，与日耳曼词源的单词do同源，后缀-ion表状态和行为，加在动词后。古罗马群众非常喜爱马车比赛，骑手穿上红白绿蓝四种颜色的衣服并分为四组，代表不同的贵族出战（做事），自然而言，政治上的明争暗斗也就加了进来
+   factionalism 小团体主义 
+
+#### precarious/prɪˈkeə.ri.əs/
+
+1. 助记：prec-祈祷 + ar + -ious的 
+   prec- = to pray, 表示“祈祷”。来自拉丁语的prec,prex 意为to pray
+   来自拉丁语 precarius,乞求，恳求，乞怜而得，来自拉丁语 precari,乞求，要求，恳求，来自PIE*prek,要求，恳求，词源同 deprecate,pray.引申词义寄人篱下的，依附于人的，不稳的，危险的等。
+2. 词源：
+   etymology
+   1640s, a legal word, "held through the favor of another," from Latin precarius "obtained by asking or praying," from prex (genitive precis) "entreaty, prayer" (from PIE root *prek- "to ask, entreat"). Notion of "dependent on the will of another" led to extended sense "risky, dangerous, uncertain" (1680s). "No word is more unskillfully used than this with its derivatives. It is used for uncertain in all its senses; but it only means uncertain, as dependent on others ..." [Johnson]. Related: Precariously; precariousness.
+3. 定义：in a dangerous state because of not being safe or not being held in place firmly 
+   危险的； 不确定的； 不安全的
+4. 拓展：
+   precarious（危险的）：法律领域中的“不确定占有”
+   英语单词precarious常常被人错误地分解pre-car-ious（在汽车之前的），实际上并非如此。它来自法律术语precarium（不确定占有），词根为precis（pray），意思是“通过祈祷、请求而得到的”，因为是不确定的、不牢靠的。罗马帝国初期，政府按照土地的面积而非收成来对农民征税。因此，在歉收之年，很多自由农因为交不起税而被迫把土地转让给享有免税特权的大贵族，而这些贵族则承诺农民可以继续耕种土地。也就是说，农民将土地所有权转让给了贵族，但保留了土地的使用权。但那时候人们头脑中还无法区分“所有权”和“使用权”，因此将农民所保留的土地使用权称为precarium（不确定占有），意思就是拥有土地的贵族应农民请求而将土地作为礼物送给农民，但贵族有权随时收回。从precarium衍生出形容词precarius，进入英语后拼写改为precarious，词义也从“不确定、不牢靠的”引申出“危险的，岌岌可危的”。
+   precarious：[prɪ'keərɪəs] adj.危险的，岌岌可危的，不稳定的
+
+#### offend /əˈfend/
+
+1. 助记：
+   of-一再 + fend-打击 → 一再打击[别人] → 得罪 
+   of-,向前，朝向，-fend,攻击，词源同 defend,manifest.引申词义进攻，冒犯
+2. 词源：
+   etymology
+   early 14c., "to sin against (someone)," from Old French ofendre "transgress, antagonize," and directly from Latin offendere "to hit, strike against," figuratively "to stumble, commit a fault, displease, trespass against, provoke," from assimilated form of ob "in front of against" (see ob-) + -fendere "to strike" (found only in compounds; see defend).
+3. 定义：to make someone upset or angry 触怒得罪，冒犯
+
+
 
 
 ## 3. Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them
