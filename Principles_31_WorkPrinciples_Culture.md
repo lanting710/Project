@@ -752,6 +752,67 @@
    [vicious](javascript:void(0);) / [poisonous](javascript:void(0);)         
 
 
+#### mandatory /ˈmæn.də.tər.i/
+
+1. 助记：mandate【命令】 + -ory表形容词。即命令的，引申词义强制的，法定的。
+   man-手 + dat-给予，即交付给某人，引申词义授权，命令等
+2. 词源：
+   etymology
+   1570s, "of the nature of a mandate," from Late Latin mandatorius "pertaining to a mandator," from Latin mandatus, past participle of mandare (see mandate (n.)). Sense of "obligatory because commanded" is from 1818.
+3. 定义：Something that is mandatory must be done, or is demanded by law强制的 法定的
+
+#### confession/kənˈfeʃ.ən/
+
+1. 助记：con-全部 + fess-说 + -ion名词后缀
+   fess- 
+   = speak, 表示“说、预言”，fat-由“预言”引申为“命运“
+2. 词源：
+   etymology
+   late 14c., confessioun, "action of confessing, acknowledgment of a fault or wrong," originally in religion, "the disclosing of sins or faults to a priest as one of the four parts of the sacrament of penance," from Old French confession (10c.), from Latin confessionem (nominative confessio) "confession, acknowledgement," noun of action from past-participle stem of confiteri "to acknowledge" (see confess).
+3. 定义：the act of admitting that you have done something wrong or illegal 承认 供认 坦白
+4. 拓展：confessor：基督教中的“宣信者”和“忏悔者”
+   英语单词confess是（忏悔、坦白）的意思，那confessor是什么意思呢？人们最先想到的往往是“忏悔者”的意思。然而，除此以外，confessor还有“因公开宗教信仰而受迫害的教徒”以及“听取忏悔的神父”的意思。这是怎么回事呢？这得从基督教的发展历史说起。
+   公元303年，罗马皇帝颁布法令，宣布剥夺基督教徒的法律权利，强迫基督教徒遵从罗马传统宗教信仰，这是基督教遭受到的最严重的也是最后一次迫害，称为“大迫害”。在这一时期，有很多意志薄弱的基督教徒在罗马帝国的淫威下宣布放弃基督教信仰，但依然有一些意志坚定的基督教徒，面对危险公开承认自己的宗教信仰，并为此遭受罗马帝国的严酷迫害。那些被迫害至死的被称为“martyr”（烈士、殉道者），而那些侥幸活下来的则被称为“confessor”（宣信者）。在这里，confess一词应取其初始含义“坦白”而不是衍生的“忏悔”之意。
+   “大迫害”结束后，基督教成为了罗马帝国的国教。一些原本放弃基督教信仰的人希望能重返基督教会，因此他们前往教会，向那些坚持宗教信仰的“宣信者”（confessor）承认自己的错误，表达忏悔之意，希望能取得他们的原谅。因此，confessor一词又可以表示听取别人忏悔的神父、倾听者。并且，虽然很少见，作忏悔的人也可以称为confessor。这就出现了一个很有趣的现象：在教堂的忏悔室里，作忏悔的人和听取忏悔的人都可以称为confessor。
+   11世纪的英国国王爱德华一世因为对基督教无比虔诚，曾经捐款修建了威斯特敏斯特大教堂，死后被罗马教皇封为圣徒，被世人称为“忏悔者爱德华”（Edward the Confessor）。
+   confess： [kən'fes] v.承认，坦白，供认，忏悔
+   confession：[kən'feʃ(ə)n] n.表白，忏悔，告解，供认
+   confessor：n.宣信者，听取忏悔的神父，倾听者，倾诉对象；忏悔者，告解者。
+
+#### paradox/ˈpær.ə.dɒks/
+
+1. 助记：para-旁边 + dox-观点 → 观点边上有观点 → 矛盾
+   para- 
+   表示“半，类似，辅助，旁，超，异常”，用于化学，意为“对（位），聚，仲，副”，用于医学意为“对，副，衍”，在元音前演变成par-
+   dox- = opinion, 表示“观点”，来自希腊语
+2. 词源:
+   etymology
+   1530s, "statement contrary to common belief or expectation," from Middle French paradoxe (14c.) and directly from Latin paradoxum "paradox, statement seemingly absurd yet really true," from Greek paradoxon, noun use of neuter of adjective paradoxos "contrary to expectation, incredible," from para- "contrary to" (see para- (1)) + doxa "opinion," from dokein "to appear, seem, think" (from PIE root *dek- "to take, accept"). Meaning "statement that is seemingly self-contradictory yet not illogical or obviously untrue" is from 1560s.
+3. 定义：a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics 反论，悖论，自相矛盾的人或事
+
+#### malevolent/məˈlev.əl.ənt/
+
+1. 助记：
+   male- 表示“坏，恶
+   vol- = wish, will, 表示“意志，意愿”，来自拉丁语
+   -ent 表示形容词，“…的”
+2. 词源：
+   etymology
+   c. 1500, from Middle French malivolent and directly from Latin malevolentem (nominative malevolens) "ill-disposed, spiteful, envious," from male "badly" (see mal-) + volentem (nominative volens), present participle of velle "to wish" (see will (v.)). Related: Malevolently.
+3. 定义：causing or wanting to cause harm or evil 恶毒的； 心肠坏的；
+
+
+#### barb /bɑːb/
+
+1. 助记：来自拉丁词barba, 胡子，词源同beard. 形容箭上的钩刺如硬胡茬
+2. 词源：
+   etymology
+   late 14c., "barb of an arrow," from Old French barbe "beard, beard-like appendage" (11c.), from Latin barba "beard," from Proto-Italic *farfa- "beard," which probably is cognate with Old English beard, from PIE root *bhardha- "beard" (see beard (n.)).
+3. 定义：the sharp part that points backwards from a fish hook (= curved piece of wire) or arrow, making it hard to remove it from something（箭头、鱼钩等的） 倒钩
+4. 拓展：英语单词barber就反映了古代理发师的剃须职责。barber来源于拉丁语中表示“胡须”的单词barba，英语单词barb（倒刺、钩子）、beard（胡须）都与此同源。现在随着家用剃须刀的普及，人们早已经习惯了在家中剃须，所以barber的职责也已不再包含剃须了，但它的拼写依然在提示它曾经的含义。
+   barber：[bɑːb] n.理发师v.理发，修剪，当理发师
+   barb：[bɑːb] n.（鱼钩、箭头上的）倒钩vt.装倒钩
+   beard：[bɪəd] n.（嘴唇上下及下巴的）胡须
 
 ## 4. Get and Stay in Sync
 
