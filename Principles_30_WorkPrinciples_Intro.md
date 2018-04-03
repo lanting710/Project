@@ -933,3 +933,42 @@ the curved path that an object follows after it has been thrown or shot into the
 n. 浸润器；浸泡用的桶子
 adj. 陡峭的，险峻的
 
+behaviour
+
+noun uk us behavior UK   /bɪˈheɪ.vjər/ US   /bɪˈheɪ.vjɚ/
+
+
+
+1.助记.be+haviour
+
+2.词源.
+
+"manner of behaving (whether good or bad), conduct, manners," late 15c., essentially from behave, but with ending from Middle English havour "possession," a word altered (by influence of have) from aver, noun use of Old French verb aveir "to have."
+
+3.释义.
+
+B1 [ U ] the way that someone behaves
+
+行为，举止
+
+appropriate
+
+adjective UK   /əˈprəʊ.pri.ət/ US   /əˈproʊ.pri.ət/
+
+
+
+1.助记.前缀ap-同ad-. proper, 自己的，合适的。该单词含两个意思: 1. 适合自己的。2. 占为己有的。
+
+2.词源.
+
+"specially suitable, proper," early 15c., from Latin appropriatus, past participle of appropriare "make one's own" (see appropriate (v.)). Related: Appropriately; appropriateness.
+
+early 15c., "take possession of, take exclusively," from Late Latin appropriatus, past participle of appropriare, adpropriare "to make one's own," from Latin ad "to" (see ad-) + propriare "take as one's own," from proprius "one's own" (see proper). Related: Appropriated; appropriating.
+
+3.释义.
+
+1.B2 suitable or right for a particular situation or occasion 适当的，恰当的；合适的
+
+2.to take something for your own use, usually without permission 挪用；占用；盗用；侵吞
+
+3.to keep an amount of money to use for a particular purpose 拨出（款项）
