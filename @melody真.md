@@ -10,6 +10,7 @@
 | winds                                                        | dragons                                                      | bamboos                                                      | characters                                                   | circles or dots                                              |
 | ![img](https://ws4.sinaimg.cn/large/006tNc79ly1fowjl1n0ftj306t01o745.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjkluuzjj305001pa9v.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjlaobvrj30dt01lq2y.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjhhjlmej30dv01kwem.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjhi2lg9j30dt01l3yn.jpg) |
 
+
 principles原则
 
 Introduction
@@ -227,6 +228,7 @@ Late 18th century: from late Latin granulum (see granule) + -ar.
 
 1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root [*gre-no-](https://www.etymonline.com/word/*gre-no-?ref=etymonline_crossreference) "grain") + [-ar](https://www.etymonline.com/word/-ar?ref=etymonline_crossreference). Replaced granulous (late 14c.). Related: Granularity.
 
+
 3月27日
 
 **abyss**
@@ -349,6 +351,7 @@ Sense developed in Medieval Latin and French from "official account" to "officia
 
 
 3月28,29日
+
 
 **discern**
 
@@ -532,6 +535,7 @@ Using [ropes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%
 
 
 
+
 4月1日
 
 **incline**
@@ -672,6 +676,7 @@ Mid 19th century: from French archaïque, from Greek arkhaikos, from arkhaios, f
 
 
 
+
 4月2日
 
 **unravel**
@@ -771,3 +776,10 @@ Old English, variant of thresh (an early sense). Current senses of the noun date
 2.选自etymonline
 
 1580s, "to separate grains from wheat, etc., by beating," dialectal variant of threshen (see [thresh](https://www.etymonline.com/word/thresh?ref=etymonline_crossreference)). Sense of "beat (someone) with (or as if with) a flail" is first recorded 1620s. Meaning "to make wild movements like those of a flail or whip" is attested from 1846. Related: Thrashed; thrashing. As a noun from 1660s, "threshing tool;" 1840s as "a beating;" 1982 as the name for a type of fast heavy metal music.
+
+principle原则part1
+
+
+
+
+

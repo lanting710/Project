@@ -1,6 +1,285 @@
-@Grace
+### 2018-04-01
 
-2018.03.14
+#### **Philosophia**
+
+UK /ˌfɪlə'sɒfɪə/ US /ˌfɪlə'sɑfɪə/
+
+1. 助记,
+
+   “philo-”+“sophia” = "love of wisdom，love of knowledge, pursuit of wisdom；systematic investigaticon"这是一个组合新词。字面上的意思为“智慧的爱”，后释义为“哲学”。
+
+   **philo-**：前缀，构成名词、形容词、动词和副词，，表示“爱好，喜爱”，‘liking，loving’。
+
+   **sophia**： 即sophist，表示“（古希腊的）哲学教师；（尤指怀疑态度的）哲人，智者”，‘knowledge, wisdom, wise, learned’。
+
+   首先提出"哲学"古希腊文的人，就是Pythagoras(约571-497B.C.)。他是在观看奥林匹克运动会后产生的灵感，并将人类划分出三类：第一种追求利益；第二种追求名声、名誉；第三种追求真正的知识，也就是智慧。于是想到一个新的组合词，就叫Philosophia，这个词是用两个希腊文合成的，前一半是Philia，后一半是Sophia。
+
+   Philia就是爱。希腊人在谈到“爱”的时候，有三个词：第一个是在感性上描写情欲之爱，男女之间的激情，叫做Eros；第二种是一种大爱，就是有宗教情操的博爱，爱每一个人，称作Agape；第三种爱，称作Philia，就是朋友之间的情感，即友谊，这种友谊温和而理性，并且可以长久坚持下去。他用的词是第三个Philia，再加上另外一个词：智慧（Sophia）。
+
+   （以上摘自傅佩荣的《西方哲学课》，并进行整理）
+
+2. 词源,
+
+   philosophy n.
+
+   **OED Origin**
+
+   Middle English: from Old French philosophie, via Latin from Greek philosophia ‘love of wisdom’.
+
+   **Etymology**
+
+   c. 1300, "knowledge, body of knowledge," from Old French filosofie "philosophy, knowledge" (12c., Modern French philosophie) and directly from Latin philosophia and from Greek philosophia "love of knowledge, pursuit of wisdom; systematic investigation," from philo- "loving" (see [philo-](https://www.etymonline.com/word/philo-?ref=etymonline_crossreference)) + sophia "knowledge, wisdom," from sophis "wise, learned;" of unknown origin.Meaning "system a person forms for conduct of life" is attested from 1771.
+
+3. 释义,
+
+   n. 哲学**the use of reason inunderstanding such things as the nature of the real world andexistence, the use and limits ofknowledge, and the principlesof moral judgment**
+
+4. 相关词语和词组
+
+   **philologist** n. 语文学家，语文研究者
+
+   **philology** n. 语文学，语文研究
+
+   **pholos0pher** n. 哲学家；深思的人，善于思考的人
+
+   **pholosophical** adj. 哲学的；达观的，处乱不惊
+
+   **pholosophy** adj. 哲学；哲学体系，思想体系
+
+
+
+#### **Magi**
+
+UK /ˈmeɪ.dʒaɪ/ US /ˈmeɪ.dʒaɪ/
+
+1. 助记,
+
+   magus的复数形式。
+
+   世界经典名著《The Gift of the Magi》（O. Henry），中文译本为《麦琪的礼物》。标题中的“Magi”与我们所熟悉的女性人名“Maggi”，发音虽相近(实际上并不一样)，意思却完全不同。由此，由于文化上的差异而造成读者产生误解的可能性极大。
+
+   现引用原著中的结尾段落：
+
+   The magi, as you know, were wise men--wonderfully wise men--who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. O all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.
+
+   细读这段话，原来“Magi”指的是贤人、智者。由此可见，该故事的标题应翻译成“贤者的礼物”更为妥帖。
+
+   （以上根据相关资料进行整理）
+
+2. 词源,
+
+   **OED Origin**
+
+   The ‘wise men’ from the East who brought gifts to the infant Jesus (Matt. 2:1), said in later tradition to be kings named Caspar, Melchior, and Balthasar who brought gifts of gold, frankincense, and myrrh.
+
+   **Etymology**
+
+   c. 1200, "skilled magicians, astrologers," from Latin magi, plural of magus"magician, learned magician," from Greek magos, a word used for the Persian learned and priestly class as portrayed in the Bible (said by ancient historians to have been originally the name of a Median tribe), from Old Persian magush"magician" (see [magic](https://www.etymonline.com/word/magic?ref=etymonline_crossreference)). Related: Magian.
+
+3. 释义,
+
+   n. 1)古波斯教士（或僧侣）,即古代波斯祭司阶层的成员**a member of a priestly caste of ancient Persia**
+
+   ​     2)三王，三智者，东方三博士（《圣经》中跟随星辰携带礼物朝见初生耶稣的三圣人）**in the Bible, the three men,thought to be kings orastrologers, who followed astar to visit Jesus Christ when he was a baby and give himpresents. They are also called the Three Kings or the Three Wise Men.**
+
+   ​     3)魔法师,巫师,术士**a sorcerer**
+
+
+
+####**2018-03-31**
+
+补充：英语月份的小知识
+
+公历起源于古罗马历法。罗马的英语原来只有10 个月，古罗马皇帝决定增加两个月放在年尾，后来朱里斯▪凯撒大帝把这两个月移到年初，成为1月、2月，原来的1月、2月便成了3月、4月，依次类推。这就是今天世界沿用的公历。
+
+
+
+#### **January**
+
+UK /[ˈdʒænjuəri/ US /ˈdʒænjueri/
+
+1. 助记,
+
+   “Janus”+“-ary” = "(the month) of Janus"
+
+   **Janus**：一守护神的名字。
+
+   **-ary**： 可能来源于拉丁语-arius, -aria, -arium 意思是“人、物、场所,属于…的、有…性质的、与…有关的”。再向前追根溯源的话，这个后缀来源于原始印欧语形容词后缀*-yo-意思是“of or belonging to.”，在中古英语时，从拉丁语引入到单词中，后来从拉丁语引入到法语，后缀变成了-aire ，进入到中古英语后变成了-arie,后来就演变成了-ary。
+
+   在罗马传说中，有一位名叫雅努斯(Janus)的守护神，负责掌管所有的出入门户，象征开始。雅努斯生有两副面孔，可以同时看前也能看后，一副回顾过去，一副要眺望未来。所以人们认为选择他的名字作为除旧迎新的第一个月月名，很有意义。英语January，便是由这位守护神的名字演变而来的。 
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English, from Latin Januarius (mensis) ‘(month) of Janus’ (see Janus), the Roman god who presided over doors and beginnings.
+
+   **Etymology**
+
+   late 13c., Ieneuer (early 12c. in Anglo-French), from Old North French Genever, Old French Jenvier (Modern French Janvier), from Latin Ianuarius (mensis) "(the month) of [Janus](https://www.etymonline.com/word/Janus?ref=etymonline_crossreference)" (q.v.), to whom the month was sacred as the beginning of the year according to later Roman reckoning (cognates: Italian Gennaio, ProvençalGenovier, Spanish Enero, Portuguese Janeiro). The form was gradually Latinized by c. 1400. Replaced Old English geola se æfterra "Later Yule." In Chaucer, a type-name for an old man.
+
+3. 释义,
+
+   n. 一月**the first month of the year, after December and beforeFebruary**
+
+   ​
+
+#### **February**
+
+UK /ˈfebruəri/ US /ˈfebrueri/
+
+1. 助记,
+
+   “Fabrua”+“-ary” = 由拉丁文februarius演变而来，本月举行菲勃卢姆节，即（犹太妇女按教规在月经后行的）洁净礼，"month of purification"。
+
+   **Februa**：是本月第15天举行的一种宗教节日的名称，‘to purify，purifications, expiatory rites’。
+
+   **-ary**： 可能来源于拉丁语-arius, -aria, -arium 意思是“人、物、场所,属于…的、有…性质的、与…有关的”。再向前追根溯源的话，这个后缀来源于原始印欧语形容词后缀*-yo-意思是“of or belonging to.”，在中古英语时，从拉丁语引入到单词中，后来从拉丁语引入到法语，后缀变成了-aire ，进入到中古英语后变成了-arie,后来就演变成了-ary。
+
+   每年2月初，罗马人民都要杀牲饮酒，欢庆菲勃卢姆节。这一天，人们常用一种牛、草制成的名叫Februa的鞭子，抽打不育的妇女，以求怀孕生子。这一天，人们还要忏悔自己过去一年的罪过，洗刷自己的灵魂，求得神明的饶恕，使自己成为一个贞洁的人。英语2月February，便是由拉丁文Februar-ius（即菲勃卢姆节）演变而来。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English feverer, from Old French feverier, based on Latin februarius, from februa, the name of a purification feast held in this month. The spelling change in the 15th century was due to association with the Latin word.
+
+   **Etymology**
+
+   late 14c., ultimately from Latin februarius mensis "month of purification," fromfebruare "to purify," from februa "purifications, expiatory rites" (plural offebruum "means of purification, expiatory offerings"), which is of uncertain origin, said to be a Sabine word. De Vaan says from Proto-Italic *f(w)esro-, from a PIE word meaning "the smoking" or "the burning" (thus possibly connected with[fume](https://www.etymonline.com/word/fume?ref=etymonline_crossreference) (n.)). The sense then could be either purification by smoke or a burnt offering.
+
+3. 释义,
+
+   n.二月**the second month of the year, after January and beforeMarch**
+
+
+
+
+### 2018-03-24
+
+#### **September**
+
+UK /sepˈtembə(r)/ US /sɛpˈtɛmbɚ/
+
+1. 助记,
+
+   “septem”+“-ber” = "the seventh month of the Roman year"古罗马日历的第七个月(因罗马日历是从三月份开始算起的)
+
+   **september**     
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from septem ‘seven’ (being originally the seventh month of the Roman year).
+
+   **Etymology**
+
+   late Old English, from Latin September (also source of Old French Septembre, Spanish Setiembre, Italian Settembre, German September), from septem "seven" (see[seven](https://www.etymonline.com/word/seven?ref=etymonline_crossreference)). So called because it was the seventh month of the old Roman calendar, which began the year in March; Julian calendar reform (46 B.C.E.) shifted the new year back two months.
+
+3. 释义,
+
+   n. 九月**the 9th month of the year, between August and October**
+
+#### **October**
+
+UK /ɒkˈtəʊbə(r)/ US /ɑ:kˈtoʊbə(r)/
+
+1. 助记,
+
+   “octo”+“-ber” = "Eighth month of the old Roman calendar"古罗马日历的第八个月(因罗马日历是从三月份开始算起的)
+
+   **octo**：来自拉丁文,表示数字“8”，‘eight’。
+
+   **-ber**： 日历中最后三四个月由从始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English, from Latin, from octo ‘eight’ (being originally the eighth month of the Roman year).
+
+   **Etymology**
+
+   c. 1050, from Latin October (mensis), from octo "eight," from PIE root *octo(u)-"eight" (see [eight](https://www.etymonline.com/word/eight?ref=etymonline_crossreference)). Eighth month of the old Roman calendar (pre-46 B.C.E.), which began the year in March. 
+
+3. 释义,
+
+   n. 十月**the tenth month of the year, after September and beforeNovember**
+
+#### **November**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “novem”+“-ber” = "The ninth month of the Roman calendar"古罗马日历的第九个月(因罗马日历是从三月份开始算起的)
+
+   **novem**：来自拉丁文,表示数字“9”，‘nine’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English, from Latin, from novem ‘nine’ (being originally the ninth month of the Roman year).
+
+   **Etymology**
+
+   c. 1200, from Old French novembre and directly from Latin November (also Novembris (mensis)), from novem "nine" (see [nine](https://www.etymonline.com/word/nine?ref=etymonline_crossreference)). The ninth month of the Roman calendar, which began in March. For -ber see [December](https://www.etymonline.com/word/December?ref=etymonline_crossreference). In Old English, it was Blotmonað"month of sacrifice," literally "blood-month," the time when the early Saxons prepared for winter by sacrificing animals, which they then butchered and stored for food.
+
+3. 释义,
+
+   n. 十一月**the eleventh month of the year, after October and before December**
+
+#### **December**
+
+UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
+
+1. 助记,
+
+   “decem”+“-ber” = "the tenth month of the old Roman calendar"古罗马日历的第十个月(因罗马日历是从三月份开始算起的)
+
+   **decem**：来自拉丁文,表示数字“10”，‘ten’。
+
+   **-ber**： 日历中最后四个月由始至终没被神或罗马皇帝的名字所占据，因此均以-ber结尾。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Latin, from decem ‘ten’ (being originally the tenth month of the Roman year).
+
+   **Etymology**
+
+   c. 1000, from Old French decembre, from Latin December, from decem "ten" (from PIE root [*dekm-](https://www.etymonline.com/word/*dekm-?ref=etymonline_crossreference) "ten"); tenth month of the old Roman calendar, which began with March.
+
+3. 释义,
+
+   n. 十二月**the 12th and last month of the year**
+
+### 2018-03-23
+
+**July**
+
+盖乌斯·尤利乌斯·恺撒（Gaius Julius Caesar），是罗马共和国末期杰出的军事统帅、政治家，并以其卓越的才能成为了罗马帝国的奠基者。莎士比亚为纪念恺撒大帝，特意写了一部名为《尤利乌斯·恺撒》的戏剧。因恺撒出生在七月份，七月（July）这个月份，也以凯撒的名字（Julius）来命名的。后来，德国的统治者都统称为“恺撒”，这个词在当地就是独裁者或皇帝的意思。而俄国统治者的发音也来源于恺撒的名字，他们简称为“沙”，也就是“沙皇”。
+
+**August**
+
+刚才阅读罗马历史,接着查找资料,很欣喜发现了一名被奉为神灵的君主,
+他就是恺撒的义子渥大维Octavian.我将资料整理如下:
+凯撒被刺杀后,Octavian与安东尼分别统治罗马帝国的西部与东部.Octavian后来出兵攻打安东尼,并将其击败.尽管埃及艳后Cleopatra对Octavian重施故技,像之前迷惑恺撒和安东尼那样,希望Octavian也能迷上自己.但Octavian就是不吃这一套,因为他的目标很明确,就是要成为世界上最伟大的统治者.最终他的目标实现了,成为了罗马帝国的第一位元首（Princeps）,元首政制的创始人，并统治罗马长达40年.
+后被罗马元老院赐封为“奥古斯都Augustus”（意为神圣伟大）.
+在他去世后，决定元老院将他列入“神”的行列。人们为他建造了庙宇,把他作为神一样供奉,并以他的名字Augustus命名为八月.
+
+**September**
+
+早安！英文七月July来自古罗马朱里斯·凯撒大帝(Julius Caesar)的名字，他诞生于公元前102年的7月12日，而八月August则来自他的甥孙兼养子屋大维被罗马元老院授与“奥古斯都” (Augustus)这一称号的月份。您知道九月September的来历么？怎么有点像seven呢？
+
+### 2018.03.14
 
 **Adventure** UK /ədˈventʃə(r)/ US /ædˈvɛntʃɚ/
 
@@ -65,8 +344,6 @@
    **venture** n. 冒险事业。指有风险的投资或活动。
 
    **enterprise** n.  [褒]冒险精神，开拓精神。指思考新活动、新想法等并使之可行的探索能力。
-
-
 
 2018.03.13
 
@@ -133,8 +410,6 @@
    **escape death by a hairbreadth** 死里逃生，九死一生
 
    **escape with life and limb** 未受严重伤害而逃脱，无大损伤而逃脱
-
-
 
 2018-03-12
 
@@ -210,8 +485,6 @@
 
    **distributor** n. 1)经销商，分销商；2)(发动机的)分电器
 
-
-
 2018-03-09
 
 **Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
@@ -286,8 +559,6 @@
 
    **the carrot and (the) stick (approach)** 胡萝卜加大棒；威逼利诱
 
-
-
 2018-03-08
 
 **Injustice** UK /ɪnˈdʒʌstɪs/ US /ɪnˈdʒʌstɪs/
@@ -352,7 +623,6 @@
 
 
 
-
 2018-03-07
 
 **Absolute** UK /ˈæbsəlu:t/ US /ˈæbsəˌlut/
@@ -372,6 +642,7 @@
    **OED Origin**
 
    Late Middle English: from Latin absolutus ‘freed, unrestricted’, past participle of absolvere (see absolve).
+
    **Etymology**
 
    late 14c., "unrestricted, free from limitation; complete, perfect, free from imperfection;" also "not relative to something else" (mid-15c.), from Latin absolutus, past participle of absolvere "to set free, acquit; complete, bring to an end; make separate," from ab "off, away from" (see [ab-](https://www.etymonline.com/word/ab-?ref=etymonline_crossreference)) + solvere "to loosen, untie, release, detach," from PIE *se-lu-, from reflexive pronoun *s(w)e- (see [idiom](https://www.etymonline.com/word/idiom?ref=etymonline_crossreference)) + root [*leu-](https://www.etymonline.com/word/*leu-?ref=etymonline_crossreference) "to loosen, divide, cut apart."
@@ -405,8 +676,6 @@
    **an absolute ruler/monarchy** 独裁统治者；专制君主
 
    **absolute majority** 绝对多数(指超过半数的选票或竞选席位)
-
-
 
 **Suspect** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
@@ -456,8 +725,6 @@
    It's suspected that … 有人怀疑
 
    suspect sb/sth (of doing sth) 怀疑某人做了某事
-
-
 
 **Suspect** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
@@ -513,21 +780,19 @@
 **Resigned**
 
 1. 助记
-  re(前缀，from re- "opposite")+sign(signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign")+ed(形容词后缀)
+   re(前缀，from re- "opposite")+sign(signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign")+ed(形容词后缀)
 2. 词源
-  **OED Origin**
-  Late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel’, from re- ‘back’ + signare ‘sign, seal’.
-  **Etymology**
-  ate 14c., "give up, surrender, abandon, submit; relinquish," from Old French resigner "renounce, relinquish" (13c.), from Latin resignare "to check off, annul, cancel, give back, give up," from re- "opposite" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign" (see [sign](https://www.etymonline.com/word/sign?ref=etymonline_crossreference) (n.)).
+   **OED Origin**
+   Late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel’, from re- ‘back’ + signare ‘sign, seal’.
+   **Etymology**
+   ate 14c., "give up, surrender, abandon, submit; relinquish," from Old French resigner "renounce, relinquish" (13c.), from Latin resignare "to check off, annul, cancel, give back, give up," from re- "opposite" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign" (see [sign](https://www.etymonline.com/word/sign?ref=etymonline_crossreference) (n.)).
 3. 释义
-  adj. 已放弃的；顺从的accepting that something you do not like will happen because you cannot changeit
-  adv. 顺从地，听从地
-  v. 辞职，放弃(resign的过去式)；(to)使顺从
+   adj. 已放弃的；顺从的accepting that something you do not like will happen because you cannot changeit
+   adv. 顺从地，听从地
+   v. 辞职，放弃(resign的过去式)；(to)使顺从
 4. 相关词语和词组
-  resignation n.辞职; 顺从; 辞职书; 听从
-  resign yourself to something 听任某事
-
-
+   resignation n.辞职; 顺从; 辞职书; 听从
+   resign yourself to something 听任某事
 
 @Grace
 
@@ -595,7 +860,6 @@
 
 
 
-
 2018-03-07
 
 **Obsolute** UK /ˈæbsəlu:t/ US /ˈæbsəˌlut/
@@ -649,8 +913,6 @@
 
    **absolute majority** 绝对多数(指超过半数的选票或竞选席位)
 
-
-
 **Approach** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
 1. 助记,
@@ -699,8 +961,6 @@
    It's suspected that … 有人怀疑
 
    suspect sb/sth (of doing sth) 怀疑某人做了某事
-
-
 
 **Suspect** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
@@ -756,18 +1016,19 @@
 **Resigned**
 
 1. 助记
-  re(前缀，from re- "opposite")+sign(signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign")+ed(形容词后缀)
+   re(前缀，from re- "opposite")+sign(signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign")+ed(形容词后缀)
 2. 词源
-  **OED Origin**
-  Late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel’, from re- ‘back’ + signare ‘sign, seal’.
-  **Etymology**
-  ate 14c., "give up, surrender, abandon, submit; relinquish," from Old French resigner "renounce, relinquish" (13c.), from Latin resignare "to check off, annul, cancel, give back, give up," from re- "opposite" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign" (see [sign](https://www.etymonline.com/word/sign?ref=etymonline_crossreference) (n.)).
+   **OED Origin**
+   Late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel’, from re- ‘back’ + signare ‘sign, seal’.
+   **Etymology**
+   ate 14c., "give up, surrender, abandon, submit; relinquish," from Old French resigner "renounce, relinquish" (13c.), from Latin resignare "to check off, annul, cancel, give back, give up," from re- "opposite" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + signare "to make an entry in an account book," literally "to mark," from Latin signum "identifying mark, sign" (see [sign](https://www.etymonline.com/word/sign?ref=etymonline_crossreference) (n.)).
 3. 释义
-  adj. 已放弃的；顺从的accepting that something you do not like will happen because you cannot changeit
-  adv. 顺从地，听从地
-  v. 辞职，放弃(resign的过去式)；(to)使顺从
+   adj. 已放弃的；顺从的accepting that something you do not like will happen because you cannot changeit
+   adv. 顺从地，听从地
+   v. 辞职，放弃(resign的过去式)；(to)使顺从
 4. 相关词语和词组
-  resignation n.辞职; 顺从; 辞职书; 听从
-  resign yourself to something 听任某事
+   resignation n.辞职; 顺从; 辞职书; 听从
+   resign yourself to something 听任某事
+
 
 
