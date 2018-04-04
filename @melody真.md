@@ -10,6 +10,7 @@
 | winds                                                        | dragons                                                      | bamboos                                                      | characters                                                   | circles or dots                                              |
 | ![img](https://ws4.sinaimg.cn/large/006tNc79ly1fowjl1n0ftj306t01o745.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjkluuzjj305001pa9v.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjlaobvrj30dt01lq2y.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjhhjlmej30dv01kwem.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjhi2lg9j30dt01l3yn.jpg) |
 
+
 principles原则
 
 Introduction
@@ -227,6 +228,7 @@ Late 18th century: from late Latin granulum (see granule) + -ar.
 
 1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root [*gre-no-](https://www.etymonline.com/word/*gre-no-?ref=etymonline_crossreference) "grain") + [-ar](https://www.etymonline.com/word/-ar?ref=etymonline_crossreference). Replaced granulous (late 14c.). Related: Granularity.
 
+
 3月27日
 
 **abyss**
@@ -349,6 +351,7 @@ Sense developed in Medieval Latin and French from "official account" to "officia
 
 
 3月28,29日
+
 
 **discern**
 
@@ -532,6 +535,7 @@ Using [ropes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%
 
 
 
+
 4月1日
 
 **incline**
@@ -669,6 +673,7 @@ Mid 19th century: from French archaïque, from Greek arkhaikos, from arkhaios, f
 2.选自etymonline
 
 1810, from or by influence of French archaique (1776), ultimately from Greek arkhaikos "old-fashioned," from arkhaios "ancient, old-fashioned, antiquated, primitive," from arkhe "beginning" (see [archon](https://www.etymonline.com/word/archon?ref=etymonline_crossreference)). Not merely crude, the archaic has "a rudeness and imperfection implying the promise of future advance" [Century Dictionary]. Archaical is attested from 1799.
+
 
 
 
@@ -877,4 +882,11 @@ Late Middle English (in depreciate (sense 2)): from late Latin depreciat- ‘low
 2.选自etymonline
 
 mid-15c., from Latin depretiatus, past participle of depretiare "to lower the price of, undervalue," from de- "down" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + pretium "price" (see [price](https://www.etymonline.com/word/price?ref=etymonline_crossreference) (n.)). Related: Depreciated; depreciating; depreciatory.
+
+principle原则part1
+
+
+
+
+
 
