@@ -196,7 +196,95 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
-@Grace Grace 2018-04-02
+@Grace 2018-04-03
+
+#### **Governance**
+
+UK /ˈgʌvənəns/ US /ˈgʌvərnəns/
+
+1. 助记,
+
+   “govern”+“-ance” ="to steer or pilot a ship, direct as a pilot" ，最初的意思为“海上轮船定航”，"act or manner of governing，the governing power in a state"，后引申为“统治方式，治理方法”。
+
+   **govern**： 表示“控制，操纵”的意思，’to steer, rule，to guide，command‘。
+
+   **-ance**： 名词后缀，意为the act or fact of ～ing或者the quality or condition of ～ing，即表示行为或该行为的性质、状态等。
+
+2. 词源,
+
+   **OED Origin**
+
+   govern v.
+
+   Middle English: from Old French governer, from Latin gubernare ‘to steer, rule’, from Greek kubernan ‘to steer’.
+
+   **Etymology**
+
+   late 14c., "act or manner of governing," from Old French governance "government, rule, administration; (rule of) conduct" (Modern French gouvernance), from governer "to govern, rule, command" (see [govern](https://www.etymonline.com/word/govern?ref=etymonline_crossreference)). Fowler writes that the word "has now the dignity of incipient archaism," but it might continue useful in its original sense as government comes to mean primarily "the governing power in a state."
+
+   govern v.
+
+   late 13c., "to rule with authority," from Old French governer "steer, be at the helm of; govern, rule, command, direct" (11c., Modern French gouverner), from Latin gubernare "to direct, rule, guide, govern" (source also of Spanish gobernar, Italian governare), originally "to steer, to pilot," a nautical borrowing from Greek kybernan "to steer or pilot a ship, direct as a pilot," figuratively "to guide, govern" (the root of [cybernetics](https://www.etymonline.com/word/cybernetics?ref=etymonline_crossreference)). The -k- to -g- sound shift is perhaps via the medium of Etruscan. Intransitive sense from 1590s. Related: Governed; governing.
+
+3. 释义,
+
+   n. [U] (technical 术语) 统治；管理；治理；统治方式；管理方法**the activity of governing a country or controlling a company or an organization; the way in which a country is governed or a company or institution is controlled**
+
+4. 相关词语和词组
+
+   **govern** v. 统治，控制；影响，支配
+
+   **governess** n. （尤指旧时的）家庭女教师
+
+   **governing** adj. 统治的，控制的
+
+   **government** n. 政府，内阁；政体，国家体制；（一国的）统治，治理方式
+
+   **governmental** adj. 统治的，政府的，政体的
+
+   **governor** n. 统治者，管辖者，总督
+
+   ​
+
+#### **Delineation**
+
+UK /dɪˌlɪnɪ'eɪʃn/ US /dɪˌlɪnɪ'eɪʃn/
+
+1. 助记,
+
+   "delineate"+“-tion”="outlined，trace the outline of something，sketch, description"。原意“标出轮廓，列出提纲”，后引申为“详细描述”。
+
+   **delineate**： 表示“概述出某物的轮廓”的意思，’ ‘trace the outline of something，to sketch out’’。其中**de-**：表示加强，‘out，completely’；**lineate**：即”line“，‘draw lines’。
+
+   **-tion**： 名词后缀，表示“行为、动作、状态、过程、结果”等。
+
+2. 词源,
+
+   delineate v.
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘trace the outline of something’): from Latin delineat- ‘outlined’, from the verb delineare, from de- ‘out, completely’ + lineare (from linea ‘line’).
+
+   **Etymology**
+
+   1550s, from Latin delineatus, past participle of delineare "to sketch out," from de- "completely" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + lineare "draw lines," from linea "line" (see [line](https://www.etymonline.com/word/line?ref=etymonline_crossreference) (n.)). Related: Delineated; delineating.
+
+3. 释义,
+
+   n. 1)划定界限(show border)**to mark the border of something**
+
+   ​    2)详细描述(describe)**to describe something completely, including details**
+
+4. 相关词语和词组
+
+   **delineate** v. （详细地）描述，解释
+
+   **delimit** v. 限定，界定
+
+
+
+2018-04-02
 
 #### **Appropriate**
 
