@@ -816,7 +816,55 @@
 
 ## 4. Get and Stay in Sync
 
+#### chaotic/keɪˈɒt.ɪk/
 
+1. 助记：chao-大空间 + -tic表形容词
+   希腊语khaos（chaos）表示空白、巨大的空间，gas是khaos借道荷兰语进入英语
+2. 词源：
+   etymology
+   1713, "in a state of primordial chaos," irregularly formed in English from chaos + -ic, probably on model of eros/erotic, demos/demotic, hypnos/hypnotic, etc. Transferred or figurative meaning "confused, disordered" is from 1747. Related: Chaotically.
+3. 定义：in a state of chaos 混沌的； 一片混乱的； 一团糟的； 无秩序的
+
+
+#### criticism /ˈkrɪt.ɪ.sɪ.zəm/
+
+1. 助记：
+   critic n. 批评家, 鉴定家
+   ism 加在形容词或名词后，构成抽象名词。表示“…主义”；“宗教”；“制度、行为”；“…学”、“…术”、“…论”、“…法”；“疾病名称”；“情况、状态”等。
+2. 词源：
+   etymology
+   c. 1600, "action of criticizing," from critic + -ism. Meaning "art of estimating literary worth" is from 1670s.
+3. 定义：the act of saying that something or someone is bad 批评主义
+
+
+#### hierarchical/ˌhɑɪ·əˌrɑr·kɪ·kəl/
+
+1. 助记：hier-神 + -archy统治 → 神一般的统治 → 等级森严。hierarchy n. 
+2. 词源：
+   etymology
+   one who rules in holy things," 1570s, from Medieval Latin hierarcha, from Greek hierarkhia, from hierarkhes "leader of sacred rites, high priest" (see hierarchy).
+3. 定义：arranged in an order from the most to the least important 按等级划分的，等级（制度）的； 分层的；
+4. 拓展：hier-,神圣性，僧侣，词源同 hieratic,-arch,统治，管理，词源同 archon,anarchy.原义为僧侣统治，神权统治，后引申词义社会层级，等级制度。
+
+
+#### convince/kənˈvɪns/
+
+1. 助记：con-全部 + vinc-征服 + e → 彻底征服对方 → 使[人]确信
+2. 词源:
+   etymology
+   1520s, "to overcome in argument," from Latin convincere "to overcome decisively," from assimilated form of com-, here probably an intensive prefix (see com-), + vincere "to conquer" (from nasalized form of PIE root *weik- (3) "to fight, conquer"). Meaning "to firmly persuade or satisfy by argument or evidence" is from c. 1600. Related: Convinced; convincing; convincingly.
+3. 定义：to persuade someone or make someone certain 使相信，说服
+
+#### rectify/ˈrek.tɪ.faɪ/
+
+1. 助记：
+   rect-直 + -ify…化 → 使…正直 → 改正[错误]
+   rect- 
+   = straight, right, 表示“正、直”，源自印欧词根*reg- "move in a straight line."。address由ad + directus(拉丁语)演变而成。
+2. 词源：
+   etymology
+   c. 1400, from Old French rectifier, literally "to make straight" (14c.), from Late Latin rectificare "make right," from Latin rectus "straight" (from PIE root *reg- "move in a straight line," with derivatives meaning "to direct in a straight line") + combining form of facere "to make" (from PIE root *dhe- "to set, put"). Related: Rectified; rectifying.
+3. 定义：to correct something or make something right改正，校正
 
 
 
