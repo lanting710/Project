@@ -1146,6 +1146,147 @@
    [expert](javascript:void(0);) 当专家；在…中当行家
 
 
+@aqua 20180404
+
+**Convey** /kənˈveɪ/ 表达
+
+1. 助记,
+
+   con+vey
+
+   con- together,一起，vey-路、移动，同via,way--传递、表达
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘escort’; compare with convoy): from Old French conveier, from medieval Latin conviare, **from con- ‘together’ + Latin via ‘way’.**
+
+   **Etymology**
+
+   early 14c., conveien, "to go along with;" late 14c., "to carry, transport;" from Anglo-French conveier, Old French convoiier "to accompany, escort" (Modern French convoyer), from Vulgar Latin *conviare"to accompany on the way," from assimilated form of Latin com "with, **together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference)) + via"way, road" (from PIE root [*wegh-](https://www.etymonline.com/word/*wegh-?ref=etymonline_crossreference) "to go, move, transport in a vehicle").**
+
+3. 释义,
+
+   表达 to express a thought, feeling, or idea so that it is understood by other people
+
+4. 拓展
+
+   conveyable可传达的；可搬运的；可转让的
+
+   [conveyor](javascript:void(0);) 输送机，[机] 传送机；传送带；运送者，传播者
+
+   [conveyance](javascript:void(0);) 运输；运输工具；财产让与
+
+   [conveyancer](javascript:void(0);) 运输者；传达者；办理不动产等让与事务者
+
+**Debate** /dɪˈbeɪt/ 争辩
+
+1. 助记,
+
+   de+bate
+
+   de-, 加强。-bat, 击打，词源同beat, batter. 引申义交锋，争辩。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: via Old French from Latin dis- (expressing reversal) + **battere ‘to fight’.**
+
+   **Etymology**
+
+   early 14c., "a quarrel, dispute, disagreement," from Old French debat; see [debate](https://www.etymonline.com/word/debate?ref=etymonline_crossreference) (v.). Sense of "a formal dispute, a debating contest, interchange of arguments in a somewhat formal manner" is perhaps from early 15c.
+
+3. 释义,
+
+   争辩 (a) serious discussion of a subject in which many people take part
+
+4. 拓展
+
+   vt.[法]辩论，争论，讨论
+
+   [reason](javascript:void(0);) / [dispute about](javascript:void(0);)
+
+   vi.[法]辩论，争论，讨论
+
+   [deal](javascript:void(0);) / [pro-and-con](javascript:void(0);)
+
+   n.[法]辩论；辩论会
+
+   [dispute](javascript:void(0);) / [controversy](javascript:void(0);)
+
+**Humility** /hjuːˈmɪl.ə.t̬i/ 谦逊
+
+1. 助记,
+
+   humil+ity
+
+   来自拉丁语humilis,尘土一样的，卑微的，词源同 humus,土，尘土,-ity,名词后缀。
+
+   即把自身放在尘土一样卑微的位置，引申词义谦逊，谦虚。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French humilite, from Latin humilitas, **from humilis (see humble).**
+
+   **Etymology**
+
+   early 14c., "quality of being humble," from Old French umelite "humility, modesty, sweetness" (Modern French humilité), from Latin humilitatem (nominative humilitas) "lowness, small stature; insignificance; baseness, littleness of mind," in Church Latin "meekness," **from humilis "lowly, humble," literally "on the ground," from humus "earth,"** from PIE root [*dhghem-](https://www.etymonline.com/word/*dhghem-?ref=etymonline_crossreference) "earth." In the Mercian hymns, Latin humilitatem is glossed by Old English eaðmodnisse.
+
+3. 释义,
+
+   谦逊  the quality of not being proud because you are aware of your bad qualities
+
+4. 拓展
+
+   humilis 尘土
+
+   humus 腐植土
+
+**Convince** /kənˈvɪns/ 说服
+
+1. 助记,
+
+   con+vince
+
+   con-, 一起。-vince, 胜利，词源同evince, victory. 即战胜，使信服。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘overcome, defeat in argument’): from Latin convincere, **from con- ‘with’ + vincere ‘conquer’.** Compare with convict.
+
+   **Etymology**
+
+   1520s, "to overcome in argument," from Latin convincere "to overcome decisively," **from assimilated form of com-, here probably an intensive prefix (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)), + vincere "to conquer" (from nasalized form of PIE root [*weik-](https://www.etymonline.com/word/*weik-?ref=etymonline_crossreference) (3) "to fight, conquer").** Meaning "to firmly persuade or satisfy by argument or evidence" is from c. 1600. Related: Convinced; convincing; convincingly.
+
+3. 释义,
+
+   说服  to persuade someone or make someone certain
+
+4. 拓展
+
+   - [convinced](javascript:void(0);) 确信的；深信的
+
+     [convincing](javascript:void(0);) 令人信服的；有说服力的
+
+     [convincible](javascript:void(0);) 可使信服的；可说服的
+
+   - adv.
+
+     [convincingly](javascript:void(0);) 令人信服地；有说服力地
+
+   - v.
+
+     [convinced](javascript:void(0);) 使确信（convince的过去分词）；说服
+
+     [convincing](javascript:void(0);) 使相信；使明白（convince的现在分词）
+
+
 
 ## 6. Recognize How to Get Beyond Disagreements
 
