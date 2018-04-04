@@ -196,7 +196,117 @@ Work Principles is written for those for whom work is primarily the game that yo
 
 # Vocabulary
 
-@Grace 2018-04-03
+@Grace Grace 2018-04-04
+
+#### **Responsibility**
+
+UK /rɪˌspɒnsəˈbɪləti/ US /rɪˌspɑ:nsəˈbɪləti/
+
+1. 助记,
+
+   “respons"+"ible”+“-ity” ="answering to, corresponding, condition of being responsible， accountable for one's actions" 。
+
+   **respons-**： 表示“回应，答复”的意思，’to respond，answer to, promise in return‘。其中**re-**： ‘back，again’；**spons**：即spond，词根*spend-， ‘to answer，to pledge，to make an offering, perform a rite， to engage oneself, promise’。
+
+   **-ible**： 形容词后缀，以 -d/-t 结尾的动词，若其前为元音时，构成该形容词常要将-d/-t 变为-s, 如：permit 允许→permissible 能允许的。
+
+   **-ity**： 名词后缀，表示具有某种特征的状态、性质或事实，其意思相当于the condition,quality or fact of being～。除了与单纯的形容词或词根相结合，-ity还经常加在某些带形容词后缀的单词上。所以，常常可以看到“形容词后缀+-ity”的复合形式，如-acity,-ality,-anity,-arity,-ability（=-able + -ity),-ibility(=-ible + -ity),-idity,-ility(= -ile + -ity),-ivity(= -ive + -ity),-ocity,-osity(=-ous + -ity)等等。多数含有被动含义的词汇，所对应的名词后缀为 -ibility。
+
+2. 词源,
+
+   **OED Origin**
+
+   responsible adj.
+
+   Late 16th century (in the sense ‘answering to, corresponding’): from obsolete French responsible, from Latin respons- ‘answered, offered in return’, from the verb respondere (see respond).
+
+   **Etymology**
+
+   1590s, "answerable" (to another, for something), from obsolete French responsible (13c., Modern French responsable, as if from Latin *responsabilis), from Latin respons-, past participle stem of respondere "to respond" (see [respond](https://www.etymonline.com/word/respond?ref=etymonline_crossreference)). Meaning "accountable for one's actions" is attested from 1640s; that of "reliable, trustworthy" is from 1690s. Retains the sense of "obligation" in the Latin root word. 
+
+3. 释义,
+
+   n. 1) 责任；负责(duty)**a duty to deal with or take care of sb/sth, so that you may be blamed if sth goes wrong**
+
+   ​     2)事故责任(blame)**blame for sth bad that has happened**
+
+   ​     3)职责；义务；任务(good judgment)**a duty to help or take care of sb because of your job, position, etc.**
+
+4. 相关词语和词组
+
+   **respond** v. 回应；作出反应；有改进，见起色
+
+   **respondent** n. 回答问题的人；（尤指）调查对象；被告
+
+   **response** n. （口头或书面的）回答，答复；反应，响应；
+
+   **responsible** adj. 负有责任的;尽责的;承担责任;懂道理的
+
+   **responsive** adj. 反应积极敏捷的；反应热烈热情的
+
+   **on one's own responsibility** 自作主张地，未经授权地
+
+5. 同义词辨析
+
+   **responsibility** n. 责任，义务。指管控某人或某事物的责任、对不良事件所负的责任或工作职责，强调对他人的责任。
+
+   **obligation**       n. 义务，责任。指法规、合同等规定的该做或不该做的事，含强制之意；也指因诺言、誓言等而必须要做的事。
+
+   **commitment** n.  承诺；承诺之事。指会去做某事的保证或保证去做的事情。
+
+   **duty**                 n. 责任，义务。指在道义或法律上应尽的本分，强调自觉性；也指工作职责，此时通常用复数。
+
+   **function**          n. 职责，职能。指某人的工作职责或某事物的职能或功用。
+
+   ​
+
+#### **Strategic**
+
+UK /dɪˌlɪnɪ'eɪʃn/ US /dɪˌlɪnɪ'eɪʃn/
+
+1. 助记,
+
+   strategic(adj.)：源于stratagem(n.)
+
+   "strat"+“agem”="be a general"。原意“带领军队，将军指令的传达”，后引申为“计谋，战略”。
+
+   **strat**： 源于stratos，‘army that which is spread out’, 词根为*stere-, 'to spread'。
+
+   **agem**： 源于agaein， ‘to lead’, 词根为*ag-, 'to drive, draw out or forth, move'。
+
+2. 词源,
+
+   **OED Origin**
+
+   stratagem n.
+
+   Late 15th century (originally denoting a military ploy): from French stratagème, via Latin from Greek stratēgēma, from stratēgein ‘be a general’, from stratēgos, from stratos ‘army’ + agein ‘to lead’.
+
+   **Etymology**
+
+   strategy n.
+
+   1810, "art of a general," from French stratégie (18c.) and directly from Greekstrategia "office or command of a general," from strategos "general, commander of an army," also the title of various civil officials and magistrates, from stratos"multitude, army, expedition, encamped army," literally "that which is spread out" (from PIE root [*stere-](https://www.etymonline.com/word/*stere-?ref=etymonline_crossreference) "to spread") + agos "leader," from agein "to lead" (from PIE root [*ag-](https://www.etymonline.com/word/*ag-?ref=etymonline_crossreference) "to drive, draw out or forth, move"). In non-military use from 1887.
+
+3. 释义,
+
+   adj. 1)根据全局而安排的；战略性的(show border)**done as part of a plan that is meant to achieve a particular purpose or to gain an advantage**
+
+   ​       2)战略性的；战略上的(describe)**connected with getting an advantage in a war or other military situation**
+
+   ​       3) (武器，尤指核武器)战略性的**intended to be fired at an enemy's country rather than used in a battle**
+
+4. 相关词语和词组
+
+   **strategy** n. 计策，策略；规划，部署；战略
+
+   **strategem** n. （为取胜或迷惑对手的）计策，计谋
+
+   **strategist** n. 战略家，善于策划部署的人
+
+
+
+2018-04-03
 
 #### **Governance**
 
