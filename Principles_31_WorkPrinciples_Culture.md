@@ -958,7 +958,144 @@
 
    [opposer](javascript:void(0);) 反对者
 
-   ​
+
+
+
+@aqua 2018-04-03
+
+  **Bailout** /ˈbeɪl.aʊt/ 脱离困境
+
+1. 助记,
+
+   bail+out
+
+   bail-保释\舀水+out-外面的--保释出来--救助--使之脱离困境
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   also bail-out 1945, in aviation, from the verbal phrase in reference **to pilots (see [bail](https://www.etymonline.com/word/bail?ref=etymonline_crossreference) (v.1) + [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference)(adv.))**. As "federal help for private business in trouble," from 1968; it is unclear which sense of bail is meant.
+
+3. 释义,
+
+   脱离困境 the act of helping a person or organization that is in difficulty, usually by giving or giving or lending money
+
+4. 拓展
+
+ **Implication** /ˌɪm.pləˈkeɪ.ʃən/ 暗示
+
+1. 助记,
+
+   im+plic+ation
+
+   im- "into, in, on, upon" + plic- + -ation.
+
+   => something implied (but not expressed).
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘entwining, being entwined’): from Latin implicatio(n-), from the verb implicare (see implicate).
+
+   **Etymology**
+
+   early 15c., "action of entangling," from Latin implicationem (nominative implicatio) "an interweaving, an entanglement," noun of state from past participle stem of implicare "involve, entangle; embrace; connect closely, associate," **from assimilated form of in- "into, in, on, upon" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") +plicare "to fold" (from PIE root [*plek-](https://www.etymonline.com/word/*plek-?ref=etymonline_crossreference) "to plait").** Meaning "that which is implied (but not expressed), inference drawn from what is observed" is from 1550s.
+
+3. 释义,
+
+   暗示 an occasion when you seem to suggest something without saying itdirectly
+
+4. 拓展
+
+   [implicit](javascript:void(0);) 含蓄的；暗示的；盲从的
+
+   [implicated](javascript:void(0);) 有牵连的
+
+   [implicational](javascript:void(0);) 启发的，启示的
+
+   [implicative](javascript:void(0);) 含蓄的；连带的
+
+   [implicate](javascript:void(0);) 包含的东西
+
+   [implicated](javascript:void(0);) 纠缠（implicate的过去式和过去分词）
+
+   [implicate](javascript:void(0);) 暗示；使牵连其中；含有…的意思
+
+**Inclination** /ˌɪn.klɪˈneɪ.ʃən/ 倾向
+
+1. 助记,
+
+   inclin(e)+ation
+
+   倾斜+的行为--倾向
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin inclinatio(n-), from inclinare ‘bend towards’ (see incline).
+
+   **Etymology**
+
+   "condition of being mentally disposed" (to do something), late 14c., from Middle French inclination(14c.) and directly from Latin inclinationem (nominative inclinatio) "a leaning, bending," figuratively "tendency, bias, favor," noun of action from past participle stem of inclinare "to bend, turn; **cause to lean" (see [incline](https://www.etymonline.com/word/incline?ref=etymonline_crossreference) (v.)).** Meaning "action of bending toward" (something) is from early 15c. That of "amount of a slope" is from 1799.
+
+3. 释义,
+
+   倾向  a feeling that you want to do a particular thing, or the fact that youprefer or are more likely to do a particular thing
+
+4. 拓展
+
+   inclined](javascript:void(0);) 趋向于…的
+
+   [inclining](javascript:void(0);) 倾斜的
+
+   [incline](javascript:void(0);) 倾斜；斜面；斜坡
+
+   [inclining](javascript:void(0);) 倾向；爱好
+
+   [inclined](javascript:void(0);) 使…倾向（incline的过去分词）
+
+   [inclining](javascript:void(0);) 倾斜；倾向（incline的ing形式）；点头弯腰
+
+   [incline](javascript:void(0);) 倾斜；倾向；易于
+
+   [incline](javascript:void(0);) 使倾斜；使倾向于
+
+**Expertise** /ˌek.spɝːˈtiːz/ 专长
+
+1. 助记,
+
+   expert+ise
+
+   专家+的意见、能力--专长
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 19th century: from French, **from expert (see expert).**
+
+   **Etymology**
+
+   "quality or state of being an expert," 1868, from French expertise (16c.) "expert appraisal, expert's report," **from expert (see [expert](https://www.etymonline.com/word/expert?ref=etymonline_crossreference)).** Earlier and more English was expertness (c. 1600).
+
+3. 释义,
+
+   专长 a high level of knowledge or skill
+
+4. 拓展
+
+   expert熟练的；内行的；老练的
+
+   [expert](javascript:void(0);) 专家；行家；能手
+
+   [expertness](javascript:void(0);) 专门性；专业性
+
+   [expert](javascript:void(0);) 当专家；在…中当行家
 
 
 
