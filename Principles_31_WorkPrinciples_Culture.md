@@ -867,6 +867,57 @@
 3. 定义：to correct something or make something right改正，校正
 
 
+#### disappoint /ˌdɪs.əˈpɔɪnt/**
+
+1. 助记：dis-否定 + appoint【指定】 → 不[被]指派 → 失望 即没有指定，引申词义失望。
+2. 词源：
+   etymology
+   early 15c., "dispossess of appointed office," from Middle French desappointer (14c.) "undo the appointment, remove from office," from des- (see dis-) + appointer "appoint" (see appoint).
+3. 定义： to fail to satisfy someone or their hopes, wishes, etc., or to make someone feel unhappy 使失望
+
+
+#### portfolio /ˌpɔːtˈfəʊ.li.əʊ/
+
+1. 助记：port- = harbor, 表示“港口”，引申为“门口、搬运”等，
+   folio- = leaf, 表示“树叶”，来自拉丁语。
+   port-带 + foli-树叶 + -o → 把树叶[纸张]带来带去 → 文件夹
+2. 词源：
+   etymology
+   1722, porto folio; 1719 as port folio, from Italian portafoglio "a case for carrying loose papers," from porta, imperative of portare "to carry" (from PIE root *per-(2) "to lead, pass over") + foglio "sheet, leaf," from Latin folium (see folio). Meaning "official documents of a state department" is from 1835. A minister without portfolio is one not in charge of a particular department. Meaning "collection of securities held" is from 1930; portfolio investment is from 1955.
+3. 定义：
+   1. a large, thin case used for carrying drawings, documents, etc公文包
+   2. a collection of drawings, documents, etc. that represent a person's, especially an artist's, work代表作品集 
+   3. a collection of company shares and other investments that are owned by a particular person or organization证券投资组合
+
+#### observatory/əbˈzɜː.və.tər.i/
+
+1. 助记：observe【观察，注视】 + -atory表地点。用于指天文台，气象台等
+2. 词源:
+   etymology
+   "building for observing astronomical phenomena," 1670s (in reference to Greenwich), from French observatoire, from observer (v.) "to observe, watch over, follow," from Latin observare "watch over," from ob "in front of, before" (see ob-) + servare "to watch, keep safe," from PIE root *ser- (1) "to protect."
+3. 定义：a building from which scientists can watch the planets, the stars, the weather, etc.天文台； 气象台； 瞭望台
+
+
+#### ramble/ˈræm.bəl/
+
+1. 助记：ramble- = branch, 表示“枝 可以理解为像树枝，藤蔓一样四处蔓延 引申为漫步 漫谈
+2. 词源:
+   etymology
+   mid-15c., perhaps frequentative of romen "to walk, go" (see roam), perhaps via romblen (late 14c.) "to ramble." The vowel change perhaps by influence of Middle Dutch rammelen, a derivative of rammen "copulate," "used of the night wanderings of the amorous cat" [Weekley]. Meaning "to talk or write incoherently" is from 1630s. Related: Rambled; rambling.
+3. 定义：
+   1. to walk for pleasure, especially in the countryside漫步
+   2. to talk or write in a confused way, often for a long time漫谈
+
+#### implementation/ˌɪmplɪmenˈteɪʃən/
+
+1. 助记：
+   im-进 + ple-（ = full, fill, 表示“满，填满”）+ -ment表名词 → 进入满 → 完成
+2. 词源：
+   etymology
+   mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements.
+3. 定义：
+   the act of putting a plan into action or of starting to use something 成就； 贯彻
+
 
 
 
