@@ -1287,16 +1287,146 @@
      [convincing](javascript:void(0);) 使相信；使明白（convince的现在分词）
 
 
-
 ## 6. Recognize How to Get Beyond Disagreements
 
 
 
+##7.Recognize How to Get Beyond Disagreements
+
+**Neglect** /nɪˈɡlekt/ 忽视
+
+1. 助记,
+
+   neg+lect
+
+   neg-,否定，没有，-lect,选择，词源同collect,elect.即没有选出来，忽视。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from Latin neglect- ‘disregarded’, from the verb neglegere, **from neg- ‘not’ + legere ‘choose, pick up’.**
+
+   **Etymology**
+
+   1520s, from Latin neglectus, past participle of neglegere "to make light of, disregard, be indifferent to, not heed, not trouble oneself about," literally "not to pick up," variant of neclegere, **from Old Latin nec "not" (from PIE root [*ne-](https://www.etymonline.com/word/*ne-?ref=etymonline_crossreference) "not") + legere "pick up, select,"** from PIE root [*leg-](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference) (1) "to collect, gather." Related: [Neglected](https://www.etymonline.com/word/Neglected?ref=etymonline_crossreference); neglecting.
+
+3. 释义,
+
+   忽视 to not give enough care or attention to people or things that are your responsibility
+
+4. 拓展
+
+   negligible微不足道的，可以忽略的
+
+   [neglected](javascript:void(0);) 被忽视的；未被好好照管的
+
+   [negligent](javascript:void(0);) 疏忽的；粗心大意的
+
+   [neglectful](javascript:void(0);) 疏忽的；忽略的；不小心的
+
+   [negligently](javascript:void(0);) 疏忽地；粗心大意地
+
+   [neglectfully](javascript:void(0);) 怠慢地；不注意地
+
+   [negligence](javascript:void(0);) 疏忽；忽视；粗心大意
+
+   ​
+
+**Recruit** /rɪˈkruːt/ 招募
+
+1. 助记,
+
+   re+cruit
+
+   re-,再，重新，-cru,生长，成长，glow,引申词义吸收，招募新成员。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century (in the senses ‘fresh body of troops’ and ‘supplement the numbers in a group’): from obsolete French dialect recrute, based on Latin recrescere ‘grow again’, **from re- ‘again’ + crescere ‘grow’.**
+
+   **Etymology**
+
+   "military reinforcement, one of a newly raised body of troops," 1640s, from recruit (v.), replacing earlier recrew, recrue; or from obsolete French recrute, alteration of recreue "a supply," recrue "a levy of troops" (late 16c.), Picardy or Hainault dialect variant of recrue "a levy, a recruit," literally "new growth," from Old French recreu (12c.), past participle of recreistre "grow or increase again," **from re- "again" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + creistre "to grow,"** from Latin crescere "to grow" (from PIE root [*ker-](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference) (2) "to grow"). "The French word first appeared in literary use in gazettes published in Holland, and was disapproved of by French writers in the latter part of the 17th c." [OED]. The French word also is the source of Dutch recruut, German Recrut, Swedish rekryt.
+
+3. 释义,
+
+   招募 to persuade someone to work for a company or become a new member of an organization, especially the army
+
+4. 拓展
+
+   ​
+
+**Succeed** /səkˈsiːd/ 成功
+
+1. 助记,
+
+   suc+ceed
+
+   suc-,在下，在后，-ceed,走，go,move词源同 accede,proceed.
+
+   即跟在后面走，引申词义接替，继任，达 成目的，成功。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French succeder or Latin succedere ‘come close after’, **from sub- ‘close to’ + cedere ‘go’.‘grow’.****
+
+   **Etymology**
+
+   late 14c., intransitive and transitive, "come next after, follow after another; take the place of another, be elected or chosen for" a position, from Old French succeder "to follow on" (14c.) and directly from Latin succedere "come after, follow after; go near to; come under; take the place of," also "go from under, mount up, ascend," hence "get on well, prosper, be victorious," **from sub "next to, after" (see [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference)) + cedere "go, move" (from PIE root [*ked-](https://www.etymonline.com/word/*ked-?ref=etymonline_crossreference) "to go, yield").** 
+
+3. 释义,
+
+   成功 If you succeed, you achieve something that you have been aiming for, and if a plan or piece of work succeeds, it has the results that you wanted.
+
+4. 拓展
+
+   successive](javascript:void(0);) 连续的；继承的；依次的；接替的
+
+   [successful](javascript:void(0);) 成功的；一帆风顺的
+
+   [succeeding](javascript:void(0);) 随后的，以后的
+
+   [successfully](javascript:void(0);) 成功地；顺利地
+
+   [success](javascript:void(0);) 成功，成就；胜利；大获成功的人或事物
+
+   [succession](javascript:void(0);) 连续；继位；继承权；轮栽
+
+   [successor](javascript:void(0);) 继承者；后续的事物
 
 
 
+**Resume**  /rɛzjʊmeɪ/ 简历
 
+1. 助记,
 
+    re+sume
 
+   re-,再，重新，-sum,承担，拿起，词源同 assume,consume.
 
+   引申词义重新开始，继续，总结， 小结等，后用于指简历，履历。
 
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: French, literally ‘resumed’, **past participle (used as a noun) of résumer.**
+
+   **Etymology**
+
+   also résumé, 1804, "a summary," from French résumé, noun use of past participle of Middle French resumer "to **sum up,"** from Latin resumere (see [resume](https://www.etymonline.com/word/resume?ref=etymonline_crossreference) (v.)). Meaning "biographical summary of a person's career" is 1940s.
+
+3. 释义,
+
+   简历 short descriptive summary (of events)
+
+4. 拓展
+
+   ​
+
+## 
