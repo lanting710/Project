@@ -867,6 +867,57 @@
 3. 定义：to correct something or make something right改正，校正
 
 
+#### disappoint /ˌdɪs.əˈpɔɪnt/**
+
+1. 助记：dis-否定 + appoint【指定】 → 不[被]指派 → 失望 即没有指定，引申词义失望。
+2. 词源：
+   etymology
+   early 15c., "dispossess of appointed office," from Middle French desappointer (14c.) "undo the appointment, remove from office," from des- (see dis-) + appointer "appoint" (see appoint).
+3. 定义： to fail to satisfy someone or their hopes, wishes, etc., or to make someone feel unhappy 使失望
+
+
+#### portfolio /ˌpɔːtˈfəʊ.li.əʊ/
+
+1. 助记：port- = harbor, 表示“港口”，引申为“门口、搬运”等，
+   folio- = leaf, 表示“树叶”，来自拉丁语。
+   port-带 + foli-树叶 + -o → 把树叶[纸张]带来带去 → 文件夹
+2. 词源：
+   etymology
+   1722, porto folio; 1719 as port folio, from Italian portafoglio "a case for carrying loose papers," from porta, imperative of portare "to carry" (from PIE root *per-(2) "to lead, pass over") + foglio "sheet, leaf," from Latin folium (see folio). Meaning "official documents of a state department" is from 1835. A minister without portfolio is one not in charge of a particular department. Meaning "collection of securities held" is from 1930; portfolio investment is from 1955.
+3. 定义：
+   1. a large, thin case used for carrying drawings, documents, etc公文包
+   2. a collection of drawings, documents, etc. that represent a person's, especially an artist's, work代表作品集 
+   3. a collection of company shares and other investments that are owned by a particular person or organization证券投资组合
+
+#### observatory/əbˈzɜː.və.tər.i/
+
+1. 助记：observe【观察，注视】 + -atory表地点。用于指天文台，气象台等
+2. 词源:
+   etymology
+   "building for observing astronomical phenomena," 1670s (in reference to Greenwich), from French observatoire, from observer (v.) "to observe, watch over, follow," from Latin observare "watch over," from ob "in front of, before" (see ob-) + servare "to watch, keep safe," from PIE root *ser- (1) "to protect."
+3. 定义：a building from which scientists can watch the planets, the stars, the weather, etc.天文台； 气象台； 瞭望台
+
+
+#### ramble/ˈræm.bəl/
+
+1. 助记：ramble- = branch, 表示“枝 可以理解为像树枝，藤蔓一样四处蔓延 引申为漫步 漫谈
+2. 词源:
+   etymology
+   mid-15c., perhaps frequentative of romen "to walk, go" (see roam), perhaps via romblen (late 14c.) "to ramble." The vowel change perhaps by influence of Middle Dutch rammelen, a derivative of rammen "copulate," "used of the night wanderings of the amorous cat" [Weekley]. Meaning "to talk or write incoherently" is from 1630s. Related: Rambled; rambling.
+3. 定义：
+   1. to walk for pleasure, especially in the countryside漫步
+   2. to talk or write in a confused way, often for a long time漫谈
+
+#### implementation/ˌɪmplɪmenˈteɪʃən/
+
+1. 助记：
+   im-进 + ple-（ = full, fill, 表示“满，填满”）+ -ment表名词 → 进入满 → 完成
+2. 词源：
+   etymology
+   mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements.
+3. 定义：
+   the act of putting a plan into action or of starting to use something 成就； 贯彻
+
 
 
 
@@ -1287,16 +1338,308 @@
      [convincing](javascript:void(0);) 使相信；使明白（convince的现在分词）
 
 
+#### inferior/ɪnˈfɪə.ri.ər/
+
+1. 助记：
+   来自拉丁语infra , 在下面的，低的，词源同nether , -ior , 比较级后缀。即更下的，更低的，引申词义低等的
+   infra- 
+   = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”；和源自古英语的前缀under-同源
+2. 词源：
+   etymology
+   early 15c., of land, "low, lower down, lower in position," from Latin inferior "lower, farther down" (also used figuratively), comparative of inferus (adj.) "that is below or beneath," from infra "below" (see infra-). Meaning "lower in degree, rank, grade, or importance" is from 1530s; absolutely, "of low quality or rank," also from 1530s.
+3. 定义：not good, or not as good as someone or something else低劣的； 下级的，下等的
+4. 拓展：inferno 地狱 地狱似的地方
+              infernal阴间的 恶魔的
+
+#### unprecedented /ʌnˈpres.ɪ.den.tɪd/
+
+1. 助记：un-不，非 + precedent【先例】 + -ed表形容词，没有先例的，空前的。
+   precede pre-预先 + ced-走 + e → 预先走 → 优走。
+   cede- = go away; withdraw, yield, 表示“走开，撤退，屈服”。ced/ceed/cess来自拉丁语。
+2. 词源：
+   etymology
+   early 15c., "lead the way; occur before," from Middle French preceder and directly from Latin praecedere "to go before," from prae "before" (see pre-) + cedere "to go" (from PIE root *ked- "to go, yield"). Meaning "to walk in front of" is late 15c.; that of "to go before in rank or importance" is attested from mid-15c. Related: Preceded; preceding.
+3. 定义：never having happened or existed in the past 没有先例的 前所未有的
+
+#### adamant/ˈæd.ə.mənt/
+
+1. 助记：a-不 + dam-驯服 + -ant → 不可征服的。
+   adam- 表示不屈服，强硬的。来自a-（否定）+dom-（家，驯服），字面含义不能驯服的
+   -ant 表形容词，“…的
+2. 词源：
+   etymology
+   late 14c., "hard, unbreakable," from adamant (n.). Figurative sense of "unshakeable" first recorded 1670s. Related: Adamantly; adamance.
+   It is perhaps literally "invincible, indomitable," from a- "not" (see a- (3)) + daman "to conquer, to tame," from PIE root *deme- "to constrain, force, break (horses)" (see tame (adj.)). "But semantically, the etymology is rather strange," according to Beekes, who suggests it might be a foreign word altered in Greek by folk etymology, and compares Akkadian (Semitic) adamu.
+3. 定义：impossible to persuade, or unwilling to change an opinion or decision 坚决的 坚定不移的
+4. 拓展：
+   diamond（钻石）：坚不可摧的物质
+   英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。
+   diamond：['daɪəmənd] n.钻石，金刚石，菱形adj.菱形的，金刚石的
+   adamant：['ædəm(ə)nt] adj.坚硬无比的，固执的，坚定的n.坚硬的东西
+
+#### bailout/ˈbeɪl.aʊt/
+
+1. 助记：
+   bail n. 保释, 拎环, 杓, 栅栏 vt. 保释, 舀水
+   out a. 外面的, 熄灭的, 结束的 ad. 在外, 熄灭, 出现 prep. 出自, 离去, 向
+2. 词源：
+   etymology
+   also bail-out 1945, in aviation, from the verbal phrase in reference to pilots (see bail (v.1) + out (adv.)). As "federal help for private business in trouble," from 1968; it is unclear which sense of bail is meant.
+3. 定义：the act of helping a person or organization that is in difficulty, usually by giving or giving or lending money
+   （公司所受的）紧急援助 跳伞 保释
+4. 拓展：bail [beɪl] n.保释（金）；杓，vt.保释；帮某人脱离困境；往外舀水。中世纪西欧城堡的最外边是一圈栅栏，叫bailey ['beɪlɪ] n.外栅；城堡外庭，外敌难以进入，里边的也不好出去，所以城堡还是监狱。将人从监狱里救出，就是bail out。They will discuss how to bail the economy out of its slump. 
+
+#### stalemate/ˈsteɪl.meɪt/
+
+1. 助记：
+   stale【陈旧】 + mate
+   可能来自古法语 estal,存放的，固定位置的，来自 Proto-Germanicstallaz,放置，固定位置，来自 PIEstel,放置，站立，词源同 stall,stand.引申比喻义久放的，陈腐的，污浊的
+2. 词源：
+   etymology
+   1775, "what is stated," from state (v.) + -ment. From 1789 as "action of stating;" 1885 in the commercial sense "document displaying debits and credits."
+3. 定义：a situation in which neither group involved in an argument can win or get an advantage and no action can be taken 僵局
+
 
 ## 6. Recognize How to Get Beyond Disagreements
 
 
 
+##7.Recognize How to Get Beyond Disagreements
+
+**Neglect** /nɪˈɡlekt/ 忽视
+
+1. 助记,
+
+   neg+lect
+
+   neg-,否定，没有，-lect,选择，词源同collect,elect.即没有选出来，忽视。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from Latin neglect- ‘disregarded’, from the verb neglegere, **from neg- ‘not’ + legere ‘choose, pick up’.**
+
+   **Etymology**
+
+   1520s, from Latin neglectus, past participle of neglegere "to make light of, disregard, be indifferent to, not heed, not trouble oneself about," literally "not to pick up," variant of neclegere, **from Old Latin nec "not" (from PIE root [*ne-](https://www.etymonline.com/word/*ne-?ref=etymonline_crossreference) "not") + legere "pick up, select,"** from PIE root [*leg-](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference) (1) "to collect, gather." Related: [Neglected](https://www.etymonline.com/word/Neglected?ref=etymonline_crossreference); neglecting.
+
+3. 释义,
+
+   忽视 to not give enough care or attention to people or things that are your responsibility
+
+4. 拓展
+
+   negligible微不足道的，可以忽略的
+
+   [neglected](javascript:void(0);) 被忽视的；未被好好照管的
+
+   [negligent](javascript:void(0);) 疏忽的；粗心大意的
+
+   [neglectful](javascript:void(0);) 疏忽的；忽略的；不小心的
+
+   [negligently](javascript:void(0);) 疏忽地；粗心大意地
+
+   [neglectfully](javascript:void(0);) 怠慢地；不注意地
+
+   [negligence](javascript:void(0);) 疏忽；忽视；粗心大意
+
+   ​
+
+**Recruit** /rɪˈkruːt/ 招募
+
+1. 助记,
+
+   re+cruit
+
+   re-,再，重新，-cru,生长，成长，glow,引申词义吸收，招募新成员。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century (in the senses ‘fresh body of troops’ and ‘supplement the numbers in a group’): from obsolete French dialect recrute, based on Latin recrescere ‘grow again’, **from re- ‘again’ + crescere ‘grow’.**
+
+   **Etymology**
+
+   "military reinforcement, one of a newly raised body of troops," 1640s, from recruit (v.), replacing earlier recrew, recrue; or from obsolete French recrute, alteration of recreue "a supply," recrue "a levy of troops" (late 16c.), Picardy or Hainault dialect variant of recrue "a levy, a recruit," literally "new growth," from Old French recreu (12c.), past participle of recreistre "grow or increase again," **from re- "again" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + creistre "to grow,"** from Latin crescere "to grow" (from PIE root [*ker-](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference) (2) "to grow"). "The French word first appeared in literary use in gazettes published in Holland, and was disapproved of by French writers in the latter part of the 17th c." [OED]. The French word also is the source of Dutch recruut, German Recrut, Swedish rekryt.
+
+3. 释义,
+
+   招募 to persuade someone to work for a company or become a new member of an organization, especially the army
+
+4. 拓展
+
+   ​
+
+**Succeed** /səkˈsiːd/ 成功
+
+1. 助记,
+
+   suc+ceed
+
+   suc-,在下，在后，-ceed,走，go,move词源同 accede,proceed.
+
+   即跟在后面走，引申词义接替，继任，达 成目的，成功。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French succeder or Latin succedere ‘come close after’, **from sub- ‘close to’ + cedere ‘go’.‘grow’.****
+
+   **Etymology**
+
+   late 14c., intransitive and transitive, "come next after, follow after another; take the place of another, be elected or chosen for" a position, from Old French succeder "to follow on" (14c.) and directly from Latin succedere "come after, follow after; go near to; come under; take the place of," also "go from under, mount up, ascend," hence "get on well, prosper, be victorious," **from sub "next to, after" (see [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference)) + cedere "go, move" (from PIE root [*ked-](https://www.etymonline.com/word/*ked-?ref=etymonline_crossreference) "to go, yield").** 
+
+3. 释义,
+
+   成功 If you succeed, you achieve something that you have been aiming for, and if a plan or piece of work succeeds, it has the results that you wanted.
+
+4. 拓展
+
+   successive](javascript:void(0);) 连续的；继承的；依次的；接替的
+
+   [successful](javascript:void(0);) 成功的；一帆风顺的
+
+   [succeeding](javascript:void(0);) 随后的，以后的
+
+   [successfully](javascript:void(0);) 成功地；顺利地
+
+   [success](javascript:void(0);) 成功，成就；胜利；大获成功的人或事物
+
+   [succession](javascript:void(0);) 连续；继位；继承权；轮栽
+
+   [successor](javascript:void(0);) 继承者；后续的事物
 
 
 
+**Resume**  /rɛzjʊmeɪ/ 简历
+
+1. 助记,
+
+    re+sume
+
+   re-,再，重新，-sum,承担，拿起，词源同 assume,consume.
+
+   引申词义重新开始，继续，总结， 小结等，后用于指简历，履历。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 19th century: French, literally ‘resumed’, **past participle (used as a noun) of résumer.**
+
+   **Etymology**
+
+   also résumé, 1804, "a summary," from French résumé, noun use of past participle of Middle French resumer "to **sum up,"** from Latin resumere (see [resume](https://www.etymonline.com/word/resume?ref=etymonline_crossreference) (v.)). Meaning "biographical summary of a person's career" is 1940s.
+
+3. 释义,
+
+   简历 short descriptive summary (of events)
+
+4. 拓展
+
+@aqua 2018-4-6
+
+**Candidate** /ˈkæn.dɪ.deɪt/  候选人       
+
+1. 助记,
+
+   candid+ate
+
+   cand-=white,glow,白,发光
+
+   来自词根cand, 照明，词源同candle。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century: from Latin candidatus ‘white-robed’, also denoting a candidate for office (who traditionally wore a white toga), from candidus ‘white’.
+
+   **Etymology**
+
+   "person who seeks or is put forward for an office by election or appointment," c. 1600, from Latin candidatus "one aspiring to office," originally "white-robed," past participle of candidare "**to make white or bright**," **from candidus past participle of candere "to shine,"** from PIE root [*kand-](https://www.etymonline.com/word/*kand-?ref=etymonline_crossreference) "to shine." Office-seekers in ancient Rome wore white togas.
+
+3. 释义,
+
+   候选人 a person who is competing to get a job or elected position
+
+4. 拓展
+
+   古代竞选人身着白色长袍的习俗
+   在古罗马时代，那些谋求公职的竞选人在竞选场合中，往往会身穿一身特别干净的白袍，一来表示自己品行洁白无瑕，无可挑剔，二来一身白衣在人群中格外醒目，易于给选民留下深刻影响。英语单词candidate正是源自这种做法。它源自拉丁语candidatus，本意就是“身穿白袍的”。candidatus源自拉丁语candidum，表示“白、纯洁”，而该词又来自拉丁语candere，表示“发光”，从中衍生出英语词根cand-（发光）。英语单词candle（蜡烛）、candid（坦白的）、candor（坦白）等都源自于此。
+   candle： ['kænd(ə)l] n.蜡烛，烛光
+   candid：['kændɪd] adj.公正的，坦白的，率直的，偷拍的
+   candor：['kændɚ] n.坦白，直率
+   candescence：[kæn'dɛsns] n.白炽，白热
 
 
 
+**Compatible** /kəmˈpæt̬.ə.bəl/   可共存的         
 
+1. 助记,
+
+   com+pat+ible
+
+   com-=with,together
+
+   pat-=suffer 表忍受,引申为感情
+
+   ible-=形容词后缀
+
+   有共同感情-相容的-可共存的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from French, from medieval Latin compatibilis, **from compati ‘suffer with**’.
+
+   **Etymology**
+
+   "capable of coexisting in harmony, reconcilable," mid-15c., from Medieval Latin compatibilis, **from Late Latin compati (see [compassion](https://www.etymonline.com/word/compassion?ref=etymonline_crossreference)).** Related: Compatibly; compatibility.
+
+3. 释义,
+
+   可共存的 able to exist, live together, or work successfully with something or someone else
+
+4. 拓展
+
+   compatibly 适合地；协调地；相互兼容地
+
+   [compatibility](javascript:void(0);) [计] 兼容性
+
+
+
+**Bonus**/ˈboʊ.nəs/ 红利     
+
+1. 助记,
+
+   来自词根bon, =good thing
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 18th century (probably originally Stock Exchange slang): **from Latin bonus (masculine) ‘good’, used in place of bonum (neuter) ‘good, good thing’.**
+
+   **Etymology**
+
+   "money or other benefit given as a premium or extra pay to reward or encourage work," 1773, "Stock Exchange Latin" [Weekley], meant as "a good thing," **from Latin bonus "good" (adj.),** perhaps originally "useful, efficient, working," from Proto-Italic *dw-eno- "good," probably a suffixed form of PIE root [*deu-](https://www.etymonline.com/word/*deu-?ref=etymonline_crossreference) (2) "to do, perform; show favor." The correct noun form would be bonum. Specifically as "extra dividend paid to shareholders from surplus profits" from 1808. In U.S. history the bonus army was tens of thousands of World War I veterans and followers who marched on Washington, D.C., in 1932, at the height of the Great Depression, demanding early redemption of their service bonus certificates (which carried a maximum value of $625).
+
+3. 释义,
+
+   红利 an extra amount of money that is given to you as a present or reward for good work as well as the money you were expecting
+
+4. 拓展
+
+   bonus（红利）：股票持有人除股息之外的更多收益
+   1733年，英国第一家证券交易所在一家名叫乔纳森的咖啡馆成立。1802年获得英国政府的正式批准。这家证券交易所即为现在伦敦证券交易所的前身。早期人们对股票还不熟悉，为了劝说人们购买股票，证券交易商会大力向人们解释购买股票的各种收益。其中最基本的一项收益是“股息”（dividend），即股票持有人可以按照预定的比率，根据所购买的股份从所投资的公司的盈利中获得收益，就像从银行存款中获得固定比率的利息一样。
+   另外，与银行存款不一样，在派发股息之后，如果公司还有盈余，股票持有人还有可能进一步瓜分盈余，获得更多收益。当时，英语中并没有一个对应单词用来表示这种股息之外的更多收益。于是证券交易商们借用了拉丁语中的bonus一词。该词的本意是“好处”（good），英语中表示“好”的词根bene就与此同源。从此以后，bonus一词就成为了对这种更多收益的称呼，中文一般翻译为“红利”。
+   “股息”（dividend）和“红利”（bonus）的区别在于：股息是预先确定收益率的，而红利是没有固定收益率的，可以上下浮动。股份公司在派息分红时，首先按照固定收益率向优先股股东发放股息；发完股息后，如果还有盈余，则还可以在扣除企业发展积累金后进一步向普通股东发放红利。
+   现在，bonus一词早已经超越了股票领域，用来泛指固定收益外的各种更多收益，如奖金、给退伍军人发放的一次性费用等，甚至还成为了贿赂的暗语，相当于我们中国人说的“意思意思”。
+   bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
+   dividend：['dɪvɪdend] n.股息，被除数
 
