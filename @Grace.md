@@ -1,3 +1,135 @@
+### 2018-04-07
+
+**July**
+
+UK /dʒuˈlaɪ/ US /dʒʊˈlaɪ/
+
+1. 助记,
+
+   即Julius，源于Gaius Julius Caesar（盖乌斯▪尤利乌斯▪恺撒），也就是历史上所称的“恺撒大帝”。他是罗马共和国末期杰出的军事统帅、政治家、历史学家（公元前100-公元前44），并以其卓越的才能成为了罗马帝国的奠基者。他进军大不列颠群岛（55年）并征服了他的政敌庞培的军队（48年），又追击其他敌人至埃及，他在那里立克利奥帕特拉为女王（47年），返回罗马后，被罗马人民授予终身一人统治的权力（45年）。次年3月15日，他被卡西乌和布鲁特斯领导的一群共和主义者谋杀身亡，因为这些人担心他图谋建立由他个人统治的君主制政权。凯撒大帝被刺死后，著名的罗马将军马克安东尼建议将恺撒大帝诞生的月份，用恺撒的名字--Julius命名之。这一建议得到了元老院的通过。
+
+   后来，德国的统治者都统称为“恺撒”，这个词在当地就是独裁者或皇帝的意思。而俄国统治者的发音也来源于恺撒的名字，他们简称为“沙”，也就是“沙皇”。
+
+2. 词源，
+
+   **OED Origin**
+
+   Middle English: from Latin Julius (mensis) ‘(month) of July’, named after Julius Caesar.
+
+   **Etymology**
+
+   seventh month, c. 1050, Iulius, from Anglo-French julie, Old French Juil, Jule(Modern French uses a diminutive, Juillet), from Latin Iulius "fifth month of the Roman calendar" (which began its year in March), renamed after his death and deification in honor of Gaius [Julius](https://www.etymonline.com/word/Julius?ref=etymonline_crossreference) Caesar, who was born in this month. In republican Rome it had been Quintilis, literally "fifth." Accented on the first syllable in English until 18c.; "the modern Eng. pronunciation is abnormal and unexplained" [OED]. Replaced Old English liða se æfterra "later mildness," fromliðe "mild."
+
+3. 释义,
+
+   n. 七月**the 7th month of the year, between June and August**
+
+
+
+**June**
+
+UK /dʒu:n/ US /dʒu:n/
+
+1. 助记,
+
+   1)根据罗马神话中的神后朱诺（Juno）的名字演变而来。她是神王朱庇特（Jupiter）之妻，司管婚姻、生育和妇女的女神，相当于希腊神话中的赫拉。古罗马对她十分崇敬，便把6月奉献给她，以她的名字――拉丁文Junius来命名6 月。
+
+   2)也有学者认为，Junius可能是个代拉丁家族中一个显赫贵族的姓氏。
+
+   3)Juno一词，意为“年轻的人”，源于词根*juwen-，‘young’。
+
+2. 词源，
+
+   **OED Origin**
+
+   Middle English: from Old French juin, from Latin Junius (mensis) ‘(month) of June’, variant of Junonius ‘sacred to Juno’.
+
+   **Etymology**
+
+   sixth month, c. 1300, Iun, June, Juin, from Latin Junius (mensis), probably a contraction of Junonius, "sacred to Juno" (see [Juno](https://www.etymonline.com/word/Juno?ref=etymonline_crossreference)). Replaced Old English liðe se ærra "earlier mildness." Spelling variant Iune lingered until 17c.
+
+3. 释义,
+
+   n. 1)六月**the 6th month of the year, between May and July**
+
+   ​     2) [女子名]琼，来源于拉丁语，含义是“年轻气盛的六月”（youthful from the name of the month）
+
+
+
+### 2018-04-06
+
+**April**
+
+UK /ˈeɪprəl/ US /ˈeprəl/
+
+1. 助记,
+
+   1)罗马的4月，正是大地回春.鲜花初绽的美好季节。英文4月April便由拉丁文Aprilis（即开花的日子）演变而来。
+
+   词根为**apo-，‘second，after，to open’。
+
+   2)在古英语中，April也被称为Eastermonab，即Easter month（复活节月）。
+
+   3)也可能源于古希腊女神阿弗洛狄忒（Aphrodite），她是爱情与美丽的女神，也是性欲女神。由于诞生于海洋，所以有时还被奉为航海的庇护神。
+
+2. 词源，
+
+   **OED Origin**
+
+   Old English, from Latin Aprilis.
+
+   **Etymology**
+
+   fourth month, c. 1300, aueril, from Old French avril (11c.), from Latin (mensis) Aprilis, second month of the ancient Roman calendar, from a stem of uncertain origin and meaning, with month-name suffix -ilis as in Quintilis, Sextilis (the old names of July and August).
+
+   Perhaps based on Apru, an Etruscan borrowing of Greek [Aphrodite](https://www.etymonline.com/word/Aphrodite?ref=etymonline_crossreference). Or perhaps*ap(e)rilis "the following, the next," from its place as the second month of the old Roman calendar, from Proto-Italic *ap(e)ro-, from PIE *apo- "away, off" (see[apo-](https://www.etymonline.com/word/apo-?ref=etymonline_crossreference); compare Sanskrit aparah "second," Gothic afar "after"). Old folk etymology connected it with Latin aperire "to open."
+
+   In English in Latin form from mid-12c.; it replaced Old English Eastermonað, which was named for a fertility goddess (see [Easter](https://www.etymonline.com/word/Easter?ref=etymonline_crossreference)). Re-spelled in Middle English on Latin model (apprile, first attested late 14c.).
+
+3. 释义,
+
+   n. 四月**the fourth month of the year, after March and before May**
+
+4. 相关词组和谚语
+
+   **April Fool** n. 在愚人节开的玩笑；愚人节被愚弄的人
+
+   **April showers bring May flowers** 四月雨带来五月花。
+
+
+
+**May**
+
+UK /[meɪ/ US /me/
+
+1. 助记,
+
+   1)由拉丁文Maius演变而来。Maius即希腊神话中的女神迈娅(Maia)，是泰坦神阿特拉斯(Atlas) 的女儿，大神赫尔墨斯（Hermes）的母亲。专门执掌繁殖和生长的女神，是慈母和护育婴儿者的保护神。
+
+   2)词根为**meg-，‘great’。
+
+2. 词源，
+
+   **OED Origin**
+
+   Late Old English, from Old French mai, from Latin Maius (mensis) ‘(month) of the goddess Maia’.
+
+   **Etymology**
+
+   fifth month, early 12c., from Old French mai and directly from Latin Majus, Maius mensis "month of May," possibly from Maja, Maia, a Roman earth goddess (wife of Vulcan) whose name is of unknown origin; possibly from PIE *mag-ya "she who is great," fem. suffixed form of root [*meg-](https://www.etymonline.com/word/*meg-?ref=etymonline_crossreference) "great" (cognate with Latin magnus). Replaced Old English þrimilce, month in which cows can be milked three times a day. May marriages have been considered unlucky at least since Ovid's day. May-apple attested from 1733, American English.
+
+3. 释义,
+
+   n. 五月**the fifth month of the year, after April and before June**
+
+   may n. 另一意思为“山楂，山楂花”**the white or pink flowers of the hawthorn**
+
+4. 相关词组
+
+   **May Day** n. 五一国际劳动节
+
+
+
 ### 2018-04-05
 
 **March**
