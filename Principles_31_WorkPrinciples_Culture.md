@@ -1427,6 +1427,106 @@
 
 4. 拓展
 
-   ​
+@aqua 2018-4-6
 
-## 
+**Candidate** /ˈkæn.dɪ.deɪt/  候选人       
+
+1. 助记,
+
+   candid+ate
+
+   cand-=white,glow,白,发光
+
+   来自词根cand, 照明，词源同candle。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century: from Latin candidatus ‘white-robed’, also denoting a candidate for office (who traditionally wore a white toga), from candidus ‘white’.
+
+   **Etymology**
+
+   "person who seeks or is put forward for an office by election or appointment," c. 1600, from Latin candidatus "one aspiring to office," originally "white-robed," past participle of candidare "**to make white or bright**," **from candidus past participle of candere "to shine,"** from PIE root [*kand-](https://www.etymonline.com/word/*kand-?ref=etymonline_crossreference) "to shine." Office-seekers in ancient Rome wore white togas.
+
+3. 释义,
+
+   候选人 a person who is competing to get a job or elected position
+
+4. 拓展
+
+   古代竞选人身着白色长袍的习俗
+   在古罗马时代，那些谋求公职的竞选人在竞选场合中，往往会身穿一身特别干净的白袍，一来表示自己品行洁白无瑕，无可挑剔，二来一身白衣在人群中格外醒目，易于给选民留下深刻影响。英语单词candidate正是源自这种做法。它源自拉丁语candidatus，本意就是“身穿白袍的”。candidatus源自拉丁语candidum，表示“白、纯洁”，而该词又来自拉丁语candere，表示“发光”，从中衍生出英语词根cand-（发光）。英语单词candle（蜡烛）、candid（坦白的）、candor（坦白）等都源自于此。
+   candle： ['kænd(ə)l] n.蜡烛，烛光
+   candid：['kændɪd] adj.公正的，坦白的，率直的，偷拍的
+   candor：['kændɚ] n.坦白，直率
+   candescence：[kæn'dɛsns] n.白炽，白热
+
+
+
+**Compatible** /kəmˈpæt̬.ə.bəl/   可共存的         
+
+1. 助记,
+
+   com+pat+ible
+
+   com-=with,together
+
+   pat-=suffer 表忍受,引申为感情
+
+   ible-=形容词后缀
+
+   有共同感情-相容的-可共存的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from French, from medieval Latin compatibilis, **from compati ‘suffer with**’.
+
+   **Etymology**
+
+   "capable of coexisting in harmony, reconcilable," mid-15c., from Medieval Latin compatibilis, **from Late Latin compati (see [compassion](https://www.etymonline.com/word/compassion?ref=etymonline_crossreference)).** Related: Compatibly; compatibility.
+
+3. 释义,
+
+   可共存的 able to exist, live together, or work successfully with something or someone else
+
+4. 拓展
+
+   compatibly 适合地；协调地；相互兼容地
+
+   [compatibility](javascript:void(0);) [计] 兼容性
+
+
+
+**Bonus**/ˈboʊ.nəs/ 红利     
+
+1. 助记,
+
+   来自词根bon, =good thing
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 18th century (probably originally Stock Exchange slang): **from Latin bonus (masculine) ‘good’, used in place of bonum (neuter) ‘good, good thing’.**
+
+   **Etymology**
+
+   "money or other benefit given as a premium or extra pay to reward or encourage work," 1773, "Stock Exchange Latin" [Weekley], meant as "a good thing," **from Latin bonus "good" (adj.),** perhaps originally "useful, efficient, working," from Proto-Italic *dw-eno- "good," probably a suffixed form of PIE root [*deu-](https://www.etymonline.com/word/*deu-?ref=etymonline_crossreference) (2) "to do, perform; show favor." The correct noun form would be bonum. Specifically as "extra dividend paid to shareholders from surplus profits" from 1808. In U.S. history the bonus army was tens of thousands of World War I veterans and followers who marched on Washington, D.C., in 1932, at the height of the Great Depression, demanding early redemption of their service bonus certificates (which carried a maximum value of $625).
+
+3. 释义,
+
+   红利 an extra amount of money that is given to you as a present or reward for good work as well as the money you were expecting
+
+4. 拓展
+
+   bonus（红利）：股票持有人除股息之外的更多收益
+   1733年，英国第一家证券交易所在一家名叫乔纳森的咖啡馆成立。1802年获得英国政府的正式批准。这家证券交易所即为现在伦敦证券交易所的前身。早期人们对股票还不熟悉，为了劝说人们购买股票，证券交易商会大力向人们解释购买股票的各种收益。其中最基本的一项收益是“股息”（dividend），即股票持有人可以按照预定的比率，根据所购买的股份从所投资的公司的盈利中获得收益，就像从银行存款中获得固定比率的利息一样。
+   另外，与银行存款不一样，在派发股息之后，如果公司还有盈余，股票持有人还有可能进一步瓜分盈余，获得更多收益。当时，英语中并没有一个对应单词用来表示这种股息之外的更多收益。于是证券交易商们借用了拉丁语中的bonus一词。该词的本意是“好处”（good），英语中表示“好”的词根bene就与此同源。从此以后，bonus一词就成为了对这种更多收益的称呼，中文一般翻译为“红利”。
+   “股息”（dividend）和“红利”（bonus）的区别在于：股息是预先确定收益率的，而红利是没有固定收益率的，可以上下浮动。股份公司在派息分红时，首先按照固定收益率向优先股股东发放股息；发完股息后，如果还有盈余，则还可以在扣除企业发展积累金后进一步向普通股东发放红利。
+   现在，bonus一词早已经超越了股票领域，用来泛指固定收益外的各种更多收益，如奖金、给退伍军人发放的一次性费用等，甚至还成为了贿赂的暗语，相当于我们中国人说的“意思意思”。
+   bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
+   dividend：['dɪvɪdend] n.股息，被除数
+
