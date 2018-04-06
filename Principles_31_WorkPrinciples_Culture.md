@@ -1338,6 +1338,68 @@
      [convincing](javascript:void(0);) 使相信；使明白（convince的现在分词）
 
 
+#### inferior/ɪnˈfɪə.ri.ər/
+
+1. 助记：
+   来自拉丁语infra , 在下面的，低的，词源同nether , -ior , 比较级后缀。即更下的，更低的，引申词义低等的
+   infra- 
+   = "below, underneath, beneath; later than, smaller, inferior to," 表示“下，低”；和源自古英语的前缀under-同源
+2. 词源：
+   etymology
+   early 15c., of land, "low, lower down, lower in position," from Latin inferior "lower, farther down" (also used figuratively), comparative of inferus (adj.) "that is below or beneath," from infra "below" (see infra-). Meaning "lower in degree, rank, grade, or importance" is from 1530s; absolutely, "of low quality or rank," also from 1530s.
+3. 定义：not good, or not as good as someone or something else低劣的； 下级的，下等的
+4. 拓展：inferno 地狱 地狱似的地方
+              infernal阴间的 恶魔的
+
+#### unprecedented /ʌnˈpres.ɪ.den.tɪd/
+
+1. 助记：un-不，非 + precedent【先例】 + -ed表形容词，没有先例的，空前的。
+   precede pre-预先 + ced-走 + e → 预先走 → 优走。
+   cede- = go away; withdraw, yield, 表示“走开，撤退，屈服”。ced/ceed/cess来自拉丁语。
+2. 词源：
+   etymology
+   early 15c., "lead the way; occur before," from Middle French preceder and directly from Latin praecedere "to go before," from prae "before" (see pre-) + cedere "to go" (from PIE root *ked- "to go, yield"). Meaning "to walk in front of" is late 15c.; that of "to go before in rank or importance" is attested from mid-15c. Related: Preceded; preceding.
+3. 定义：never having happened or existed in the past 没有先例的 前所未有的
+
+#### adamant/ˈæd.ə.mənt/
+
+1. 助记：a-不 + dam-驯服 + -ant → 不可征服的。
+   adam- 表示不屈服，强硬的。来自a-（否定）+dom-（家，驯服），字面含义不能驯服的
+   -ant 表形容词，“…的
+2. 词源：
+   etymology
+   late 14c., "hard, unbreakable," from adamant (n.). Figurative sense of "unshakeable" first recorded 1670s. Related: Adamantly; adamance.
+   It is perhaps literally "invincible, indomitable," from a- "not" (see a- (3)) + daman "to conquer, to tame," from PIE root *deme- "to constrain, force, break (horses)" (see tame (adj.)). "But semantically, the etymology is rather strange," according to Beekes, who suggests it might be a foreign word altered in Greek by folk etymology, and compares Akkadian (Semitic) adamu.
+3. 定义：impossible to persuade, or unwilling to change an opinion or decision 坚决的 坚定不移的
+4. 拓展：
+   diamond（钻石）：坚不可摧的物质
+   英语单词diamond（钻石）和adamant（坚硬无比的）其实是同源单词，都源自希腊语adamas，由a（not）+daman（to conquer, to tame）组合而成，字面意思就是“不可征服的、坚不可摧的”。希腊人用adamas来表示钻石这一类坚硬无比的物质，由此衍生出diamond和adamant这两个英语单词。其中diamond的演变路径比较复杂，为：希腊语adamas→古拉丁语adamantem→通俗拉丁语adiamantem→中世纪拉丁语diamantem→古法语diamant→英语diamond。而单词adamant的演变路径相对简单，为：希腊语adamas→古拉丁语adamantem→英语adamant。
+   diamond：['daɪəmənd] n.钻石，金刚石，菱形adj.菱形的，金刚石的
+   adamant：['ædəm(ə)nt] adj.坚硬无比的，固执的，坚定的n.坚硬的东西
+
+#### bailout/ˈbeɪl.aʊt/
+
+1. 助记：
+   bail n. 保释, 拎环, 杓, 栅栏 vt. 保释, 舀水
+   out a. 外面的, 熄灭的, 结束的 ad. 在外, 熄灭, 出现 prep. 出自, 离去, 向
+2. 词源：
+   etymology
+   also bail-out 1945, in aviation, from the verbal phrase in reference to pilots (see bail (v.1) + out (adv.)). As "federal help for private business in trouble," from 1968; it is unclear which sense of bail is meant.
+3. 定义：the act of helping a person or organization that is in difficulty, usually by giving or giving or lending money
+   （公司所受的）紧急援助 跳伞 保释
+4. 拓展：bail [beɪl] n.保释（金）；杓，vt.保释；帮某人脱离困境；往外舀水。中世纪西欧城堡的最外边是一圈栅栏，叫bailey ['beɪlɪ] n.外栅；城堡外庭，外敌难以进入，里边的也不好出去，所以城堡还是监狱。将人从监狱里救出，就是bail out。They will discuss how to bail the economy out of its slump. 
+
+#### stalemate/ˈsteɪl.meɪt/
+
+1. 助记：
+   stale【陈旧】 + mate
+   可能来自古法语 estal,存放的，固定位置的，来自 Proto-Germanicstallaz,放置，固定位置，来自 PIEstel,放置，站立，词源同 stall,stand.引申比喻义久放的，陈腐的，污浊的
+2. 词源：
+   etymology
+   1775, "what is stated," from state (v.) + -ment. From 1789 as "action of stating;" 1885 in the commercial sense "document displaying debits and credits."
+3. 定义：a situation in which neither group involved in an argument can win or get an advantage and no action can be taken 僵局
+
+
 ## 6. Recognize How to Get Beyond Disagreements
 
 
