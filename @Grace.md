@@ -1,3 +1,109 @@
+### 2018-04-05
+
+**March**
+
+UK /[mɑ:tʃ/ US /mɑ:rtʃ/
+
+1. 助记,
+
+    "(month) of Mars"
+
+   **Mars**：战神玛尔斯(Mars)。
+
+   3月，原是罗马旧历法的1 月，新年的开始。凯撒大帝改革历法后，原来的1月变成3月，但罗马人仍然把3 月看做是一年的开始。另外，按照传统习惯，3月是古罗马每年出征远战的季节。为了纪念战神玛尔斯(Mars)，人们便把这位战神的拉丁名字作为3月的月名。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from an Old French dialect variant of marz, from Latin Martius (mensis) ‘(month) of Mars’.
+
+   **Etymology**
+
+   third month, c. 1200, from Anglo-French marche, Old French marz, from LatinMartius (mensis) "(month) of [Mars](https://www.etymonline.com/word/Mars?ref=etymonline_crossreference)," from Mars (genitive Martis). For March hare, proverbial type of madness, see [mad](https://www.etymonline.com/word/mad?ref=etymonline_crossreference) (adj.). The proverb about coming in like a lion, going out like a lamb is since 1630s.
+
+3. 释义,
+
+   n. 三月**the third month of the year, after February and before April**
+
+4. 相关谚语
+
+   **March comes in like a lion and goes out like a lamb** 三月来如雄狮豹，去如羊羔。
+
+   ​
+
+**march**
+
+UK /[mɑ:tʃ/ US /mɑ:rtʃ/
+
+1. 助记,
+
+   n. 1)"act of marching"；from notion of "rhythmic drumbeat"； “for marching”
+
+   ​     2)"boundary,frontier"；"to mark out, delimit"
+
+   v. "to walk with regular tread"，“to stride，walk”；“to trample, tread underfoot"；”tramping the feet“；"to cause to march"
+
+2. 词源,
+
+   **OED Origin**
+
+   march n.
+
+   Late Middle English: from French marcher ‘to walk’ (earlier ‘to trample’), of uncertain origin.
+
+   march v.
+
+   Middle English: from Old French marche (noun), marchir (verb), of Germanic origin; related to mark.
+
+   **Etymology**
+
+   march n.
+
+   "act of marching," 1580s, from [march](https://www.etymonline.com/word/march?ref=etymonline_crossreference) (v.) or else from Middle French marche (n.), from marcher (v.). The musical sense first attested 1570s, from notion of "rhythmic drumbeat" for marching. Transferred sense of "forward motion" is from 1620s.
+
+   "boundary," late 13c. (in reference to the borderlands beside Wales, rendering Old English Mercia), from Old French marche "boundary, frontier," from Frankish *markaor some other Germanic source (compare Old High German marchon "to mark out, delimit," German Mark "boundary;" see [mark](https://www.etymonline.com/word/mark?ref=etymonline_crossreference) (n.1)). Now obsolete.
+
+   march v.
+
+   "to walk with regular tread," early 15c., from Middle French marcher "to march, walk," from Old French marchier "to stride, march," originally "to trample, tread underfoot," perhaps from Frankish *markon or some other Germanic source related to obsolete Middle English march (n.) "borderland" (see [march](https://www.etymonline.com/word/march?ref=etymonline_crossreference) (n.2)). Or possibly from Gallo-Roman *marcare, from Latin marcus "hammer," via notion of "tramping the feet." Meaning "to cause to march" is from 1590s. Related: Marched; marching.Marching band is attested from 1852. Italian marciare, Spanish marchar are said to be from French.
+
+3. 释义,
+
+   v. 1)齐步走；行进(walk)**to walk with stiff regular steps like a soldier**
+
+   ​    2)（坚定地向某地）前进，进发**to walk somewhere quickly in a determined way**
+
+   ​    3)使同行；强迫（某人）一起走(take forcefully)**to force sb to walk somewhere with you**
+
+   ​    4)游行示威；游行抗议**to walk through the streets in a large group in order to protest about sth**
+
+   n. 1)示威游行；抗议游行(public event)**an organized walk by many people from one place to another, in order to protest about sth, or to express their opinions**
+
+   ​    2)行进；行军(soldiers' walk)**an act of marching; a journey made by marching**
+
+   ​    3)稳步发展；稳步前进(continuous development)**the steady development or forward movement of sth**
+
+   ​    4)进行曲(music)**a piece of music written for marching to**
+
+4. 相关词组和习语
+
+   **quick march** n. 齐步走;齐步行进
+
+   **march on** 继续行进；快速经过
+
+   **march on…** 向…行进（以示抗议或进行攻击）
+
+   **on the march** 在行军中；在行进中；在进展中
+
+   **steal a march (on sb)** 抢先（某人）一步；抢得先机
+
+   **get your marching orders** 被命令离开；被解职
+
+   **give sb their marching orders** 命令某人离开；解雇
+
+
+
 ### 2018-04-01
 
 #### **Philosophia**
