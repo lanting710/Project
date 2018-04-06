@@ -527,6 +527,7 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
    Ex+(s)ec+ution
+   execution : [ex-=out出；(s)ecut=to follow跟随；-e→“to follow out of the procedure跟着程序出来”→].词根sec-指“跟随”，字母s缺失，因为它和ex-读音融合了.
 
 2. 词源,
    **OED Origin**

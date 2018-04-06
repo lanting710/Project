@@ -577,6 +577,7 @@ UK /ɪnˈtegrəti/ US /ɪnˈtɛɡrɪti/
 1. 助记,
 
    "in-"+"teger"+"-ity"= ‘not to touch’。原意“不能碰，不能动”，后引申为“保持完整、完好无损”。
+   完整的,不需再动手的.
 
    **integer**：表示“整数，完整无缺”,‘a whole number，intact，entire，whole，complete’。
 

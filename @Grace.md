@@ -913,7 +913,7 @@ UK /dɪˈsembə(r)/ US /dɪˈsɛmbɚ/
 
    **absolute majority** 绝对多数(指超过半数的选票或竞选席位)
 
-**Approach** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
+**Suspect** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
 1. 助记,
 

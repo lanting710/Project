@@ -622,8 +622,8 @@ TO GET THE CULTURE RIGHT
    to recognize and name the exact character of a disease or aproblem, 
 
 4. 应用 gene diagnosis基因诊断
-
-prenatal diagnosis产前诊断
+   diagnosis
+   prenatal diagnosis产前诊断
 
 
 
