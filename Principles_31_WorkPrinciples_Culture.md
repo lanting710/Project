@@ -1643,3 +1643,56 @@
    bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
    dividend：['dɪvɪdend] n.股息，被除数
 
+
+@aqua 2018-04-07
+
+**Introvert** /ˈɪn.trə.vɝːt/ 性格内向者                
+
+1. 助记,
+
+   intra+vert
+
+   intra-,在内，-vert,转，词源同extrovert,convert.即向内转，引申词义内向的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century (as a verb in the general sense ‘turn one's thoughts inwards (in spiritual contemplation’)): from modern Latin introvertere, **from intro- ‘to the inside’ + vertere ‘to turn’.** Its use as a term in psychology dates from the early 20th century.
+
+   **Etymology**
+
+   1878, in zoology, "part or organ which is turned in upon itself," from [introvert](https://www.etymonline.com/word/introvert?ref=etymonline_crossreference) (v.). The psychological sense "introverted person" (opposed to [extrovert](https://www.etymonline.com/word/extrovert?ref=etymonline_crossreference)) is 1917, from German, introduced there by C.G. Jung (1875-1961).
+
+3. 释义,
+
+   性格内向者  someone who is shy, quiet, and unable to make friends easily
+
+4. 拓展
+
+   ​
+
+**Gregarious** /ɡrɪˈɡer.i.əs/ 爱交际的                 
+
+1. 助记,
+
+   greg+ar+ious
+
+   greg-=group-群体+ar+ious 爱...的,爱群居,引申为爱交际的.
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century: from Latin gregarius (from grex, greg- ‘a flock’) + -ous.
+
+   **Etymology**
+
+   1660s, "disposed to live in flocks" (of animals), from Latin gregarius "pertaining to a flock; of the herd, of the common sort, common," **from grex (genitive gregis) "flock, herd,"** from PIE *gre-g-, reduplicated form of root [*ger-](https://www.etymonline.com/word/*ger-?ref=etymonline_crossreference) "to gather." Of persons, "sociable," first recorded 1789. Related: Gregariously; gregariousness.
+
+3. 释义,
+
+   爱交际的  (of people) liking to be with other people 
+
+4. 拓展
+
