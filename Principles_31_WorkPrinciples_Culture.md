@@ -4,6 +4,116 @@
 
 ## 1. Trust in Radical Truth and Radical Transparency
 
+Grace 
+
+### 2018-04-08
+
+#### **Adapt**
+
+UK /əˈdæpt/ US /əˈdæpt/
+
+1. 助记,
+
+   “ad-"+"apt” =源自拉丁文adaptare，"to fit (something, for some purpose)" 。字面意思是“连接到新环境去”，即适应新环境。
+
+   **ad-**： 表示“到，向着”的意思，’"to, toward‘。
+
+   **apt**：即拉丁语aptare，词根*ap-， ‘to grasp，take，reach，to join，fitted’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from French adapter, from Latin adaptare, from ad- ‘to’ + aptare (from aptus ‘fit’).
+
+   **Etymology**
+
+   early 15c. (implied in adapted) "to fit (something, for some purpose)," from Old French adapter (14c.), from Latin adaptare "adjust, fit to," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + aptare "to join," from aptus "fitted" (see [apt](https://www.etymonline.com/word/apt?ref=etymonline_crossreference)). Intransitive meaning "to undergo modification so as to fit new circumstances" is from 1956. Related: Adapting.
+
+3. 释义,
+
+   v. 1) 使适应，使适合（新用途、新情况）(chance)**to change sth in order to make it suitable for a new use or situation**
+
+   ​     2)适应（新情况）**to change your behaviour in order to deal more successfully with a new situation**
+
+   ​     3)改编；改写**to change a book or play so that it can be made into a play, film/movie, television programme, etc.**
+
+4. 相关词语和词组
+
+   **adaptable** adj. 有适应能力的；能适应的
+
+   **adaptability** n. 适应性;合用性
+
+   **adaptive** adj. （术语）适应的；有适应能力的
+
+   **adapter** n. 适配器;改编者;改写者适应者;适应物
+
+   **adaptation** n. [C] 改编本；改写本；[U] 适应
+
+5. 同义词辨析
+
+   **adapt**                 v. （使）适合，（使）适应。强调改变现有条件以适应新的情况。
+
+   **accommodate** v. [正式]适应，顺应。强调适应新的环境。
+
+   **adjust**                 v.  适应，习惯。指稍微调整以适应特定工作或新的情况，调整幅度没有 adapt 大，常后接介词 to。
+
+   ​
+
+#### **Demand**
+
+UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
+
+1. 助记,
+
+   "de-"+“mand”=源于拉丁文demandare，按字面意思是“通过手来移交，"ask, make inquiry，hand over, entrust，to give into one's hand"，后引申为“坚决地要求”，"to ask for as a right"。
+
+   **de-**：“正式地，完全地”的意思, 'formally，completely'。
+
+   **mand**： 源于拉丁文mandare， ‘to order’。其中**man-**： 'hand'；**dare**：词根为*do-， 'to give'，
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (as a noun): from Old French demande (noun), demander (verb), from Latin demandare ‘hand over, entrust’ (in medieval Latin ‘demand’), from de- ‘formally’ + mandare ‘to order’.
+
+   **Etymology**
+
+   late 14c., "ask, make inquiry," from Old French demander (12c.) "to request; to demand," from Latin demandare "entrust, charge with a commission" (in Vulgar Latin, "to ask, request, demand"), from de- "completely" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + mandare "to order" (see [mandate](https://www.etymonline.com/word/mandate?ref=etymonline_crossreference)). Meaning "to ask for as a right" is early 15c., from Anglo-French legal use.
+
+3. 释义,
+
+   n. 1)（坚决的）要求；所需之物(request)**a very firm request for sth; sth that sb needs**
+
+   ​     2)[pl.]（尤指困难、使人劳累、令人烦恼等的）要求**things that sb/sth makes you do, especially things that are difficult, make you tired, worried, etc.**
+
+   ​     3)（顾客的）需求，需要(need)**the desire or need of customers for goods or services which they want to buy or use**
+
+   v. 1)强烈要求(request)**to ask for sth very firmly**
+
+   ​    2)需要(need)**to need sth in order to be done successfully**
+
+4. 相关词语和词组
+
+   **by popular demand** 由于许多人的要求；由于普遍要求
+
+   **in demand** 需求大
+
+   **on demand** 一经要求
+
+5. 同义词辨析
+
+   **demand**               v. 指严正地问、质问to ask a question very firmly.
+
+   **ask**                        v. 指口头或书面提问、询问to say or write sth in the form of a question, in order to get information.
+
+   **enquire/inquire** v. 指询问、查询( rather formal ) to ask sb for information.
+
+   **query**                    v. 指提问to ask a question.
+
+   以上各词均含口头或书面询问之义。
+
 
 
  **Benefit**/ˈben.ɪ.fɪt/ 益处
@@ -453,10 +563,14 @@
 1. 助记：vulner-创伤 + -able表形容词
    vulner- = wound, 表示“创伤
    able 表形容词，“可…的，能…”
+
 2. 词源：
    etymology
    c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see svelte), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see Valhalla).
+
 3. 定义： able to be easily physically, emotionally, or mentally hurt, influenced, or attacked 易受攻击的 脆弱的 易感染（某种疾病）的
+
+   ​
 
 
 ## 2. Cultivate Meaningful Work and Meaningful Relationships
