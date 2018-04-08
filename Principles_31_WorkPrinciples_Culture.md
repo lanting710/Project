@@ -1810,3 +1810,66 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 4. 拓展
 
+
+#### verdict/ˈvɜː.dɪkt/
+
+1. 助记：ver-真实 + dict-说 → 说真实话 → 裁决
+2. 词源：
+   etymology
+   1530s, alteration of Middle English verdit (c. 1300), "a jury's decision in a case," from Anglo-French verdit (Old French voirdit) "sworn testimony, affidavit; judgment, written record of a verdict," literally "a true saying or report," from ver, veir "true" (from PIE root *were-o- "true, trustworthy") + dit, past participle of dire "to say" (from PIE root *deik- "to show," also "pronounce solemnly"). Spelling influenced by Medieval Latin verdictum "a verdict."
+3. 定义：
+   an opinion or decision made after judging the facts that are given, especially one made at the end of a trial 裁决 裁定 决定 
+4. 拓展：ver-/verit-（真实）：真理女神维瑞塔斯
+   在罗马神话中有一位真理女神，叫做维瑞塔斯（Veritas）。她是农神萨图恩的女儿，美德女神（Virtue）的母亲，对应于希腊神话中的真理女神阿莱西娅（Aletheia）。有人认为,她藏於圣井的底部，因为她很难以捉摸。她的形象通常呈现为一个身著白衣的年轻处子。
+   在拉丁语中，veritas就是“真理、真相”的意思，来自形容词verus（真实的）。拉丁语谚语in vino veritas（in wine truth）就是“酒后吐真言”的意思。哈佛大学的校训就是veritas（真理），醒目地摆放在校徽中。很多大学的校训中也能找到veritas一词，如耶鲁大学的校训就是Lux et Veritas (Light and Truth，光明和真理)。
+   英语词根ver-/verit-就来源于拉丁语verus和veritas，由此衍生出不少与“真实、真理”相关的单词。
+   ver-/verit-：真实、真理
+   veritas：[,verɪ'tæs] n. （拉）真理；真相；真实
+   very：['vɛri] adj. 恰好是，正是；甚至；十足的；特有的adv. 非常，很；完全
+   verify：['vɛrɪfaɪ] vt. 核实；查证
+   verification：[,vɛrɪfɪ'keʃən] n. 确认，查证；核实
+   verdict： ['vɝdɪkt] n. 结论；裁定
+   veridical：[vɪ'rɪdɪk(ə)l] adj. 不虚伪的；诚实的
+   veracity：[və'ræsəti] n. 诚实；精确性；老实；说真实话
+   veracious：[və'reʃəs] adj. 诚实的；真实的
+   verism：['viərizəm] n. 真实主义，写实主义
+   aver：[ə'vɜː] vt. 断言，极力声明；主张
+
+#### dissent/dɪˈsent/
+
+1. 助记：dis-分开 + sent-感觉 → 感觉不合 → 意见不同
+2. 词源：
+   etymology
+   early 15c., from Latin dissentire "differ in sentiments, disagree, be at odds, contradict, quarrel," from dis- "differently" (see dis-) + sentire "to feel, think" (see sense (n.)). Related: Dissented; dissenting. The noun is 1580s, from the verb.
+3. 定义：
+   a strong difference of opinion on a particular subject, especially about an official suggestion or plan or a popular belief
+   意见的分歧，异议
+
+#### minority/maɪˈnɒr.ə.ti/
+
+1. 助记：minor【小或少】 + -ity表名词 → 少的状态 → 少数
+2. 词源：
+   etymology
+   1530s, "condition of being smaller," from Middle French minorité (15c.), or directly from Medieval Latin minoritatem (nominative minoritas), from Latin minor (see minor (adj.)). Meaning "state of being under legal age" is from 1540s; that of "smaller number or part" is from 1736. The meaning "group of people separated from the rest of a community by race, religion, language, etc." is from 1919, originally in an Eastern European context.
+3. 定义：a smaller number or part 少数
+
+#### Catholic /ˈkæθ.əl.ɪk/
+
+1. 助记：cata-向下 + hol-全部 + -ic，即包含全部的
+2. 词源：
+   etymology
+   mid-14c., "of the doctrines of the ancient Church" (before the East/West schism), literally "universally accepted," from French catholique, from Church Latin catholicus "universal, general," from Greek katholikos, from phrase kath' holou "on the whole, in general," from kata "about" + genitive of holos "whole" (from PIE root *sol- "whole, well-kept").
+3. 定义：
+   1. including many different types of thing(小写) 普遍的 广泛的
+   2. 天主教（大写）
+4. 拓展：catholic是“普遍的，一般的”的意思，表示他们才是惟一真正的普世教会。罗马公教会于16世纪传入中国后，因其信徒将所崇奉的神称为"天主"，因而在中国被称为天主教。
+   天主教标榜“普世性”（catholic），所以宗教仪式相对简单，入教门槛较低，教众规模和分布范围远远超过东正教。
+
+#### narcissism/ˈnɑː.sɪ.sɪ.zəm/
+
+1. 助记：
+   来自古希腊神话，英俊青年Narcissus拒绝了神界第一美女Echo的爱，却爱上了自己在水中的倒影，不幸溺水而死，后用于心理学名词，自恋，孤芳自赏
+2. 词源：
+   etymology
+   1905, from German Narzissismus, coined 1899 (in "Die sexuellen Perversitäten"), by German psychiatrist Paul Näcke (1851-1913), on a comparison suggested 1898 by Havelock Ellis, from Greek Narkissos, name of a beautiful youth in mythology (Ovid, "Metamorphoses," iii.370) who fell in love with his own reflection in a spring and was turned to the flower narcissus (q.v.). Coleridge used the word in a letter from 1822.
+3. 定义：too much interest in and admiration for your own physical appearance and/or your own abilities 自我陶醉，自恋
