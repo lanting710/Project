@@ -1873,3 +1873,72 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    etymology
    1905, from German Narzissismus, coined 1899 (in "Die sexuellen Perversitäten"), by German psychiatrist Paul Näcke (1851-1913), on a comparison suggested 1898 by Havelock Ellis, from Greek Narkissos, name of a beautiful youth in mythology (Ovid, "Metamorphoses," iii.370) who fell in love with his own reflection in a spring and was turned to the flower narcissus (q.v.). Coleridge used the word in a letter from 1822.
 3. 定义：too much interest in and admiration for your own physical appearance and/or your own abilities 自我陶醉，自恋
+
+#### anarchy/ˈæn.ə.ki/
+
+1. 助记：an-无 + arch-统治，管理
+2. 词源：
+   etymology
+   1530s, "absence of government," from French anarchie or directly from Medieval Latin anarchia, from Greek anarkhia "lack of a leader, the state of people without a government" (in Athens, used of the Year of Thirty Tyrants, 404 B.C., when there was no archon), abstract noun from anarkhos "rulerless," from an- "without" (see an- (1)) + arkhos "leader" (see archon).
+3. 定义：a situation in which there is no organization and control, especially in society, because there is no effective government 混乱； 无秩序； 无政府状态
+
+#### coach/kəʊtʃ/
+
+1. 助记： 一种早期的马车，因产于匈牙利Kocs 村而得名。后用于牛津大学俚语义，即把导师比作马 车，帮助学生通过考试。
+2. 词源：
+   etymology
+   1550s, "large kind of four-wheeled, covered carriage," from Middle French coche (16c.), from German kotsche, from Hungarian kocsi (szekér) "(carriage) of Kocs," village where it was first made. In Hungary, the thing and the name for it date from 15c., and forms are found since 16c. in most European languages (Spanish and Portuguese coche, Italian cocchino, Dutch koets). Vehicles often were named for the place of their invention or first use (compare berlin, landau, surrey). Applied to railway passenger cars by 1866, American English. Sense of "economy or tourist class" is from 1949
+3. 定义：
+   1. someone whose job is to teach people to improve at a sport, skill, or school subject 教练
+   2. a long motor vehicle with comfortable seats, used to take groups of people on journeys长途客运汽车
+   3. any of the separate parts of a train in which the passengeras sit（铁路）旅客车厢
+   4. an old-fashioned carriage pulled by horses, now used mainly in official or royal ceremonies四轮大马车
+4. 拓展：oach（教练）：匈牙利小镇的四轮交通马车
+   英语单词coach一词诞生于15世纪的匈牙利，来自匈牙利语kocsi，指的是最早出现于匈牙利小镇Kocs的四轮交通马车，到现在还保持该词义，不过随着交通工具的发达，后来又衍生了“长途公交车”、“旅客经济舱”等含义。不过现在该词最常用的含义却是“教练”之意。这显然是一种比喻用法，教练就像马车一样，可以帮助学生快速成长，到达目的地
+   美国著名的奢侈品品牌Coach（蔻驰）的品牌图标就是一辆四轮马车。
+   coach： [kəʊtʃ] n.教练，四轮马车，长途公交车，旅客经济舱v.训练，指导
+   coachman：['kotʃmən] n. 马车夫
+
+
+#### nitpick /ˈnɪt.pɪk/
+
+1. 助记： nit n., 幼虫, 卵 pick v.摘 挑选 选择 
+    挑虱子 引申为 挑剔
+2. 词源：
+   etymology
+   pedantic critic," 1951; see nit (n.) + pick (v.).
+   seek petty faults," also nit-pick, 1962, back-formation from earlier nitpicker. Related: Nitpicking; nitpicky.
+3. 定义：to find faults in details that are not important挑刺儿，找茬，挑毛病 百般挑剔
+4. 拓展：nitpick（挑剔）：清理头发或衣服中的虱子
+   古代人卫生条件差，很多人都长虱子。一旦家里有人长了虱子后，为了避免传染，必须从他的头发和衣物中将虱子及其卵清理干净。在英语中，用nit表示虱子的卵和幼虫，清理虱子及其卵就叫做nitpicking。由于虱子体型很小，从头发中发现虱子需要很好的眼力，因此nitpick又引申出“挑剔、吹毛求疵”的含义。
+   nitpick：['nɪtpɪk] vi.挑剔，吹毛求疵vt.对……吹毛求疵
+   nitpicker：['nitpikə] n.吹毛求疵的人
+
+#### mob/mɒb/
+
+1. 助记：mob-,mot-,mov- = move 表示“动”
+   mobile phone 移动电话 手机
+2. 词源：
+   etymology
+   1680s, "disorderly part of the population, rabble," slang shortening of mobile, mobility "common people, populace, rabble" (1670s, probably with a conscious play on nobility), from Latin mobile vulgus "fickle common people" (the phrase attested c. 1600 in English), from mobile, neuter of mobilis "fickle, movable, mobile" (see mobile (adj.)). In Australia and New Zealand, used without disparagement for "a crowd." Meaning "gang of criminals working together" is from 1839, originally of thieves or pick-pockets; American English sense of "organized crime in general" is from 1927.
+3. 定义：
+   1. a large, angry crowd, especially one that could easily become violent暴民 暴徒
+   2. to come together around someone in a crowd to express admiration, interest, or anger 大举包围  聚众生事 蜂拥进入
+4. 拓展：mob（暴民）：浮躁易变的平民
+   古罗马贵族将平民蔑称为mobile vulgus，意思是“浮躁的平民”，其中的mobile意思是“易变的，浮躁的”。该词后来进入英语，用来称呼普通平民。后来，人们还仿照nobility（贵族）的模式，在mobile的基础上杜撰出mobility一词，同样表示平民。在口语中，mobile和mobility都被缩减为mob，这就是单词mob的来源。所以mob一词继承了mobile的内涵，含有“乌合之众”的贬义，常常用来表示“暴民”。
+   mob：[mɑb] n.暴民，乌合之众vi.聚众滋事vt.围攻，蜂拥进入
+   mobile：[ˈmoʊbl] adj. 机动的；易变的，；非固定的n. 运动物体
+
+
+#### paramount/ˈpær.ə.maʊnt/
+
+1. 助记： para-类似 + mount【山】 → 类似高山 → 最高的
+2. 词源：
+   etymology
+   1530s, from Anglo-French paramont, Old French paramont "above" (in place, order, degree), mid-14c., from Old French par "by," from Latin per "through, for, by" (see per (prep.)) + amont "up," from a mont "upward" (see amount (v.)). The whole from Latin per ad montem, literally "to the hill."
+3. 定义：more important than anything else最重要的 至高无上的 
+4. 拓展：paracme ['pærækmi:] paracm=para+acme 
+   前缀para表beside,abnormal,over等，
+   而acme是个单词，顶点之意
+   因此paracme即beyond the acme，就是已经过了鼎盛期。同理paramount adj.至高无上的，n.最高统治者就是over the mountain了。
+   Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
