@@ -914,7 +914,7 @@
    im-进 + ple-（ = full, fill, 表示“满，填满”）+ -ment表名词 → 进入满 → 完成
 2. 词源：
    etymology
-   mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements.
+   <!-- mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements. -->
 3. 定义：
    the act of putting a plan into action or of starting to use something 成就； 贯彻
 
