@@ -1630,7 +1630,64 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 ## 6. Recognize How to Get Beyond Disagreements
 
+#### Protestant /ˈprɒt.ɪ.stənt/
 
+1. 助记：
+   protest【抗议，反对】 + -ant人，字面意思即反对者
+   pro-在前面 + test【证明】 → 向前作证 → 抗议
+2. 词源：
+   etymology
+   1539, from German or French protestant, from Latin protestantem (nominative protestans), present participle of protestari (see protest (n.)). Originally used of German princes and free cities who declared their dissent from ("protested") the decision of the Diet of Speyer (1529), which reversed the liberal terms allowed Lutherans in 1526.
+3. 定义：a member of the parts of the Christian Church that separated from the Roman Catholic Church during the 16th century 新教徒
+4. 拓展：protestant（新教）：抗议罗马天主教的基督教新教派
+   一五一七年九月四日，马丁•路德发表了他的九十五条论纲；同年十月三十一日马丁路德在萨克森选侯教堂大门所张贴《有关赎罪券辩论之邀请》，反对买卖赎罪券，由此揭开了欧洲宗教改革的序幕。改教开始之初，路德及其志友要求召开基督教大会来解决改革中的种种问题，并得到了德国当局的赞同。1526年帝国议会在斯拜尔（Speyer）举行，准许在基督教大会召开前各地区政府可自主决定本区域所欲尊奉的教派。然而，1529年，在神圣罗马帝国皇帝查理五世的影响下，帝国议会第二次会议取消了一五二六年的准许，议会中的路德派对此决定提出抗议。那些在抗议文件上签名及拥护抗议文件的人就被称为“抗议者”（Protestant）。后来，该词被用来泛指对罗马公教（即天主教）抱抗议态度的诸多新教派，包括路德宗、加尔文宗、英国国教安立甘宗，统称为“新教”，又称作“抗罗宗”、“归正教”“改革宗”。
+   Protestant： ['prɒtɪstənt] n.新教，新教徒；抗议者adj.新教的，新教徒的；抗议的
+   Protestantism：['prɑtɪstənt,ɪzm] n. 新教；新教教义；新教徒
+   protest：[ˈproʊtest] v. 抗议；断言n. 抗议adj. 表示抗议的；抗议性的
+   protester：[prə'tɛstɚ] n. 抗议者；反对者；持异议者
+   protestation：[,prɑtə'steʃən] n. 抗议，异议；声明；断言
+
+
+#### articulate/ɑːˈtɪk.jə.lət/
+
+1. 助记：
+   art-连贯，连结，词源同art, arm
+   art- = skill, joint, trick, 表示“技巧，关节，诡计”，来源于拉丁语armus, 希腊语arthron。最终源自原始印欧语ar- "fit, join"（最高级形式为ar-isto-）
+   有技巧的 引申为 发音清晰的 口才好的adj 及明白地说v.
+2. 词源：
+   etymology
+   580s in the speech sense, "divided into distinct parts," hence "clear, distinct" (1570s as "set forth in articles"), from Latin articulatus "separated into joints" (see articulate (v.)). Compare Latin articulatim (adv.) "distinctly, in clear sequence." Physical meaning "composed of segments united by joints" in English is from c. 1600. The general sense of "speaking accurately" is short for articulate-speaking (1829). Related: Articulately.
+3. 定义：able to express thoughts and feelings easily and clearly, or showing this quality发音清晰的 口才好的
+
+
+#### array/əˈreɪ/
+
+1. 助记：ar-同ad- + -ray,安排 
+2. 词源：
+   etymology
+   mid-14c., "order or position of things, arrangement, sequence," from Anglo-French arrai, Old French aroi, arroi (12c.), from areer "to put in order" (see array (v.)). From late 14c. as "rank or line of soldiers; troops drawn up in battle formation," also "equipment, furnishings, gear; splendid furnishings, grandeur, magnificence." Meaning "an orderly assemblage" is from 1814.
+3. 定义：a large group of things or people, especially one that is attractive or causes admiration or has been positioned in a particular way 排列 衣服 大批 军队
+
+#### declare /dɪˈkleər/
+
+1. 助记：de-向下，强调 + clar-清晰，明确 + -e，表示“清晰的宣布” 及 声名 断言 宣布
+2. 词源:
+   etymology
+   early 14c., from Old French declarer "explain, elucidate," or directly from Latin declarare "make clear, reveal, disclose, announce," from de- intensive prefix (see de-) + clarare "clarify," from clarus "clear" (see clear (adj.)). Related: Declared; declaring.
+3. 定义：to announce something clearly, firmly, publicly, or officially 宣布 声名 断言
+
+#### suspend/səˈspend/
+
+1. 助记：
+   sus- 表示“在…下面
+    pend- = hang, 表示“悬挂”，来自拉丁语
+   使什么悬挂 引申为 暂停 中止
+2. 词源：
+   etymology
+   c. 1300, "to bar or exclude temporarily from some function or privilege;" also "to set aside (a law, etc.), to cause to cease for a time," from Old French sospendre "remove from office; hang up" (12c.), or directly from Latin suspendere "to hang up, kill by hanging; make uncertain, render doubtful; stay, stop, interrupt, set aside temporarily," from assimilated form of sub "up from under" (see sub-) + pendere "to hang, cause to hang; weigh" (from PIE root *(s)pen- "to draw, stretch, spin"). In English, the literal sense of "to cause to hang by a support from above" is recorded from mid-15c. Related: Suspended; suspending.
+3. 定义：to stop something from being active, either temporarily or permanently  中止推迟 悬浮
+
+   ​
 
 ##7.Remember That the WHO Is More Important than the what
 
@@ -2056,7 +2113,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    前缀para表beside,abnormal,over等，
    而acme是个单词，顶点之意
    因此paracme即beyond the acme，就是已经过了鼎盛期。同理paramount adj.至高无上的，n.最高统治者就是over the mountain了。
-Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
+   Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
 
 
 ## 9.Constantly Train,Test,Evaluate,and Sort People
