@@ -1171,3 +1171,29 @@ early 15c., "take possession of, take exclusively," from Late Latin appropriatus
 2.to take something for your own use, usually without permission 挪用；占用；盗用；侵吞
 
 3.to keep an amount of money to use for a particular purpose 拨出（款项）
+
+
+
+@穆紫
+
+objective noun [ C ] UK   /əbˈdʒek.tɪv/ US   /əbˈdʒek.tɪv/
+​
+1.助记.
+
+来自object,目标，物体，-ive,名词后缀。引申词义目标，宗旨等。
+
+2.词源.
+
+1738, "something objective to the mind," from objective (adj.). Meaning "goal, aim" (1881) is from military term objective point (1852), reflecting a sense evolution in French.
+
+3.释义.
+
+1.B2 something that you plan to do or achieve
+目标；目的
+
+2.based on real facts and not influenced by personal beliefs or feelings
+客观的；如实的；不带个人感情的
+
+
+
+I celebrated their marriages and the births of their children with them and mourned the losses of their loved ones. But to be clear, this was no lovefest. We were tough on each other too, so we could all be as great as we could be.
