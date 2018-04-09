@@ -118,3 +118,68 @@ Namespaces are one honking great idea -- let's do more of those!
 
    undemonstrative 盲从的
 
+
+
+
+**Ambiguity** /ˌæm.bɪˈɡjuː.ə.t̬i/ 含糊的
+
+1. 助记：
+
+   Ambi+ig+uity
+
+   ambi-, 两边+ig=ag,同act, 做+uity名词后缀,两边都在做，不一致，不明确，含糊的。
+
+2. 词源：
+
+   **OED Origin**
+
+   Late Middle English: from Old French ambiguite or Latin ambiguitas, **from ambiguus ‘doubtful’ (see ambiguous).**
+
+   **etymology**
+
+   c. 1400, "uncertainty, doubt, indecision, hesitation," from Old French ambiguite and directly from Latin ambiguitatem (nominative ambiguitas) "double meaning, equivocalness, double sense," noun of state from ambiguus "having double meaning, **doubtful" (see [ambiguous](https://www.etymonline.com/word/ambiguous?ref=etymonline_crossreference)).** Meaning "obscurity in description" is from early 15c.
+
+3. 定义：
+   含糊的 (an example of) the fact of something having more than one possiblemeaning and therefore possibly causing confusion
+
+4. 拓展：
+
+   vagueness 模糊不清的
+
+   opacity 不透明的
+
+   doubtful 含糊、可疑的
+
+
+
+**Purity** /ˈpjʊr.ə.t̬i/ 纯粹的
+
+1. 助记：
+
+   pur(e)+ty
+
+   来自pure,纯的，-ty,名词后缀。
+
+2. 词源：
+
+   **OED Origin**
+
+   Middle English: from Old French purete, later assimilated to late Latin puritas, from Latin purus ‘pure’.
+
+   **etymology**
+
+   c. 1200, from Old French purete "simple truth," earlier purte (12c., Modern French pureté), from Late Latin puritatem (nominative puritas) "cleanness, pureness," from Latin purus "clean, pure, unmixed; chaste, undefiled" (see [pure](https://www.etymonline.com/word/pure?ref=etymonline_crossreference) (adj.)).
+
+3. 定义：
+   纯粹  the state of not being mixed with anything else
+
+4. 拓展：
+
+   fineness 纯度
+
+   immaculacy 纯洁、无污点
+
+
+
+
+

@@ -6,6 +6,114 @@
 
 Grace 
 
+### 2018-04-09
+
+#### **Opinion**
+
+UK /əˈpɪnjən/ US /əˈpɪnjən/
+
+1. 助记,
+
+   源自拉丁文opinio(n-)，"think, believe，view，conjecture, fancy, belief,think, judge, suppose，opine" 。其中**op-**： 表示“选择，更倾向于”的意思，"to choose, prefer"。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: via Old French from Latin opinio(n-), from the stem of opinari ‘think, believe’.
+
+   **Etymology**
+
+   c. 1300, from Old French opinion "opinion, view, judgements founded upon probabilities" (12c.), from Latin opinionem (nominative opinio) "opinion, conjecture, fancy, belief, what one thinks; appreciation, esteem," from stem of opinari "think, judge, suppose, opine," from PIE *op- (2) "to choose" (see [option](https://www.etymonline.com/word/option?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   n. 1) [C]意见；想法；看法**your feelings or thoughts about sb/sth, rather than a fact**
+
+   ​    2)[U]（群体的）观点，信仰**the beliefs or views of a group of people**
+
+   ​    3)[C] 专家意见**advice from a professional person**
+
+4. 相关词语和词组
+
+   **opine** v. 表达，发表（意见） 
+
+   **opinionated** adj. 固执己见的，顽固的
+
+   **opinion poll** n. 选举投票，民意测验
+
+   **be of the opinion that…** 相信；认为
+
+   **have a good, bad, high, low, etc. opinion of sb/sth** 对…评价好 / 不好 / 高 / 低
+
+   **your considered opinion** 成熟的意见；经过深思熟虑的意见
+
+5. 同义词辨析
+
+   **opinion**     n. 看法，意见。普通用词，泛指对某人或某事物的想法。
+
+   **comment** n. 意见，评论。指对某人或某事物所发表的意见、见解。
+
+   **idea**           n. 看法，信念。指某人对某事物的看法，通常用复数，常后接介词 about/on。
+
+   **view**           n. 看法，意见。指个人对某事物的观点或态度，常可与 opinion 换用。
+
+   ​
+
+#### **Relate**
+
+UK /rɪˈleɪt/ US /[rɪˈlet/
+
+1. 助记,
+
+   "re-"+“late”=源于拉丁文relat，"brought back，to recount, tell，refer, report"。字面意思是“不断运送”，从而引申为“联系在一起”。
+
+   **re-**：“重复，再次”的意思, 'back，again'。
+
+   **late**： 源于拉丁文latus，“携带，运载”的意思， ‘brought，borne, carried’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: from Latin relat- ‘brought back’, from the verb referre (see refer).
+
+   **Etymology**
+
+   1520s, "to recount, tell," from Middle French relater "refer, report" (14c.) and directly from Latin relatus, used as past participle of referre "bring back, bear back" (see [refer](https://www.etymonline.com/word/refer?ref=etymonline_crossreference)), from re- "back, again" + lātus "borne, carried" (see [oblate](https://www.etymonline.com/word/oblate?ref=etymonline_crossreference) (n.)).
+
+3. 释义,
+
+   v. 1)联系；使有联系；把…联系起来(connect)**show or make a connection between two or more things**
+
+   ​    2)叙述；讲述；讲（故事）(tell)**to give a spoken or written report of sth; to tell a story**
+
+4. 相关词语和词组
+
+   **related** adj. 相关的，有联系的；有亲属关系的；同一组别的
+
+   **relation** n. （人、团体、国家之间的）关系、交往；（事物之间的）关系、关联；亲戚，亲属
+
+   **relational** adj. （术语）有关的，相关的
+
+   **relative** adj. 相比较而言的；相关联的；相比之下存在的；关于（或涉及）……的
+
+   **relate to sth/sb** 涉及；与…相关；谈到；能够理解并同情；了解；体恤
+
+5. 同义词辨析
+
+   **relate**     v. 联系，使有联系。指事物之间存在联系或把不同事物联系起来。
+
+   **link**         v. 连接，联系。指将具体的人、事物、地方等连接起来；也指使人或事物相关联。
+
+   **connect** v. 连接，联系。词义广泛，指连接有形的事物、接通电源、燃气、网络等；也指将某人或某事关联起来。
+
+   **join**         v. 连接，汇合。常指将事物连接或固定在一起；也指道路，河流等汇合。
+
+   **unite**      v. （使）联合，（使）团结。指人或机构联合起来以实现共同目标。
+
+
+
 ### 2018-04-08
 
 #### **Adapt**
@@ -1518,7 +1626,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
-##7.Recognize How to Get Beyond Disagreements
+##7.Remember That the WHO Is More Important than the what
 
 **Neglect** /nɪˈɡlekt/ 忽视
 
@@ -1874,6 +1982,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    1905, from German Narzissismus, coined 1899 (in "Die sexuellen Perversitäten"), by German psychiatrist Paul Näcke (1851-1913), on a comparison suggested 1898 by Havelock Ellis, from Greek Narkissos, name of a beautiful youth in mythology (Ovid, "Metamorphoses," iii.370) who fell in love with his own reflection in a spring and was turned to the flower narcissus (q.v.). Coleridge used the word in a letter from 1822.
 3. 定义：too much interest in and admiration for your own physical appearance and/or your own abilities 自我陶醉，自恋
 
+
 #### anarchy/ˈæn.ə.ki/
 
 1. 助记：an-无 + arch-统治，管理
@@ -1942,3 +2051,40 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    而acme是个单词，顶点之意
    因此paracme即beyond the acme，就是已经过了鼎盛期。同理paramount adj.至高无上的，n.最高统治者就是over the mountain了。
    Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
+=======
+
+
+## 9.Constantly Train,Test,Evaluate,and Sort People
+
+**Exponential**  /ˌek.spoʊˈnen.ʃəl/ 呈几何数（增长）的            
+
+1. 助记,
+
+   ex+ponent+ial
+
+   ex- "upward" + pon- + -ent. 表明指数放在既在上面又在外面的位置上。
+
+   exponent -指数
+
+   ial(复合后缀：-y, -al).
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 18th century: from French exponentiel, **from Latin exponere ‘put out’ (see expound).**
+
+   **Etymology**
+
+   1704, from [exponent](https://www.etymonline.com/word/exponent?ref=etymonline_crossreference) + [-ial](https://www.etymonline.com/word/-ial?ref=etymonline_crossreference). As a noun, from 1784. Related: Exponentially.
+
+3. 释义,
+
+   呈几何数（增长）的 formal An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger.
+
+4. 拓展
+
+   index 指数，索引
+
+   indice index的复数形式
+
