@@ -1518,7 +1518,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
-##7.Recognize How to Get Beyond Disagreements
+##7.Remember That the WHO Is More Important than the what
 
 **Neglect** /nɪˈɡlekt/ 忽视
 
@@ -1873,3 +1873,40 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    etymology
    1905, from German Narzissismus, coined 1899 (in "Die sexuellen Perversitäten"), by German psychiatrist Paul Näcke (1851-1913), on a comparison suggested 1898 by Havelock Ellis, from Greek Narkissos, name of a beautiful youth in mythology (Ovid, "Metamorphoses," iii.370) who fell in love with his own reflection in a spring and was turned to the flower narcissus (q.v.). Coleridge used the word in a letter from 1822.
 3. 定义：too much interest in and admiration for your own physical appearance and/or your own abilities 自我陶醉，自恋
+
+
+
+## 9.Constantly Train,Test,Evaluate,and Sort People
+
+**Exponential**  /ˌek.spoʊˈnen.ʃəl/ 呈几何数（增长）的            
+
+1. 助记,
+
+   ex+ponent+ial
+
+   ex- "upward" + pon- + -ent. 表明指数放在既在上面又在外面的位置上。
+
+   exponent -指数
+
+   ial(复合后缀：-y, -al).
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 18th century: from French exponentiel, **from Latin exponere ‘put out’ (see expound).**
+
+   **Etymology**
+
+   1704, from [exponent](https://www.etymonline.com/word/exponent?ref=etymonline_crossreference) + [-ial](https://www.etymonline.com/word/-ial?ref=etymonline_crossreference). As a noun, from 1784. Related: Exponentially.
+
+3. 释义,
+
+   呈几何数（增长）的 formal An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger.
+
+4. 拓展
+
+   index 指数，索引
+
+   indice index的复数形式
+
