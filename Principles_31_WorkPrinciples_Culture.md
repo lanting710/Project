@@ -1622,6 +1622,12 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：a situation in which neither group involved in an argument can win or get an advantage and no action can be taken 僵局
 
 
+
+
+# To Get The People Right
+
+
+
 ## 6. Recognize How to Get Beyond Disagreements
 
 
@@ -2050,8 +2056,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    前缀para表beside,abnormal,over等，
    而acme是个单词，顶点之意
    因此paracme即beyond the acme，就是已经过了鼎盛期。同理paramount adj.至高无上的，n.最高统治者就是over the mountain了。
-   Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
-=======
+Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
 
 
 ## 9.Constantly Train,Test,Evaluate,and Sort People
@@ -2087,4 +2092,49 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    index 指数，索引
 
    indice index的复数形式
+
+
+# To Build and Evolve YOur Machine to Achieve Your Goal
+
+
+
+## 10. Manage as Someone Operating a Machine to Achieve a Goal
+
+
+
+
+
+## 11. Perceive and Don’t Tolerate Problems
+
+
+
+
+
+## 12. Diagnose Problems to Get at Their Root Causes
+
+
+
+## 13. Design Improvements to Your Machine to Get Around Your Problems
+
+
+
+## 14. Do What You Set Out to Do
+
+
+
+
+
+## 15. Use Tools and Protocols to Shape How Work Is Done
+
+
+
+
+
+## 16.And for Heaven’s Sake, Don’t Overlook Governance!
+
+
+
+
+
+
 
