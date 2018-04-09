@@ -1095,3 +1095,88 @@ principle原则part1
 
 
 
+
+
+4月8日
+
+**stripper**
+
+释义:
+
+a liquid chemical or an electric tool that is used for removing things such as paint剥离剂，脱漆剂；剥离器
+
+例句:
+
+My new [wallpaper](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/wallpaper) stripper uses [high-pressure](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/high-pressure) [steam](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/steam) to [lift](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/lift) off the [paper](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/paper).我的新墙纸剥离器是用高压蒸汽使墙纸剥落。
+
+词源:
+
+选自etymonline
+
+1580s, transitive, "person who strips" (the bark off trees, etc.), agent noun from [strip](https://www.etymonline.com/word/strip?ref=etymonline_crossreference) (v.). Meaning "machine or appliance for stripping" is from 1835. Sense of "strip-tease dancer" is from 1930 (see [strip-tease](https://www.etymonline.com/word/strip-tease?ref=etymonline_crossreference)). Meaning "chemical for removing paint" is from 1937.
+
+**rugby**
+
+释义:
+
+a sport where two teams try to score points by carrying an oval ball across aparticular line or kicking it over and between an H-shaped set of posts英式橄榄球
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 19th century: named after Rugby School (see Rugby), where the game was first played.
+
+2.选自etymonline
+
+type of football, 1864, after Rugby, public school where the game was played, from city of Rugby in Warwickshire, central England. The place name is Rocheberie (1086), probably "fortified place of a man called *Hroca;" with second element from Old English burh (dative byrig), replaced by 13c. with Old Norse -by "village" due to the influence of Danish settlers. Otherwise it might be *Rockbury today. Or first element perhaps is Old English hroc "rook." Rugby Union formed 1871. Slang rugger for "rugby" is from 1893.
+
+**icing on the cake**
+
+释义:
+
+something that makes a good situation even better锦上添花之物
+
+例句:
+
+I was just [content](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/content) to [see](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/see) my [daughter](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/daughter) in such a [stable](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stable) [relationship](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/relationship) but a [grandchild](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/grandchild), that really was the icing on the [cake](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/cake).看到女儿与女婿的关系很稳定我已感到满足，后来又添了外孙，这可真是锦上添花。
+
+**plot**
+
+释义:
+
+the story of a book, film, play, etc.情节
+
+例句:
+
+The [movie](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/movie) has a very [simple](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/simple) plot.这部电影情节很简单。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Old English (in plot (sense 3 of the noun)), of unknown origin. The sense ‘secret plan’, dating from the late 16th century, is associated with Old French complot ‘dense crowd, secret project’, the same term being used occasionally in English from the mid 16th century Compare with plat.
+
+2.选自etymonline
+
+Old English plot "small piece of ground," of unknown origin. Sense of "ground plan," and thus "map, chart" is 1550s; that of "a secret, plan, scheme" is 1580s, probably by accidental similarity to complot, from Old French complot "combined plan," of unknown origin, perhaps a back-formation from compeloter "to roll into a ball," from pelote "ball." Meaning "set of events in a story" is from 1640s. Plot-line (n.) attested from 1957.
+
+**reverberate**
+
+释义:
+
+If a loud, deep sound reverberates, it continues to be heard around anarea, so that the area seems to shake.回响，回荡
+
+例句:
+
+The [narrow](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/narrow) [street](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/street) reverberated with/to the [sound](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sound) of the workmen's [drills](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/drill).狭窄的街道上回荡着工人施工的电钻声。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (in the sense ‘drive or beat back’): from Latin reverberat- ‘struck again’, from the verb reverberare, from re- ‘back’ + verberare ‘to lash’ (from verbera (plural) ‘scourge’).
+
+2.选自etymonline
+
+1570s, "beat back, drive back, force back," from Latin reverberatus, past participle of reverberare "strike back, repel, cause to rebound" (see [reverberation](https://www.etymonline.com/word/reverberation?ref=etymonline_crossreference)). Meaning "re-echo" is from 1590s. Earlier verb was reverberen (early 15c.). Related: Reverberated; reverberating.
