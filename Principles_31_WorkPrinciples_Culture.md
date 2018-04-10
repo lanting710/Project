@@ -6,6 +6,126 @@
 
 Grace 
 
+### 2018-04-10
+
+#### **Support**
+
+UK /səˈpɔ:t/ US /səˈpɔ:rt/
+
+1. 助记,
+
+   “sup-"+"port” =源自拉丁文supportare，"to aid，to hold up, prop up, put up with, tolerate，to bear, endure, sustain，convey, carry, bring up, bring forward" 。
+
+   **sup-**：是前缀sub的变形，表示“从底部站立支撑住”的意思，"from below，up from under‘。
+
+   **port**：即拉丁语portare，词根*per-， ‘carry，to lead, pass over’。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (originally in the sense ‘tolerate’): from Old French supporter, from Latin supportare, from sub- ‘from below’ + portare ‘carry’.
+
+   **Etymology**
+
+   late 14c., "to aid," also "to hold up, prop up, put up with, tolerate," from Old French suporter "to bear, endure, sustain, support" (14c.), from Latin supportare "convey, carry, bring up, bring forward," from assimilated form of sub "up from under" (see [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference)) + portare "to carry," from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference)(2) "to lead, pass over." 
+
+3. 释义,
+
+   v. 1) 支持；拥护；鼓励(encourage)**o help or encourage sb/sth by saying or showing that you agree with them/it**
+
+   ​     2)帮助；援助(help)**to give or be ready to give help to sb if they need it**
+
+   ​     3)资助；赞助**to help or encourage sth to be successful by giving it money**
+
+   ​     4)养活；赡养；扶养；维持(provide)**to provide everything necessary, especially money, so that sb/sth can live or exist**
+
+   ​     5)支撑；支承；支护(stop from falling)**to hold sb/sth in position; to prevent sb/sth from falling**
+
+   ​     6)证实；提供依据(prove)**to help to show that sth is true**
+
+   ​     7)支持；喜爱(accept)**to like a particular sports team, watch their games, etc.**
+
+   ​     8)（在流行音乐会上）当助演，担任演出嘉宾**to perform in a pop concert before the main performer**
+
+   ​    9)(计算机或计算机系统) 支持；支援**to allow a particular program, language or device to be used with it**
+
+   n. 1) 支持；拥护；鼓励；资助(encouragement)**encouragement and help that you give to sb/sth because you approve of them and want them to be successful**
+
+   ​     2)[U] 帮助；救助；援助(help)**sympathy and help that you give to sb who is in a difficult or unhappy situation**
+
+   ​     3)[C] 支撑物；支承；支柱；支座(holding things up)**a thing that holds sth and prevents it from falling**
+
+   ​     4)[U] 支撑；支承；支护(holding)**the act of holding sth firmly in position or preventing it from falling**
+
+   ​     5)[C] （身体部位的）支持器，托**something you wear to hold an injured or weak part of your body firmly in position**
+
+   ​     6)[U] 证据；依据(proof)**evidence that helps to show that sth is true or correct**
+
+   ​     7)[U] 助演嘉宾**a band or singer who performs in a pop concert before the main performer**
+
+   ​     8)[U] （公司向客户提供的）技术支持**technical help that a company gives to customers using their computers or other products**
+
+4. 相关词语和词组
+
+   **supporter** n. 支持者，拥护者
+
+   **supporting** n. （演员，角色）次要的，配角的；支撑的，承重的
+
+   **supportive** adj. 给予帮助的，支持鼓励的
+
+   **support group** n. 互助小组
+
+5. 同义词辨析
+
+   **support** v. 支持。含义广泛，多指在道义或物质上支持某人或某项事业。
+
+   **back**       v. 支持，资助。尤指以金钱、影响力等对某人或某事物给予支持。
+
+   **uphold**   v. 支持，维护。较正式用词，指在道义、行动等方面给予某人或某事物以支持。
+
+   ​
+
+#### **Crystal**
+
+UK /ˈkrɪstl/ US /ˈkrɪstəl/
+
+1. 助记,
+
+   源于拉丁文crystallus，"clear ice, clear mineral" 。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Old English (denoting ice or a mineral resembling it), from Old French cristal, from Latin crystallum, from Greek krustallos ‘ice, crystal’. The chemistry sense dates from the early 17th century.
+
+   **Etymology**
+
+   Old English cristal "clear ice, clear mineral," from Old French cristal (12c., Modern French crystal), from Latin crystallus "crystal, ice," from Greek krystallos, from kryos "frost," from PIE root [*kreus-](https://www.etymonline.com/word/*kreus-?ref=etymonline_crossreference) "to begin to freeze, form a crust." Spelling adopted the Latin form 15c.-17c. The mineral has been so-called since Old English; it was regarded by the ancients as a sort of fossilized ice. As a shortened form of crystal-glass it dates from 1590s. As an adjective, from late 14c.
+
+3. 释义,
+
+   n. 1)[C] 结晶；晶体(request)**a small piece of a substance with many even sides, that is formed naturally when the substance becomes solid**
+
+   ​    2)[U, C] 水晶（如石英，用于制作珠宝饰物）**a clear mineral, such as quartz , used in making jewellery and decorative objects**
+
+   ​    3)[U] 水晶玻璃(need)**glass of very high quality**
+
+   ​    4)石英玻璃表护面；塑料表护面；表蒙子(request)**to ask for sth very firmly**
+
+4. 相关词语和词组
+
+   **crystal ball** n.（占卜用的）水晶球
+
+   **crystal clear** adj.（玻璃，水等）清澈透明的，晶莹的；浅显易懂的，显而易见的
+
+   **crystalline** adj. 结晶的，晶状的；清澈透明的，晶莹的
+
+   **crystallizer** v.（想法、计划、信仰等）变明确；（使）形成晶体，结晶
+
+
+
 ### 2018-04-09
 
 #### **Opinion**
