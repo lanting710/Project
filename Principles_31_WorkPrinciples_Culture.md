@@ -2094,6 +2094,121 @@ Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； �
    indice index的复数形式
 
 
+
+
+**Mitigate** /ˈmɪt̬.ə.ɡeɪt/  减轻   (弱化影响)   
+
+1. 助记,
+
+   mit+ig+age
+
+   mit=soft,表示软，温顺
+
+   ig=do,act,表示做，代理
+
+   ate,后缀，造成，引申为缓和，减轻
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin mitigat- ‘softened, alleviated’, from the verb mitigare, **from mitis ‘mild’.**
+
+   **Etymology**
+
+   early 15c., "relieve (pain)," from Latin mitigatus, past participle of mitigare "soften, make tender, ripen, mellow, tame," figuratively, "make mild or gentle, pacify, soothe," **ultimately from mitis "gentle, soft" + root of agere "to do,** perform" (from PIE root [*ag-](https://www.etymonline.com/word/*ag-?ref=etymonline_crossreference) "to drive, draw out or forth, move"). Formitis de Vaan suggests cognates in Sanskrit mayas- "refreshment, enjoyment," Lithuanian mielas"nice, sweet, dear," Welsh mwydion "soft parts," Old Irish min "soft," from a PIE *mehiti- "soft." Related: Mitigated; [mitigating](https://www.etymonline.com/word/mitigating?ref=etymonline_crossreference); mitigates.
+
+3. 释义,
+
+   减轻，弱化影响 to make something less harmful, unpleasant, or bad
+
+4. 拓展
+
+   同义词
+
+   [comfort](javascript:void(0);) 使缓和
+
+   [obtund](javascript:void(0);) 使缓和，减轻
+
+   [to alleviate](javascript:void(0);) 减轻
+
+   [ease off](javascript:void(0);) 减轻、放松
+
+
+
+**Hierarchy** /ˈhaɪ.rɑːr.ki/ 等级制度
+
+1. 助记,
+
+   hier+archy
+
+   hier神+archy 统治--神一般的统治--等级森严--等级制度、层级
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French and medieval Latin from Greek hierarkhia, from hierarkhēs ‘sacred ruler’ (see hierarch). The earliest sense was ‘system of orders of angels and heavenly beings’; the other senses date from the 17th century.
+
+   **Etymology**
+
+   "one who rules in holy things," 1570s, from Medieval Latin hierarcha, from Greek hierarkhia, fromhierarkhes "leader of sacred rites, high priest" (see [hierarchy](https://www.etymonline.com/word/hierarchy?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   等级制度 a system in which people or things are arranged according to theirimportance
+
+4. 拓展
+
+   [social hierarchy](javascript:void(0);)社会等级；社会阶层
+
+   [hierarchy system](javascript:void(0);)体系；分级系统
+
+   [inheritance hierarchy](javascript:void(0);)继承层次；继承体系；继承阶层架构
+
+   hierarchy（层级）：天使的等级体系
+   在中世纪早期一位自称为迪奥尼修斯（Dionysius）的 叙利亚修道神学者发表了《天阶序论》。制订了从天使到炽天使的天使三级九等即“天阶等级”。由于在圣经新约的使徒行传（17:34）中出现过一名叫做迪奥尼修斯（Dionysius）的希腊官员，因此早期基督教信徒都将这位中东学者的著作当成圣经中人物撰写的文献，将天使的三级九等奉为圣经的内容。所以他现在被称为伪迪奥尼修斯。
+   在其著作中，伪迪奥尼修斯将天使等级体系称为hierarchia（拉丁语），来自希腊语hierarkhia（高级祭司的统治），由hiera（圣礼）和arkhein（引导、统治）构成。英语单词hierachy（层级）便来源于此，原本仅用来表示天使的等级体系，后来延伸为“僧侣的等级体系”，现在则可泛指任何组织的等级体系。
+   hierarchy：['haɪərɑrki] n. 层级；等级制度
+   hierarch：['haɪə,rɑrk] n. 教主；掌权者；高僧
+   hierarchic：[,haɪə'rɑrkɪk] adj. 分层的；分级的
+
+
+
+**Bias** /ˈbaɪ.əs/  偏见
+
+1. 助记,
+
+   oblique，斜的，不光明正大的
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘oblique line’; also as an adjective meaning ‘oblique’): from French biais, from Provençal, perhaps based on Greek epikarsios **‘oblique’.**
+
+   **Etymology**
+
+   1520s, "oblique or diagonal line," from French biais "a slant, a slope, an oblique," also figuratively, "an expedient, means" (13c., originally in Old French a past-participle adjective, "sideways, askance, against the grain"), a word of unknown origin. Probably it came to French from Old Provençal biais, which has cognates in Old Catalan and Sardinian, and is possibly via Vulgar Latin *(e)bigassius from Greek epikarsios "athwart, crosswise, at an angle," from epi- "upon" + karsios "oblique," from PIE*krs-yo-, suffixed form of root [*sker-](https://www.etymonline.com/word/*sker-?ref=etymonline_crossreference) (1) "to cut."
+
+3. 释义,
+
+   偏见 the action of supporting or opposing a particular person or thing in an unfair way, because of allowing personal opinions to influence yourjudgment
+
+4. 拓展
+
+   反义词：
+
+   preference 偏爱
+
+   favour 偏爱
+
+   [deflective](javascript:void(0);) 偏斜的
+
+
+
+
+
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
 
