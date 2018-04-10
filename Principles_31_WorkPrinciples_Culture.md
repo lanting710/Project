@@ -1626,7 +1626,72 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 # To Get The People Right
 
+#### recruit/rɪˈkruːt/
 
+1. 助记：cru- = grow, make, 表示“增长，产生”，来自拉丁语
+   re-再 + cruit-生长
+   cre-,creas-:=grow make  增长 产生
+   例如 create 创造
+   引申词义吸收，招募新成员。
+2. 词源：
+   etymology
+   "military reinforcement, one of a newly raised body of troops," 1640s, from recruit (v.), replacing earlier recrew, recrue; or from obsolete French recrute, alteration of recreue "a supply," recrue "a levy of troops" (late 16c.), Picardy or Hainault dialect variant of recrue "a levy, a recruit," literally "new growth," from Old French recreu (12c.), past participle of recreistre "grow or increase again," from re- "again" (see re-) + creistre "to grow," from Latin crescere "to grow" (from PIE root *ker- (2) "to grow"). "The French word first appeared in literary use in gazettes published in Holland, and was disapproved of by French writers in the latter part of the 17th c." [OED]. The French word also is the source of Dutch recruut, German Recrut, Swedish rekryt.
+3. 定义：
+   1. to persuade someone to work for a company or become a new member of an organization, especially the army 
+      招聘，征募v.
+   2. a new member of an organization, especially the army 新兵； （机构中的）新成员； 新学生
+
+#### interview/ˈɪn.tə.vjuː.ər/
+
+1. 助记：inter-在内，在中间，相互 + view【看】。即相互看，引申词义面试，面谈等。
+2. 词源：
+   etymology
+   1510s, "face-to-face meeting, formal conference," from Middle French entrevue, verbal noun from s'entrevoir "to see each other, visit each other briefly, have a glimpse of," from entre- "between" (see inter-) + Old French voir "to see" (from Latin videre, from PIE root *weid- "to see"). Modern French interview is from English. Journalistic sense "conversation with someone to obtain statements for publication" is from 1869 in American English.
+3. 定义：
+   1. a meeting in which someone asks you questions to see if you are suitable for a job or course面试
+   2. a meeting in which someone answers questions about himself or herself for a newspaper article, television show, etc.接见； 采访
+
+#### candidate/ˈkæn.dɪ.dət/
+
+1. 助记：
+   cand- = white, glow, 表示“白，发光”，来自拉丁语 词源同 candle,蜡烛
+   candid-白 + -ate表名词 → 白衣人。因古罗马时期谋求官职者着白衣进行政治演说或游说而得名。
+2. 词源：
+   etymology
+   "person who seeks or is put forward for an office by election or appointment," c. 1600, from Latin candidatus "one aspiring to office," originally "white-robed," past participle of candidare "to make white or bright," from candidus past participle of candere "to shine," from PIE root *kand- "to shine." Office-seekers in ancient Rome wore white togas.
+3. 定义：
+   1. a person who is competing to get a job or elected position申请求职者
+   2. a person who is competing for a job or an elected position 竞选者
+   3. someone who is taking an exam 报考者
+
+#### influential/ˌɪn.fluˈen.ʃəl/
+
+1. 助记：in-进入 + flu-留 + -ent + -ial表形容词
+2. 词源：
+   etymology
+   late 14c., an astrological term, "streaming ethereal power from the stars when in certain positions, acting upon character or destiny of men," from Old French influence "emanation from the stars that acts upon one's character and destiny" (13c.), also "a flow of water, a flowing in," from Medieval Latin influentia "a flowing in" (also used in the astrological sense), from Latin influentem (nominative influens), present participle of influere "to flow into, stream in, pour in," from in- "into, in, on, upon" (from PIE root *en "in") + fluere "to flow" (see fluent).
+3. 定义：
+   having a lot of influence on someone or something有影响的； 有权势的
+
+#### flourish/ˈflʌr.ɪʃ/
+
+1. 助记：flor-花 + -ish表动词，引申义开花，繁盛。
+2. 词源：
+   etymology
+   c. 1500, "a blossom," from flourish (v.). Meaning "an ostentatious waving of a weapon" is from 1550s; that of "excessive literary or rhetorical embellishment" is from c. 1600; in reference to decorative curves in penmanship, 1650s; as "a fanfare of trumpets," 1590s.
+3. 定义：to grow or develop successfully繁荣，活跃，蓬勃
+4. 拓展：flo-（花）：花神芙罗拉
+   罗马神话中的花神叫做芙罗拉（Flora），相当于希腊神话中的克罗丽丝（Cloris）。她是女性祥和、青春、健康、性感、美好的代名词，世上对她女性之美的赞颂一直可以追溯到荷马史诗里。早在古罗马时花神就受到萨宾人的崇拜。后来意大利人把每年4月28日至5月3日定为“花神节”。节日期间人民有非常放纵的竞技会，常用玫瑰花来装饰自己和动物。花神这个形象也一直以年轻美女手持花束的姿态出现。
+   据说，西风神泽费罗斯爱上了花神，在她身后紧追不舍。花神拼命奔跑，但最终没能逃脱，被西风神揽入怀中，从她口中溢出美丽的鲜花，大地上也鲜花盛开。花神最后嫁给了西风神。结婚以后，西风神送给花神一座满是奇花异草的园子。春天到来的时候，花神和西风神亲密地手挽着手在园子里漫步，他们一路上走过的地方百花齐放，代表着春天的到来。
+   花神芙罗拉的名字Flora来自拉丁语名词flos（花）。英语单词flora就来自芙罗拉的名字，表示“植物群”。英语词根flo-（花、植物）也来源于此。
+   flo-：花，植物
+   flora：['flɔrə] n.植物群，植物区系
+   floral：['flɔːr(ə)l; 'flɒ-] adj.植物的，花的
+   florid：['flɔrɪd] adj. 绚丽的；气色好的
+   florist： ['flɔrɪst] n. 花商，种花人；花卉研究者
+   flower：['flaʊɚ] n.花，精华v. 开花
+   flour：['flaʊɚ] n.面粉
+   flourish：[ˈflɜːrɪʃ] n.v
 
 ## 6. Recognize How to Get Beyond Disagreements
 
