@@ -2450,6 +2450,136 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
+**Exempt** /ɪɡˈzempt/ 免除
+
+1. 助记,
+
+   ex+empt
+
+   ex-, 出，向外;-empt, 拿出，带出----拿出来的，免除或豁免
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin exemptus ‘**taken out, freed’**, past participle of eximere.
+
+   **Etymology**
+
+   late 14c., from Old French exempt (13c.) and directly from Latin exemptus, past participle of eximere"remove, take out, take away; free, release, deliver, make an exception of," **from ex- "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) +emere "buy," originally "take," from PIE root [*em-](https://www.etymonline.com/word/*em-?ref=etymonline_crossreference) "to take, distribute."**
+
+   For sense shift from "take" to "buy," compare Old English sellan "to give," source of Modern English[sell](https://www.etymonline.com/word/sell?ref=etymonline_crossreference) "to give in exchange for money;" Hebrew laqah "he bought," originally "he took;" and colloquial English I'll take it for "I'll buy it."
+
+3. 释义,
+
+   免除 to excuse someone or something from a duty, payment, etc.
+
+4. 拓展
+
+   discharge 免除责任
+
+   forgive 免除（债务等）
+
+
+
+**Internalize** /ɪnˈtɝː.nəl.aɪz/ 使内化的
+
+1. 助记,
+
+   inter+nal+ize
+
+   inter,在..之内，相互的；ize,动词后缀。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century (in the sense ‘intrinsic’): from modern Latin internalis, from Latin internus **‘inward, internal’.**
+
+   **Etymology**
+
+   1856, American English, from [internal](https://www.etymonline.com/word/internal?ref=etymonline_crossreference) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference). Related: Internalized; internalizing.
+
+   early 15c., "extending toward the interior," from Medieval Latin internalis, from Latin internus**"within, inward, internal,"** figuratively "domestic," expanded from pre-Latin *interos, *interus "on the inside, inward," from PIE *en-ter- (source also of Old Church Slavonic anter, Sanskrit antar "within, between," Old High German unter "between," and the "down" sense of Old English under); suffixed (comparative) form of root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in."
+
+3. 释义,
+
+   使内化的 to accept or absorb an idea, opinion, belief, etc. so that it becomes part of your character
+
+4. 拓展
+
+   internal 内部的；内在的；国内的
+   internally 内部地；国内地；内在地
+   internalization 内在化；成为主观
+
+
+
+**Periodic**  /ˌpɪr.iˈɑː.dɪk/ 周期性的
+
+1. 助记,
+
+   period+ic
+
+   period-周期，ic-表形容词
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century: from French périodique, or via Latin from Greek periodikos ‘coming round at intervals’, from periodos (see period).
+
+   **Etymology**
+
+   1640s, from French périodique (14c.), from Latin periodicus, from periodus (see [period](https://www.etymonline.com/word/period?ref=etymonline_crossreference)).
+
+   Periodic table in chemistry (1889) is from notion of the arrangement, in which similar properties recur at intervals in elements in the same area as you read down the rows of the table. This sense of the word is attested from 1872 (periodic law).
+
+3. 释义,
+
+   周期性的 happening repeatedly over a period of time
+
+4. 拓展
+
+   regular 定期的，有规律的
+
+   stated time 规定时间
+
+   cyclical 周期的，循环的
+
+
+
+**Iterative** /ˈɪt̬.ə.reɪ.t̬ɪv/ 重复的
+
+1. 助记,
+
+   iter+ative
+
+   iter-重复的，do again.
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 15th century: from French itératif, -ive, **from Latin iterare ‘to repeat’;** the grammar term is from late Latin iterativus.
+
+   **Etymology**
+
+   "involving repetition," late 15c., from French iteratif (c. 1400), from Late Latin iterativus, from iterat-, past participle stem **of Latin iterare "do again, repeat" (see [iteration](https://www.etymonline.com/word/iteration?ref=etymonline_crossreference)).** As a noun, "an iterative word," by 1839. Related: Iteratively.
+
+3. 释义,
+
+   重复的 doing something again and again, usually to improve it
+
+4. 拓展
+
+   repeated 再三反复的
+
+   reduplicative 重复的
+
+
+
+
+
 
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
