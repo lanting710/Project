@@ -1,4 +1,62 @@
-### 2018-04-07
+### 2018-04-11
+
+**August**
+
+UK /ˈɔ:gəst/ US /'ɔɡəst/
+
+1. 助记,
+
+   阅读罗马历史，欣喜地发现了一名被奉为神灵的君主，他就是恺撒的义子渥大维Octavian。现将资料整理如下:
+
+   凯撒被刺杀后，Octavian与安东尼分别统治罗马帝国的西部与东部。Octavian后来出兵攻打安东尼，并将其击败。尽管埃及艳后Cleopatra对Octavian重施故技，像之前迷惑恺撒和安东尼那样，希望Octavian也能迷上自己。但Octavian就是不吃这一套，因为他的目标很明确，就是要成为世界上最伟大的统治者。最终他的目标实现了,成为了罗马帝国的第一位元首（Princeps），元首政制的创始人，并统治罗马长达40年。
+   后被罗马元老院赐封为“奥古斯都Augustus”（意为神圣伟大）。
+   在他去世后，决定元老院将他列入“神”的行列。人们为他建造了庙宇，把他作为神一样供奉,并以他的名字Augustus命名为八月。
+
+2. 词源，
+
+   **OED Origin**
+
+   Old English, from Latin augustus ‘consecrated, venerable’; named after Augustus, the first Roman emperor.
+
+   **Etymology**
+
+   eighth month, late 11c., from Latin Augustus (mensis), sixth month of the later Roman calendar, renamed from Sextilis (literally "sixth") in 8 B.C.E. to honor emperor Augustus Caesar, literally "Venerable Caesar" (see [august](https://www.etymonline.com/word/august?ref=etymonline_crossreference) (adj.), and compare [Augustus](https://www.etymonline.com/word/Augustus?ref=etymonline_crossreference)). One of two months given new names to honor Roman leaders ([July](https://www.etymonline.com/word/July?ref=etymonline_crossreference) being the other), the Romans also gave new imperial names to September (Germanicus) and October (Domitian) but these did not stick.
+
+   In England, the name replaced native Weodmonað "weed month." Traditionally the first month of autumn in Great Britain, the last of summer in the U.S.
+
+3. 释义,
+
+   n. 八月**the 8th month of the year, between July and September**
+
+
+
+**august**
+
+UK /ˈɔ:gəst/ US /'ɔɡəst/
+
+1. 助记,
+
+   1)源自拉丁语augustus，意为“神圣的，值得尊敬的”， ‘consecrated，venerable， majestic，magnificent，noble’。
+
+   2)即augur，是在古代罗马的一种职称、头衔、官位，相当于占卜官，具有祭师与魔法师的身份与能力，通常能够从小鸟所飞行过的路线、飞行方式、叫声、排泄物、消失的方向……等等，来判断未来的社会、经济、政治、军事、外交等等的动态，及其吉凶祸福的一种占卜术。这类人的社会地位很高，特别受人尊重。‘consecrated by the augurs, with favorable auguries’。
+
+2. 词源，
+
+   **OED Origin**
+
+   Mid 17th century: from French auguste or Latin augustus ‘consecrated, venerable’.
+
+   **Etymology**
+
+   "inspiring reverence and admiration, solemnly grand," 1660s, from Latin augustus "venerable, majestic, magnificent, noble," perhaps originally "consecrated by the augurs, with favorable auguries" (see [augur](https://www.etymonline.com/word/augur?ref=etymonline_crossreference) (n.)); or else [de Vaan] "that which is increased" (see [augment](https://www.etymonline.com/word/augment?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   adj. （尤指因社会地位高而）威严的，令人敬畏的**having great importance and especially of the highest social class**
+
+
+
+###2018-04-07
 
 **July**
 
