@@ -2301,6 +2301,65 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    Paramount 为好莱坞电影公司名 派拉蒙 意思是胜过其它一切； 高于其它一切
 
 
+#### character/ˈkær.ək.tər/
+
+1. 助记：
+   来自PIEgher, 刻，写，刮, 进一步来自PIEsker, 切，砍，
+   character来自希腊语kharakter，本意是“刻下的印记”，来自kharax（尖头的棍子）
+2. 词源：
+   etymology
+   mid-14c., carecter, "symbol marked or branded on the body;" mid-15c., "symbol or drawing used in sorcery;" late 15c., "alphabetic letter, graphic symbol standing for a sound or syllable;" from Old French caratere "feature, character" (13c., Modern French caractère), from Latin character, from Greek kharakter "engraved mark," also "symbol or imprint on the soul," properly "instrument for marking," from kharassein "to engrave," from kharax "pointed stake," a word of uncertain etymology which Beekes considers "most probably Pre-Greek."  The Latin ch- spelling was restored from 1500s.
+3. 定义：
+   1.  the particular combination of qualities in a person or place that makes them different from others 个性 性格
+   2.  a person represented in a film, play, or story角色 
+4. 拓展：character（个性）：环境在人的身心留下的印记
+   英语单词character来自希腊语kharakter，本意是“刻下的印记”，来自kharax（尖头的棍子）。由此产生了character的基本含义“符号、印记”。古代希腊人认为，环境和人的成长经历会在人的身心留下印记，从而使其具有与众不同的性格特征，因此character又衍生出“性格、个性、特征”的含义。在文学、戏剧等艺术作品中，作者通过对人物性格的刻画，从而塑造出个性鲜明的人物，这种“人物角色”也被称为character。
+   character：['kærəktə] n.性格，品质，特性，角色，字符，印记vt.印、刻，使具有特征
+   characterize：['kærəktə'raɪz] vt. 描绘…的特性；具有…的特征vi. 塑造人物
+   characteristic：[,kærəktə'rɪstɪk] adj. 典型的；特有的；表示特性的n. 特征；特性；特色
+
+#### futile/ˈfjuː.taɪl/
+
+1. 助记：
+   fut-流 + -ile表形容词 → 流走的 → 无用的
+   fus-,fund-,found- = pour, 表示“流，泻
+   例如 fountain泉 源泉 
+2. 词源：
+   etymology
+   "incapable of producing result," 1550s, from Middle French futile or directly from Latin futilis, futtilis "vain, worthless, futile," a figurative use, literally "pouring out easily, easily emptied" (the Latin adjective used as a noun meant "a water vessel broad above and pointed below"), hence "leaky, unreliable," from fundere "to pour, melt," from nasalized form of PIE root *gheu- "to pour." Related: Futilely.
+3. 定义：having no effect or achieving nothing无效的，无用的
+
+#### morale/məˈrɑːl/
+
+1. 助记：mor-道德 + ale → [一群人]有道德精神 → 士气   mor- = moral, 表示“道德”。
+2. 词源：
+   etymology
+   1752, "moral principles or practice," from French morale "morality, good conduct," from fem. of Old French moral "moral" (see moral (adj.)). Meaning "confidence" (especially in a military context) first recorded 1831, from confusion with French moral (Modern French distinguishes le moral "temperament" and la morale "morality").
+3. 定义：the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation 士气
+
+
+#### candid/ˈkæn.dɪd/
+
+1. 助记：
+   cand-白 + id → 白的 → 坦白的
+   cand- = white, glow, 表示“白，发光”，来自拉丁语
+   来自 cand-,照明，词源同 candle,蜡烛。
+2. 词源：
+   etymology
+   1620s, "white, bright," from Latin candidum "white; pure; sincere, honest, upright," from candere "to shine," from PIE root *kand- "to shine." In English, metaphoric extension to "frank, honest, sincere" first recorded 1670s (compare French candide "open, frank, ingenuous, sincere"). Of photography, "unposed, informal" 1929. Related: Candidly; candidness.
+3. 定义：honestly and telling the truth, especially about something difficult or painful率直的，坦白的； 公正的
+
+#### delegate/ˈdel.ɪ.ɡət/
+
+1. 助记：de-向下，离开 + leg-法律，送出 + -ate. 即依法授权，委托。
+2. 词源：
+   etymology
+   late 15c., from Old French delegat or directly from Latin delegatus, past participle of delegare "to send as a representative," from de- "from, away" (see de-) + legare "send with a commission" (see legate)
+3. 定义：
+   a person chosen or elected by a group to speak, vote, etc. for them, especially at a meeting 代表 
+   to choose or elect someone to speak, vote, etc. for a group, especially at a meeting委派...为代表
+
+
 ## 9.Constantly Train,Test,Evaluate,and Sort People
 
 **Exponential**  /ˌek.spoʊˈnen.ʃəl/ 呈几何数（增长）的            
