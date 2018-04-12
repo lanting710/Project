@@ -2638,6 +2638,136 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
+**Supervise** /ˈsuː.pɚ.vaɪz/ 监管
+
+1. 助记,
+
+   super+vise
+
+   super-,在上，上方，-vis,看，词源同 visit,advise.引申词义监督，监管。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 15th century (in the sense ‘survey, peruse’): from medieval Latin supervis- ‘surveyed, supervised’, from supervidere, **from super- ‘over’ + videre ‘to see’.**
+
+   **Etymology**
+
+   late 15c., "to look over" (implied in supervising), from Medieval Latin supervisus, past participle ofsupervidere "oversee, inspect," **from Latin super "over" (see [super-](https://www.etymonline.com/word/super-?ref=etymonline_crossreference)) + videre "to see" (from PIE root[*weid-](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference) "to see").** Meaning "to oversee and superintend the work or performance of others" is attested from 1640s. Related: Supervised.
+
+3. 释义,
+
+   监管 to watch a person or activity to make certain that everything is done correctly, safely, etc.
+
+4. 拓展
+
+   vt.监督，管理；指导
+
+   [manage](javascript:void(0);) / [police](javascript:void(0);) / [conduct](javascript:void(0);) / [run](javascript:void(0);) / [direct](javascript:void(0);)
+
+   vi.监督，管理；指导
+
+   [direct](javascript:void(0);) / [charge of](javascript:void(0);)
+
+
+
+**Counsel** /ˈkaʊn.səl/ 忠告
+
+1. 助记,
+
+   coun+sel
+
+   coun-,同con-,强调。-sel, 带来，召集，词源同consult.即召集开会，协商，劝告。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: via Old French counseil (noun), conseiller (verb), from Latin consilium **‘consultation, advice’,** related to consulere (see consult). **Compare with council.**
+
+   **Etymology**
+
+   early 13c., from Old French counseil (10c.) "advice, counsel; deliberation, thought," from Latinconsilium "plan, opinion" (see [consultation](https://www.etymonline.com/word/consultation?ref=etymonline_crossreference)). As a synonym for "lawyer," first attested late 14c.
+
+3. 释义,
+
+   劝告 formal advice
+
+4. 拓展
+
+   n.法律顾问；忠告；商议；讨论；决策
+
+   [advice](javascript:void(0);) / [discussion](javascript:void(0);)
+
+   vt.建议；劝告
+
+   [agree to sb](javascript:void(0);) / [make suggestions](javascript:void(0);)
+
+
+
+**Initial**  /ɪˈnɪʃ.əl/ 最初的
+
+1. 助记,
+
+   in+it+ial
+
+   in-,进入，使，-it,走，go ,init=beginning,开始，词源同itinerary,exit.即走起来的，开始的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from Latin initialis, from initium ‘beginning’, from inire ‘go in’, **from in- ‘into’ + ire ‘go’.**
+
+   **Etymology**
+
+   1520s, "of or pertaining to a beginning," from Middle French initial or directly from Latin initialis"initial, incipient, of the beginning," from initium "a beginning, a commencement; an entrance, a going in," noun use of neuter past participle of inire "to go into, enter upon, begin," **from in- "into, in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + ire "to go" (from PIE root [*ei-](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference) "to go"). Related: Initially.**
+
+3. 释义,
+
+   最初的 of or at the beginning
+
+4. 拓展
+
+   adj.[数]最初的；字首的
+
+   [premier](javascript:void(0);) / [original](javascript:void(0);)
+
+
+
+**Perspective** /pɚˈspek.tɪv/ 看法
+
+1. 助记,
+
+   per+spect+ive
+
+   per-,完全的，-spect,看，全部看到－透视－看法。词源同spectate,specter.引申词义观点，看法，态度。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the sense ‘optics’): from medieval Latin perspectiva (ars) ‘(science of) optics’, from perspect- ‘looked at closely’, from the verb perspicere, **from per- ‘through’ + specere ‘to look’.**
+
+   **Etymology**
+
+   late 14c., "science of optics," from Old French perspective and directly from Medieval Latinperspectiva ars "science of optics," from fem. of perspectivus "of sight, optical" from Latin perspectus"clearly perceived," past participle of perspicere "**inspect, look through, look closely at," from per"through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + specere "look at" (from PIE root[*spek-](https://www.etymonline.com/word/*spek-?ref=etymonline_crossreference) "to observe").** Sense of "art of drawing objects so as to give appearance of distance or depth" is first found 1590s, influenced by Italian prospettiva, an artists' term. The figurative meaning "mental outlook over time" is first recorded 1762.
+
+3. 释义,
+
+   看法  a particular way of considering something
+
+4. 拓展
+
+   n.观点；远景；[数]透视图
+
+   [viewpoint](javascript:void(0);) / [outlook](javascript:void(0);) / [eye](javascript:void(0);) / [sentiment](javascript:void(0);) / [standpoint](javascript:void(0);)
+
+   adj.[数]透视的
+
+   [clairvoyant](javascript:void(0);)
+
 
 
 # To Build and Evolve YOur Machine to Achieve Your Goal
