@@ -1,4 +1,62 @@
-### 2018-04-11
+### 2018-04-12
+
+**Forum**
+
+UK /ˈfɔ:rəm/ US /ˈfɔrəm/
+
+1. 助记,
+
+   最初的意思为“用门围起来的场所”，’an enclosure surrounding a house‘；后引申为“公共讨论的场所，论坛”，’assembly, place for public discussion‘。
+
+   词根*dhwer-，’door, doorway‘。
+
+2. 词源，
+
+   **OED Origin**
+
+   Late Middle English (in forum (sense 3)): from Latin, literally ‘what is out of doors’, originally denoting an enclosure surrounding a house; related to fores ‘(outside) door’. forum (sense 1) dates from the mid 18th century.
+
+   **Etymology**
+
+   mid-15c., "place of assembly in ancient Rome," from Latin forum "marketplace, open space, public place," apparently akin to foris, foras "out of doors, outside," from PIE root [*dhwer-](https://www.etymonline.com/word/*dhwer-?ref=etymonline_crossreference) "door, doorway." Sense of "assembly, place for public discussion" first recorded 1680s.
+
+3. 释义,
+
+   n. 1)公共讨论场所；论坛；讨论会**a place where people can exchange opinions and ideas on a particular issue; a meeting organized for this purpose**
+
+   ​    2)（古罗马）公共集会场所**a public place where meetings were held**
+
+
+
+**Agora**
+
+UK /ˈægɒrə/ US /ˈægərə/
+
+1. 助记,
+
+   1)来自动词ageiro，“聚集，相会”的意思。因此agora也就是一个聚集的地方。它应该是我们生活中“广场”的老祖宗。‘open assembly place, chief public square and marketplace of a town; popular political assembly held in such a place，an assembly of the People，the place of assembly; a marketplace，public speaking，things to be sold’。
+
+   2)动词ageiro，词根*ger-，"to gather"。
+
+2. 词源，
+
+   **OED Origin**
+
+   From Greek.
+
+   **Etymology**
+
+   1590s, "open assembly place, chief public square and marketplace of a town; popular political assembly held in such a place," from Greek agora "an assembly of the People" (as opposed to a council of Chiefs); "the place of assembly; a marketplace" (the typical spot for such an assembly), from ageirein "to assemble," from PIE root [*ger-](https://www.etymonline.com/word/*ger-?ref=etymonline_crossreference) "to gather." The Greek word also could mean "public speaking," and "things to be sold." For sense, compare Roman [forum](https://www.etymonline.com/word/forum?ref=etymonline_crossreference).
+
+3. 释义,
+
+   n. （古希腊的）广场，露天集市，露天聚会场所**in ancient Greece, an open space used for markets and public meetings**
+
+   其复数为不规则形式：agorae或agoras或agorot。
+
+
+
+###2018-04-11
 
 **August**
 
