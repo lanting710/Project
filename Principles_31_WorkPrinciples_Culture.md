@@ -2360,6 +2360,72 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    to choose or elect someone to speak, vote, etc. for a group, especially at a meeting委派...为代表
 
 
+## 8.Hire Right,Because the Penalties for Hiring Wrong Are Huge
+
+#### chronical/ˈkrɒn.ɪk/
+
+1. 助记：chron-时间 + -ic表形容词 → 时间很长的 → 慢性的。
+   chron- = time, 表示“时间”，来自希腊神语khronickos
+2. 词源：
+   etymology
+   early 15c., of diseases, "lasting a long time," from Middle French chronique, from Latin chronicus, from Greek khronikos "of time, concerning time," from khronos "time" (see chrono-). Vague disapproving sense (from 17c.) is from association with diseases and later addictions. Literal sense "pertaining to time" is rare in English. As a popular slang catch-all word for "cannabis," popularized from 1992 by "The Chronic," an album released by rapper Dr. Dre; originally it described especially potent marijuana, on the notion of "extreme, severe." Related: Chronical; chronically.
+3. 定义：continuing for a long time长期的 慢性的
+4. 拓展：chron-（时间）：时间之神柯罗诺斯
+   在古希腊神话中，柯罗诺斯（Chronos）是时间的神格化，象征着永远存在、无始无终、自有永有的时间。古希腊神话中的俄耳甫斯密教（Orpheus）认为，柯罗诺斯是最初的神灵，是宇宙的第一因，是混沌和秩序的来源，并从中诞生了定数女神阿南刻，成为他的配偶。
+   柯罗诺斯是无形无象的超神，又或者化身为蛇的形象出现——拥有三颗头：人头、牛头及狮子头，除此之外还有无数的形象，如有翅膀的青须老者、环绕着混沌的龙……等等。他与配偶阿南刻围著原始世界卵盘绕，然后将混沌分开，形成了天堂、大地、海与天空。
+   在希腊语中，柯罗诺斯的名字Chronos就是时间的意思，由词干chron-（时间）和名词后缀-us构成。英语中表示“时间”的词根chron-就来源于此。
+   chron-：时间
+   chronic：['krɒnɪk] adj.慢性的，长期的，习惯性的
+   chronicle：['krɒnɪk(ə)l] n. 编年史，年代史
+   chronology：[krə'nɒlədʒɪ] n.年代学，年表
+   synchronous：['sɪŋkrənəs] adj. 同步的；同时的
+
+#### gregarious/ɡrɪˈɡeə.ri.əs/ 
+
+1. 助记：greg-群体 + -arious…的 → 爱群体的。
+   greg- = group, 表示“群体”，来自拉丁语。
+   greg- gor- gyr- 表示“群体”  例如 
+   agora集会 市场 
+2. 词源：
+   etymology
+   1660s, "disposed to live in flocks" (of animals), from Latin gregarius "pertaining to a flock; of the herd, of the common sort, common," from grex (genitive gregis) "flock, herd," from PIE *gre-g-, reduplicated form of root *ger- "to gather." Of persons, "sociable," first recorded 1789. Related: Gregariously; gregariousness.
+3. 定义：(of people) liking to be with other people 爱交际的，合群的； 群居
+
+#### introvert/ˈɪn.trə.vɜːt/
+
+1. 助记：intro-向内 + vert-转 引申为 内向的
+2. 词源：
+   etymology
+   1878, in zoology, "part or organ which is turned in upon itself," from introvert (v.). The psychological sense "introverted person" (opposed to extrovert) is 1917, from German, introduced there by C.G. Jung (1875-1961).
+3. 定义：someone who is shy, quiet, and unable to make friends easily 内向的
+
+#### reveal/rɪˈviːl/
+
+1. 助记：
+   re-反 + veal-=veil-盖 → 反盖上 → 不让盖上 → 揭露
+   vel-,velop,-=to cover
+2. 词源：
+   etymology
+   late 14c., from Old French reveler "reveal" (14c.), from Latin revelare "reveal, uncover, disclose," literally "unveil," from re- "opposite of" (see re-) + velare "to cover, veil," from velum "a veil" (see veil (n.)). Related: Revealed; revealing.
+3. 定义：to make known or show something that is surprising or that was previously secret 揭露 泄漏
+
+#### entrepreneur/ˌɒn.trə.prəˈnɜːr/
+
+1. 助记：
+   enter,inter- 
+   表示“在…之间，相互，内”。由in- + ter-（土地）组成。在医学领域enter-表示“肠”。
+   pren- = take, 表示“拿住，抓住”。
+   -eur 表示“人或物”，来自法语。
+   进入抓住[目标] 引申为→ 事业，有事业心的人，企业家
+2. 词源：
+   etymology
+   1828, "manager or promoter of a theatrical production," reborrowing of French entrepreneur "one who undertakes or manages," agent noun from Old French entreprendre "undertake" (see enterprise). The word first crossed the Channel late 15c. (Middle English entreprenour) but did not stay. Meaning "business manager" is from 1852. Related: Entrepreneurship.
+3. 定义：someone who starts their own business, especially when this involves seeing a new opportunity 企业家
+
+
+
+
+
 ## 9.Constantly Train,Test,Evaluate,and Sort People
 
 **Exponential**  /ˌek.spoʊˈnen.ʃəl/ 呈几何数（增长）的            
