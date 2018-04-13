@@ -2409,6 +2409,33 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    late 14c., from Old French reveler "reveal" (14c.), from Latin revelare "reveal, uncover, disclose," literally "unveil," from re- "opposite of" (see re-) + velare "to cover, veil," from velum "a veil" (see veil (n.)). Related: Revealed; revealing.
 3. 定义：to make known or show something that is surprising or that was previously secret 揭露 泄漏
 
+#### compatible /kəmˈpæt.ə.bəl/
+
+1. 助记：com-共同 + pat-感情 + -ible表形容词 → 有共同感情的 → 相容的。
+2. 词源：
+   etymology
+   "feeling of sorrow or pity excited by the sufferings or misfortunes of another," mid-14c., compassioun, literally "a suffering with another," from Old French compassion "sympathy, pity" (12c.), from Late Latin compassionem (nominative compassio) "sympathy," noun of state from past participle stem of compati "to feel pity," from com "with, together" (see com-) + pati "to suffer" (see passion).
+3. 定义：able to exist, live together, or work successfully with something or someone else兼容的，相容的； 和谐的，协调的
+
+#### credentials/krɪˈden.ʃəlz/
+
+1. 助记：
+   cred-相信 + -ent + -al 可以相信的东西 引申为国书 凭证 证明书 与 credit同源
+2. 词源：
+   etymology
+   letters entitling the bearer to certain credit or confidence," 1670s, from Medieval Latin credentialis, from credentia (see credence). Probably immediately as a shortening of letters credential (1520s, with French word order); earlier was letter of credence (mid-14c.).
+3. 定义：documents that state the abilities and experience of a person and show that the person is qualified for a particular job or activity 证书 信任状 证明书
+
+#### premium/ˈpriː.mi.əm/
+
+1. 助记：
+   pre-前面 + em-拿 + ium → 在前面[的人]拿到 → 奖品。
+   em-= take, procure, 表示“拿，获得”，来自拉丁语。
+2. 词源：
+   etymology
+   c. 1600, "reward given for a specific act," from Latin praemium "reward, profit derived from booty," from prae "before" (see pre-) + emere "to buy," originally "to take" (from PIE root *em- "to take, distribute"). Insurance sense is 1660s, from Italian premio. Adjectival sense of "superior in quality" is first attested 1925, originally in reference to butter.
+3. 定义：an amount that is more than usual 奖金 奖励
+
 #### entrepreneur/ˌɒn.trə.prəˈnɜːr/
 
 1. 助记：
@@ -2835,6 +2862,31 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    [clairvoyant](javascript:void(0);)
 
 
+#### mitigate/ˈmɪt.ɪ.ɡeɪt/
+
+1. 助记：
+   mit-软 + ig-做 + -ate
+   mit- = soft, 表示“软”，引申为“成熟”、“温顺”。
+   例如  mitis,成熟的，柔软的
+2. 词源：
+   etymology
+   early 15c., "relieve (pain)," from Latin mitigatus, past participle of mitigare "soften, make tender, ripen, mellow, tame," figuratively, "make mild or gentle, pacify, soothe," ultimately from mitis "gentle, soft" + root of agere "to do, perform" (from PIE root *ag- "to drive, draw out or forth, move"). For mitis de Vaan suggests cognates in Sanskrit mayas- "refreshment, enjoyment," Lithuanian mielas "nice, sweet, dear," Welsh mwydion "soft parts," Old Irish min "soft," from a PIE *mehiti- "soft." Related: Mitigated; mitigating; mitigates.
+3. 定义：to make something less harmful, unpleasant, or bad温和 缓和 减轻
+
+#### frank/fræŋk/
+
+1. 助记：：来自Frank , 法兰克人，部落名。在公元五世纪，整个西欧仍处在一种野蛮的部落时代，整个社会被分成自由人，俘虏，和奴隶三个等级，而Frank人做为战胜级，享受唯一的自由权。后部落名通用化，赋予诸多美好的词义，如自由的，高贵的，美丽的，优雅的，大方的，真诚的等。后主要用于坦率的，其它词义逐渐废弃。
+2. 词源：
+   etymology
+   one of the Germanic tribal people (Salian Franks) situated on the lower Rhine from 3c. that conquered Romano-Celtic northern Gaul c.500 C.E.; from their territory and partly from their language grew modern France and French. Old English franc, franca "freeman, noble; Frank, Frenchman," from Medieval Latin francus, a Late Latin borrowing of Frankish *Frank, the people's self-designation (cognate with Old High German Franko, the Latin word also is the source of Spanish and Italian names Franco).
+3. 定义：honest sincere and telling the truth, even when this might be awkward or make other people uncomfortable坦白的，直率的； 清楚表明的； 明显的
+4. 拓展：frank（直率的）：性情直率的法兰克人
+   法兰克人（Frank）是欧洲民族大迁徙时期入侵罗马帝国的日耳曼民族的一支，因为最初居住在莱因河北部法兰西亚（Francia）地区而得名。他们建立了中世纪初期欧洲最大的基督教王国，其领土涵盖了当今的法国和德国。法国的国名France也是源自Frank。
+   法兰克人性格粗犷豪放，对人坦诚，说话直言不讳。十字军第一次东征时，当时的东罗马皇帝的女儿在其著作《亚历克西亚德》就描写了一位法兰克贵族。当时，在朝见东罗马皇帝时，所有的十字军贵族都站着，只有一名法兰克贵族大大咧咧地坐在一把椅子上。带队的国王赶紧让他站起来，他还嘟囔着为啥皇帝一个人坐着。皇帝后来问他的家乡和出身，他毫不谦虚地说自己是法兰克人，出身贵族，还说自己在老家从未遇到敢向他挑战的人。正因为法兰克人这种鲜明的个性，英语单词frank逐渐衍生了“直率的、坦白的”的意思。
+   frank： [fræŋk]adj.坦白的，直率的，老实的
+   frankly：['fræŋkli] adv. 真诚地，坦白地
+   Frankish：['fræŋkiʃ] adj. 法兰克人的；法兰克语的n. 法兰克语
+   France：[frɑːns] n. 法国，法兰西
 
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
