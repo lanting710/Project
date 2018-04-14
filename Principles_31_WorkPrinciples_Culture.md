@@ -2888,6 +2888,64 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    Frankish：['fræŋkiʃ] adj. 法兰克人的；法兰克语的n. 法兰克语
    France：[frɑːns] n. 法国，法兰西
 
+#### apprentice/əˈpren.tɪs/
+
+1. 助记：
+   ap-=ad- , to + prehend抓住 → 抓住师傅教的内容 → 学徒
+   prehens-,prehend- 
+   = catch, 表示“抓住”。来自pre-“前” + hend- “抓住”。
+   例如comprehen com 全部+prehend抓住 掌握理解
+2. 词源：
+   etymology
+   late 14c., "grasp with the senses or mind;" early 15c. as "grasp, take hold of" physically, from Latin apprehendere "to take hold of, grasp," from ad "to" (see ad-) + prehendere "to seize" (from prae- "before;" see pre- + -hendere, from PIE root *ghend- "to seize, take"). Often "to hold in opinion but without positive certainty."
+3. 定义：someone who has agreed to work for a skilled person for a particular period of time and often for low payment, in order to learn that person's skills学徒
+4. 拓展：apprentice（学徒）：处于学习阶段的手工艺人
+   在古代西方的手工艺行业中，广泛采取学徒制（apprenticeship）的教育培训方式。学徒（apprentice）是手工艺行业中最低一级，要寄宿在行业中最高一级的master（师傅）家中充当学徒，一边为师傅干活，一边学习和实习。通常要学习3到6年后才能出师，升为“熟练工”（journeyman）。在大多数手工艺行业公会中，工匠的职称一般都划分为“学徒”（apprentice）、“熟练工”（journeyman）和“师傅”（master）这三个级别。
+   英语单词apprentice来自古法语aprentiz（学习者），而后者来自动词aprendre。同源的英语单词有apprehend（理解）。
+   apprentice：[ə'prentɪs] n.学徒，生手vi.当学徒vt.使……当学徒
+   apprenticeship：[ə'prentɪ(s)ʃɪp] n.学徒制，学徒期，学徒身份
+   apprehend：[æprɪ'hend] vt.理解，逮捕，忧虑vi.理解，担心
+
+#### iterative/ˈɪt.ər.ə.tɪv/ 
+
+1. 助记：
+   iter-重复 + -ative 表形容词
+   iterate vt. 反复说, 重复
+2. 词源：
+   etymology
+   late 15c., from Latin iterationem (nominative iteratio) "a repetition," noun of action from past participle stem of iterare "do again, repeat," from iterum "again," from PIE *i-tero-, from pronominal root *i- (see yon).
+3. 定义：doing something again and again, usually to improve it 反复的 絮叨的
+
+
+#### triangulate/traɪˈæŋ.ɡjə.leɪt/
+
+1. 助记：tri- 表示“三”
+   anc-,ang-,ank,-unc- 这组词根都源自原始印欧语ang-/ank- ="to bend"表示弯或钩状。
+2. 词源：
+   etymology
+   late 14c., from Old French triangle (13c.), from Latin triangulum "triangle," noun use of neuter of adjective triangulus "three-cornered, having three angles," from tri- "three" (see tri-) + angulus "corner, angle" (see angle (n.)).
+3. 定义：
+   to divide an area into triangles in order to measure it or draw a map of it 把什么东西分成三角形
+
+#### trial/traɪəl/
+
+1. 助记：来自 try,甄选，选出，尝试，审理，-al,名词后缀。引申诸相关词义。
+2. 词源：
+   etymology
+   mid-15c., "act or process of testing, a putting to proof by examination, experiment, etc.," from Anglo-French trial, noun formed from triet "to try" (see try (v.)). Sense of "examining and deciding of the issues between parties in a court of law" is first recorded 1570s; extended to any ordeal by 1590s. As an adjectival phrase, trial-and-error is recorded from 1806. Trial balloon (1826) translates French ballon d'essai, a small balloon sent up immediately before a manned ascent to determine the direction and tendency of winds in the upper air, though the earliest use in English is figurative.
+3. 定义：
+   1.  the hearing of statements and showing of objects, etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matte审判 
+   2.  a test, usually over a limited period of time, to discover how effective or suitable something or someone is试验 考验
+
+#### token/ˈtəʊ.kən/
+
+1. 助记：来自古英语 tacen,符号，象征，证据，来自 Proto-Germanictaiknam,符号，标志，来自 PIEteik,显示，展示，词源同 teach,digit,toe.引申诸相关词义。
+2. 词源：
+   etymology
+   Old English tacen "sign, symbol, evidence" (related to verb tæcan "show, explain, teach"), from Proto-Germanic *taiknam (source also of Old Saxon tekan, Old Norse teikn "zodiac sign, omen, token," Old Frisian tekan, Middle Dutch teken, Dutch teken, Old High German zeihhan, German zeichen, Gothic taikn "sign, token"), from PIE root *deik- "to show," also "pronounce solemnly."
+3. 定义：something that you do, or a thing that you give someone, that expresses your feelings or intentions, although it might have little practical effect 象征 符号
+4. 拓展：By the same token 同样地
+
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
 
