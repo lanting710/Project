@@ -2946,6 +2946,55 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：something that you do, or a thing that you give someone, that expresses your feelings or intentions, although it might have little practical effect 象征 符号
 4. 拓展：By the same token 同样地
 
+#### impartial /ɪmˈpɑː.ʃəl/
+
+1. 助记：
+   part- = part, divide, 表示“部分，分开
+   im-不，非 + partial【部分的，偏袒的】。
+   及 不偏不倚的 公平的
+2. 词源：
+   etymology
+   "not partial, not favoring one over another," 1590s, from assimilated form of in- (1) "not, opposite of" + partial. First recorded use is in "Richard II." Related: Impartially.
+3. 定义：
+   not supporting any of the sides involved in an argument不偏不倚的 公平的
+
+
+#### metrics/ˈmetrɪks/ 
+
+1. 助记：metre , 米，公制 + -ic表形容词。
+   度量单位 引申为 衡量标准 在书中为对员工绩效的衡量标准
+2. 词源：
+   etymology
+   "study of meter," 1892, variant of metric (n.); also see -ics.
+3. 定义：a set of numbers that give information about a particular process or activity 度量尺度
+
+
+#### pattern/ˈpæt.ən/
+
+1. 助记：来自中古英语patron , 模式，模型，来自拉丁语patronus , 守护圣人，保护者，来自pater , 父亲，词源同father . 引申词义范例，模式，样式，图案等。
+2. 词源：
+   etymology
+   early 14c., "outline, plan, model, pattern;" early 15c. as "model of behavior, exemplar," from Old French patron and directly from Medieval Latin patronus (see patron).
+3. 定义： a particular way in which something is done, is organized, or happens模式 
+
+#### observation/ˌɒb.zəˈveɪ.ʃən/
+
+1. 助记：
+   observe【观察，监视】 + -ation表名词。
+   ob-加强动作 + serv-服务 + e → 保持服务的状态 → 需要不断观察。 引申为观察
+2. 词源：
+   etymology
+   late 14c., "performance of a religious rite," from Latin observationem (nominative observatio) "a watching over, observance, investigation," noun of action from past participle stem of observare "watch over, note, heed, look to, attend to, guard, regard, comply with," from ob "in front of, before" (see ob-) + servare "to watch, keep safe," from PIE root *ser- (1) "to protect." Sense of "act or fact of paying attention" is from 1550s. Meaning "a remark in reference to something observed" first recorded 1590s.
+3. 定义：the act of observing something or someone 观察
+
+#### comment/ˈkɒm.ent/
+
+1. 助记：com-共同 + ment-思考 → 共同思考 → 评论。
+2. 词源：
+   etymology
+   late 14c., "explanation, spoken or written remark," from Old French coment "commentary" or directly from Late Latin commentum "comment, interpretation," in classical Latin "invention, fabrication, fiction," neuter past participle of comminisci "to contrive, devise," from com-, here probably an intensive prefix (see com-), + base of meminisse "to remember," related to mens (genitive mentis) "mind" (from PIE root *men- (1) "to think").
+3. 定义：something that you say or write that expresses your opinion 评论 建议
+
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
 
