@@ -2896,6 +2896,94 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
+**Realistic** /ˌriː.əˈlɪs.tɪk/ 现实主义的
+
+1. 助记,
+
+   realist+ic
+
+   realist-现实+ic表...的,形容词---现实主义的
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "true to reality" (of art, literature, etc.), 1829; "involving a practical view of life" (opposed to idealistic), 1831; **from [realist](https://www.etymonline.com/word/realist?ref=etymonline_crossreference) + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference).** Related: Realistically.
+
+3. 释义,
+
+   现实主义的  accepting things as they are in fact and not making decisions based on unlikely hopes for the future
+
+4. 拓展
+
+   [living](javascript:void(0);) 逼真的
+
+   [breathing](javascript:void(0);) 逼真的
+
+**Involvement** /ɪnˈvɑːlv.mənt/  参与其中           
+
+1. 助记,
+
+   in+volv(e)+ment
+
+   in-进入,volv-转+e ----转进去----卷入 ment,表名词 --参与其中
+
+   [involvement](http://www.youdict.com/ciyuan/s/involvement) 卷入，参与
+
+   来自involve,卷入，参与。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the senses ‘enfold’ and ‘entangle’; formerly also as envolve): from Latin involvere, **from in- ‘into’ + volvere ‘to roll’.**
+
+   **Etymology**
+
+   1706,from involve+-ment.
+
+   involve:late 14c., "envelop, surround; make cloudy or obscure," from Old French involver and directly from Latin involvere "envelop, surround, overwhelm," literally "roll into," **from in- "in" (from PIE root *en "in") + volvere "to roll,"** from PIE root *wel- (3) "to turn, revolve." Mid-15c. as "concern oneself." Sense of "take in, include" first recorded c. 1600. Related: Involved; Involving
+
+3. 释义,
+
+   参与其中 the act or process of taking part in something
+
+4. 拓展
+
+   involved in 卷入
+
+**Suspicious**  /səˈspɪʃ.əs/  可疑的          
+
+1. 助记,
+
+   sus+spic+ious
+
+   sus-下面+spic-看+-ious--在下面看--怀疑的
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French suspicious, from Latin suspiciosus, **from suspicio(n-) (see suspicion)**.
+
+   **Etymology**
+
+   "deserving of or exciting suspicion," mid-14c., from Old French suspecious, from Latin suspiciosus "exciting suspicion" (see suspicion). Meaning "full of or inclined to feel suspicion" is attested from c.1400. Edgar Allan Poe (c.1845) proposed suspectful to take one of the two conflicting senses. Related: suspiciously; suspiciousness
+
+3. 释义,
+
+   可疑的 making you feel that something illegal is happening or that something is wrong
+
+4. 拓展
+
+   [doubtful](javascript:void(0);) 可疑的 
+
+   questionable 可疑的,有问题的
+
+
+
 
 
 ## 11. Perceive and Don’t Tolerate Problems
