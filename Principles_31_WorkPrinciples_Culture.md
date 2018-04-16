@@ -3048,6 +3048,72 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
+**Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
+
+1. 助记,
+
+   loco+mov+ive
+
+   loco-地方+mov-移动的+引申为移动地方，火车头、机车头
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century (as an adjective): from modern Latin locomotivus, **from Latin loco (ablative of locus ‘place’) + late Latin motivus ‘motive’,** suggested by medieval Latin in loco moveri ‘move by change of position’.
+
+   **Etymology**
+
+   1610s, "pertaining to movement," from French locomotif, from Latin loco **"from a place" (ablative oflocus "place;" see [locus](https://www.etymonline.com/word/locus?ref=etymonline_crossreference)) + Late Latin motivus "moving" (see [motive](https://www.etymonline.com/word/motive?ref=etymonline_crossreference)).**
+
+   From 1650s as "moving from place to place;" by 1814 as "having the power of moving by itself. The noun meaning "engine which travels on rails by its own power" is from 1829, short for locomotive engine, which is attested from 1814. A locomotive engine used without rails was a traction engine, which became [tractor](https://www.etymonline.com/word/tractor?ref=etymonline_crossreference).
+
+3. 释义,
+
+   火车头 the engine of a train
+
+4. 拓展
+
+   [engine](javascript:void(0);) 引擎、发动机
+
+   haulage motor 电机车
+
+
+
+**Cranny** /ˈkræn.i/ 裂缝
+
+1. 助记,
+
+   cran+ny
+
+   cran=notch,表示槽口，同sieve,同 split
+
+   sieve
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French crane ‘notched’, **from cran, from popular Latin crena ‘notch**’.
+
+   **Etymology**
+
+   mid-15c., possibly from a diminutive of Middle French cran "notch, fissure" (14c.), **from crener "to notch, split,"** from Medieval Latin crenare, possibly from Latin cernere "to separate, sift" (from PIE root [*krei-](https://www.etymonline.com/word/*krei-?ref=etymonline_crossreference) "to sieve"). But OED casts doubt on this derivation.
+
+3. 释义,
+
+   裂缝 a small, narrow opening in something solid
+
+4. 拓展
+
+   同义词
+
+   crack
+
+   split
+
+
+
 
 
 ## 12. Diagnose Problems to Get at Their Root Causes
