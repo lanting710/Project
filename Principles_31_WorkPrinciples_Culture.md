@@ -3155,10 +3155,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
-
 ## 11. Perceive and Don’t Tolerate Problems
-
-
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
 
@@ -3224,6 +3221,68 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    split
 
+
+**Syndrome** /ˈsɪn.droʊm/ 综合症
+
+1. 助记,
+
+   syn+drom+e
+
+   syn-,一起，-drom,跑，词源同 dromedary,hippodrome.引申比喻义并发、综合症状，症候群等。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: modern Latin, from Greek sundromē, **from sun- ‘together’ + dramein ‘to run’.**
+
+   **Etymology**
+
+   "a number of symptoms occurring together," 1540s, from medical Latin, from Greek syndrome"concurrence of symptoms, concourse of people," from syndromos "place where several roads meet," literally "a running together," **from syn- "with" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + dromos "a running, course" (see[dromedary](https://www.etymonline.com/word/dromedary?ref=etymonline_crossreference)).** Psychological sense is from 1955.
+
+3. 释义,
+
+   综合症 a combination of medical problems that shows the existence of a particulardisease or mental condition
+
+4. 拓展
+
+   [severe acute respiratory syndrome](javascript:void(0);)严重急性呼吸系统综合症
+
+   [irritable bowel syndrome](javascript:void(0);)[医]肠道易激综合症
+
+   [nephrotic syndrome](javascript:void(0);)肾病综合征；肾病症候群
+
+**Deviation** /ˌdiːviˈeɪʃən/ 偏差
+
+1. 助记,
+
+   de+via+tion
+
+   de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
+
+   => turn out of the way.偏离道理，越轨，偏差
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate).
+
+   **Etymology**
+
+   1640s, noun of action from [deviate](https://www.etymonline.com/word/deviate?ref=etymonline_crossreference) (v.). Statistical sense is from 1858. Related: Deviational.
+
+   1630s, from Late Latin deviatus, past participle of deviare "to turn aside, turn out of the way," from Latin phrase de via, **from de "off" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + via "way" (see [via](https://www.etymonline.com/word/via?ref=etymonline_crossreference)).** Related: Deviated; deviating. The noun meaning "sexual pervert" is attested from 1912.
+
+3. 释义,
+
+   偏差 a difference from what is usual or expected
+
+4. 拓展
+
+   differences 偏差、差异
+
+   error 误差、过失
 
 
 
