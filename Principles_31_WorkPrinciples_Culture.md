@@ -2946,6 +2946,118 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：something that you do, or a thing that you give someone, that expresses your feelings or intentions, although it might have little practical effect 象征 符号
 4. 拓展：By the same token 同样地
 
+#### impartial /ɪmˈpɑː.ʃəl/
+
+1. 助记：
+   part- = part, divide, 表示“部分，分开
+   im-不，非 + partial【部分的，偏袒的】。
+   及 不偏不倚的 公平的
+2. 词源：
+   etymology
+   "not partial, not favoring one over another," 1590s, from assimilated form of in- (1) "not, opposite of" + partial. First recorded use is in "Richard II." Related: Impartially.
+3. 定义：
+   not supporting any of the sides involved in an argument不偏不倚的 公平的
+
+
+#### metrics/ˈmetrɪks/ 
+
+1. 助记：metre , 米，公制 + -ic表形容词。
+   度量单位 引申为 衡量标准 在书中为对员工绩效的衡量标准
+2. 词源：
+   etymology
+   "study of meter," 1892, variant of metric (n.); also see -ics.
+3. 定义：a set of numbers that give information about a particular process or activity 度量尺度
+
+
+#### pattern/ˈpæt.ən/
+
+1. 助记：来自中古英语patron , 模式，模型，来自拉丁语patronus , 守护圣人，保护者，来自pater , 父亲，词源同father . 引申词义范例，模式，样式，图案等。
+2. 词源：
+   etymology
+   early 14c., "outline, plan, model, pattern;" early 15c. as "model of behavior, exemplar," from Old French patron and directly from Medieval Latin patronus (see patron).
+3. 定义： a particular way in which something is done, is organized, or happens模式 
+
+#### observation/ˌɒb.zəˈveɪ.ʃən/
+
+1. 助记：
+   observe【观察，监视】 + -ation表名词。
+   ob-加强动作 + serv-服务 + e → 保持服务的状态 → 需要不断观察。 引申为观察
+2. 词源：
+   etymology
+   late 14c., "performance of a religious rite," from Latin observationem (nominative observatio) "a watching over, observance, investigation," noun of action from past participle stem of observare "watch over, note, heed, look to, attend to, guard, regard, comply with," from ob "in front of, before" (see ob-) + servare "to watch, keep safe," from PIE root *ser- (1) "to protect." Sense of "act or fact of paying attention" is from 1550s. Meaning "a remark in reference to something observed" first recorded 1590s.
+3. 定义：the act of observing something or someone 观察
+
+#### comment/ˈkɒm.ent/
+
+1. 助记：com-共同 + ment-思考 → 共同思考 → 评论。
+
+2. 词源：
+   etymology
+   late 14c., "explanation, spoken or written remark," from Old French coment "commentary" or directly from Late Latin commentum "comment, interpretation," in classical Latin "invention, fabrication, fiction," neuter past participle of comminisci "to contrive, devise," from com-, here probably an intensive prefix (see com-), + base of meminisse "to remember," related to mens (genitive mentis) "mind" (from PIE root *men- (1) "to think").
+
+3. 定义：something that you say or write that expresses your opinion 评论 建议
+
+   ​
+
+#### perverse/pəˈvɜːs/ 
+
+1. 助记：per-全部 + vers-转 + e → 和大家[反着]转 → 乖张的  故意作对的。
+2. 词源
+   etymology
+   mid-14c., "wicked," from Old French pervers "unnatural, degenerate; perverse, contrary" (12c.) and directly from Latin perversus "turned away, contrary, askew," figuratively, "turned away from what is right, wrong, malicious, spiteful," past participle of pervertere "to corrupt" (see pervert (v.)). The Latin word is glossed in Old English by forcerred, from past participle of forcyrran "to avoid," from cierran "to turn, return." Meaning "wrong, not in accord with what is accepted" is from 1560s; sense of "obstinate, stubborn" is from 1570s. It keeps the non-sexual senses of pervert (v.) and allows the psychological ones to go with perverted. Related: Perversely; perverseness.
+3. 定义：strange and not what most people would expect or enjoy 故意作对的 有悖常情的
+4. 拓展：pervert（变态）：从正确的信仰转向错误的信仰
+   英语单词pervert原本是一个宗教术语，意思是“（使人）从正确的信仰转向错误的信仰”。它由per（away，离开）+vert（turn，转向）构成，字面意思就是“转向，偏离正确方向”。现在该词已经广泛应用于各种领域，表示“反常、变态”，尤其用于表示“性变态”。
+   pervert： [pə'vɜːt] vt.使堕落，使反常，滥用n.堕落者，反常者，变态
+   perverse：[pɚ'vɝs] adj. 堕落的，不正当的；倔强的；违反常情的
+   perversion：[pə'vɜːʃ(ə)n] n. 反常；颠倒；曲解；误用；堕落
+
+
+#### sample/ˈsɑːm.pəl/ 
+
+1. 助记：
+   s-=se分开 + ampl-拿 + e → 分开拿出 → 标本
+   ample- = take, procure, 表示“拿，获得”，来自拉丁语
+   ex-出 + ample → 拿出来 → 作为榜样 例子
+2. 词源：
+   etymology
+   c. 1300, "something which confirms a proposition or statement," from Anglo-French saumple, a shortening of Old French essample, from Latin exemplum "a sample" (see example). Meaning "small quantity (of something) from which the general quality (of the whole) may be inferred" (usually in a commercial sense) is recorded from early 15c.; sense of "specimen for scientific sampling" is from 1878. As an adjective from 1820.
+3. 定义：a small amount of something that shows you what the rest is or should be like样本 案例
+
+#### probe/prəʊb/ 
+
+1. 助记：pro-向前 + be-成为，存在，引申诸相关词义 向存在之前探索 引申为 探查
+   probing 追根溯源的
+2. 词源：
+   etymology
+   early 15c., "instrument for exploring wounds, etc.," also "an examination," from Medieval Latin proba "examination," in Late Latin "a test, proof," from Latin probare "show, demonstrate; test, inspect; judge by trial" (see prove). Meaning "act of probing" is 1890, from the verb; figurative sense of "penetrating investigation" is from 1903. Meaning "small, unmanned exploratory craft" is attested from 1953.
+3. 定义：to try to discover information that other people do not want you to know, by asking questions carefully and not directly探索，调查
+
+#### reflect/rɪˈflekt/
+
+1. 助记：
+   re-反 + flect-弯曲返回 → 反射
+   flect- = bend, 表示“弯曲”。
+   例如 flexible flex【弯曲】 + -ible表形容词 灵活的 可自由弯曲的
+2. 词源：
+   etymology
+   late 14c., "turn or bend back;" early 15c., "to divert, to turn aside, deflect," from Old French reflecter (14c.), from Latin reflectere "bend back, turn back" (see reflection). Of mirrors or polished surfaces, to shine back light rays or images, early 15c.; meaning "to turn one's thoughts back on" is c. 1600. Related: Reflected; reflecting.
+3. 定义：
+   1. If a surface reflects light, heat, sound, or an image, it sends the light, etc. back and does not absorb it 反射 
+   2. to think carefully, especially about possibilities and opinions:深思 反思
+
+
+#### resentment
+
+1. 助记：re-反 + sent-感觉 → 反感 → 不满。
+2. 词源：
+   etynology
+   "take (something) ill; be in some degree angry or provoked at," c. 1600, from French ressentir "feel pain, regret," from Old French resentir "feel again, feel in turn" (13c.), from re-, intensive prefix, + sentir "to feel," from Latin sentire (see sense (n.)). Related: Resented; resenting.
+3. 定义：to feel angry because you have been forced to accept someone or something that you do not like对…感到愤怒； 怨恨；
+
+
+
+
 # To Build and Evolve YOur Machine to Achieve Your Goal
 
 
