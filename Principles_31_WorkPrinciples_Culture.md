@@ -3153,6 +3153,54 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    questionable 可疑的,有问题的
 
 
+#### vantage/ˈvɑːn.tɪdʒ/
+
+1. 助记：
+   vant-=van-前面 → 在前面的有力位置。
+   advance-,advant-,van- 
+   = ahead, 表示“前面”，来源于法语 avance 以前，其字母 d 是在 16 世纪时加进去的，词根advant 为词根 advance 的变体。
+2. 词源：
+   etymology
+   early 14c., "advantage, profit," from Anglo-French vantage, from Old French avantage "advantage, profit, superiority" (see advantage). Vantage point "favorable position" attested from 1865; a similar notion was in earlier vantage ground (1610s).
+3. 定义：place or situation affording some advantage优势  有利地位
+
+#### continent/ˈkɒn.tɪ.nənt/
+
+1. 助记：con-强调 + tin-持，握 + -ent表名词 → 即一块未分割的土地，大陆。
+2. 词源：
+   etymology
+   ate 14c., "self-restraining, temperate, abstemious," especially "abstaining from or moderate in sexual intercourse," from Old French continent and directly from Latin continentem (nominative continens) "holding together, continuous," present participle of continere "to hold back, check," also "hold together, enclose," from assimilated form of com "with, together" (see con-) + tenere "to hold" (from PIE root *ten- "to stretch"). In reference to bladder control, 1899. Related: Continently.
+3. 定义：one of the seven large land masses on the earth's surface, surrounded, or mainly surrounded, by sea and usually consisting of various countries 大陆
+4. 拓展：continent（洲）：连绵不断的陆地
+   古代人缺乏地理知识，以为所有的大地都是连接在一起的，所以在拉丁语中将这个大地称为terra continens，翻译成英语就是continent land。英语单词continent就来自拉丁语continens，是continere（hold together，连接为一体）的现在分词，原本是一个形容词，表示“连绵不断的”或“自制的”之意。作名词的continent其实是continent land的缩略形式。与continent同源的英语单词还有contain（容纳）、continuous（连续的）等。
+   continent：['kɒntɪnənt] n.大陆，洲adj.自制的，克制的
+   continental：[kɒntɪ'nent(ə)l] adj.大陆的，大陆性的
+
+#### immediate/ɪˈmiː.di.ət/
+
+1. 助记：im-无 + medi-中间 + -ate表形容词 → 无中间 → 立刻的。
+2. 词源：
+   etymology
+   late 14c., "intervening, interposed;" early 15c., "with nothing interposed; direct," also with reference to time, "without delay, instant," from Old French immediat (14c.), from Late Latin immediatus "without anything between," from assimilated form of in- "not, opposite of" (see in- (1)) + mediatus "in the middle" (see mediate).
+3. 定义：
+   1. happening or done without delay or very soon after something 立刻地 
+   2. used to refer to something or someone that is close to, or is a cause of or an effect of, something or someone else最接近的
+
+#### flaw/flɔː/
+
+1. 助记：词源不详。可能来自flake, 碎片。引申词义缺陷，缺点。
+2. 词源：
+   etymology
+
+3. 定义：a fault, mistake, or weakness, especially one that happens while something is being planned or made, or that causes something not to be perfect 缺陷 缺点
+
+####  symptom/ˈsɪmp.təm/ 
+
+1. 助记：sym-一起 + ptom-落下 随疾病一起降临的 引申为症状  
+2. 词源：
+   etymology
+   1540s, re-Latinized from sinthoma (late 14c.), from Medieval Latin sinthoma "symptom of a disease," altered from Late Latin symptoma, from Greek symptoma "a happening, accident, disease," from stem of sympiptein "to befall, happen; coincide, fall together," from assimilated form of syn- "together" (see syn-) + piptein "to fall," from PIE *pi-pt-, reduplicated form of root *pet- "to rush; to fly."
+3. 定义：1 - 来自希腊语 symptoma,疾病，发生，来自 sym-,一起，一致，-pt,追逐，降落，词源同compete,petition,-oma,名词后缀。引申词义症状，征兆等。词义演变比较 syndrome,综合症。
 
 
 ## 11. Perceive and Don’t Tolerate Problems
