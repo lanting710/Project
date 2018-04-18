@@ -3333,6 +3333,64 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    error 误差、过失
 
 
+**Recipe**/ˈres.ə.pi/ 食谱
+
+1. 助记,
+
+   re+cipe
+
+   re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin, **literally ‘receive!’** (first used as an instruction in medical prescriptions), imperative of recipere.
+
+   **Etymology**
+
+   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "**to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference));** word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
+
+3. 释义,
+
+   食谱 a set of instructions telling you how to prepare and cook food, including a list of what food is needed for this
+
+4. 拓展
+
+   recipe（食谱）：医生处方中的第一个字
+   古代西方医生在开处方时，第一个字通常是拉丁语recipe，意思是take（服用），后来缩写为Rx，并且R的最后一笔和x的第一笔重合。学过西医的中国医生在开处方时也是这样写的，不信可以翻开自己看病时医生开的处方单看看。因此，单词recipe在英语中原本表示“处方”，到了17世纪时逐渐用来表示“食谱”，而用prescription来表示“处方”。不过，从医生处方的第一个字上依然能看出recipe的初始含义。
+   与recipe同源的英语单词还有receive（接收）、reception（接收）等。
+   receive：[rɪ'siv] vt. 收到；接待；接纳vi. 接收
+   reception：[rɪ'sɛpʃən] n. 接待；接收；招待会；感受；反应
+
+**Thorough** /ˈθɝː.ə/ 彻底的
+
+1. 助记,
+
+   through
+
+   来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English thuruh, **alteration of thurh ‘through’**. Original use was as an adverb and preposition, in senses of through. The adjective dates from the late 15th century, when it also had the sense ‘that goes or extends through something’, surviving in thoroughfare.
+
+   **Etymology**
+
+   c. 1300, adjectival use of Old English þuruh (adv.) "from end to end, from side to side," stressed variant of þurh (adv., prep.); **see [through](https://www.etymonline.com/word/through?ref=etymonline_crossreference). Related: thoroughly; thoroughness.**
+
+3. 释义,
+
+   彻底的 complete, very great, or very much
+
+4. 拓展
+
+   complete 彻底的
+
+   radical 根本的
+
 
 
 ## 12. Diagnose Problems to Get at Their Root Causes
