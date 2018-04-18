@@ -3203,6 +3203,66 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：1 - 来自希腊语 symptoma,疾病，发生，来自 sym-,一起，一致，-pt,追逐，降落，词源同compete,petition,-oma,名词后缀。引申词义症状，征兆等。词义演变比较 syndrome,综合症。
 
 
+#### alert/əˈlɜːt/ 
+
+1. 助记：来自意大利语 all'erta.-erta,上升，词源同 erect,竖直。即全部到城墙上守城。引申为 警戒 警觉
+2. 词源
+   etymology
+   "on the watch," 1610s, from French alerte "vigilant" (17c.), from prepositional phrase à l'erte "on the watch," from Italian all'erta "to the height." Second element from erta "lookout, high tower," noun use of fem. of erto, past participle of ergere "raise up," from Latin erigere "raise" (see erect (adj.)).
+3. 定义
+   1.  quick to see, understand, and act in a particular situation 警觉的  机敏的
+   2.  a warning to prepared to deal with something dangerous 警报 
+4. 1. on alert,处于警戒状态;保持戒备  
+       Soldiers and police have been put on alert士兵和警方都已进入警戒状态
+   2. on the alert for something,准备就绪；防备着
+      They want to be on the alert for similar buying opportunities. 
+      他们希望随时掌握有关类似购买机会的信息。
+
+#### climb/klaɪm/
+
+1. 助记：clim-,clin-,cliv- 
+   = lean, slope, 表示“倾斜，斜坡”，来自拉丁语，引申为攀爬
+2. 词源：
+   etymology
+   Old English climban "raise oneself using hands and feet; rise gradually, ascend; make an ascent of" (past tense clamb, past participle clumben, clumbe), from West Germanic *klimban "go up by clinging" (source also of Dutch klimmen, Old High German klimban, German klimmen "to climb").
+3. 定义：to go up, or to go towards the top of something 攀爬 上升
+4. 拓展：俚语 climb the wall （由于失望 焦虑 忧虑 举止失常）
+   By the time the cops came i was about to climb the wall 警察赶到的时候，我都快急得发疯了
+
+#### scale/skeɪl/
+
+1. 助记：
+   1. 来自古诺斯语 skel,贝壳，skal,碗，饮水容器，来自 Proto-Germanicskaela,分开，劈开，来自PIEskel,砍，切，分开，词源同 shell,scallop.由贝壳引申词义碗，饮水器具，由贝壳的钙化性质引申词义水垢，牙石，由碗，饮水容器引申词义秤，天平，即秤的原型，由该印欧语的词根义引申词义鱼鳞，鳞片等。
+   2. 来自拉丁语 scala,梯子，来自（缩写自）scandere,攀爬，攀登，来自 PIE*skand,爬，上升，词源同 scan,ascend,descend.字母 d 脱落，类似拼写比较 rule,regulate.引申词义规模，范围，程度，等级，比例等。
+2. 词源：
+   etymology
+   skin plates on fish or snakes," c. 1300, from Old French escale "cup, scale, shell pod, husk" (12c., Modern French écale) "scale, husk," from Frankish *skala or some other Germanic source, from Proto-Germanic *skælo "split, divide" (source also of Dutch schaal "a scale, husk," Old High German scala "shell," Gothic skalja "tile," Old English scealu "shell, husk"), from PIE root *skel- (1) "to cut."
+3. 定义：
+   1. one of the many very small, flat pieces that cover the skin of fish, snakes, etc.鳞 鱼鳞
+   2. a hard, white or grey layer of material that forms on the inside of pipes or containers that heat water水垢
+   3. a set of numbers, amounts, etc., used to measure or compare the level of something刻度 尺度
+   4. to climb up a steep surface, such as a wall or the side of a mountain, often using special equipment 动词 攀登 攀爬
+
+#### tinker/ˈtɪŋ.kər/ 
+
+1. 助记：tink丁当声(拟声，榔头敲击锅的声音) + -er名词后缀，表人。
+2. 词源：
+   etymology
+   "mender of kettles, pots, pans, etc.," late 14c. (mid-13c. as a surname), of uncertain origin. Some connect the word with the sound made by light hammering on metal. Tinker's damn "something slight and worthless" is from 1824, probably preserving tinkers' reputation for free and casual use of profanity; the plain and simple etymology is not good enough for some writers, and since 1877 an ingeniously elaborate but baseless derivation has been circulated claiming the second word is really dam.
+3. 定义：
+   1. a person who travelled from place to place, repairing pans or other metal containers小炉匠，补锅匠，修补匠，补锅，
+   2. to make small changes to something, especially in an attempt to repair or improve it修补 （尤指不起作用地）修修补补； 小修理
+
+#### assiduous/əˈsɪdʒ.u.əs/
+
+1. 助记：as-一再 + sid-坐 + -uous → 一再坐着[学习] → 勤勉的。
+2. 词源：
+   etymology
+   1530s, from Latin assiduus "attending; continually present, incessant; busy; constant," from assidere/adsidere "to sit down to, sit by" (thus "be constantly occupied" at one's work); from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit." The word acquired a taint of "servility" in 18c. Related: Assiduously; assiduousness.
+3. 定义：
+    show hard work, care, and attention to detail
+   專心致志的；勤勉的
+
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
