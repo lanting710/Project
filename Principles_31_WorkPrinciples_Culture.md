@@ -3263,6 +3263,105 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
     show hard work, care, and attention to detail
    專心致志的；勤勉的
 
+#### ethic/ˈeθ.ɪk/ 
+
+1. 助记：ethn-,ethno- = nation, 表示“民族；性情（民族情感）” 民族情感指向 引申为 伦理 道德体系 
+
+2.  词源：
+
+   **etymology**
+
+   late 14c., ethik "study of morals," from Old French etique "ethics, moral philosophy" (13c.), from Late Latin ethica, from Greek ethike philosophia "moral philosophy," fem. of ethikos "ethical," from ethos "moral character," related to ethos "custom" (see ethos). Meaning "moral principles of a person or group" is attested from 1650s.
+
+3. 定义：a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
+
+   a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
+
+ 
+
+#### trap/træp/ 
+
+1. 助记：tr- 表示“踩、踏”，原始印欧语形式为*der-. 一踩会陷进去的 圈套 陷阱
+
+   来自古英语 traeppe,陷阱，罗网，来自 Proto-Germanictrep,踩踏，来自 PIEder,走，跑，步行，词源同 trip,tramp,tread.词义通俗化为圈套
+
+2. 词源：
+
+   **etymology**
+
+   contrivance for catching unawares," late Old English træppe, treppe "snare, trap," from Proto-Germanic *trep- (source also of Middle Dutch trappe "trap, snare"), related to Germanic words for "stair, step, tread" (Middle Dutch, Middle Low German trappe, treppe, German Treppe "step, stair," English tread (v.)), and probably literally "that on or into which one steps," from PIE *dreb-, extended form of root *der- (1), an assumed base of words meaning "to run, walk, step." Probably akin to Old French trape, Spanish trampa "trap, pit, snare," but the exact relationship is uncertain.
+
+3. 定义：
+
+   1. a dangerous or unpleasant situation which you have got into and from which it is difficult or impossible to escape圈套；詭計
+   2. a device or hole for catching animals or people and preventing their escape陷阱；夾子；捕捉器
+
+#### rank/ræŋk/
+
+1. 助记：rank- = rank, 表示“排列，顺序”，来源于古法语rangier“排成直线”。
+
+   来自古法语ranc , 排，行，来自PIE*sker , 弯，转，词源同ring , curve . 词义由环行排列过渡至水平排列。引申词义排列，等级。
+
+2.  词源：
+
+   **etymology**
+
+   Old English ranc "proud, overbearing, showy," from Proto-Germanic *rankaz (source also of Danish rank "right, upright," German rank "slender," Old Norse rakkr "straight, erect"), perhaps from PIE root *reg- "move in a straight line." In reference to plant growth, "vigorous, luxuriant, abundant, copious" it is recorded from c. 1300. Related: Rankly; rankness.
+
+3. 定义：
+
+   a particular position, higher or lower than others 等级 级别
+
+   a row, especially of people or things standing side by side 行 列 排
+
+   a position in an organization, such as the army, showing the importance of the person having it 职位 官阶 
+
+4. 拓展：rank and file民众；普通士兵；普通成员。国际象棋传入西方后，在12世纪的法国非常流行，一些象棋术语也开始进入民众之中。国象棋盘上的横列称作rank，纵列称作file，这样rank and file就是棋盘上的所有士兵并随后通俗化指普通民众了。There was widespread support for him among the rank and file. 
+
+#### escalate/ˈes.kə.leɪt/
+
+1. 助记：
+
+   escal-梯子 + -ate表动词 → 梯子使人逐步上升。
+
+   escal- = ladder, 表示“梯子
+
+2. 词源：
+
+   **etymology**
+
+   1922, "to use an escalator," back-formation from escalator, replacing earlier verb escalade (1801), from the noun escalade. Escalate came into general use with a figurative sense of "raise" from 1959 (intrans.), originally in reference to scenarios for possible nuclear war. Related: Escalated; escalating. Transitive figurative sense is by 1962.
+
+3. 定义：to become or make something become greater or more serious
+
+4. 拓展：文中 escalate request to the Management Committe  指请求上升到达管理委员会 比喻 
+
+   escalator（自动扶梯）：在攻城战中用梯子攀爬城墙
+
+   英语单词escalator（电动扶梯）原本是美国著名的奥蒂斯电梯公司（Otis Elevator Co.）所生产的电动扶梯的品牌名。该品牌由单词escalade+elevator混合而成。英语单词escalade原本是一个军事术语，指的是在攻城战中用梯子攀爬城墙，由e+scale（攀爬）+ade（名词后缀）构成。电动扶梯就是电力驱动的楼梯，在停用时可以作为普通楼梯使用，在很多建筑中得到普遍使用。奥蒂斯电梯公司出品的escalator牌电动扶梯在市场中占据了巨大的份额，以至于这一品牌名成了“电动扶梯”的代名词，并反向衍生了单词escalate。
+
+   escalade： [,eskə'leɪd] n.vt.攀登，用梯子攀爬
+
+   escalator： ['eskəleɪtə] n.电动扶梯，自动扶梯
+
+   escalate：['eskəleɪt] v.逐步上升，逐渐增强
+
+#### shiny/ˈʃaɪ.ni/
+
+1. 助记：shine- = spark, 表示“火花”。
+
+   来自古英语 scinan,照耀，照明，发光，来自 Proto-Germanicskinan,照耀，发光，来自 PIEskai,照耀，发光，词源同 sheen,shimmer.
+
+2. 词源：
+
+   **etymology**
+
+   1580s, from shine (n.) + -y (2). As a noun meaning "a shiny object" (also "money") from 1856. 
+
+3. 定义：A shiny surface is bright because it reflects light闪耀的 发光的 发亮的
+
+4. 拓展：make hay while the sun shines莫失良机；抓紧时机。英国本身雾天就多，而中世纪里，比较准确地预测未来三天甚至两天的天气都是很困难的。所以割草+晒干这个过程就格外需要天公作美。因此，看到大晴天，赶紧的，割草去。If you want to become a millionaire, you must make hay(晒干草) while the sun shines. 
+
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
