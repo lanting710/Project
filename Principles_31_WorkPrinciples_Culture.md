@@ -3261,7 +3261,70 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    1530s, from Latin assiduus "attending; continually present, incessant; busy; constant," from assidere/adsidere "to sit down to, sit by" (thus "be constantly occupied" at one's work); from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit." The word acquired a taint of "servility" in 18c. Related: Assiduously; assiduousness.
 3. 定义：
     show hard work, care, and attention to detail
-   專心致志的；勤勉的
+       專心致志的；勤勉的
+
+
+
+
+
+**Lawsuit** /ˈlɑː.suːt/ 诉讼                
+
+1. 助记,
+
+   law+suit
+
+   law,法律，suit,诉讼。
+
+   suit（套装）：古代随从所穿的统一制服
+   suit源自拉丁语secutus，是动词sequi（跟随）的过去分词形式，与sequel（继续）同源，字面意思是“跟随”，最早表示“随从”，后来表示这些随从所穿的统一制服，再后来表示成套的衣服，即常说的“套装西服”。单词suite其实是suit的变体，表示“一批随从、一套家具、套间”。另一方面，从“跟随”的词意出发，suit还衍生出“追赶、请求”之意，从而衍生出“对女性的追求”之意。在法律领域，suit表示“诉讼”，对应动词是sue（控告、请求）。同源单词还有动词pursue（追赶，继续，从事）和名词pursuit（追求、职业）
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1620s, from [law](https://www.etymonline.com/word/law?ref=etymonline_crossreference) (n.) + [suit](https://www.etymonline.com/word/suit?ref=etymonline_crossreference) (n.).
+
+3. 释义,
+
+   诉讼 a problem taken to a law court by an ordinary person or an organization rather than the police in order to obtain a legal decision
+
+4. 拓展
+
+   同义词
+
+   litigation
+
+   ​
+
+**Equipped**  /ɪˈkwɪpt/ 装备齐全的                  
+
+1. 助记,
+
+   来自古法语esquiper, 船的配备，装载，词源同ship. 拼写参照etude, study
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 16th century: from French équiper, probably from Old Norse skipa ‘**to man (a ship)’, from skip ‘ship’.**
+
+   **Etymology**
+
+   1520s, from Middle French équiper "to fit out," from Old French esquiper "fit out a ship, load on board" (12c.), probably from Old Norse skipa "arrange, place in order," usually "fit out a ship," but also of warriors manning a hall and trees laden with ripe fruit, from skip "ship" (see [ship](https://www.etymonline.com/word/ship?ref=etymonline_crossreference) (n.)). Related: Equipped; equipping. Similar words in  Spanish and Portuguese ultimately are from Germanic.
+
+3. 释义,
+
+   装备齐全的 having the necessary tools, clothes, equipment, etc.
+
+4. 拓展
+
+   同义词
+
+   [furnished](javascript:void(0);)
+
+
 
 ## 11. Perceive and Don’t Tolerate Problems
 
