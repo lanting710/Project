@@ -3330,7 +3330,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 1. 助记：ethn-,ethno- = nation, 表示“民族；性情（民族情感）” 民族情感指向 引申为 伦理 道德体系 
 
-2.  词源：
+2. 词源：
 
    **etymology**
 
@@ -3340,7 +3340,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
 
- 
+
 
 #### trap/træp/ 
 
@@ -3365,7 +3365,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    来自古法语ranc , 排，行，来自PIE*sker , 弯，转，词源同ring , curve . 词义由环行排列过渡至水平排列。引申词义排列，等级。
 
-2.  词源：
+2. 词源：
 
    **etymology**
 
@@ -3424,6 +3424,84 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：A shiny surface is bright because it reflects light闪耀的 发光的 发亮的
 
 4. 拓展：make hay while the sun shines莫失良机；抓紧时机。英国本身雾天就多，而中世纪里，比较准确地预测未来三天甚至两天的天气都是很困难的。所以割草+晒干这个过程就格外需要天公作美。因此，看到大晴天，赶紧的，割草去。If you want to become a millionaire, you must make hay(晒干草) while the sun shines. 
+
+discipline/ˈdɪs.ə.plɪn/ 
+
+1. 助记：disciple【学习，门徒】 + -ine。引申词义训练，必要的纪律，惩罚。
+2. 词源：
+   etymology
+   early 13c., "penitential chastisement; punishment," from Old French descepline (11c.) "discipline, physical punishment; teaching; suffering; martyrdom," and directly from Latin disciplina "instruction given, teaching, learning, knowledge," also "object of instruction, knowledge, science, military discipline," from discipulus (see disciple (n.)).
+3. 定义：training that makes people more willing to obey or more able to control themselves, often in the form of rules, and punishments if these are broken, or the behaviour produced by this training 纪律
+4. 拓展：discipline（纪律）：纪律严明的古罗马教育
+   古罗马人以纪律严明著称，古罗马军队之所以拥有强大的战斗力，一个主要原因就是士兵们能够严守军纪。古罗马人的纪律性是从儿童教育阶段就开始培养、锻炼出来的。古罗马人认为，教育不仅仅是传授知识，更重要的是磨练意志、培养学生吃苦耐劳、遵守纪律等各项优良品质，因此在教学活动中往往融合对学生的意志和纪律的培养，普遍采用体罚手段。
+   英语单词discipline来自拉丁语disciplina，指的就是古罗马的这种教育，字面意思是“指导、教学”，由此延伸出“学科”之意。由于古罗马的教育强调纪律和惩戒，因此discipline又产生了“纪律、磨练、管教”的含义。与它同源的单词有disciple（门徒、弟子）。
+   discipline：['dɪsɪplɪn] n.学科，纪律，磨练，管教，惩罚vt.训练，寻到，惩戒
+   indiscipline：[ɪn'dɪsɪplɪn] n. 无纪律；缺乏训练；无纪律行为
+   disciplinary：['dɪsəplənɛri] adj. 规律的；训练的；训诫的
+   disciple：[dɪ'saɪp(ə)l] n.门徒，弟子
+
+
+confusion/kənˈfjuː.ʒən/ 
+
+1. 助记：
+   confuse【混乱】 + -ion名词后缀
+   con-共同 + fus-流 + e → 流到一起 → 混合, 混乱。
+   con-,表强调，-fus,流，倾泻，词源同 fusion,foundry.即流到一起，难以区别而产生困惑。
+2. 词源：
+   etymology
+   c. 1300, confusioun, "overthrow, ruin," from Old French confusion "disorder, confusion, shame" (11c.) and directly from Latin confusionem (nominative confusio) "a mingling, mixing, blending; confusion, disorder," noun of action from past-participle stem of confundere "to pour together," also "to confuse" (see confound).
+3. 定义：a situation in which people do not understand what is happening, what they should do 困惑  混淆
+
+
+instill /ɪnˈstɪl/
+
+1. 助记：in-进入，使 + still-滴，水滴，引申词义逐步灌输，逐步培养。
+2. 词源：
+   etymology
+   also instil, early 15c., "to introduce (liquid, feelings, etc.) little by little," from Latin instillare "put in by drops; to drop, trickle," from in- "in" (from PIE root *en "in") + stilla "a drop" (see distill). Related: Instilled; instiller; instilling.
+3. 定义：to put a feeling, idea, or principle gradually into someone's mind, so that it has a strong influence on the way that person thinks or behaves 逐渐灌输
+
+offend/əˈfend/ 
+
+1. 助记：
+   of-一再 + fend-打击 → 一再打击[别人] → 得罪
+   fend- = strike, 表示“打击”，来自拉丁语。
+2. 词源：
+   etymology
+   early 14c., "to sin against (someone)," from Old French ofendre "transgress, antagonize," and directly from Latin offendere "to hit, strike against," figuratively "to stumble, commit a fault, displease, trespass against, provoke," from assimilated form of ob "in front of against" (see ob-) + -fendere "to strike" (found only in compounds; see defend).
+3. 定义：to make someone upset or angry 冒犯 得罪 惹恼
+
+vest /vest/
+
+1. 助记：
+   来自PIE*wes , 穿衣，词源同wear , invest . 引申词义授权，赋予，来自特定衣服的象征意
+   vest- 
+   = clothes, 表示“衣服”，原始印欧语形式*wes- "to clothe", 同源词wear表示“穿、磨损”。
+2. 词源：
+   etymology
+   1610s, "loose outer garment" (worn by men in Eastern countries or in ancient times), from French veste "a vest, jacket" (17c.), from Italian vesta, veste "robe, gown," from Latin vestis "clothing," from vestire "to clothe" (from PIE *wes- (2) "to clothe," extended form of root *eu- "to dress"). The sleeveless garment worn by men beneath the coat was introduced by Charles II in a bid to rein in men's attire at court, which had grown extravagant and decadent in the French mode.
+3. 定义：a type of underwear, often with no sleeves, that covers the upper part of the body, worn for extra warmth背心
+4. 拓展：invest（投资）：给财富换上神奇的衣服
+   17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。
+   英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。
+   invest：[ɪn'vest] v.投资，投资于；覆盖，包围
+   investment：[ɪn'ves(t)m(ə)nt] n.投资，投入，封锁
+   investor： [ɪn'vɛstɚ] n. 投资者
+   vest： [vest] n.背心，汗衫，马甲vt.授予，使穿衣服vi.归属，穿衣服
+   investiture：[ɪn'vɛstətʃɚ] n. 授职仪式；授权仪式；装饰或覆盖物
+
+nitty-gritty/ˌnɪt.iˈɡrɪt.i/ 
+
+1. 助记：
+   Nitty虱子 gritty沙砾
+   记忆中我们很早就被告之：认识事物，首先要抓住事物的“本质”。英语中，“本质、精髓”常用单词essence来表示，今天谈的nitty-gritty也表示“本质”，不过更加口语话。
+   Nitty-gritty（本质）是个合成词，由两种极微小的事物——“虱子”和“沙砾”——组成，nitty（多虱子的）源于名词nit（虱子），gritty相应的名词形式grit指“沙砾”。语言学家猜测，也许人们觉得，微小的东西比庞然大物更易于掌握，更与“本质、核心”相吻合，所以，“虱子”+“沙子”——颇显怪诞的“微小”组合——竟成了重中之重的“核心”、“本质”和“精髓”。
+   这种猜测很容易让人想起诗人William Blake（威廉·布莱克）那首有名的诗行：To see a world in a grain of sand, And a heaven in a wild flower; Hold infinity in the palm of your hand, And eternity in an hour（从一粒沙子里可以看穿宇宙，从一朵野花里可以看到天堂；你可以把无限握在手心，把永恒存于瞬间）。
+   记着哦，下次如果有人在您面前天花乱坠晕侃时，您不妨提醒他一下：
+   Let's get to the nitty-gritty.（咱们讨论些实质的东西吧！)
+2. 词源："basic facts," 1961, knitty-gritty, American English, said to have been chiefly used by black jazz musicians, perhaps ultimately from nit and grits "finely ground corn."
+3. 定义：the basic facts of a situation  基本事实 本质
+
 
 ## 11. Perceive and Don’t Tolerate Problems
 
