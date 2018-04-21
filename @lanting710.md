@@ -7,3 +7,7 @@ Imagine you’re being attacked by a ferocious predator. With no chance of escap
 From lemurs to lizards, ants to amphibians, sharks to chickens, hundreds of animals “play dead” as a survival tactic. Nicknamed “playing possum” after its star performer, feigning death is also called thanatosis. That’s from Thanatos, the ancient Greek deity of death. But most scientists call it tonic immobility, or TI.
 
 How and why TI occurs depends on the species and situation. Spewing stench and adopting odd postures are common and often play important roles. Other animals sacrifice their neighbors: quail chicks that freeze while their kin run amok have a better chance of survival when pursued by a cat. Speaking of cats, feline mothers can pinch the napes of their kittens’ necks and induce another kind of immobility called clipnosis. This keeps their kittens quiet and easy to transport.
+
+
+
+Lonely, and sad.
