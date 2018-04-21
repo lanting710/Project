@@ -1545,5 +1545,284 @@ Early 17th century (as collapsed): from medical Latin collapsus, past participle
 
 
 
+4月18
+
+**intractable**
+
+释义:
+
+very difficult or impossible to control, manage, or solve难驾驭的；难对付的；难解决的
+
+例句:
+
+We are [facing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/facing) an intractable [problem](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/problem).我们面临着一个棘手的问题。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century: from Latin intractabilis, from in- ‘not’ + tractabilis (see tractable).
+
+2.选自etymonline
+
+c. 1500, "rough, stormy;" 1540s, "not manageable," from French intractable (15c.) or directly from Latin intractabilis "not to be handled, unmanageable," from in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + tractabilis (see [tractable](https://www.etymonline.com/word/tractable?ref=etymonline_crossreference)). Related: Intractably.
+
+**anatomy**
+
+释义:
+
+ the scientific study of the body and how its parts are arranged解剖学
+
+例句:
+
+An [understanding](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/understanding) of [human](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/human) anatomy is [important](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/important) to a [dancer](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/dancer).对于一个舞蹈演员来说，通晓一些人体解剖学知识非常重要。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Old French anatomie or late Latin anatomia, from Greek, from ana- ‘up’ + tomia ‘cutting’ (from temnein ‘to cut’).
+
+2.选自etymonline
+
+late 14c., "study or knowledge of the structure and function of the human body" (learned by dissection); c. 1400, "anatomical structure," from Old French anatomie and directly from Late Latin anatomia, from late Greek anatomia for classical anatome "dissection," literally "a cutting up," from ana "up" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + temnein "to cut" (from PIE root [*tem-](https://www.etymonline.com/word/*tem-?ref=etymonline_crossreference) "to cut").
+
+**clairvoyant**
+
+释义:
+
+a person who says they have powers to see the future or see things that otherpeople cannot see先知；能预见未来的人；有洞察力的人；神视者，千里眼
+
+例句:
+
+She went to [see](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/see) a clairvoyant who said he could [communicate](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/communicate) with her [dead](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/dead) [husband](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/husband).她去见了一位高人，那人自称能和她死去的丈夫交谈。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 17th century (in the sense ‘clear-sighted, perceptive’): from French, from clair ‘clear’ + voyant ‘seeing’ (from voir ‘to see’). The current sense dates from the mid 19th century.
+
+2.选自etymonline
+
+1834 in the psychic sense, "person supposed to possess powers of clairvoyance;" see [clairvoyant](https://www.etymonline.com/word/clairvoyant?ref=etymonline_crossreference) (adj.). Earlier it was used in the sense "clear-sighted person" (1794). Fem. form is Clairvoyante.
+
+**equilibrium**
+
+释义:
+
+a state of balance平衡；均衡
+
+例句:
+
+The [disease](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/disease) [destroys](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/destroy) much of the [inner](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/inner) [ear](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ear), [disturbing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/disturbing) the animal's equilibrium.这种疾病破坏动物内耳的大部分组织，妨碍其保持均衡。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century (in the sense ‘well-balanced state of mind’): from Latin aequilibrium, from aequi- ‘equal’ + libra ‘balance’.
+
+2.选自etymonline
+
+c. 1600, "state of mental balance," from Latin aequilibrium "an even balance; a horizontal position," from aequilibris "equal, level, horizontal, evenly balanced," from aequus "equal" (see [equal](https://www.etymonline.com/word/equal?ref=etymonline_crossreference) (adj.)) + libra "a balance, pair of scales, plummet" (see [Libra](https://www.etymonline.com/word/Libra?ref=etymonline_crossreference)). Related: Equilibrious.
+
+**whack**
+
+释义:
+
+to hit someone or something noisily猛打，猛击，重击
+
+例句:
+
+He whacked the [tree](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tree) [trunk](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/trunk) with his [stick](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stick).他用手杖猛击树干。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 18th century: imitative, or perhaps an alteration of thwack.
+
+2.选自etymonline
+
+"to strike sharply," 1719, probably of imitative origin. The noun is from 1737. The word in out of whack (1885) is perhaps the slang meaning "share, just portion" (1785), which may be from the notion of the blow that divides, or the rap of the auctioneer's hammer. To have (or take) a whack at something "make an attempt" is from 1891. Related: Whacked; whacking. Whacked out is from 1969.
 
 
+
+4月19日,20日,21日
+
+**meritocracy**
+
+释义:
+
+a social system, society, or organization in which people have power because oftheir abilities, not because of their money or social position精英领导体制；精英管理的社会
+
+例句:
+
+The [company](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/company) is a meritocracy. Good [work](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/work) is [rewarded](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/reward) with [promotions](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/promotion).这家公司施行精英管理，干得好就会被晋升。
+
+词源:
+
+选自etymonline
+
+coined 1958 by British sociologist Michael Young (1915-2002) and used in title of his book, "The Rise of the Meritocracy"; from [merit](https://www.etymonline.com/word/merit?ref=etymonline_crossreference) (n.) + [-cracy](https://www.etymonline.com/word/-cracy?ref=etymonline_crossreference). Related: Meritocratic.
+
+**prone**
+
+释义:
+
+likely to suffer from an illness or show a particular negativecharacteristic易于遭受（疾病）的；有（消极）倾向的
+
+例句:
+
+1.He was prone to [depression](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/depression) [even](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/even) as a [teenager](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/teenager).甚至在青少年时期他就容易情绪抑郁。
+
+2.She's prone to [exaggerate](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/exaggerate), that's for [sure](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sure).她喜欢夸大其词，这一点是肯定的。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Latin pronus ‘leaning forward’, from pro ‘forwards’.
+
+2.选自etymonline
+
+c. 1400, "naturally inclined to something, apt, liable," from Latin pronus "bent forward, leaning forward, bent over," figuratively "inclined to, disposed," perhaps from adverbial form of pro "before, for, instead of" (see [pro-](https://www.etymonline.com/word/pro-?ref=etymonline_crossreference)) + ending as in infernus, externus. Meaning "lying face-down" is first recorded 1570s. Literal and figurative senses both were in Latin; figurative is older in English. Related: Proneness.
+
+ **averse**
+
+释义:
+
+strongly disliking or opposed to反对的；嫌恶的；不愿意的
+
+例句:
+
+Few [people](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/people) are averse to the [idea](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/idea) of a [free](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/free) [holiday](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/holiday).几乎没有人会反对免费假期这个主意。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 16th century: from Latin aversus ‘turned away from’, past participle of avertere (see avert).
+
+2.选自etymonline
+
+mid-15c., "turned away in mind or feeling, disliking, unwilling," from Old French avers "hostile, antagonistic" and directly from Latin aversus "turned away, turned back," past participle of avertere "to turn away," from ab "off, away from" (see [ab-](https://www.etymonline.com/word/ab-?ref=etymonline_crossreference)) + vertere "to turn" (see [versus](https://www.etymonline.com/word/versus?ref=etymonline_crossreference)). Originally and usually in English in the mental sense, while averted is used in a physical sense.
+
+**foretell**
+
+释义:
+
+to say what is going to happen in the future预言
+
+例句:
+
+He was a 16th-century [prophet](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/prophet) who foretold how the [world](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/world) would end.他是16世纪的一位先知，预言过世界将如何走向末日。
+
+词源:
+
+选自etymonline
+
+"predict, prophesy," c. 1300, from [fore-](https://www.etymonline.com/word/fore-?ref=etymonline_crossreference) + [tell](https://www.etymonline.com/word/tell?ref=etymonline_crossreference) (v.). Related: Foretold; foretelling.
+
+**robust**
+
+释义:
+
+(of a person or animal) strong and healthy, or (of an object or system) strong andunlikely to break or fail（人或动物）强壮的，茁壮的；（东西或系统）坚固的，耐用的，结实的
+
+例句:
+
+1.He [looks](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/look) robust and [healthy](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/healthy) enough.他看起来非常强壮健康。
+
+2.a robust [pair](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pair) of [walking](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/walking) [boots](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/boot)一双耐穿的远足鞋
+
+3.a robust [economy](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/economy)蓬勃发展的经济
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century: from Latin robustus ‘firm and hard’, from robus, earlier form of robur ‘oak, strength’.
+
+2.选自etymonline
+
+1540s, from Middle French robuste (14c.) and directly from Latin robustus "strong and hardy," literally "as strong as oak," originally "oaken," from robur, robus "hard timber, strength," also "a special kind of oak," named for its reddish heartwood, from Latin ruber "red" (related to robigo "rust"), from PIE root [*reudh-](https://www.etymonline.com/word/*reudh-?ref=etymonline_crossreference) "red, ruddy." Related: Robustly; robustness. Robustious (1540s) was a common form in 17c. (see "Hamlet" iii.2); it fell from use by mid-18c., but was somewhat revived by mid-19c. antiquarian writers.
+
+**criteria**
+
+释义:
+
+ a standard by which you judge, decide about, or deal with something（作出评判、决定或处理的）标准，准则
+
+例句:
+
+The Health Service should not be [judged](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/judge) by [financial](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/financial) criteria [alone](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/alone).公共医疗卫生服务不应仅仅以财务状况的好坏为标准来评判。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century: from Greek kritērion ‘means of judging’, from kritēs (see critic).
+
+2.选自etymonline
+
+1620s, classical plural of [criterion](https://www.etymonline.com/word/criterion?ref=etymonline_crossreference) (q.v.). Also see [-a](https://www.etymonline.com/word/-a?ref=etymonline_crossreference) (2).
+
+**portfolio**
+
+释义:
+
+a large, thin case used for carrying drawings, documents, etc.公文包；文件夹
+
+a collection of drawings, documents, etc. that represent a person's, especially an artist's, work（尤指艺术家的）代表作选辑
+
+例句:
+
+She's [trying](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/trying) to [build](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/build) up a portfolio of [work](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/work) to show during [job](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/job) [interviews](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/interview).她正想整理出自己的代表作以便找工作面试时展示一下。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 18th century: from Italian portafogli, from portare ‘carry’ + foglio ‘leaf’ (from Latin folium).
+
+2.选自etymonline
+
+1722, porto folio; 1719 as port folio, from Italian portafoglio "a case for carrying loose papers," from porta, imperative of portare "to carry" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference)(2) "to lead, pass over") + foglio "sheet, leaf," from Latin folium (see [folio](https://www.etymonline.com/word/folio?ref=etymonline_crossreference)). Meaning "official documents of a state department" is from 1835. A minister without portfolio is one not in charge of a particular department. Meaning "collection of securities held" is from 1930; portfolio investment is from 1955.
+
+**array** 
+
+释义:
+
+a large group of things or people, especially one that is attractive or causesadmiration or has been positioned in a particular way（尤指非常有吸引力、令人赞赏并常以特定的方式排列的）一系列，一批，大量，大群
+
+例句:
+
+There was a [splendid](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/splendid) array of [food](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/food) on the [table](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/table).满桌子都是美味佳肴。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English (in the senses ‘preparedness’ and ‘place in readiness’): from Old French arei (noun), areer (verb), based on Latin ad- ‘towards’ + a Germanic base meaning ‘prepare’.
+
+2.选自etymonline
+
+mid-14c., "order or position of things, arrangement, sequence," from Anglo-French arrai, Old French aroi, arroi (12c.), from areer "to put in order" (see [array](https://www.etymonline.com/word/array?ref=etymonline_crossreference) (v.)). From late 14c. as "rank or line of soldiers; troops drawn up in battle formation," also "equipment, furnishings, gear; splendid furnishings, grandeur, magnificence." Meaning "an orderly assemblage" is from 1814
+
+**parse**
+
+释义:
+
+to separate a sentence into grammatical parts, such as subject, verb, etc.对（句子）作语法分析
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from Old French pars ‘parts’ (influenced by Latin pars ‘part’).
+
+2.选自etymonline
+
+1550s, "to state the parts of speech in a sentence," verb use of Middle English pars (n.) "part of speech" (c. 1300), from Old French pars, plural of part "a part," from Latin pars "a part, piece" (from PIE root [*pere-](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference)(2) "to grant, allot") in the school question, Quae pars orationis? "What part of speech?" Transferred (non-grammatical) use is from 1788. Pars was a common plural of part (n.) in early Middle English. Related: Parsed; parsing.
